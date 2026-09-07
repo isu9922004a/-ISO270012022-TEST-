@@ -7,7 +7,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27000 / 課程概觀",
     "difficulty": "中",
     "type": "single",
-    "stem": "組織準備建立資訊安全管理系統時，下列何者最符合 ISMS 的概念？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n組織準備建立資訊安全管理系統時，下列何者最符合 ISMS 的概念？",
     "options": [
       "以政策、程序、資源與活動系統化管理資訊安全",
       "只安裝防毒軟體即可",
@@ -16,7 +16,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "以政策、程序、資源與活動系統化管理資訊安全",
     "explanation": "教材將 ISMS 描述為整合政策、程序、指導綱要、資源與活動，並透過建立、實作、運作、監視、審查、維護與改進來管理資訊安全。",
-    "mnemonic": "ISMS＝制度化管理，不是單一工具。"
+    "mnemonic": "ISMS＝制度化管理，不是單一工具。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0002",
@@ -26,7 +31,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27000 / 課程概觀",
     "difficulty": "中",
     "type": "single",
-    "stem": "主管問『ISMS 到底是什麼』時，下列何者最符合 ISMS 的概念？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n主管問『ISMS 到底是什麼』時，下列何者最符合 ISMS 的概念？",
     "options": [
       "以政策、程序、資源與活動系統化管理資訊安全",
       "只安裝防毒軟體即可",
@@ -35,7 +40,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "以政策、程序、資源與活動系統化管理資訊安全",
     "explanation": "教材將 ISMS 描述為整合政策、程序、指導綱要、資源與活動，並透過建立、實作、運作、監視、審查、維護與改進來管理資訊安全。",
-    "mnemonic": "ISMS＝制度化管理，不是單一工具。"
+    "mnemonic": "ISMS＝制度化管理，不是單一工具。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0003",
@@ -45,7 +55,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27000 / 課程概觀",
     "difficulty": "中",
     "type": "single",
-    "stem": "新進人員第一次接觸 ISMS 時，下列何者最符合 ISMS 的概念？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n新進人員第一次接觸 ISMS 時，下列何者最符合 ISMS 的概念？",
     "options": [
       "以政策、程序、資源與活動系統化管理資訊安全",
       "只安裝防毒軟體即可",
@@ -54,7 +64,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "以政策、程序、資源與活動系統化管理資訊安全",
     "explanation": "教材將 ISMS 描述為整合政策、程序、指導綱要、資源與活動，並透過建立、實作、運作、監視、審查、維護與改進來管理資訊安全。",
-    "mnemonic": "ISMS＝制度化管理，不是單一工具。"
+    "mnemonic": "ISMS＝制度化管理，不是單一工具。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0004",
@@ -64,7 +79,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27000 / 課程概觀",
     "difficulty": "中",
     "type": "single",
-    "stem": "組織檢視資安治理架構時，下列何者最符合 ISMS 的概念？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n組織檢視資安治理架構時，下列何者最符合 ISMS 的概念？",
     "options": [
       "以政策、程序、資源與活動系統化管理資訊安全",
       "只安裝防毒軟體即可",
@@ -73,7 +88,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "以政策、程序、資源與活動系統化管理資訊安全",
     "explanation": "教材將 ISMS 描述為整合政策、程序、指導綱要、資源與活動，並透過建立、實作、運作、監視、審查、維護與改進來管理資訊安全。",
-    "mnemonic": "ISMS＝制度化管理，不是單一工具。"
+    "mnemonic": "ISMS＝制度化管理，不是單一工具。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0005",
@@ -83,7 +103,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2 / 課程要求事項",
     "difficulty": "中",
     "type": "single",
-    "stem": "進行資訊安全風險識別時，資訊安全最核心的三項特性是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n進行資訊安全風險識別時，資訊安全最核心的三項特性是？",
     "options": [
       "機密性、完整性、可用性",
       "速度、成本、品質",
@@ -92,7 +112,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "機密性、完整性、可用性",
     "explanation": "ISO/IEC 27001 的風險識別明確要求考量喪失機密性、完整性、可用性所帶來的風險。",
-    "mnemonic": "不能偷看、不能亂改、不能掛。"
+    "mnemonic": "不能偷看、不能亂改、不能掛。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0006",
@@ -102,7 +127,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2 / 課程要求事項",
     "difficulty": "中",
     "type": "single",
-    "stem": "判斷資訊是否受到適切保護時，資訊安全最核心的三項特性是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n判斷資訊是否受到適切保護時，資訊安全最核心的三項特性是？",
     "options": [
       "機密性、完整性、可用性",
       "速度、成本、品質",
@@ -111,7 +136,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "機密性、完整性、可用性",
     "explanation": "ISO/IEC 27001 的風險識別明確要求考量喪失機密性、完整性、可用性所帶來的風險。",
-    "mnemonic": "不能偷看、不能亂改、不能掛。"
+    "mnemonic": "不能偷看、不能亂改、不能掛。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0007",
@@ -121,7 +151,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2 / 課程要求事項",
     "difficulty": "中",
     "type": "single",
-    "stem": "評估資安事件影響時，資訊安全最核心的三項特性是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n評估資安事件影響時，資訊安全最核心的三項特性是？",
     "options": [
       "機密性、完整性、可用性",
       "速度、成本、品質",
@@ -130,7 +160,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "機密性、完整性、可用性",
     "explanation": "ISO/IEC 27001 的風險識別明確要求考量喪失機密性、完整性、可用性所帶來的風險。",
-    "mnemonic": "不能偷看、不能亂改、不能掛。"
+    "mnemonic": "不能偷看、不能亂改、不能掛。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0008",
@@ -140,7 +175,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2 / 課程要求事項",
     "difficulty": "中",
     "type": "single",
-    "stem": "新手記憶資訊安全基本目標時，資訊安全最核心的三項特性是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n新手記憶資訊安全基本目標時，資訊安全最核心的三項特性是？",
     "options": [
       "機密性、完整性、可用性",
       "速度、成本、品質",
@@ -149,7 +184,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "機密性、完整性、可用性",
     "explanation": "ISO/IEC 27001 的風險識別明確要求考量喪失機密性、完整性、可用性所帶來的風險。",
-    "mnemonic": "不能偷看、不能亂改、不能掛。"
+    "mnemonic": "不能偷看、不能亂改、不能掛。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0009",
@@ -159,7 +199,7 @@ window.QUESTION_BANK = [
     "source": "CIA",
     "difficulty": "中",
     "type": "single",
-    "stem": "未授權人員讀到薪資資料，主要影響哪一項資訊安全特性？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n未授權人員讀到薪資資料，主要影響哪一項資訊安全特性？",
     "options": [
       "機密性",
       "完整性",
@@ -168,7 +208,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "機密性",
     "explanation": "機密性關注的是資訊不可被未授權個人、實體或過程取得或揭露。",
-    "mnemonic": "不該看的人不能看。"
+    "mnemonic": "不該看的人不能看。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0010",
@@ -178,7 +223,7 @@ window.QUESTION_BANK = [
     "source": "CIA",
     "difficulty": "中",
     "type": "single",
-    "stem": "客戶名單被外洩，主要影響哪一項資訊安全特性？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n客戶名單被外洩，主要影響哪一項資訊安全特性？",
     "options": [
       "機密性",
       "完整性",
@@ -187,7 +232,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "機密性",
     "explanation": "機密性關注的是資訊不可被未授權個人、實體或過程取得或揭露。",
-    "mnemonic": "不該看的人不能看。"
+    "mnemonic": "不該看的人不能看。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0011",
@@ -197,7 +247,7 @@ window.QUESTION_BANK = [
     "source": "CIA",
     "difficulty": "中",
     "type": "single",
-    "stem": "機密文件被寄給不相關外部人員，主要影響哪一項資訊安全特性？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n機密文件被寄給不相關外部人員，主要影響哪一項資訊安全特性？",
     "options": [
       "機密性",
       "完整性",
@@ -206,7 +256,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "機密性",
     "explanation": "機密性關注的是資訊不可被未授權個人、實體或過程取得或揭露。",
-    "mnemonic": "不該看的人不能看。"
+    "mnemonic": "不該看的人不能看。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0012",
@@ -216,7 +271,7 @@ window.QUESTION_BANK = [
     "source": "CIA",
     "difficulty": "中",
     "type": "single",
-    "stem": "攻擊者取得只有主管能看的報表，主要影響哪一項資訊安全特性？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n攻擊者取得只有主管能看的報表，主要影響哪一項資訊安全特性？",
     "options": [
       "機密性",
       "完整性",
@@ -225,7 +280,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "機密性",
     "explanation": "機密性關注的是資訊不可被未授權個人、實體或過程取得或揭露。",
-    "mnemonic": "不該看的人不能看。"
+    "mnemonic": "不該看的人不能看。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0013",
@@ -235,7 +295,7 @@ window.QUESTION_BANK = [
     "source": "CIA",
     "difficulty": "中",
     "type": "single",
-    "stem": "交易金額被未授權修改，主要影響哪一項資訊安全特性？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n交易金額被未授權修改，主要影響哪一項資訊安全特性？",
     "options": [
       "完整性",
       "機密性",
@@ -244,7 +304,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "完整性",
     "explanation": "完整性關注資訊的正確性與完整狀態，未授權修改是典型完整性問題。",
-    "mnemonic": "不能亂改。"
+    "mnemonic": "不能亂改。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0014",
@@ -254,7 +319,7 @@ window.QUESTION_BANK = [
     "source": "CIA",
     "difficulty": "中",
     "type": "single",
-    "stem": "設定檔被偷偷竄改，主要影響哪一項資訊安全特性？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n設定檔被偷偷竄改，主要影響哪一項資訊安全特性？",
     "options": [
       "完整性",
       "機密性",
@@ -263,7 +328,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "完整性",
     "explanation": "完整性關注資訊的正確性與完整狀態，未授權修改是典型完整性問題。",
-    "mnemonic": "不能亂改。"
+    "mnemonic": "不能亂改。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0015",
@@ -273,7 +343,7 @@ window.QUESTION_BANK = [
     "source": "CIA",
     "difficulty": "中",
     "type": "single",
-    "stem": "資料庫紀錄遭人惡意變更，主要影響哪一項資訊安全特性？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n資料庫紀錄遭人惡意變更，主要影響哪一項資訊安全特性？",
     "options": [
       "完整性",
       "機密性",
@@ -282,7 +352,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "完整性",
     "explanation": "完整性關注資訊的正確性與完整狀態，未授權修改是典型完整性問題。",
-    "mnemonic": "不能亂改。"
+    "mnemonic": "不能亂改。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0016",
@@ -292,7 +367,7 @@ window.QUESTION_BANK = [
     "source": "CIA",
     "difficulty": "中",
     "type": "single",
-    "stem": "報表數字被未經授權修改，主要影響哪一項資訊安全特性？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n報表數字被未經授權修改，主要影響哪一項資訊安全特性？",
     "options": [
       "完整性",
       "機密性",
@@ -301,7 +376,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "完整性",
     "explanation": "完整性關注資訊的正確性與完整狀態，未授權修改是典型完整性問題。",
-    "mnemonic": "不能亂改。"
+    "mnemonic": "不能亂改。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0017",
@@ -311,7 +391,7 @@ window.QUESTION_BANK = [
     "source": "CIA",
     "difficulty": "中",
     "type": "single",
-    "stem": "勒索軟體導致系統無法使用，主要影響哪一項資訊安全特性？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n勒索軟體導致系統無法使用，主要影響哪一項資訊安全特性？",
     "options": [
       "可用性",
       "機密性",
@@ -320,7 +400,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "可用性",
     "explanation": "可用性要求資訊及相關資產在授權實體需要時可存取與使用。",
-    "mnemonic": "要用的時候能用。"
+    "mnemonic": "要用的時候能用。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0018",
@@ -330,7 +415,7 @@ window.QUESTION_BANK = [
     "source": "CIA",
     "difficulty": "中",
     "type": "single",
-    "stem": "核心服務當機一整天，主要影響哪一項資訊安全特性？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n核心服務當機一整天，主要影響哪一項資訊安全特性？",
     "options": [
       "可用性",
       "機密性",
@@ -339,7 +424,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "可用性",
     "explanation": "可用性要求資訊及相關資產在授權實體需要時可存取與使用。",
-    "mnemonic": "要用的時候能用。"
+    "mnemonic": "要用的時候能用。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0019",
@@ -349,7 +439,7 @@ window.QUESTION_BANK = [
     "source": "CIA",
     "difficulty": "中",
     "type": "single",
-    "stem": "合法使用者無法存取必要資料，主要影響哪一項資訊安全特性？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n合法使用者無法存取必要資料，主要影響哪一項資訊安全特性？",
     "options": [
       "可用性",
       "機密性",
@@ -358,7 +448,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "可用性",
     "explanation": "可用性要求資訊及相關資產在授權實體需要時可存取與使用。",
-    "mnemonic": "要用的時候能用。"
+    "mnemonic": "要用的時候能用。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0020",
@@ -368,7 +463,7 @@ window.QUESTION_BANK = [
     "source": "CIA",
     "difficulty": "中",
     "type": "single",
-    "stem": "設備故障造成重要服務中斷，主要影響哪一項資訊安全特性？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n設備故障造成重要服務中斷，主要影響哪一項資訊安全特性？",
     "options": [
       "可用性",
       "機密性",
@@ -377,7 +472,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "可用性",
     "explanation": "可用性要求資訊及相關資產在授權實體需要時可存取與使用。",
-    "mnemonic": "要用的時候能用。"
+    "mnemonic": "要用的時候能用。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0021",
@@ -387,7 +487,7 @@ window.QUESTION_BANK = [
     "source": "課程概觀 / 題庫方向",
     "difficulty": "中",
     "type": "single",
-    "stem": "複習管理系統持續改善觀念時，下列何者不是 PDCA 循環的一部分？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n複習管理系統持續改善觀念時，下列何者不是 PDCA 循環的一部分？",
     "options": [
       "Audit",
       "Plan",
@@ -396,7 +496,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "Audit",
     "explanation": "PDCA 是 Plan、Do、Check、Act；Audit 並不是其中一個字母階段。",
-    "mnemonic": "計畫、執行、檢查、改善。"
+    "mnemonic": "計畫、執行、檢查、改善。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0022",
@@ -406,7 +511,7 @@ window.QUESTION_BANK = [
     "source": "課程概觀 / 題庫方向",
     "difficulty": "中",
     "type": "single",
-    "stem": "考題詢問 PDCA 組成時，下列何者不是 PDCA 循環的一部分？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n考題詢問 PDCA 組成時，下列何者不是 PDCA 循環的一部分？",
     "options": [
       "Audit",
       "Plan",
@@ -415,7 +520,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "Audit",
     "explanation": "PDCA 是 Plan、Do、Check、Act；Audit 並不是其中一個字母階段。",
-    "mnemonic": "計畫、執行、檢查、改善。"
+    "mnemonic": "計畫、執行、檢查、改善。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0023",
@@ -425,7 +535,7 @@ window.QUESTION_BANK = [
     "source": "課程概觀 / 題庫方向",
     "difficulty": "中",
     "type": "single",
-    "stem": "新人學習管理系統循環時，下列何者不是 PDCA 循環的一部分？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n新人學習管理系統循環時，下列何者不是 PDCA 循環的一部分？",
     "options": [
       "Audit",
       "Plan",
@@ -434,7 +544,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "Audit",
     "explanation": "PDCA 是 Plan、Do、Check、Act；Audit 並不是其中一個字母階段。",
-    "mnemonic": "計畫、執行、檢查、改善。"
+    "mnemonic": "計畫、執行、檢查、改善。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0024",
@@ -444,7 +559,7 @@ window.QUESTION_BANK = [
     "source": "課程概觀 / 題庫方向",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核前複習管理循環時，下列何者不是 PDCA 循環的一部分？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n稽核前複習管理循環時，下列何者不是 PDCA 循環的一部分？",
     "options": [
       "Audit",
       "Plan",
@@ -453,7 +568,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "Audit",
     "explanation": "PDCA 是 Plan、Do、Check、Act；Audit 並不是其中一個字母階段。",
-    "mnemonic": "計畫、執行、檢查、改善。"
+    "mnemonic": "計畫、執行、檢查、改善。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0025",
@@ -463,7 +583,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 4.3",
     "difficulty": "中",
     "type": "single",
-    "stem": "組織準備寫範圍聲明書時，ISMS 範圍主要回答什麼問題？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n組織準備寫範圍聲明書時，ISMS 範圍主要回答什麼問題？",
     "options": [
       "ISMS 管到哪裡、邊界與適用性為何",
       "公司總資產多少",
@@ -472,7 +592,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "ISMS 管到哪裡、邊界與適用性為何",
     "explanation": "4.3 要求組織決定 ISMS 的邊界及適用性，並考量內外部議題、關注方要求以及與其他活動的介面與相依性。",
-    "mnemonic": "Scope＝邊界在哪。"
+    "mnemonic": "Scope＝邊界在哪。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0026",
@@ -482,7 +607,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 4.3",
     "difficulty": "中",
     "type": "single",
-    "stem": "驗證前確認邊界時，ISMS 範圍主要回答什麼問題？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n驗證前確認邊界時，ISMS 範圍主要回答什麼問題？",
     "options": [
       "ISMS 管到哪裡、邊界與適用性為何",
       "公司總資產多少",
@@ -491,7 +616,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "ISMS 管到哪裡、邊界與適用性為何",
     "explanation": "4.3 要求組織決定 ISMS 的邊界及適用性，並考量內外部議題、關注方要求以及與其他活動的介面與相依性。",
-    "mnemonic": "Scope＝邊界在哪。"
+    "mnemonic": "Scope＝邊界在哪。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0027",
@@ -501,7 +631,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 4.3",
     "difficulty": "中",
     "type": "single",
-    "stem": "新系統納入管理時，ISMS 範圍主要回答什麼問題？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n新系統納入管理時，ISMS 範圍主要回答什麼問題？",
     "options": [
       "ISMS 管到哪裡、邊界與適用性為何",
       "公司總資產多少",
@@ -510,7 +640,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "ISMS 管到哪裡、邊界與適用性為何",
     "explanation": "4.3 要求組織決定 ISMS 的邊界及適用性，並考量內外部議題、關注方要求以及與其他活動的介面與相依性。",
-    "mnemonic": "Scope＝邊界在哪。"
+    "mnemonic": "Scope＝邊界在哪。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0028",
@@ -520,7 +655,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 4.3",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核員查核 ISMS 邊界時，ISMS 範圍主要回答什麼問題？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n稽核員查核 ISMS 邊界時，ISMS 範圍主要回答什麼問題？",
     "options": [
       "ISMS 管到哪裡、邊界與適用性為何",
       "公司總資產多少",
@@ -529,7 +664,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "ISMS 管到哪裡、邊界與適用性為何",
     "explanation": "4.3 要求組織決定 ISMS 的邊界及適用性，並考量內外部議題、關注方要求以及與其他活動的介面與相依性。",
-    "mnemonic": "Scope＝邊界在哪。"
+    "mnemonic": "Scope＝邊界在哪。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0029",
@@ -539,7 +679,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 4.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "面對客戶、主管機關與供應商的資安要求時，組織最應做的事情是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n面對客戶、主管機關與供應商的資安要求時，組織最應做的事情是？",
     "options": [
       "識別相關關注方及其與 ISMS 有關的要求",
       "只記錄內部員工需求",
@@ -548,7 +688,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "識別相關關注方及其與 ISMS 有關的要求",
     "explanation": "4.2 要求識別與 ISMS 有關的關注方、其相關要求，以及哪些要求由 ISMS 因應。",
-    "mnemonic": "誰在乎、要什麼、ISMS怎麼回應。"
+    "mnemonic": "誰在乎、要什麼、ISMS怎麼回應。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0030",
@@ -558,7 +703,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 4.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "建立 ISMS 前盤點外部要求時，組織最應做的事情是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n建立 ISMS 前盤點外部要求時，組織最應做的事情是？",
     "options": [
       "識別相關關注方及其與 ISMS 有關的要求",
       "只記錄內部員工需求",
@@ -567,7 +712,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "識別相關關注方及其與 ISMS 有關的要求",
     "explanation": "4.2 要求識別與 ISMS 有關的關注方、其相關要求，以及哪些要求由 ISMS 因應。",
-    "mnemonic": "誰在乎、要什麼、ISMS怎麼回應。"
+    "mnemonic": "誰在乎、要什麼、ISMS怎麼回應。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0031",
@@ -577,7 +727,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 4.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "法規與契約條款發生變更時，組織最應做的事情是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n法規與契約條款發生變更時，組織最應做的事情是？",
     "options": [
       "識別相關關注方及其與 ISMS 有關的要求",
       "只記錄內部員工需求",
@@ -586,7 +736,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "識別相關關注方及其與 ISMS 有關的要求",
     "explanation": "4.2 要求識別與 ISMS 有關的關注方、其相關要求，以及哪些要求由 ISMS 因應。",
-    "mnemonic": "誰在乎、要什麼、ISMS怎麼回應。"
+    "mnemonic": "誰在乎、要什麼、ISMS怎麼回應。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0032",
@@ -596,7 +751,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 4.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "辨識會影響或受影響的相關方時，組織最應做的事情是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n辨識會影響或受影響的相關方時，組織最應做的事情是？",
     "options": [
       "識別相關關注方及其與 ISMS 有關的要求",
       "只記錄內部員工需求",
@@ -605,7 +760,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "識別相關關注方及其與 ISMS 有關的要求",
     "explanation": "4.2 要求識別與 ISMS 有關的關注方、其相關要求，以及哪些要求由 ISMS 因應。",
-    "mnemonic": "誰在乎、要什麼、ISMS怎麼回應。"
+    "mnemonic": "誰在乎、要什麼、ISMS怎麼回應。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0033",
@@ -615,7 +775,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 5.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "ISMS 導入時，哪個做法最符合最高管理階層的領導與承諾？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\nISMS 導入時，哪個做法最符合最高管理階層的領導與承諾？",
     "options": [
       "確保政策與目標、資源及管理系統整合到組織過程",
       "把所有資安責任完全丟給資訊部",
@@ -624,7 +784,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確保政策與目標、資源及管理系統整合到組織過程",
     "explanation": "5.1 要求最高管理階層確保政策與目標、資源、整合、溝通、預期成果及持續改善等事項。",
-    "mnemonic": "老闆要挺、要訂、要給、要分。"
+    "mnemonic": "老闆要挺、要訂、要給、要分。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0034",
@@ -634,7 +799,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 5.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "年度管理審查前，哪個做法最符合最高管理階層的領導與承諾？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n年度管理審查前，哪個做法最符合最高管理階層的領導與承諾？",
     "options": [
       "確保政策與目標、資源及管理系統整合到組織過程",
       "把所有資安責任完全丟給資訊部",
@@ -643,7 +808,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確保政策與目標、資源及管理系統整合到組織過程",
     "explanation": "5.1 要求最高管理階層確保政策與目標、資源、整合、溝通、預期成果及持續改善等事項。",
-    "mnemonic": "老闆要挺、要訂、要給、要分。"
+    "mnemonic": "老闆要挺、要訂、要給、要分。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0035",
@@ -653,7 +823,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 5.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "資訊安全政策更新時，哪個做法最符合最高管理階層的領導與承諾？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n資訊安全政策更新時，哪個做法最符合最高管理階層的領導與承諾？",
     "options": [
       "確保政策與目標、資源及管理系統整合到組織過程",
       "把所有資安責任完全丟給資訊部",
@@ -662,7 +832,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確保政策與目標、資源及管理系統整合到組織過程",
     "explanation": "5.1 要求最高管理階層確保政策與目標、資源、整合、溝通、預期成果及持續改善等事項。",
-    "mnemonic": "老闆要挺、要訂、要給、要分。"
+    "mnemonic": "老闆要挺、要訂、要給、要分。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0036",
@@ -672,7 +847,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 5.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "組織需要資安資源時，哪個做法最符合最高管理階層的領導與承諾？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n組織需要資安資源時，哪個做法最符合最高管理階層的領導與承諾？",
     "options": [
       "確保政策與目標、資源及管理系統整合到組織過程",
       "把所有資安責任完全丟給資訊部",
@@ -681,7 +856,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確保政策與目標、資源及管理系統整合到組織過程",
     "explanation": "5.1 要求最高管理階層確保政策與目標、資源、整合、溝通、預期成果及持續改善等事項。",
-    "mnemonic": "老闆要挺、要訂、要給、要分。"
+    "mnemonic": "老闆要挺、要訂、要給、要分。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0037",
@@ -691,7 +871,7 @@ window.QUESTION_BANK = [
     "source": "資訊安全目標管理程序 / ISO 27001 6.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "訂年度資安目標時，下列哪個資訊安全目標最符合 SMART？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n訂年度資安目標時，下列哪個資訊安全目標最符合 SMART？",
     "options": [
       "今年 12 月底前將資安教育訓練完成率提升至 98%",
       "未來加強資訊安全",
@@ -700,7 +880,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "今年 12 月底前將資安教育訓練完成率提升至 98%",
     "explanation": "SMART 強調 Specific、Measurable、Achievable、Relevant、Time-bound；答案同時具體、可量測且有期限。",
-    "mnemonic": "明、量、達、關、時。"
+    "mnemonic": "明、量、達、關、時。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0038",
@@ -710,7 +895,7 @@ window.QUESTION_BANK = [
     "source": "資訊安全目標管理程序 / ISO 27001 6.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "管理階層要求目標可追蹤時，下列哪個資訊安全目標最符合 SMART？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n管理階層要求目標可追蹤時，下列哪個資訊安全目標最符合 SMART？",
     "options": [
       "今年 12 月底前將資安教育訓練完成率提升至 98%",
       "未來加強資訊安全",
@@ -719,7 +904,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "今年 12 月底前將資安教育訓練完成率提升至 98%",
     "explanation": "SMART 強調 Specific、Measurable、Achievable、Relevant、Time-bound；答案同時具體、可量測且有期限。",
-    "mnemonic": "明、量、達、關、時。"
+    "mnemonic": "明、量、達、關、時。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0039",
@@ -729,7 +919,7 @@ window.QUESTION_BANK = [
     "source": "資訊安全目標管理程序 / ISO 27001 6.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核員檢查目標是否可衡量時，下列哪個資訊安全目標最符合 SMART？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n稽核員檢查目標是否可衡量時，下列哪個資訊安全目標最符合 SMART？",
     "options": [
       "今年 12 月底前將資安教育訓練完成率提升至 98%",
       "未來加強資訊安全",
@@ -738,7 +928,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "今年 12 月底前將資安教育訓練完成率提升至 98%",
     "explanation": "SMART 強調 Specific、Measurable、Achievable、Relevant、Time-bound；答案同時具體、可量測且有期限。",
-    "mnemonic": "明、量、達、關、時。"
+    "mnemonic": "明、量、達、關、時。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0040",
@@ -748,7 +943,7 @@ window.QUESTION_BANK = [
     "source": "資訊安全目標管理程序 / ISO 27001 6.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "部門設定改善目標時，下列哪個資訊安全目標最符合 SMART？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n部門設定改善目標時，下列哪個資訊安全目標最符合 SMART？",
     "options": [
       "今年 12 月底前將資安教育訓練完成率提升至 98%",
       "未來加強資訊安全",
@@ -757,7 +952,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "今年 12 月底前將資安教育訓練完成率提升至 98%",
     "explanation": "SMART 強調 Specific、Measurable、Achievable、Relevant、Time-bound；答案同時具體、可量測且有期限。",
-    "mnemonic": "明、量、達、關、時。"
+    "mnemonic": "明、量、達、關、時。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0041",
@@ -767,7 +967,7 @@ window.QUESTION_BANK = [
     "source": "資訊安全目標管理程序",
     "difficulty": "中",
     "type": "single",
-    "stem": "建立資安監測指標時，『高風險漏洞逾期未改善件數』較接近哪一類指標？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n建立資安監測指標時，『高風險漏洞逾期未改善件數』較接近哪一類指標？",
     "options": [
       "KRI",
       "KPI",
@@ -776,7 +976,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "KRI",
     "explanation": "KRI 是 Key Risk Indicator，用來觀察風險狀態或風險上升的訊號；KPI 偏向績效達成。",
-    "mnemonic": "KPI看成績，KRI看危險。"
+    "mnemonic": "KPI看成績，KRI看危險。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0042",
@@ -786,7 +991,7 @@ window.QUESTION_BANK = [
     "source": "資訊安全目標管理程序",
     "difficulty": "中",
     "type": "single",
-    "stem": "管理階層想觀察風險惡化程度時，『高風險漏洞逾期未改善件數』較接近哪一類指標？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n管理階層想觀察風險惡化程度時，『高風險漏洞逾期未改善件數』較接近哪一類指標？",
     "options": [
       "KRI",
       "KPI",
@@ -795,7 +1000,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "KRI",
     "explanation": "KRI 是 Key Risk Indicator，用來觀察風險狀態或風險上升的訊號；KPI 偏向績效達成。",
-    "mnemonic": "KPI看成績，KRI看危險。"
+    "mnemonic": "KPI看成績，KRI看危險。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0043",
@@ -805,7 +1015,7 @@ window.QUESTION_BANK = [
     "source": "資訊安全目標管理程序",
     "difficulty": "中",
     "type": "single",
-    "stem": "設計風險預警儀表板時，『高風險漏洞逾期未改善件數』較接近哪一類指標？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n設計風險預警儀表板時，『高風險漏洞逾期未改善件數』較接近哪一類指標？",
     "options": [
       "KRI",
       "KPI",
@@ -814,7 +1024,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "KRI",
     "explanation": "KRI 是 Key Risk Indicator，用來觀察風險狀態或風險上升的訊號；KPI 偏向績效達成。",
-    "mnemonic": "KPI看成績，KRI看危險。"
+    "mnemonic": "KPI看成績，KRI看危險。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0044",
@@ -824,7 +1039,7 @@ window.QUESTION_BANK = [
     "source": "資訊安全目標管理程序",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核員檢視風險指標時，『高風險漏洞逾期未改善件數』較接近哪一類指標？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n稽核員檢視風險指標時，『高風險漏洞逾期未改善件數』較接近哪一類指標？",
     "options": [
       "KRI",
       "KPI",
@@ -833,7 +1048,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "KRI",
     "explanation": "KRI 是 Key Risk Indicator，用來觀察風險狀態或風險上升的訊號；KPI 偏向績效達成。",
-    "mnemonic": "KPI看成績，KRI看危險。"
+    "mnemonic": "KPI看成績，KRI看危險。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0045",
@@ -843,7 +1063,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "公司開始評估勒索軟體風險時，哪個動作最符合『風險識別』？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n公司開始評估勒索軟體風險時，哪個動作最符合『風險識別』？",
     "options": [
       "找出哪些情境可能導致機密性、完整性或可用性受影響",
       "立刻購買新的安全設備",
@@ -852,7 +1072,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "找出哪些情境可能導致機密性、完整性或可用性受影響",
     "explanation": "6.1.2 的識別步驟是識別 ISMS 範圍內與 CIA 喪失相關的資訊安全風險，並識別風險當責者。",
-    "mnemonic": "先找什麼會出事。"
+    "mnemonic": "先找什麼會出事。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0046",
@@ -862,7 +1087,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "雲端服務納入 ISMS 後，哪個動作最符合『風險識別』？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n雲端服務納入 ISMS 後，哪個動作最符合『風險識別』？",
     "options": [
       "找出哪些情境可能導致機密性、完整性或可用性受影響",
       "立刻購買新的安全設備",
@@ -871,7 +1096,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "找出哪些情境可能導致機密性、完整性或可用性受影響",
     "explanation": "6.1.2 的識別步驟是識別 ISMS 範圍內與 CIA 喪失相關的資訊安全風險，並識別風險當責者。",
-    "mnemonic": "先找什麼會出事。"
+    "mnemonic": "先找什麼會出事。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0047",
@@ -881,7 +1111,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "新系統上線前，哪個動作最符合『風險識別』？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n新系統上線前，哪個動作最符合『風險識別』？",
     "options": [
       "找出哪些情境可能導致機密性、完整性或可用性受影響",
       "立刻購買新的安全設備",
@@ -890,7 +1120,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "找出哪些情境可能導致機密性、完整性或可用性受影響",
     "explanation": "6.1.2 的識別步驟是識別 ISMS 範圍內與 CIA 喪失相關的資訊安全風險，並識別風險當責者。",
-    "mnemonic": "先找什麼會出事。"
+    "mnemonic": "先找什麼會出事。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0048",
@@ -900,7 +1135,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "供應鏈風險評鑑時，哪個動作最符合『風險識別』？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n供應鏈風險評鑑時，哪個動作最符合『風險識別』？",
     "options": [
       "找出哪些情境可能導致機密性、完整性或可用性受影響",
       "立刻購買新的安全設備",
@@ -909,7 +1144,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "找出哪些情境可能導致機密性、完整性或可用性受影響",
     "explanation": "6.1.2 的識別步驟是識別 ISMS 範圍內與 CIA 喪失相關的資訊安全風險，並識別風險當責者。",
-    "mnemonic": "先找什麼會出事。"
+    "mnemonic": "先找什麼會出事。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0049",
@@ -919,7 +1159,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "已經識別帳號遭竊風險後，進行『風險分析』最適當的作法是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n已經識別帳號遭竊風險後，進行『風險分析』最適當的作法是？",
     "options": [
       "評估可能後果、發生可能性並判定風險等級",
       "直接購買控制措施",
@@ -928,7 +1168,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "評估可能後果、發生可能性並判定風險等級",
     "explanation": "6.1.2(d) 要求分析潛在後果、實際可能性並判定風險等級。",
-    "mnemonic": "分析＝算後果、可能性、等級。"
+    "mnemonic": "分析＝算後果、可能性、等級。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0050",
@@ -938,7 +1183,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "已經識別勒索軟體風險後，進行『風險分析』最適當的作法是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n已經識別勒索軟體風險後，進行『風險分析』最適當的作法是？",
     "options": [
       "評估可能後果、發生可能性並判定風險等級",
       "直接購買控制措施",
@@ -947,7 +1192,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "評估可能後果、發生可能性並判定風險等級",
     "explanation": "6.1.2(d) 要求分析潛在後果、實際可能性並判定風險等級。",
-    "mnemonic": "分析＝算後果、可能性、等級。"
+    "mnemonic": "分析＝算後果、可能性、等級。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0051",
@@ -957,7 +1207,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "已經識別資料外洩風險後，進行『風險分析』最適當的作法是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n已經識別資料外洩風險後，進行『風險分析』最適當的作法是？",
     "options": [
       "評估可能後果、發生可能性並判定風險等級",
       "直接購買控制措施",
@@ -966,7 +1216,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "評估可能後果、發生可能性並判定風險等級",
     "explanation": "6.1.2(d) 要求分析潛在後果、實際可能性並判定風險等級。",
-    "mnemonic": "分析＝算後果、可能性、等級。"
+    "mnemonic": "分析＝算後果、可能性、等級。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0052",
@@ -976,7 +1231,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "已經識別供應商中斷風險後，進行『風險分析』最適當的作法是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n已經識別供應商中斷風險後，進行『風險分析』最適當的作法是？",
     "options": [
       "評估可能後果、發生可能性並判定風險等級",
       "直接購買控制措施",
@@ -985,7 +1240,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "評估可能後果、發生可能性並判定風險等級",
     "explanation": "6.1.2(d) 要求分析潛在後果、實際可能性並判定風險等級。",
-    "mnemonic": "分析＝算後果、可能性、等級。"
+    "mnemonic": "分析＝算後果、可能性、等級。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0053",
@@ -995,7 +1255,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "公司已有風險等級結果時，完成風險分析後，『風險評估』的重點是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n公司已有風險等級結果時，完成風險分析後，『風險評估』的重點是？",
     "options": [
       "與風險準則比較，並決定處理優先序",
       "直接刪除低風險紀錄",
@@ -1004,7 +1264,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "與風險準則比較，並決定處理優先序",
     "explanation": "6.1.2(e) 要求把分析結果與風險準則比較，並訂定風險處理優先序。",
-    "mnemonic": "找→算→比→排。"
+    "mnemonic": "找→算→比→排。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0054",
@@ -1014,7 +1279,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "風險清單已完成分析時，完成風險分析後，『風險評估』的重點是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n風險清單已完成分析時，完成風險分析後，『風險評估』的重點是？",
     "options": [
       "與風險準則比較，並決定處理優先序",
       "直接刪除低風險紀錄",
@@ -1023,7 +1288,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "與風險準則比較，並決定處理優先序",
     "explanation": "6.1.2(e) 要求把分析結果與風險準則比較，並訂定風險處理優先序。",
-    "mnemonic": "找→算→比→排。"
+    "mnemonic": "找→算→比→排。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0055",
@@ -1033,7 +1303,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "各風險已估計可能性與後果時，完成風險分析後，『風險評估』的重點是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n各風險已估計可能性與後果時，完成風險分析後，『風險評估』的重點是？",
     "options": [
       "與風險準則比較，並決定處理優先序",
       "直接刪除低風險紀錄",
@@ -1042,7 +1312,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "與風險準則比較，並決定處理優先序",
     "explanation": "6.1.2(e) 要求把分析結果與風險準則比較，並訂定風險處理優先序。",
-    "mnemonic": "找→算→比→排。"
+    "mnemonic": "找→算→比→排。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0056",
@@ -1052,7 +1327,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "風險會議準備決定優先序時，完成風險分析後，『風險評估』的重點是？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n風險會議準備決定優先序時，完成風險分析後，『風險評估』的重點是？",
     "options": [
       "與風險準則比較，並決定處理優先序",
       "直接刪除低風險紀錄",
@@ -1061,7 +1336,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "與風險準則比較，並決定處理優先序",
     "explanation": "6.1.2(e) 要求把分析結果與風險準則比較，並訂定風險處理優先序。",
-    "mnemonic": "找→算→比→排。"
+    "mnemonic": "找→算→比→排。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0057",
@@ -1071,7 +1351,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.3",
     "difficulty": "中",
     "type": "single",
-    "stem": "風險評鑑完成後，哪個敘述最正確？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n風險評鑑完成後，哪個敘述最正確？",
     "options": [
       "依風險評鑑結果選擇處理選項與必要控制，並在 SoA 說明適用性",
       "Annex A 所有控制一律全部實作且不得排除",
@@ -1080,7 +1360,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依風險評鑑結果選擇處理選項與必要控制，並在 SoA 說明適用性",
     "explanation": "6.1.3 要求依風險評鑑結果選擇處理選項、決定必要控制並與 Annex A 比較；SoA 用來說明必要控制、實作狀態與排除理由。",
-    "mnemonic": "SoA＝用什麼、不用什麼、為什麼。"
+    "mnemonic": "SoA＝用什麼、不用什麼、為什麼。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0058",
@@ -1090,7 +1375,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.3",
     "difficulty": "中",
     "type": "single",
-    "stem": "組織準備建立 SoA 時，哪個敘述最正確？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n組織準備建立 SoA 時，哪個敘述最正確？",
     "options": [
       "依風險評鑑結果選擇處理選項與必要控制，並在 SoA 說明適用性",
       "Annex A 所有控制一律全部實作且不得排除",
@@ -1099,7 +1384,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依風險評鑑結果選擇處理選項與必要控制，並在 SoA 說明適用性",
     "explanation": "6.1.3 要求依風險評鑑結果選擇處理選項、決定必要控制並與 Annex A 比較；SoA 用來說明必要控制、實作狀態與排除理由。",
-    "mnemonic": "SoA＝用什麼、不用什麼、為什麼。"
+    "mnemonic": "SoA＝用什麼、不用什麼、為什麼。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0059",
@@ -1109,7 +1399,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.3",
     "difficulty": "中",
     "type": "single",
-    "stem": "選擇控制措施時，哪個敘述最正確？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n選擇控制措施時，哪個敘述最正確？",
     "options": [
       "依風險評鑑結果選擇處理選項與必要控制，並在 SoA 說明適用性",
       "Annex A 所有控制一律全部實作且不得排除",
@@ -1118,7 +1408,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依風險評鑑結果選擇處理選項與必要控制，並在 SoA 說明適用性",
     "explanation": "6.1.3 要求依風險評鑑結果選擇處理選項、決定必要控制並與 Annex A 比較；SoA 用來說明必要控制、實作狀態與排除理由。",
-    "mnemonic": "SoA＝用什麼、不用什麼、為什麼。"
+    "mnemonic": "SoA＝用什麼、不用什麼、為什麼。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0060",
@@ -1128,7 +1423,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.3",
     "difficulty": "中",
     "type": "single",
-    "stem": "決定是否排除某 Annex A 控制時，哪個敘述最正確？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n決定是否排除某 Annex A 控制時，哪個敘述最正確？",
     "options": [
       "依風險評鑑結果選擇處理選項與必要控制，並在 SoA 說明適用性",
       "Annex A 所有控制一律全部實作且不得排除",
@@ -1137,7 +1432,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依風險評鑑結果選擇處理選項與必要控制，並在 SoA 說明適用性",
     "explanation": "6.1.3 要求依風險評鑑結果選擇處理選項、決定必要控制並與 Annex A 比較；SoA 用來說明必要控制、實作狀態與排除理由。",
-    "mnemonic": "SoA＝用什麼、不用什麼、為什麼。"
+    "mnemonic": "SoA＝用什麼、不用什麼、為什麼。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0061",
@@ -1147,7 +1447,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 課程稽核概念",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核員準備判斷是否符合時，『稽核準則』最接近下列何者？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核員準備判斷是否符合時，『稽核準則』最接近下列何者？",
     "options": [
       "作為比較依據的要求、政策、程序、法規或契約",
       "稽核員個人喜好",
@@ -1156,7 +1456,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "作為比較依據的要求、政策、程序、法規或契約",
     "explanation": "稽核發現需由客觀證據與適用稽核準則比較而形成，因此準則必須是可辨識的要求來源。",
-    "mnemonic": "準則＝拿什麼標準來比。"
+    "mnemonic": "準則＝拿什麼標準來比。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0062",
@@ -1166,7 +1471,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 課程稽核概念",
     "difficulty": "中",
     "type": "single",
-    "stem": "受稽核單位詢問『你拿什麼來比』時，『稽核準則』最接近下列何者？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n受稽核單位詢問『你拿什麼來比』時，『稽核準則』最接近下列何者？",
     "options": [
       "作為比較依據的要求、政策、程序、法規或契約",
       "稽核員個人喜好",
@@ -1175,7 +1480,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "作為比較依據的要求、政策、程序、法規或契約",
     "explanation": "稽核發現需由客觀證據與適用稽核準則比較而形成，因此準則必須是可辨識的要求來源。",
-    "mnemonic": "準則＝拿什麼標準來比。"
+    "mnemonic": "準則＝拿什麼標準來比。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0063",
@@ -1185,7 +1495,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 課程稽核概念",
     "difficulty": "中",
     "type": "single",
-    "stem": "查核公司程序遵循性時，『稽核準則』最接近下列何者？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n查核公司程序遵循性時，『稽核準則』最接近下列何者？",
     "options": [
       "作為比較依據的要求、政策、程序、法規或契約",
       "稽核員個人喜好",
@@ -1194,7 +1504,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "作為比較依據的要求、政策、程序、法規或契約",
     "explanation": "稽核發現需由客觀證據與適用稽核準則比較而形成，因此準則必須是可辨識的要求來源。",
-    "mnemonic": "準則＝拿什麼標準來比。"
+    "mnemonic": "準則＝拿什麼標準來比。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0064",
@@ -1204,7 +1519,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 課程稽核概念",
     "difficulty": "中",
     "type": "single",
-    "stem": "形成稽核發現之前，『稽核準則』最接近下列何者？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n形成稽核發現之前，『稽核準則』最接近下列何者？",
     "options": [
       "作為比較依據的要求、政策、程序、法規或契約",
       "稽核員個人喜好",
@@ -1213,7 +1528,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "作為比較依據的要求、政策、程序、法規或契約",
     "explanation": "稽核發現需由客觀證據與適用稽核準則比較而形成，因此準則必須是可辨識的要求來源。",
-    "mnemonic": "準則＝拿什麼標準來比。"
+    "mnemonic": "準則＝拿什麼標準來比。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0065",
@@ -1223,7 +1543,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 稽核課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "主管說每季都有做權限審查時，下列哪一項最適合作為客觀證據？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n主管說每季都有做權限審查時，下列哪一項最適合作為客觀證據？",
     "options": [
       "可查證的紀錄、日誌、文件或觀察結果",
       "主管保證『相信我』",
@@ -1232,7 +1552,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "可查證的紀錄、日誌、文件或觀察結果",
     "explanation": "客觀證據應可被驗證；訪談可作為資訊來源，但重要主張仍應透過適當證據交叉確認。",
-    "mnemonic": "口說可以聽，最後還是要驗。"
+    "mnemonic": "口說可以聽，最後還是要驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0066",
@@ -1242,7 +1567,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 稽核課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "人員說每天都有備份時，下列哪一項最適合作為客觀證據？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n人員說每天都有備份時，下列哪一項最適合作為客觀證據？",
     "options": [
       "可查證的紀錄、日誌、文件或觀察結果",
       "主管保證『相信我』",
@@ -1251,7 +1576,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "可查證的紀錄、日誌、文件或觀察結果",
     "explanation": "客觀證據應可被驗證；訪談可作為資訊來源，但重要主張仍應透過適當證據交叉確認。",
-    "mnemonic": "口說可以聽，最後還是要驗。"
+    "mnemonic": "口說可以聽，最後還是要驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0067",
@@ -1261,7 +1591,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 稽核課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "部門聲稱所有人都受過訓練時，下列哪一項最適合作為客觀證據？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n部門聲稱所有人都受過訓練時，下列哪一項最適合作為客觀證據？",
     "options": [
       "可查證的紀錄、日誌、文件或觀察結果",
       "主管保證『相信我』",
@@ -1270,7 +1600,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "可查證的紀錄、日誌、文件或觀察結果",
     "explanation": "客觀證據應可被驗證；訪談可作為資訊來源，但重要主張仍應透過適當證據交叉確認。",
-    "mnemonic": "口說可以聽，最後還是要驗。"
+    "mnemonic": "口說可以聽，最後還是要驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0068",
@@ -1280,7 +1615,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 稽核課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "承辦人說變更都有核准時，下列哪一項最適合作為客觀證據？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n承辦人說變更都有核准時，下列哪一項最適合作為客觀證據？",
     "options": [
       "可查證的紀錄、日誌、文件或觀察結果",
       "主管保證『相信我』",
@@ -1289,7 +1624,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "可查證的紀錄、日誌、文件或觀察結果",
     "explanation": "客觀證據應可被驗證；訪談可作為資訊來源，但重要主張仍應透過適當證據交叉確認。",
-    "mnemonic": "口說可以聽，最後還是要驗。"
+    "mnemonic": "口說可以聽，最後還是要驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0069",
@@ -1299,7 +1639,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "程序要求每季審查但紀錄顯示 9 個月未審時，哪個描述最符合『稽核發現』？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n程序要求每季審查但紀錄顯示 9 個月未審時，哪個描述最符合『稽核發現』？",
     "options": [
       "將客觀證據與稽核準則比較後得到的結果",
       "稽核員的個人猜測",
@@ -1308,7 +1648,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "將客觀證據與稽核準則比較後得到的結果",
     "explanation": "稽核發現是把所蒐集的證據與稽核準則比較後產生的結果。",
-    "mnemonic": "準則＋證據＝發現。"
+    "mnemonic": "準則＋證據＝發現。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0070",
@@ -1318,7 +1663,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核剛開始尚未看任何資料時，哪個描述最符合『稽核發現』？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核剛開始尚未看任何資料時，哪個描述最符合『稽核發現』？",
     "options": [
       "將客觀證據與稽核準則比較後得到的結果",
       "稽核員的個人猜測",
@@ -1327,7 +1672,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "將客觀證據與稽核準則比較後得到的結果",
     "explanation": "稽核發現是把所蒐集的證據與稽核準則比較後產生的結果。",
-    "mnemonic": "準則＋證據＝發現。"
+    "mnemonic": "準則＋證據＝發現。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0071",
@@ -1337,7 +1687,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核員只是閱讀政策封面時，哪個描述最符合『稽核發現』？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核員只是閱讀政策封面時，哪個描述最符合『稽核發現』？",
     "options": [
       "將客觀證據與稽核準則比較後得到的結果",
       "稽核員的個人猜測",
@@ -1346,7 +1696,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "將客觀證據與稽核準則比較後得到的結果",
     "explanation": "稽核發現是把所蒐集的證據與稽核準則比較後產生的結果。",
-    "mnemonic": "準則＋證據＝發現。"
+    "mnemonic": "準則＋證據＝發現。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0072",
@@ -1356,7 +1711,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "尚未決定任何準則時，哪個描述最符合『稽核發現』？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n尚未決定任何準則時，哪個描述最符合『稽核發現』？",
     "options": [
       "將客觀證據與稽核準則比較後得到的結果",
       "稽核員的個人猜測",
@@ -1365,7 +1720,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "將客觀證據與稽核準則比較後得到的結果",
     "explanation": "稽核發現是把所蒐集的證據與稽核準則比較後產生的結果。",
-    "mnemonic": "準則＋證據＝發現。"
+    "mnemonic": "準則＋證據＝發現。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0073",
@@ -1375,7 +1735,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 稽核報告課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核組完成所有查核後，哪個最符合『稽核結論』？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核組完成所有查核後，哪個最符合『稽核結論』？",
     "options": [
       "考量稽核目標與所有發現後形成的整體判斷",
       "單一不符合事項",
@@ -1384,7 +1744,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "考量稽核目標與所有發現後形成的整體判斷",
     "explanation": "稽核結論建立在稽核目標與稽核發現的整體評估上，不等於任何單一發現。",
-    "mnemonic": "發現看單點，結論看全局。"
+    "mnemonic": "發現看單點，結論看全局。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0074",
@@ -1394,7 +1759,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 稽核報告課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "主導稽核員準備結束會議前，哪個最符合『稽核結論』？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n主導稽核員準備結束會議前，哪個最符合『稽核結論』？",
     "options": [
       "考量稽核目標與所有發現後形成的整體判斷",
       "單一不符合事項",
@@ -1403,7 +1768,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "考量稽核目標與所有發現後形成的整體判斷",
     "explanation": "稽核結論建立在稽核目標與稽核發現的整體評估上，不等於任何單一發現。",
-    "mnemonic": "發現看單點，結論看全局。"
+    "mnemonic": "發現看單點，結論看全局。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0075",
@@ -1413,7 +1783,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 稽核報告課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核報告準備定稿時，哪個最符合『稽核結論』？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核報告準備定稿時，哪個最符合『稽核結論』？",
     "options": [
       "考量稽核目標與所有發現後形成的整體判斷",
       "單一不符合事項",
@@ -1422,7 +1792,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "考量稽核目標與所有發現後形成的整體判斷",
     "explanation": "稽核結論建立在稽核目標與稽核發現的整體評估上，不等於任何單一發現。",
-    "mnemonic": "發現看單點，結論看全局。"
+    "mnemonic": "發現看單點，結論看全局。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0076",
@@ -1432,7 +1807,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 稽核報告課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "整合各項稽核發現時，哪個最符合『稽核結論』？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n整合各項稽核發現時，哪個最符合『稽核結論』？",
     "options": [
       "考量稽核目標與所有發現後形成的整體判斷",
       "單一不符合事項",
@@ -1441,7 +1816,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "考量稽核目標與所有發現後形成的整體判斷",
     "explanation": "稽核結論建立在稽核目標與稽核發現的整體評估上，不等於任何單一發現。",
-    "mnemonic": "發現看單點，結論看全局。"
+    "mnemonic": "發現看單點，結論看全局。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0077",
@@ -1451,7 +1831,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "流程負責人被安排為唯一稽核員稽核自己負責的流程，最大的稽核疑慮是什麼？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n流程負責人被安排為唯一稽核員稽核自己負責的流程，最大的稽核疑慮是什麼？",
     "options": [
       "客觀性與公平性可能受影響",
       "CIA 一定失效",
@@ -1460,7 +1840,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "客觀性與公平性可能受影響",
     "explanation": "9.2.2 要求選擇稽核員及施行稽核時確保稽核過程的客觀性與公平性。",
-    "mnemonic": "自己做的，避免自己審。"
+    "mnemonic": "自己做的，避免自己審。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0078",
@@ -1470,7 +1855,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核員查核另一部門紀錄，最大的稽核疑慮是什麼？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核員查核另一部門紀錄，最大的稽核疑慮是什麼？",
     "options": [
       "客觀性與公平性可能受影響",
       "CIA 一定失效",
@@ -1479,7 +1864,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "客觀性與公平性可能受影響",
     "explanation": "9.2.2 要求選擇稽核員及施行稽核時確保稽核過程的客觀性與公平性。",
-    "mnemonic": "自己做的，避免自己審。"
+    "mnemonic": "自己做的，避免自己審。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0079",
@@ -1489,7 +1879,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核員要求查看證據，最大的稽核疑慮是什麼？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核員要求查看證據，最大的稽核疑慮是什麼？",
     "options": [
       "客觀性與公平性可能受影響",
       "CIA 一定失效",
@@ -1498,7 +1888,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "客觀性與公平性可能受影響",
     "explanation": "9.2.2 要求選擇稽核員及施行稽核時確保稽核過程的客觀性與公平性。",
-    "mnemonic": "自己做的，避免自己審。"
+    "mnemonic": "自己做的，避免自己審。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0080",
@@ -1508,7 +1903,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核員使用核准的稽核準則，最大的稽核疑慮是什麼？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核員使用核准的稽核準則，最大的稽核疑慮是什麼？",
     "options": [
       "客觀性與公平性可能受影響",
       "CIA 一定失效",
@@ -1517,7 +1912,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "客觀性與公平性可能受影響",
     "explanation": "9.2.2 要求選擇稽核員及施行稽核時確保稽核過程的客觀性與公平性。",
-    "mnemonic": "自己做的，避免自己審。"
+    "mnemonic": "自己做的，避免自己審。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0081",
@@ -1527,7 +1927,7 @@ window.QUESTION_BANK = [
     "source": "稽核員資格與能力清冊 / ISO 19011",
     "difficulty": "中",
     "type": "single",
-    "stem": "持有稽核證書但完全不熟雲端領域的人要單獨稽核複雜雲端架構，最適當的判斷是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n持有稽核證書但完全不熟雲端領域的人要單獨稽核複雜雲端架構，最適當的判斷是？",
     "options": [
       "應評估知識、技能、稽核經驗及所需領域能力",
       "有一張證書就一定足夠",
@@ -1536,7 +1936,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "應評估知識、技能、稽核經驗及所需領域能力",
     "explanation": "教材以能力矩陣管理 ISO 條款、Annex A、稽核方法與不同專業領域能力，也保留訓練與資格紀錄。",
-    "mnemonic": "證照是門票，能力才是能不能上場。"
+    "mnemonic": "證照是門票，能力才是能不能上場。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0082",
@@ -1546,7 +1951,7 @@ window.QUESTION_BANK = [
     "source": "稽核員資格與能力清冊 / ISO 19011",
     "difficulty": "中",
     "type": "single",
-    "stem": "新人第一次被排入高度專業稽核，最適當的判斷是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n新人第一次被排入高度專業稽核，最適當的判斷是？",
     "options": [
       "應評估知識、技能、稽核經驗及所需領域能力",
       "有一張證書就一定足夠",
@@ -1555,7 +1960,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "應評估知識、技能、稽核經驗及所需領域能力",
     "explanation": "教材以能力矩陣管理 ISO 條款、Annex A、稽核方法與不同專業領域能力，也保留訓練與資格紀錄。",
-    "mnemonic": "證照是門票，能力才是能不能上場。"
+    "mnemonic": "證照是門票，能力才是能不能上場。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0083",
@@ -1565,7 +1975,7 @@ window.QUESTION_BANK = [
     "source": "稽核員資格與能力清冊 / ISO 19011",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核團隊要查核 AI 與資安整合控制，最適當的判斷是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核團隊要查核 AI 與資安整合控制，最適當的判斷是？",
     "options": [
       "應評估知識、技能、稽核經驗及所需領域能力",
       "有一張證書就一定足夠",
@@ -1574,7 +1984,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "應評估知識、技能、稽核經驗及所需領域能力",
     "explanation": "教材以能力矩陣管理 ISO 條款、Annex A、稽核方法與不同專業領域能力，也保留訓練與資格紀錄。",
-    "mnemonic": "證照是門票，能力才是能不能上場。"
+    "mnemonic": "證照是門票，能力才是能不能上場。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0084",
@@ -1584,7 +1999,7 @@ window.QUESTION_BANK = [
     "source": "稽核員資格與能力清冊 / ISO 19011",
     "difficulty": "中",
     "type": "single",
-    "stem": "主導稽核員安排技術專家加入團隊，最適當的判斷是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n主導稽核員安排技術專家加入團隊，最適當的判斷是？",
     "options": [
       "應評估知識、技能、稽核經驗及所需領域能力",
       "有一張證書就一定足夠",
@@ -1593,7 +2008,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "應評估知識、技能、稽核經驗及所需領域能力",
     "explanation": "教材以能力矩陣管理 ISO 條款、Annex A、稽核方法與不同專業領域能力，也保留訓練與資格紀錄。",
-    "mnemonic": "證照是門票，能力才是能不能上場。"
+    "mnemonic": "證照是門票，能力才是能不能上場。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0085",
@@ -1603,7 +2023,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "取得受稽核方機密資料後，稽核員最適當的做法是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n取得受稽核方機密資料後，稽核員最適當的做法是？",
     "options": [
       "依權限與需要妥善保護稽核取得的資訊",
       "把資料傳給朋友討論",
@@ -1612,7 +2032,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依權限與需要妥善保護稽核取得的資訊",
     "explanation": "稽核活動會接觸敏感資料，稽核員應遵守保密要求，不應將取得資訊作不當用途。",
-    "mnemonic": "看到可以，亂傳不可以。"
+    "mnemonic": "看到可以，亂傳不可以。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0086",
@@ -1622,7 +2047,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "看到員工個資紀錄後，稽核員最適當的做法是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n看到員工個資紀錄後，稽核員最適當的做法是？",
     "options": [
       "依權限與需要妥善保護稽核取得的資訊",
       "把資料傳給朋友討論",
@@ -1631,7 +2056,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依權限與需要妥善保護稽核取得的資訊",
     "explanation": "稽核活動會接觸敏感資料，稽核員應遵守保密要求，不應將取得資訊作不當用途。",
-    "mnemonic": "看到可以，亂傳不可以。"
+    "mnemonic": "看到可以，亂傳不可以。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0087",
@@ -1641,7 +2071,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "接觸未公開弱點資訊後，稽核員最適當的做法是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n接觸未公開弱點資訊後，稽核員最適當的做法是？",
     "options": [
       "依權限與需要妥善保護稽核取得的資訊",
       "把資料傳給朋友討論",
@@ -1650,7 +2080,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依權限與需要妥善保護稽核取得的資訊",
     "explanation": "稽核活動會接觸敏感資料，稽核員應遵守保密要求，不應將取得資訊作不當用途。",
-    "mnemonic": "看到可以，亂傳不可以。"
+    "mnemonic": "看到可以，亂傳不可以。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0088",
@@ -1660,7 +2095,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "拿到供應商契約內容後，稽核員最適當的做法是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n拿到供應商契約內容後，稽核員最適當的做法是？",
     "options": [
       "依權限與需要妥善保護稽核取得的資訊",
       "把資料傳給朋友討論",
@@ -1669,7 +2104,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依權限與需要妥善保護稽核取得的資訊",
     "explanation": "稽核活動會接觸敏感資料，稽核員應遵守保密要求，不應將取得資訊作不當用途。",
-    "mnemonic": "看到可以，亂傳不可以。"
+    "mnemonic": "看到可以，亂傳不可以。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0089",
@@ -1679,7 +2119,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "主管保證所有權限都定期審查，哪個做法最符合以證據為基礎的稽核？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n主管保證所有權限都定期審查，哪個做法最符合以證據為基礎的稽核？",
     "options": [
       "依可驗證資訊抽樣與交叉查證後再形成判斷",
       "只依主管職位直接相信",
@@ -1688,7 +2128,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依可驗證資訊抽樣與交叉查證後再形成判斷",
     "explanation": "稽核應建立在可驗證證據上，不能只靠印象、職稱或沒有事故的結果來推論符合。",
-    "mnemonic": "先證據，後判斷。"
+    "mnemonic": "先證據，後判斷。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0090",
@@ -1698,7 +2143,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "受稽核人員說從未發生問題，哪個做法最符合以證據為基礎的稽核？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n受稽核人員說從未發生問題，哪個做法最符合以證據為基礎的稽核？",
     "options": [
       "依可驗證資訊抽樣與交叉查證後再形成判斷",
       "只依主管職位直接相信",
@@ -1707,7 +2152,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依可驗證資訊抽樣與交叉查證後再形成判斷",
     "explanation": "稽核應建立在可驗證證據上，不能只靠印象、職稱或沒有事故的結果來推論符合。",
-    "mnemonic": "先證據，後判斷。"
+    "mnemonic": "先證據，後判斷。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0091",
@@ -1717,7 +2167,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核員懷疑控制無效但尚無資料，哪個做法最符合以證據為基礎的稽核？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核員懷疑控制無效但尚無資料，哪個做法最符合以證據為基礎的稽核？",
     "options": [
       "依可驗證資訊抽樣與交叉查證後再形成判斷",
       "只依主管職位直接相信",
@@ -1726,7 +2176,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依可驗證資訊抽樣與交叉查證後再形成判斷",
     "explanation": "稽核應建立在可驗證證據上，不能只靠印象、職稱或沒有事故的結果來推論符合。",
-    "mnemonic": "先證據，後判斷。"
+    "mnemonic": "先證據，後判斷。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0092",
@@ -1736,7 +2191,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "抽查紀錄時發現異常，哪個做法最符合以證據為基礎的稽核？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n抽查紀錄時發現異常，哪個做法最符合以證據為基礎的稽核？",
     "options": [
       "依可驗證資訊抽樣與交叉查證後再形成判斷",
       "只依主管職位直接相信",
@@ -1745,7 +2200,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依可驗證資訊抽樣與交叉查證後再形成判斷",
     "explanation": "稽核應建立在可驗證證據上，不能只靠印象、職稱或沒有事故的結果來推論符合。",
-    "mnemonic": "先證據，後判斷。"
+    "mnemonic": "先證據，後判斷。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0093",
@@ -1755,7 +2215,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核員遇到不熟悉的系統操作，最符合專業關注的是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核員遇到不熟悉的系統操作，最符合專業關注的是？",
     "options": [
       "保持謹慎，進一步查證並在能力範圍內做判斷",
       "假裝自己懂以節省時間",
@@ -1764,7 +2224,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "保持謹慎，進一步查證並在能力範圍內做判斷",
     "explanation": "專業關注意味稽核員要運用合理的謹慎與判斷，不懂時應查證而不是猜測。",
-    "mnemonic": "不懂就查，不要硬凹。"
+    "mnemonic": "不懂就查，不要硬凹。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0094",
@@ -1774,7 +2239,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "證據彼此矛盾，最符合專業關注的是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n證據彼此矛盾，最符合專業關注的是？",
     "options": [
       "保持謹慎，進一步查證並在能力範圍內做判斷",
       "假裝自己懂以節省時間",
@@ -1783,7 +2248,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "保持謹慎，進一步查證並在能力範圍內做判斷",
     "explanation": "專業關注意味稽核員要運用合理的謹慎與判斷，不懂時應查證而不是猜測。",
-    "mnemonic": "不懂就查，不要硬凹。"
+    "mnemonic": "不懂就查，不要硬凹。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0095",
@@ -1793,7 +2263,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "抽樣結果出現異常，最符合專業關注的是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n抽樣結果出現異常，最符合專業關注的是？",
     "options": [
       "保持謹慎，進一步查證並在能力範圍內做判斷",
       "假裝自己懂以節省時間",
@@ -1802,7 +2272,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "保持謹慎，進一步查證並在能力範圍內做判斷",
     "explanation": "專業關注意味稽核員要運用合理的謹慎與判斷，不懂時應查證而不是猜測。",
-    "mnemonic": "不懂就查，不要硬凹。"
+    "mnemonic": "不懂就查，不要硬凹。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0096",
@@ -1812,7 +2287,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "受稽核方說明不清楚，最符合專業關注的是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n受稽核方說明不清楚，最符合專業關注的是？",
     "options": [
       "保持謹慎，進一步查證並在能力範圍內做判斷",
       "假裝自己懂以節省時間",
@@ -1821,7 +2296,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "保持謹慎，進一步查證並在能力範圍內做判斷",
     "explanation": "專業關注意味稽核員要運用合理的謹慎與判斷，不懂時應查證而不是猜測。",
-    "mnemonic": "不懂就查，不要硬凹。"
+    "mnemonic": "不懂就查，不要硬凹。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0097",
@@ -1831,7 +2311,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核報告記錄受稽核方與稽核組尚未解決的分歧，哪個做法較符合公正表達？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核報告記錄受稽核方與稽核組尚未解決的分歧，哪個做法較符合公正表達？",
     "options": [
       "如實、準確呈現發現、結論及重要分歧",
       "只呈現有利於受稽核方的內容",
@@ -1840,7 +2320,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "如實、準確呈現發現、結論及重要分歧",
     "explanation": "公正表達要求真實、準確、客觀呈現稽核活動與重要限制或分歧。",
-    "mnemonic": "報告如實，不美化也不誇大。"
+    "mnemonic": "報告如實，不美化也不誇大。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0098",
@@ -1850,7 +2335,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "報告只寫好消息，哪個做法較符合公正表達？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n報告只寫好消息，哪個做法較符合公正表達？",
     "options": [
       "如實、準確呈現發現、結論及重要分歧",
       "只呈現有利於受稽核方的內容",
@@ -1859,7 +2344,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "如實、準確呈現發現、結論及重要分歧",
     "explanation": "公正表達要求真實、準確、客觀呈現稽核活動與重要限制或分歧。",
-    "mnemonic": "報告如實，不美化也不誇大。"
+    "mnemonic": "報告如實，不美化也不誇大。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0099",
@@ -1869,7 +2359,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "為了避免衝突刪掉重要缺失，哪個做法較符合公正表達？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n為了避免衝突刪掉重要缺失，哪個做法較符合公正表達？",
     "options": [
       "如實、準確呈現發現、結論及重要分歧",
       "只呈現有利於受稽核方的內容",
@@ -1878,7 +2368,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "如實、準確呈現發現、結論及重要分歧",
     "explanation": "公正表達要求真實、準確、客觀呈現稽核活動與重要限制或分歧。",
-    "mnemonic": "報告如實，不美化也不誇大。"
+    "mnemonic": "報告如實，不美化也不誇大。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0100",
@@ -1888,7 +2383,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核原則",
     "difficulty": "中",
     "type": "single",
-    "stem": "把個人情緒寫進報告，哪個做法較符合公正表達？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n把個人情緒寫進報告，哪個做法較符合公正表達？",
     "options": [
       "如實、準確呈現發現、結論及重要分歧",
       "只呈現有利於受稽核方的內容",
@@ -1897,7 +2392,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "如實、準確呈現發現、結論及重要分歧",
     "explanation": "公正表達要求真實、準確、客觀呈現稽核活動與重要限制或分歧。",
-    "mnemonic": "報告如實，不美化也不誇大。"
+    "mnemonic": "報告如實，不美化也不誇大。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0101",
@@ -1907,7 +2407,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "組織依計畫執行年度內部稽核，內部稽核主要提供哪類資訊？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n組織依計畫執行年度內部稽核，內部稽核主要提供哪類資訊？",
     "options": [
       "是否符合組織自身與標準要求，以及是否有效實作與維持",
       "只看資訊設備有沒有故障",
@@ -1916,7 +2416,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "是否符合組織自身與標準要求，以及是否有效實作與維持",
     "explanation": "9.2.1 明確要求內部稽核提供是否符合組織自身 ISMS 要求、標準要求，以及是否有效實作與維持的資訊。",
-    "mnemonic": "符合＋有效。"
+    "mnemonic": "符合＋有效。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0102",
@@ -1926,7 +2431,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "管理階層想知道 ISMS 是否有效，內部稽核主要提供哪類資訊？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n管理階層想知道 ISMS 是否有效，內部稽核主要提供哪類資訊？",
     "options": [
       "是否符合組織自身與標準要求，以及是否有效實作與維持",
       "只看資訊設備有沒有故障",
@@ -1935,7 +2440,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "是否符合組織自身與標準要求，以及是否有效實作與維持",
     "explanation": "9.2.1 明確要求內部稽核提供是否符合組織自身 ISMS 要求、標準要求，以及是否有效實作與維持的資訊。",
-    "mnemonic": "符合＋有效。"
+    "mnemonic": "符合＋有效。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0103",
@@ -1945,7 +2455,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "組織準備管理審查，內部稽核主要提供哪類資訊？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n組織準備管理審查，內部稽核主要提供哪類資訊？",
     "options": [
       "是否符合組織自身與標準要求，以及是否有效實作與維持",
       "只看資訊設備有沒有故障",
@@ -1954,7 +2464,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "是否符合組織自身與標準要求，以及是否有效實作與維持",
     "explanation": "9.2.1 明確要求內部稽核提供是否符合組織自身 ISMS 要求、標準要求，以及是否有效實作與維持的資訊。",
-    "mnemonic": "符合＋有效。"
+    "mnemonic": "符合＋有效。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0104",
@@ -1964,7 +2479,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核員查核流程遵循時，內部稽核主要提供哪類資訊？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核員查核流程遵循時，內部稽核主要提供哪類資訊？",
     "options": [
       "是否符合組織自身與標準要求，以及是否有效實作與維持",
       "只看資訊設備有沒有故障",
@@ -1973,7 +2488,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "是否符合組織自身與標準要求，以及是否有效實作與維持",
     "explanation": "9.2.1 明確要求內部稽核提供是否符合組織自身 ISMS 要求、標準要求，以及是否有效實作與維持的資訊。",
-    "mnemonic": "符合＋有效。"
+    "mnemonic": "符合＋有效。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0105",
@@ -1983,7 +2503,7 @@ window.QUESTION_BANK = [
     "source": "受稽核態度與稽核員責任課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "遇到自己不熟悉的技術名詞，最適當的稽核員反應是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n遇到自己不熟悉的技術名詞，最適當的稽核員反應是？",
     "options": [
       "先確認適用準則與證據，再形成判斷",
       "為維持權威假裝完全了解",
@@ -1992,7 +2512,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "先確認適用準則與證據，再形成判斷",
     "explanation": "稽核員的任務是依準則與證據做客觀判斷，不是維持面子；遇到不確定事項應查證。",
-    "mnemonic": "規→證→判。"
+    "mnemonic": "規→證→判。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0106",
@@ -2002,7 +2527,7 @@ window.QUESTION_BANK = [
     "source": "受稽核態度與稽核員責任課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "現場人員提出新的核准程序，最適當的稽核員反應是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n現場人員提出新的核准程序，最適當的稽核員反應是？",
     "options": [
       "先確認適用準則與證據，再形成判斷",
       "為維持權威假裝完全了解",
@@ -2011,7 +2536,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "先確認適用準則與證據，再形成判斷",
     "explanation": "稽核員的任務是依準則與證據做客觀判斷，不是維持面子；遇到不確定事項應查證。",
-    "mnemonic": "規→證→判。"
+    "mnemonic": "規→證→判。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0107",
@@ -2021,7 +2551,7 @@ window.QUESTION_BANK = [
     "source": "受稽核態度與稽核員責任課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核員不確定某要求是否適用，最適當的稽核員反應是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核員不確定某要求是否適用，最適當的稽核員反應是？",
     "options": [
       "先確認適用準則與證據，再形成判斷",
       "為維持權威假裝完全了解",
@@ -2030,7 +2560,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "先確認適用準則與證據，再形成判斷",
     "explanation": "稽核員的任務是依準則與證據做客觀判斷，不是維持面子；遇到不確定事項應查證。",
-    "mnemonic": "規→證→判。"
+    "mnemonic": "規→證→判。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0108",
@@ -2040,7 +2575,7 @@ window.QUESTION_BANK = [
     "source": "受稽核態度與稽核員責任課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "受稽核方提出合理反證，最適當的稽核員反應是？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n受稽核方提出合理反證，最適當的稽核員反應是？",
     "options": [
       "先確認適用準則與證據，再形成判斷",
       "為維持權威假裝完全了解",
@@ -2049,7 +2584,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "先確認適用準則與證據，再形成判斷",
     "explanation": "稽核員的任務是依準則與證據做客觀判斷，不是維持面子；遇到不確定事項應查證。",
-    "mnemonic": "規→證→判。"
+    "mnemonic": "規→證→判。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0109",
@@ -2059,7 +2599,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "內部稽核完成後，哪個做法符合內部稽核要求？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n內部稽核完成後，哪個做法符合內部稽核要求？",
     "options": [
       "確保稽核結果向相關管理階層報告並保存文件化資訊",
       "只由稽核員私下保存",
@@ -2068,7 +2608,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確保稽核結果向相關管理階層報告並保存文件化資訊",
     "explanation": "9.2.2 要求稽核結果向相關管理階層報告，並保留稽核計畫及稽核結果的文件化資訊。",
-    "mnemonic": "查完要報，報完要留。"
+    "mnemonic": "查完要報，報完要留。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0110",
@@ -2078,7 +2623,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核組形成稽核發現後，哪個做法符合內部稽核要求？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核組形成稽核發現後，哪個做法符合內部稽核要求？",
     "options": [
       "確保稽核結果向相關管理階層報告並保存文件化資訊",
       "只由稽核員私下保存",
@@ -2087,7 +2632,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確保稽核結果向相關管理階層報告並保存文件化資訊",
     "explanation": "9.2.2 要求稽核結果向相關管理階層報告，並保留稽核計畫及稽核結果的文件化資訊。",
-    "mnemonic": "查完要報，報完要留。"
+    "mnemonic": "查完要報，報完要留。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0111",
@@ -2097,7 +2647,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "管理階層等待稽核結果時，哪個做法符合內部稽核要求？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n管理階層等待稽核結果時，哪個做法符合內部稽核要求？",
     "options": [
       "確保稽核結果向相關管理階層報告並保存文件化資訊",
       "只由稽核員私下保存",
@@ -2106,7 +2656,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確保稽核結果向相關管理階層報告並保存文件化資訊",
     "explanation": "9.2.2 要求稽核結果向相關管理階層報告，並保留稽核計畫及稽核結果的文件化資訊。",
-    "mnemonic": "查完要報，報完要留。"
+    "mnemonic": "查完要報，報完要留。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0112",
@@ -2116,7 +2671,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "年度稽核計畫執行完畢時，哪個做法符合內部稽核要求？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n年度稽核計畫執行完畢時，哪個做法符合內部稽核要求？",
     "options": [
       "確保稽核結果向相關管理階層報告並保存文件化資訊",
       "只由稽核員私下保存",
@@ -2125,7 +2680,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確保稽核結果向相關管理階層報告並保存文件化資訊",
     "explanation": "9.2.2 要求稽核結果向相關管理階層報告，並保留稽核計畫及稽核結果的文件化資訊。",
-    "mnemonic": "查完要報，報完要留。"
+    "mnemonic": "查完要報，報完要留。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0113",
@@ -2135,7 +2695,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.3.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "年度管理審查時，誰應於規劃期間審查 ISMS？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n年度管理審查時，誰應於規劃期間審查 ISMS？",
     "options": [
       "最高管理階層",
       "只有外部驗證機構",
@@ -2144,7 +2704,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "最高管理階層",
     "explanation": "9.3.1 要求最高管理階層於規劃期間審查 ISMS，以確保持續合宜性、適切性與有效性。",
-    "mnemonic": "管理審查＝老闆層級看全局。"
+    "mnemonic": "管理審查＝老闆層級看全局。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0114",
@@ -2154,7 +2719,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.3.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "組織檢視 ISMS 合宜性與有效性時，誰應於規劃期間審查 ISMS？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n組織檢視 ISMS 合宜性與有效性時，誰應於規劃期間審查 ISMS？",
     "options": [
       "最高管理階層",
       "只有外部驗證機構",
@@ -2163,7 +2728,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "最高管理階層",
     "explanation": "9.3.1 要求最高管理階層於規劃期間審查 ISMS，以確保持續合宜性、適切性與有效性。",
-    "mnemonic": "管理審查＝老闆層級看全局。"
+    "mnemonic": "管理審查＝老闆層級看全局。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0115",
@@ -2173,7 +2743,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.3.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "重大變更後檢討管理系統時，誰應於規劃期間審查 ISMS？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n重大變更後檢討管理系統時，誰應於規劃期間審查 ISMS？",
     "options": [
       "最高管理階層",
       "只有外部驗證機構",
@@ -2182,7 +2752,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "最高管理階層",
     "explanation": "9.3.1 要求最高管理階層於規劃期間審查 ISMS，以確保持續合宜性、適切性與有效性。",
-    "mnemonic": "管理審查＝老闆層級看全局。"
+    "mnemonic": "管理審查＝老闆層級看全局。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0116",
@@ -2192,7 +2767,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.3.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "資訊部準備管理審查資料時，誰應於規劃期間審查 ISMS？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n資訊部準備管理審查資料時，誰應於規劃期間審查 ISMS？",
     "options": [
       "最高管理階層",
       "只有外部驗證機構",
@@ -2201,7 +2776,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "最高管理階層",
     "explanation": "9.3.1 要求最高管理階層於規劃期間審查 ISMS，以確保持續合宜性、適切性與有效性。",
-    "mnemonic": "管理審查＝老闆層級看全局。"
+    "mnemonic": "管理審查＝老闆層級看全局。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0117",
@@ -2211,7 +2791,7 @@ window.QUESTION_BANK = [
     "source": "課程：稽核方案 / 稽核計畫",
     "difficulty": "中",
     "type": "single",
-    "stem": "組織要安排全年多次稽核與某一次具體稽核時，較合理的理解是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n組織要安排全年多次稽核與某一次具體稽核時，較合理的理解是？",
     "options": [
       "稽核方案管整體安排；稽核計畫管某一次具體稽核活動",
       "兩者完全相同且可互換",
@@ -2220,7 +2800,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核方案管整體安排；稽核計畫管某一次具體稽核活動",
     "explanation": "課程分別提供稽核方案與各類稽核計畫範本；前者用於整體安排，後者針對特定稽核活動。",
-    "mnemonic": "Programme 看全局，Plan 看這一次。"
+    "mnemonic": "Programme 看全局，Plan 看這一次。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0118",
@@ -2230,7 +2815,7 @@ window.QUESTION_BANK = [
     "source": "課程：稽核方案 / 稽核計畫",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核主管規劃年度稽核活動時，較合理的理解是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n稽核主管規劃年度稽核活動時，較合理的理解是？",
     "options": [
       "稽核方案管整體安排；稽核計畫管某一次具體稽核活動",
       "兩者完全相同且可互換",
@@ -2239,7 +2824,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核方案管整體安排；稽核計畫管某一次具體稽核活動",
     "explanation": "課程分別提供稽核方案與各類稽核計畫範本；前者用於整體安排，後者針對特定稽核活動。",
-    "mnemonic": "Programme 看全局，Plan 看這一次。"
+    "mnemonic": "Programme 看全局，Plan 看這一次。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0119",
@@ -2249,7 +2839,7 @@ window.QUESTION_BANK = [
     "source": "課程：稽核方案 / 稽核計畫",
     "difficulty": "中",
     "type": "single",
-    "stem": "主導稽核員準備下週單次稽核時，較合理的理解是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n主導稽核員準備下週單次稽核時，較合理的理解是？",
     "options": [
       "稽核方案管整體安排；稽核計畫管某一次具體稽核活動",
       "兩者完全相同且可互換",
@@ -2258,7 +2848,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核方案管整體安排；稽核計畫管某一次具體稽核活動",
     "explanation": "課程分別提供稽核方案與各類稽核計畫範本；前者用於整體安排，後者針對特定稽核活動。",
-    "mnemonic": "Programme 看全局，Plan 看這一次。"
+    "mnemonic": "Programme 看全局，Plan 看這一次。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0120",
@@ -2268,7 +2863,7 @@ window.QUESTION_BANK = [
     "source": "課程：稽核方案 / 稽核計畫",
     "difficulty": "中",
     "type": "single",
-    "stem": "比較 audit programme 與 audit plan 時，較合理的理解是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n比較 audit programme 與 audit plan 時，較合理的理解是？",
     "options": [
       "稽核方案管整體安排；稽核計畫管某一次具體稽核活動",
       "兩者完全相同且可互換",
@@ -2277,7 +2872,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核方案管整體安排；稽核計畫管某一次具體稽核活動",
     "explanation": "課程分別提供稽核方案與各類稽核計畫範本；前者用於整體安排，後者針對特定稽核活動。",
-    "mnemonic": "Programme 看全局，Plan 看這一次。"
+    "mnemonic": "Programme 看全局，Plan 看這一次。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0121",
@@ -2287,7 +2887,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "準備一次內部稽核，稽核規劃時最應先明確的項目包含？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n準備一次內部稽核，稽核規劃時最應先明確的項目包含？",
     "options": [
       "稽核目標、範圍、準則、方法與責任安排",
       "員工薪資、公司營收、尾牙地點",
@@ -2296,7 +2896,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核目標、範圍、準則、方法與責任安排",
     "explanation": "稽核計畫必須讓團隊知道要查什麼、為什麼查、用什麼準則、何時與如何查，以及誰負責。",
-    "mnemonic": "目標、範圍、準則、方法、人。"
+    "mnemonic": "目標、範圍、準則、方法、人。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0122",
@@ -2306,7 +2911,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "安排供應商稽核，稽核規劃時最應先明確的項目包含？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n安排供應商稽核，稽核規劃時最應先明確的項目包含？",
     "options": [
       "稽核目標、範圍、準則、方法與責任安排",
       "員工薪資、公司營收、尾牙地點",
@@ -2315,7 +2920,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核目標、範圍、準則、方法與責任安排",
     "explanation": "稽核計畫必須讓團隊知道要查什麼、為什麼查、用什麼準則、何時與如何查，以及誰負責。",
-    "mnemonic": "目標、範圍、準則、方法、人。"
+    "mnemonic": "目標、範圍、準則、方法、人。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0123",
@@ -2325,7 +2935,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "準備驗證稽核，稽核規劃時最應先明確的項目包含？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n準備驗證稽核，稽核規劃時最應先明確的項目包含？",
     "options": [
       "稽核目標、範圍、準則、方法與責任安排",
       "員工薪資、公司營收、尾牙地點",
@@ -2334,7 +2944,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核目標、範圍、準則、方法與責任安排",
     "explanation": "稽核計畫必須讓團隊知道要查什麼、為什麼查、用什麼準則、何時與如何查，以及誰負責。",
-    "mnemonic": "目標、範圍、準則、方法、人。"
+    "mnemonic": "目標、範圍、準則、方法、人。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0124",
@@ -2344,7 +2959,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "主導稽核員召開稽核前會議，稽核規劃時最應先明確的項目包含？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n主導稽核員召開稽核前會議，稽核規劃時最應先明確的項目包含？",
     "options": [
       "稽核目標、範圍、準則、方法與責任安排",
       "員工薪資、公司營收、尾牙地點",
@@ -2353,7 +2968,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核目標、範圍、準則、方法與責任安排",
     "explanation": "稽核計畫必須讓團隊知道要查什麼、為什麼查、用什麼準則、何時與如何查，以及誰負責。",
-    "mnemonic": "目標、範圍、準則、方法、人。"
+    "mnemonic": "目標、範圍、準則、方法、人。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0125",
@@ -2363,7 +2983,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "年度稽核方案排程，規劃內部稽核頻率時應特別考量什麼？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n年度稽核方案排程，規劃內部稽核頻率時應特別考量什麼？",
     "options": [
       "過程重要性與先前稽核結果",
       "只有稽核員休假時間",
@@ -2372,7 +2992,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "過程重要性與先前稽核結果",
     "explanation": "9.2.2 要求建立稽核計畫時考量所關切過程的重要性及先前稽核結果。",
-    "mnemonic": "越重要、越有問題，越值得關注。"
+    "mnemonic": "越重要、越有問題，越值得關注。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0126",
@@ -2382,7 +3007,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "決定高風險流程是否加密稽核，規劃內部稽核頻率時應特別考量什麼？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n決定高風險流程是否加密稽核，規劃內部稽核頻率時應特別考量什麼？",
     "options": [
       "過程重要性與先前稽核結果",
       "只有稽核員休假時間",
@@ -2391,7 +3016,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "過程重要性與先前稽核結果",
     "explanation": "9.2.2 要求建立稽核計畫時考量所關切過程的重要性及先前稽核結果。",
-    "mnemonic": "越重要、越有問題，越值得關注。"
+    "mnemonic": "越重要、越有問題，越值得關注。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0127",
@@ -2401,7 +3031,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "上次稽核有大量缺失，規劃內部稽核頻率時應特別考量什麼？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n上次稽核有大量缺失，規劃內部稽核頻率時應特別考量什麼？",
     "options": [
       "過程重要性與先前稽核結果",
       "只有稽核員休假時間",
@@ -2410,7 +3040,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "過程重要性與先前稽核結果",
     "explanation": "9.2.2 要求建立稽核計畫時考量所關切過程的重要性及先前稽核結果。",
-    "mnemonic": "越重要、越有問題，越值得關注。"
+    "mnemonic": "越重要、越有問題，越值得關注。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0128",
@@ -2420,7 +3055,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "重要流程最近大幅變更，規劃內部稽核頻率時應特別考量什麼？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n重要流程最近大幅變更，規劃內部稽核頻率時應特別考量什麼？",
     "options": [
       "過程重要性與先前稽核結果",
       "只有稽核員休假時間",
@@ -2429,7 +3064,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "過程重要性與先前稽核結果",
     "explanation": "9.2.2 要求建立稽核計畫時考量所關切過程的重要性及先前稽核結果。",
-    "mnemonic": "越重要、越有問題，越值得關注。"
+    "mnemonic": "越重要、越有問題，越值得關注。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0129",
@@ -2439,7 +3079,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "主導稽核員完成稽核計畫時，在每一次稽核前應定義什麼？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n主導稽核員完成稽核計畫時，在每一次稽核前應定義什麼？",
     "options": [
       "稽核準則與稽核範圍",
       "公司所有未來三年計畫",
@@ -2448,7 +3088,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核準則與稽核範圍",
     "explanation": "9.2.2 明確要求定義各稽核的稽核準則及稽核範圍。",
-    "mnemonic": "先知道用什麼比、查到哪裡。"
+    "mnemonic": "先知道用什麼比、查到哪裡。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0130",
@@ -2458,7 +3103,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "準備稽核查檢表時，在每一次稽核前應定義什麼？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n準備稽核查檢表時，在每一次稽核前應定義什麼？",
     "options": [
       "稽核準則與稽核範圍",
       "公司所有未來三年計畫",
@@ -2467,7 +3112,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核準則與稽核範圍",
     "explanation": "9.2.2 明確要求定義各稽核的稽核準則及稽核範圍。",
-    "mnemonic": "先知道用什麼比、查到哪裡。"
+    "mnemonic": "先知道用什麼比、查到哪裡。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0131",
@@ -2477,7 +3127,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "安排第二階段現場稽核時，在每一次稽核前應定義什麼？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n安排第二階段現場稽核時，在每一次稽核前應定義什麼？",
     "options": [
       "稽核準則與稽核範圍",
       "公司所有未來三年計畫",
@@ -2486,7 +3136,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核準則與稽核範圍",
     "explanation": "9.2.2 明確要求定義各稽核的稽核準則及稽核範圍。",
-    "mnemonic": "先知道用什麼比、查到哪裡。"
+    "mnemonic": "先知道用什麼比、查到哪裡。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0132",
@@ -2496,7 +3151,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "準備內部稽核時，在每一次稽核前應定義什麼？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n準備內部稽核時，在每一次稽核前應定義什麼？",
     "options": [
       "稽核準則與稽核範圍",
       "公司所有未來三年計畫",
@@ -2505,7 +3160,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核準則與稽核範圍",
     "explanation": "9.2.2 明確要求定義各稽核的稽核準則及稽核範圍。",
-    "mnemonic": "先知道用什麼比、查到哪裡。"
+    "mnemonic": "先知道用什麼比、查到哪裡。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0133",
@@ -2515,7 +3175,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2 / 稽核員能力清冊",
     "difficulty": "中",
     "type": "single",
-    "stem": "安排稽核團隊時，選擇稽核員最重要的考量是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n安排稽核團隊時，選擇稽核員最重要的考量是？",
     "options": [
       "能力適任並能維持客觀性與公平性",
       "只選職位最高的人",
@@ -2524,7 +3184,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "能力適任並能維持客觀性與公平性",
     "explanation": "稽核員選擇要同時考慮能力與客觀性；教材也以能力矩陣與資格紀錄支持安排。",
-    "mnemonic": "會不會＋公不公平。"
+    "mnemonic": "會不會＋公不公平。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0134",
@@ -2534,7 +3199,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2 / 稽核員能力清冊",
     "difficulty": "中",
     "type": "single",
-    "stem": "高技術性流程即將受稽核時，選擇稽核員最重要的考量是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n高技術性流程即將受稽核時，選擇稽核員最重要的考量是？",
     "options": [
       "能力適任並能維持客觀性與公平性",
       "只選職位最高的人",
@@ -2543,7 +3208,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "能力適任並能維持客觀性與公平性",
     "explanation": "稽核員選擇要同時考慮能力與客觀性；教材也以能力矩陣與資格紀錄支持安排。",
-    "mnemonic": "會不會＋公不公平。"
+    "mnemonic": "會不會＋公不公平。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0135",
@@ -2553,7 +3223,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2 / 稽核員能力清冊",
     "difficulty": "中",
     "type": "single",
-    "stem": "內部稽核人力配置時，選擇稽核員最重要的考量是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n內部稽核人力配置時，選擇稽核員最重要的考量是？",
     "options": [
       "能力適任並能維持客觀性與公平性",
       "只選職位最高的人",
@@ -2562,7 +3232,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "能力適任並能維持客觀性與公平性",
     "explanation": "稽核員選擇要同時考慮能力與客觀性；教材也以能力矩陣與資格紀錄支持安排。",
-    "mnemonic": "會不會＋公不公平。"
+    "mnemonic": "會不會＋公不公平。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0136",
@@ -2572,7 +3247,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2 / 稽核員能力清冊",
     "difficulty": "中",
     "type": "single",
-    "stem": "指定主導稽核員時，選擇稽核員最重要的考量是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n指定主導稽核員時，選擇稽核員最重要的考量是？",
     "options": [
       "能力適任並能維持客觀性與公平性",
       "只選職位最高的人",
@@ -2581,7 +3256,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "能力適任並能維持客觀性與公平性",
     "explanation": "稽核員選擇要同時考慮能力與客觀性；教材也以能力矩陣與資格紀錄支持安排。",
-    "mnemonic": "會不會＋公不公平。"
+    "mnemonic": "會不會＋公不公平。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0137",
@@ -2591,7 +3271,7 @@ window.QUESTION_BANK = [
     "source": "驗證過程要求 / ISO/IEC 17021-1 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "組織準備首次驗證時，第一階段驗證的重點較接近？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n組織準備首次驗證時，第一階段驗證的重點較接近？",
     "options": [
       "確認文件、範圍、管理系統準備程度及是否具備進入第二階段條件",
       "深度測試所有控制有效性並直接決定發證",
@@ -2600,7 +3280,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認文件、範圍、管理系統準備程度及是否具備進入第二階段條件",
     "explanation": "第一階段的目的在掌握組織管理系統的準備程度與文件、範圍等基礎情況，為第二階段做準備。",
-    "mnemonic": "一階看準備。"
+    "mnemonic": "一階看準備。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0138",
@@ -2610,7 +3295,7 @@ window.QUESTION_BANK = [
     "source": "驗證過程要求 / ISO/IEC 17021-1 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "驗證機構進行 Stage 1 時，第一階段驗證的重點較接近？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n驗證機構進行 Stage 1 時，第一階段驗證的重點較接近？",
     "options": [
       "確認文件、範圍、管理系統準備程度及是否具備進入第二階段條件",
       "深度測試所有控制有效性並直接決定發證",
@@ -2619,7 +3304,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認文件、範圍、管理系統準備程度及是否具備進入第二階段條件",
     "explanation": "第一階段的目的在掌握組織管理系統的準備程度與文件、範圍等基礎情況，為第二階段做準備。",
-    "mnemonic": "一階看準備。"
+    "mnemonic": "一階看準備。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0139",
@@ -2629,7 +3319,7 @@ window.QUESTION_BANK = [
     "source": "驗證過程要求 / ISO/IEC 17021-1 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "第二階段前的準備度確認，第一階段驗證的重點較接近？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n第二階段前的準備度確認，第一階段驗證的重點較接近？",
     "options": [
       "確認文件、範圍、管理系統準備程度及是否具備進入第二階段條件",
       "深度測試所有控制有效性並直接決定發證",
@@ -2638,7 +3328,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認文件、範圍、管理系統準備程度及是否具備進入第二階段條件",
     "explanation": "第一階段的目的在掌握組織管理系統的準備程度與文件、範圍等基礎情況，為第二階段做準備。",
-    "mnemonic": "一階看準備。"
+    "mnemonic": "一階看準備。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0140",
@@ -2648,7 +3343,7 @@ window.QUESTION_BANK = [
     "source": "驗證過程要求 / ISO/IEC 17021-1 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "初次驗證流程前段，第一階段驗證的重點較接近？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n初次驗證流程前段，第一階段驗證的重點較接近？",
     "options": [
       "確認文件、範圍、管理系統準備程度及是否具備進入第二階段條件",
       "深度測試所有控制有效性並直接決定發證",
@@ -2657,7 +3352,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認文件、範圍、管理系統準備程度及是否具備進入第二階段條件",
     "explanation": "第一階段的目的在掌握組織管理系統的準備程度與文件、範圍等基礎情況，為第二階段做準備。",
-    "mnemonic": "一階看準備。"
+    "mnemonic": "一階看準備。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0141",
@@ -2667,7 +3367,7 @@ window.QUESTION_BANK = [
     "source": "驗證過程要求 / ISO/IEC 17021-1 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "Stage 1 已完成後，第二階段驗證的重點較接近？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\nStage 1 已完成後，第二階段驗證的重點較接近？",
     "options": [
       "評估管理系統實際實作、符合性與有效性",
       "只確認公司名稱",
@@ -2676,7 +3376,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "評估管理系統實際實作、符合性與有效性",
     "explanation": "第二階段重點是現場及實際運作證據，確認管理系統是否符合要求並有效實作。",
-    "mnemonic": "二階看實做。"
+    "mnemonic": "二階看實做。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0142",
@@ -2686,7 +3391,7 @@ window.QUESTION_BANK = [
     "source": "驗證過程要求 / ISO/IEC 17021-1 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "驗證機構進入現場查核時，第二階段驗證的重點較接近？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n驗證機構進入現場查核時，第二階段驗證的重點較接近？",
     "options": [
       "評估管理系統實際實作、符合性與有效性",
       "只確認公司名稱",
@@ -2695,7 +3400,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "評估管理系統實際實作、符合性與有效性",
     "explanation": "第二階段重點是現場及實際運作證據，確認管理系統是否符合要求並有效實作。",
-    "mnemonic": "二階看實做。"
+    "mnemonic": "二階看實做。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0143",
@@ -2705,7 +3415,7 @@ window.QUESTION_BANK = [
     "source": "驗證過程要求 / ISO/IEC 17021-1 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "需要判斷 ISMS 實際實作情形時，第二階段驗證的重點較接近？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n需要判斷 ISMS 實際實作情形時，第二階段驗證的重點較接近？",
     "options": [
       "評估管理系統實際實作、符合性與有效性",
       "只確認公司名稱",
@@ -2714,7 +3424,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "評估管理系統實際實作、符合性與有效性",
     "explanation": "第二階段重點是現場及實際運作證據，確認管理系統是否符合要求並有效實作。",
-    "mnemonic": "二階看實做。"
+    "mnemonic": "二階看實做。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0144",
@@ -2724,7 +3439,7 @@ window.QUESTION_BANK = [
     "source": "驗證過程要求 / ISO/IEC 17021-1 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "初次驗證主要現場活動時，第二階段驗證的重點較接近？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n初次驗證主要現場活動時，第二階段驗證的重點較接近？",
     "options": [
       "評估管理系統實際實作、符合性與有效性",
       "只確認公司名稱",
@@ -2733,7 +3448,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "評估管理系統實際實作、符合性與有效性",
     "explanation": "第二階段重點是現場及實際運作證據，確認管理系統是否符合要求並有效實作。",
-    "mnemonic": "二階看實做。"
+    "mnemonic": "二階看實做。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0145",
@@ -2743,7 +3463,7 @@ window.QUESTION_BANK = [
     "source": "課程：稽核查檢表與稽核發現",
     "difficulty": "中",
     "type": "single",
-    "stem": "主導稽核員準備訪談題目時，稽核查檢表最適當的用途是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n主導稽核員準備訪談題目時，稽核查檢表最適當的用途是？",
     "options": [
       "協助有系統地查核要求與證據，但不能取代稽核員判斷",
       "完全限制稽核員只能照表問",
@@ -2752,7 +3472,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "協助有系統地查核要求與證據，但不能取代稽核員判斷",
     "explanation": "課程將查檢表與稽核發現分開；查檢表是規劃與執行輔助工具，實際稽核仍需依現場證據判斷。",
-    "mnemonic": "查檢表是地圖，不是自動答案。"
+    "mnemonic": "查檢表是地圖，不是自動答案。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0146",
@@ -2762,7 +3487,7 @@ window.QUESTION_BANK = [
     "source": "課程：稽核查檢表與稽核發現",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核團隊想確保關鍵要求不遺漏時，稽核查檢表最適當的用途是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n稽核團隊想確保關鍵要求不遺漏時，稽核查檢表最適當的用途是？",
     "options": [
       "協助有系統地查核要求與證據，但不能取代稽核員判斷",
       "完全限制稽核員只能照表問",
@@ -2771,7 +3496,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "協助有系統地查核要求與證據，但不能取代稽核員判斷",
     "explanation": "課程將查檢表與稽核發現分開；查檢表是規劃與執行輔助工具，實際稽核仍需依現場證據判斷。",
-    "mnemonic": "查檢表是地圖，不是自動答案。"
+    "mnemonic": "查檢表是地圖，不是自動答案。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0147",
@@ -2781,7 +3511,7 @@ window.QUESTION_BANK = [
     "source": "課程：稽核查檢表與稽核發現",
     "difficulty": "中",
     "type": "single",
-    "stem": "依條款建立查核路徑時，稽核查檢表最適當的用途是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n依條款建立查核路徑時，稽核查檢表最適當的用途是？",
     "options": [
       "協助有系統地查核要求與證據，但不能取代稽核員判斷",
       "完全限制稽核員只能照表問",
@@ -2790,7 +3520,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "協助有系統地查核要求與證據，但不能取代稽核員判斷",
     "explanation": "課程將查檢表與稽核發現分開；查檢表是規劃與執行輔助工具，實際稽核仍需依現場證據判斷。",
-    "mnemonic": "查檢表是地圖，不是自動答案。"
+    "mnemonic": "查檢表是地圖，不是自動答案。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0148",
@@ -2800,7 +3535,7 @@ window.QUESTION_BANK = [
     "source": "課程：稽核查檢表與稽核發現",
     "difficulty": "中",
     "type": "single",
-    "stem": "現場稽核前準備時，稽核查檢表最適當的用途是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n現場稽核前準備時，稽核查檢表最適當的用途是？",
     "options": [
       "協助有系統地查核要求與證據，但不能取代稽核員判斷",
       "完全限制稽核員只能照表問",
@@ -2809,7 +3544,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "協助有系統地查核要求與證據，但不能取代稽核員判斷",
     "explanation": "課程將查檢表與稽核發現分開；查檢表是規劃與執行輔助工具，實際稽核仍需依現場證據判斷。",
-    "mnemonic": "查檢表是地圖，不是自動答案。"
+    "mnemonic": "查檢表是地圖，不是自動答案。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0149",
@@ -2819,7 +3559,7 @@ window.QUESTION_BANK = [
     "source": "課程：現場稽核、抽樣",
     "difficulty": "中",
     "type": "single",
-    "stem": "一個流程有數百筆權限審查紀錄，較合理的抽樣規劃是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n一個流程有數百筆權限審查紀錄，較合理的抽樣規劃是？",
     "options": [
       "選擇能代表重要風險與不同期間/類型的樣本，必要時依異常擴大抽樣",
       "只挑最容易找到的一筆",
@@ -2828,7 +3568,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "選擇能代表重要風險與不同期間/類型的樣本，必要時依異常擴大抽樣",
     "explanation": "稽核採抽樣時要能支持合理結論；發現異常時，通常需要調整或擴大抽樣以取得充分證據。",
-    "mnemonic": "抽樣要有代表性，異常要追。"
+    "mnemonic": "抽樣要有代表性，異常要追。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0150",
@@ -2838,7 +3583,7 @@ window.QUESTION_BANK = [
     "source": "課程：現場稽核、抽樣",
     "difficulty": "中",
     "type": "single",
-    "stem": "供應商名單非常龐大，較合理的抽樣規劃是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n供應商名單非常龐大，較合理的抽樣規劃是？",
     "options": [
       "選擇能代表重要風險與不同期間/類型的樣本，必要時依異常擴大抽樣",
       "只挑最容易找到的一筆",
@@ -2847,7 +3592,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "選擇能代表重要風險與不同期間/類型的樣本，必要時依異常擴大抽樣",
     "explanation": "稽核採抽樣時要能支持合理結論；發現異常時，通常需要調整或擴大抽樣以取得充分證據。",
-    "mnemonic": "抽樣要有代表性，異常要追。"
+    "mnemonic": "抽樣要有代表性，異常要追。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0151",
@@ -2857,7 +3607,7 @@ window.QUESTION_BANK = [
     "source": "課程：現場稽核、抽樣",
     "difficulty": "中",
     "type": "single",
-    "stem": "變更紀錄數量很多，較合理的抽樣規劃是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n變更紀錄數量很多，較合理的抽樣規劃是？",
     "options": [
       "選擇能代表重要風險與不同期間/類型的樣本，必要時依異常擴大抽樣",
       "只挑最容易找到的一筆",
@@ -2866,7 +3616,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "選擇能代表重要風險與不同期間/類型的樣本，必要時依異常擴大抽樣",
     "explanation": "稽核採抽樣時要能支持合理結論；發現異常時，通常需要調整或擴大抽樣以取得充分證據。",
-    "mnemonic": "抽樣要有代表性，異常要追。"
+    "mnemonic": "抽樣要有代表性，異常要追。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0152",
@@ -2876,7 +3631,7 @@ window.QUESTION_BANK = [
     "source": "課程：現場稽核、抽樣",
     "difficulty": "中",
     "type": "single",
-    "stem": "訓練紀錄橫跨多部門，較合理的抽樣規劃是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n訓練紀錄橫跨多部門，較合理的抽樣規劃是？",
     "options": [
       "選擇能代表重要風險與不同期間/類型的樣本，必要時依異常擴大抽樣",
       "只挑最容易找到的一筆",
@@ -2885,7 +3640,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "選擇能代表重要風險與不同期間/類型的樣本，必要時依異常擴大抽樣",
     "explanation": "稽核採抽樣時要能支持合理結論；發現異常時，通常需要調整或擴大抽樣以取得充分證據。",
-    "mnemonic": "抽樣要有代表性，異常要追。"
+    "mnemonic": "抽樣要有代表性，異常要追。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0153",
@@ -2895,7 +3655,7 @@ window.QUESTION_BANK = [
     "source": "稽核計畫 / ISO 19011 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "範圍包含多地點與高風險系統，規劃稽核時哪個做法最適當？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n範圍包含多地點與高風險系統，規劃稽核時哪個做法最適當？",
     "options": [
       "依範圍、風險、複雜度與能力需求安排時間、人員及方法",
       "不管範圍大小都固定一小時",
@@ -2904,7 +3664,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依範圍、風險、複雜度與能力需求安排時間、人員及方法",
     "explanation": "稽核計畫必須可執行，應依範圍、風險、複雜度、地點與團隊能力配置適當資源。",
-    "mnemonic": "範圍多大，資源就要跟上。"
+    "mnemonic": "範圍多大，資源就要跟上。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0154",
@@ -2914,7 +3679,7 @@ window.QUESTION_BANK = [
     "source": "稽核計畫 / ISO 19011 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核時間明顯不足，規劃稽核時哪個做法最適當？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n稽核時間明顯不足，規劃稽核時哪個做法最適當？",
     "options": [
       "依範圍、風險、複雜度與能力需求安排時間、人員及方法",
       "不管範圍大小都固定一小時",
@@ -2923,7 +3688,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依範圍、風險、複雜度與能力需求安排時間、人員及方法",
     "explanation": "稽核計畫必須可執行，應依範圍、風險、複雜度、地點與團隊能力配置適當資源。",
-    "mnemonic": "範圍多大，資源就要跟上。"
+    "mnemonic": "範圍多大，資源就要跟上。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0155",
@@ -2933,7 +3703,7 @@ window.QUESTION_BANK = [
     "source": "稽核計畫 / ISO 19011 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "需要特定技術專家，規劃稽核時哪個做法最適當？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n需要特定技術專家，規劃稽核時哪個做法最適當？",
     "options": [
       "依範圍、風險、複雜度與能力需求安排時間、人員及方法",
       "不管範圍大小都固定一小時",
@@ -2942,7 +3712,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依範圍、風險、複雜度與能力需求安排時間、人員及方法",
     "explanation": "稽核計畫必須可執行，應依範圍、風險、複雜度、地點與團隊能力配置適當資源。",
-    "mnemonic": "範圍多大，資源就要跟上。"
+    "mnemonic": "範圍多大，資源就要跟上。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0156",
@@ -2952,7 +3727,7 @@ window.QUESTION_BANK = [
     "source": "稽核計畫 / ISO 19011 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "受稽核部門作業時段受限，規劃稽核時哪個做法最適當？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n受稽核部門作業時段受限，規劃稽核時哪個做法最適當？",
     "options": [
       "依範圍、風險、複雜度與能力需求安排時間、人員及方法",
       "不管範圍大小都固定一小時",
@@ -2961,7 +3736,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依範圍、風險、複雜度與能力需求安排時間、人員及方法",
     "explanation": "稽核計畫必須可執行，應依範圍、風險、複雜度、地點與團隊能力配置適當資源。",
-    "mnemonic": "範圍多大，資源就要跟上。"
+    "mnemonic": "範圍多大，資源就要跟上。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0157",
@@ -2971,7 +3751,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 Annex A 8.34",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核可能對正式主機造成中斷，規劃測試時最適當的是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n稽核可能對正式主機造成中斷，規劃測試時最適當的是？",
     "options": [
       "事先由測試者與適當管理階層規劃並議定，降低營運衝擊",
       "稽核員可自行決定不必通知",
@@ -2980,7 +3760,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "事先由測試者與適當管理階層規劃並議定，降低營運衝擊",
     "explanation": "Annex A 8.34 要求涉及運作中系統的稽核測試與其他保證活動，應由測試者與適當管理階層事先規劃並議定。",
-    "mnemonic": "正式系統先規劃再測。"
+    "mnemonic": "正式系統先規劃再測。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0158",
@@ -2990,7 +3775,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 Annex A 8.34",
     "difficulty": "中",
     "type": "single",
-    "stem": "要做高負載安全測試，規劃測試時最適當的是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n要做高負載安全測試，規劃測試時最適當的是？",
     "options": [
       "事先由測試者與適當管理階層規劃並議定，降低營運衝擊",
       "稽核員可自行決定不必通知",
@@ -2999,7 +3784,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "事先由測試者與適當管理階層規劃並議定，降低營運衝擊",
     "explanation": "Annex A 8.34 要求涉及運作中系統的稽核測試與其他保證活動，應由測試者與適當管理階層事先規劃並議定。",
-    "mnemonic": "正式系統先規劃再測。"
+    "mnemonic": "正式系統先規劃再測。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0159",
@@ -3009,7 +3799,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 Annex A 8.34",
     "difficulty": "中",
     "type": "single",
-    "stem": "需要在營運系統執行驗證活動，規劃測試時最適當的是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n需要在營運系統執行驗證活動，規劃測試時最適當的是？",
     "options": [
       "事先由測試者與適當管理階層規劃並議定，降低營運衝擊",
       "稽核員可自行決定不必通知",
@@ -3018,7 +3808,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "事先由測試者與適當管理階層規劃並議定，降低營運衝擊",
     "explanation": "Annex A 8.34 要求涉及運作中系統的稽核測試與其他保證活動，應由測試者與適當管理階層事先規劃並議定。",
-    "mnemonic": "正式系統先規劃再測。"
+    "mnemonic": "正式系統先規劃再測。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0160",
@@ -3028,7 +3823,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 Annex A 8.34",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核測試可能影響客戶服務，規劃測試時最適當的是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n稽核測試可能影響客戶服務，規劃測試時最適當的是？",
     "options": [
       "事先由測試者與適當管理階層規劃並議定，降低營運衝擊",
       "稽核員可自行決定不必通知",
@@ -3037,7 +3832,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "事先由測試者與適當管理階層規劃並議定，降低營運衝擊",
     "explanation": "Annex A 8.34 要求涉及運作中系統的稽核測試與其他保證活動，應由測試者與適當管理階層事先規劃並議定。",
-    "mnemonic": "正式系統先規劃再測。"
+    "mnemonic": "正式系統先規劃再測。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0161",
@@ -3047,7 +3847,7 @@ window.QUESTION_BANK = [
     "source": "課程：第一階段文件審查",
     "difficulty": "中",
     "type": "single",
-    "stem": "現場稽核前，文件審查的目的較接近？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n現場稽核前，文件審查的目的較接近？",
     "options": [
       "了解管理系統文件、範圍、要求與準備程度，作為後續稽核依據",
       "只確認文件頁數夠不夠",
@@ -3056,7 +3856,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "了解管理系統文件、範圍、要求與準備程度，作為後續稽核依據",
     "explanation": "文件審查是理解受稽核管理系統與規劃後續稽核的重要步驟，但文件存在不等於現場一定有效執行。",
-    "mnemonic": "文件先懂，現場再驗。"
+    "mnemonic": "文件先懂，現場再驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0162",
@@ -3066,7 +3871,7 @@ window.QUESTION_BANK = [
     "source": "課程：第一階段文件審查",
     "difficulty": "中",
     "type": "single",
-    "stem": "第一階段驗證時，文件審查的目的較接近？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n第一階段驗證時，文件審查的目的較接近？",
     "options": [
       "了解管理系統文件、範圍、要求與準備程度，作為後續稽核依據",
       "只確認文件頁數夠不夠",
@@ -3075,7 +3880,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "了解管理系統文件、範圍、要求與準備程度，作為後續稽核依據",
     "explanation": "文件審查是理解受稽核管理系統與規劃後續稽核的重要步驟，但文件存在不等於現場一定有效執行。",
-    "mnemonic": "文件先懂，現場再驗。"
+    "mnemonic": "文件先懂，現場再驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0163",
@@ -3085,7 +3895,7 @@ window.QUESTION_BANK = [
     "source": "課程：第一階段文件審查",
     "difficulty": "中",
     "type": "single",
-    "stem": "準備查檢表時，文件審查的目的較接近？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n準備查檢表時，文件審查的目的較接近？",
     "options": [
       "了解管理系統文件、範圍、要求與準備程度，作為後續稽核依據",
       "只確認文件頁數夠不夠",
@@ -3094,7 +3904,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "了解管理系統文件、範圍、要求與準備程度，作為後續稽核依據",
     "explanation": "文件審查是理解受稽核管理系統與規劃後續稽核的重要步驟，但文件存在不等於現場一定有效執行。",
-    "mnemonic": "文件先懂，現場再驗。"
+    "mnemonic": "文件先懂，現場再驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0164",
@@ -3104,7 +3919,7 @@ window.QUESTION_BANK = [
     "source": "課程：第一階段文件審查",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核團隊熟悉受稽核單位時，文件審查的目的較接近？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n稽核團隊熟悉受稽核單位時，文件審查的目的較接近？",
     "options": [
       "了解管理系統文件、範圍、要求與準備程度，作為後續稽核依據",
       "只確認文件頁數夠不夠",
@@ -3113,7 +3928,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "了解管理系統文件、範圍、要求與準備程度，作為後續稽核依據",
     "explanation": "文件審查是理解受稽核管理系統與規劃後續稽核的重要步驟，但文件存在不等於現場一定有效執行。",
-    "mnemonic": "文件先懂，現場再驗。"
+    "mnemonic": "文件先懂，現場再驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0165",
@@ -3123,7 +3943,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 稽核計畫課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "規劃一次稽核時，稽核目標的作用是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n規劃一次稽核時，稽核目標的作用是？",
     "options": [
       "說明這次稽核要達成什麼，以引導範圍、方法與結論",
       "列出所有公司資產",
@@ -3132,7 +3952,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "說明這次稽核要達成什麼，以引導範圍、方法與結論",
     "explanation": "稽核目標決定稽核要回答的問題，後續範圍、方法、證據與結論都應與目標一致。",
-    "mnemonic": "先知道為什麼查。"
+    "mnemonic": "先知道為什麼查。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0166",
@@ -3142,7 +3967,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 稽核計畫課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核團隊分工時，稽核目標的作用是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n稽核團隊分工時，稽核目標的作用是？",
     "options": [
       "說明這次稽核要達成什麼，以引導範圍、方法與結論",
       "列出所有公司資產",
@@ -3151,7 +3976,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "說明這次稽核要達成什麼，以引導範圍、方法與結論",
     "explanation": "稽核目標決定稽核要回答的問題，後續範圍、方法、證據與結論都應與目標一致。",
-    "mnemonic": "先知道為什麼查。"
+    "mnemonic": "先知道為什麼查。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0167",
@@ -3161,7 +3991,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 稽核計畫課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "決定要蒐集哪些證據時，稽核目標的作用是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n決定要蒐集哪些證據時，稽核目標的作用是？",
     "options": [
       "說明這次稽核要達成什麼，以引導範圍、方法與結論",
       "列出所有公司資產",
@@ -3170,7 +4000,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "說明這次稽核要達成什麼，以引導範圍、方法與結論",
     "explanation": "稽核目標決定稽核要回答的問題，後續範圍、方法、證據與結論都應與目標一致。",
-    "mnemonic": "先知道為什麼查。"
+    "mnemonic": "先知道為什麼查。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0168",
@@ -3180,7 +4015,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 稽核計畫課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "結束時評估是否完成稽核時，稽核目標的作用是？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n結束時評估是否完成稽核時，稽核目標的作用是？",
     "options": [
       "說明這次稽核要達成什麼，以引導範圍、方法與結論",
       "列出所有公司資產",
@@ -3189,7 +4024,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "說明這次稽核要達成什麼，以引導範圍、方法與結論",
     "explanation": "稽核目標決定稽核要回答的問題，後續範圍、方法、證據與結論都應與目標一致。",
-    "mnemonic": "先知道為什麼查。"
+    "mnemonic": "先知道為什麼查。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0169",
@@ -3199,7 +4039,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "需要驗證流程是否真的運作，哪組方法最符合一般稽核規劃？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n需要驗證流程是否真的運作，哪組方法最符合一般稽核規劃？",
     "options": [
       "訪談、觀察、文件/紀錄查閱與適當抽樣",
       "只做口頭訪談",
@@ -3208,7 +4048,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "訪談、觀察、文件/紀錄查閱與適當抽樣",
     "explanation": "稽核通常需要多種方法交叉確認，以建立充分且適切的客觀證據。",
-    "mnemonic": "問、看、查、抽。"
+    "mnemonic": "問、看、查、抽。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0170",
@@ -3218,7 +4063,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "查核權限管理流程，哪組方法最符合一般稽核規劃？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n查核權限管理流程，哪組方法最符合一般稽核規劃？",
     "options": [
       "訪談、觀察、文件/紀錄查閱與適當抽樣",
       "只做口頭訪談",
@@ -3227,7 +4072,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "訪談、觀察、文件/紀錄查閱與適當抽樣",
     "explanation": "稽核通常需要多種方法交叉確認，以建立充分且適切的客觀證據。",
-    "mnemonic": "問、看、查、抽。"
+    "mnemonic": "問、看、查、抽。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0171",
@@ -3237,7 +4087,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "查核備份與復原，哪組方法最符合一般稽核規劃？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n查核備份與復原，哪組方法最符合一般稽核規劃？",
     "options": [
       "訪談、觀察、文件/紀錄查閱與適當抽樣",
       "只做口頭訪談",
@@ -3246,7 +4096,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "訪談、觀察、文件/紀錄查閱與適當抽樣",
     "explanation": "稽核通常需要多種方法交叉確認，以建立充分且適切的客觀證據。",
-    "mnemonic": "問、看、查、抽。"
+    "mnemonic": "問、看、查、抽。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0172",
@@ -3256,7 +4111,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "查核教育訓練，哪組方法最符合一般稽核規劃？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n查核教育訓練，哪組方法最符合一般稽核規劃？",
     "options": [
       "訪談、觀察、文件/紀錄查閱與適當抽樣",
       "只做口頭訪談",
@@ -3265,7 +4120,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "訪談、觀察、文件/紀錄查閱與適當抽樣",
     "explanation": "稽核通常需要多種方法交叉確認，以建立充分且適切的客觀證據。",
-    "mnemonic": "問、看、查、抽。"
+    "mnemonic": "問、看、查、抽。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0173",
@@ -3275,7 +4135,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程 / ISO 19011",
     "difficulty": "中",
     "type": "single",
-    "stem": "主管說『我們所有權限都有定期審查』，稽核員下一步最適當的是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n主管說『我們所有權限都有定期審查』，稽核員下一步最適當的是？",
     "options": [
       "要求查看相關紀錄並適當抽樣確認",
       "因為是主管說的就直接判符合",
@@ -3284,7 +4144,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "要求查看相關紀錄並適當抽樣確認",
     "explanation": "主管說法可作為訪談資訊，但稽核結論應建立在可驗證的客觀證據上。",
-    "mnemonic": "口說不算，證據說話。"
+    "mnemonic": "口說不算，證據說話。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0174",
@@ -3294,7 +4159,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程 / ISO 19011",
     "difficulty": "中",
     "type": "single",
-    "stem": "主管說『每天都有備份』，稽核員下一步最適當的是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n主管說『每天都有備份』，稽核員下一步最適當的是？",
     "options": [
       "要求查看相關紀錄並適當抽樣確認",
       "因為是主管說的就直接判符合",
@@ -3303,7 +4168,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "要求查看相關紀錄並適當抽樣確認",
     "explanation": "主管說法可作為訪談資訊，但稽核結論應建立在可驗證的客觀證據上。",
-    "mnemonic": "口說不算，證據說話。"
+    "mnemonic": "口說不算，證據說話。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0175",
@@ -3313,7 +4183,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程 / ISO 19011",
     "difficulty": "中",
     "type": "single",
-    "stem": "主管說『所有員工都完成資安訓練』，稽核員下一步最適當的是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n主管說『所有員工都完成資安訓練』，稽核員下一步最適當的是？",
     "options": [
       "要求查看相關紀錄並適當抽樣確認",
       "因為是主管說的就直接判符合",
@@ -3322,7 +4192,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "要求查看相關紀錄並適當抽樣確認",
     "explanation": "主管說法可作為訪談資訊，但稽核結論應建立在可驗證的客觀證據上。",
-    "mnemonic": "口說不算，證據說話。"
+    "mnemonic": "口說不算，證據說話。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0176",
@@ -3332,7 +4207,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程 / ISO 19011",
     "difficulty": "中",
     "type": "single",
-    "stem": "主管說『所有變更都有核准』，稽核員下一步最適當的是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n主管說『所有變更都有核准』，稽核員下一步最適當的是？",
     "options": [
       "要求查看相關紀錄並適當抽樣確認",
       "因為是主管說的就直接判符合",
@@ -3341,7 +4216,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "要求查看相關紀錄並適當抽樣確認",
     "explanation": "主管說法可作為訪談資訊，但稽核結論應建立在可驗證的客觀證據上。",
-    "mnemonic": "口說不算，證據說話。"
+    "mnemonic": "口說不算，證據說話。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0177",
@@ -3351,7 +4231,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 7.5",
     "difficulty": "中",
     "type": "single",
-    "stem": "現場使用 V2 程序，但文件系統核准版是 V4，稽核員最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n現場使用 V2 程序，但文件系統核准版是 V4，稽核員最適當的作法是？",
     "options": [
       "確認版本控制要求、使用情形與客觀證據後再判斷",
       "只要內容相似就一定沒問題",
@@ -3360,7 +4240,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認版本控制要求、使用情形與客觀證據後再判斷",
     "explanation": "文件化資訊應受識別、更新與變更控制；但稽核員仍應先確認要求與實際影響，再形成發現。",
-    "mnemonic": "先看哪版有效，再判現場是否用對。"
+    "mnemonic": "先看哪版有效，再判現場是否用對。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0178",
@@ -3370,7 +4255,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 7.5",
     "difficulty": "中",
     "type": "single",
-    "stem": "作業人員桌上有已作廢表單，稽核員最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n作業人員桌上有已作廢表單，稽核員最適當的作法是？",
     "options": [
       "確認版本控制要求、使用情形與客觀證據後再判斷",
       "只要內容相似就一定沒問題",
@@ -3379,7 +4264,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認版本控制要求、使用情形與客觀證據後再判斷",
     "explanation": "文件化資訊應受識別、更新與變更控制；但稽核員仍應先確認要求與實際影響，再形成發現。",
-    "mnemonic": "先看哪版有效，再判現場是否用對。"
+    "mnemonic": "先看哪版有效，再判現場是否用對。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0179",
@@ -3389,7 +4279,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 7.5",
     "difficulty": "中",
     "type": "single",
-    "stem": "部門仍引用舊版安全政策，稽核員最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n部門仍引用舊版安全政策，稽核員最適當的作法是？",
     "options": [
       "確認版本控制要求、使用情形與客觀證據後再判斷",
       "只要內容相似就一定沒問題",
@@ -3398,7 +4288,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認版本控制要求、使用情形與客觀證據後再判斷",
     "explanation": "文件化資訊應受識別、更新與變更控制；但稽核員仍應先確認要求與實際影響，再形成發現。",
-    "mnemonic": "先看哪版有效，再判現場是否用對。"
+    "mnemonic": "先看哪版有效，再判現場是否用對。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0180",
@@ -3408,7 +4303,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 7.5",
     "difficulty": "中",
     "type": "single",
-    "stem": "現場工作指導書版本與主文件庫不同，稽核員最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n現場工作指導書版本與主文件庫不同，稽核員最適當的作法是？",
     "options": [
       "確認版本控制要求、使用情形與客觀證據後再判斷",
       "只要內容相似就一定沒問題",
@@ -3417,7 +4312,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認版本控制要求、使用情形與客觀證據後再判斷",
     "explanation": "文件化資訊應受識別、更新與變更控制；但稽核員仍應先確認要求與實際影響，再形成發現。",
-    "mnemonic": "先看哪版有效，再判現場是否用對。"
+    "mnemonic": "先看哪版有效，再判現場是否用對。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0181",
@@ -3427,7 +4327,7 @@ window.QUESTION_BANK = [
     "source": "稽核判斷邏輯",
     "difficulty": "中",
     "type": "single",
-    "stem": "看到一份表單沒有主管簽名，但尚未確認程序是否要求簽名，最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n看到一份表單沒有主管簽名，但尚未確認程序是否要求簽名，最適當的作法是？",
     "options": [
       "先確認適用要求與程序，再依證據判斷",
       "直接判重大不符合",
@@ -3436,7 +4336,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "先確認適用要求與程序，再依證據判斷",
     "explanation": "稽核不符合必須有明確準則與客觀證據；外觀看起來『怪』不等於一定違反要求。",
-    "mnemonic": "有要求＋沒做到，才有不符合基礎。"
+    "mnemonic": "有要求＋沒做到，才有不符合基礎。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0182",
@@ -3446,7 +4351,7 @@ window.QUESTION_BANK = [
     "source": "稽核判斷邏輯",
     "difficulty": "中",
     "type": "single",
-    "stem": "看到紀錄沒有日期，但還不知道該欄位是否必填，最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n看到紀錄沒有日期，但還不知道該欄位是否必填，最適當的作法是？",
     "options": [
       "先確認適用要求與程序，再依證據判斷",
       "直接判重大不符合",
@@ -3455,7 +4360,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "先確認適用要求與程序，再依證據判斷",
     "explanation": "稽核不符合必須有明確準則與客觀證據；外觀看起來『怪』不等於一定違反要求。",
-    "mnemonic": "有要求＋沒做到，才有不符合基礎。"
+    "mnemonic": "有要求＋沒做到，才有不符合基礎。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0183",
@@ -3465,7 +4375,7 @@ window.QUESTION_BANK = [
     "source": "稽核判斷邏輯",
     "difficulty": "中",
     "type": "single",
-    "stem": "看到文件沒有蓋章，但標準未必要求蓋章，最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n看到文件沒有蓋章，但標準未必要求蓋章，最適當的作法是？",
     "options": [
       "先確認適用要求與程序，再依證據判斷",
       "直接判重大不符合",
@@ -3474,7 +4384,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "先確認適用要求與程序，再依證據判斷",
     "explanation": "稽核不符合必須有明確準則與客觀證據；外觀看起來『怪』不等於一定違反要求。",
-    "mnemonic": "有要求＋沒做到，才有不符合基礎。"
+    "mnemonic": "有要求＋沒做到，才有不符合基礎。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0184",
@@ -3484,7 +4399,7 @@ window.QUESTION_BANK = [
     "source": "稽核判斷邏輯",
     "difficulty": "中",
     "type": "single",
-    "stem": "看到電子核准沒有紙本簽名，但制度可能採電子簽核，最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n看到電子核准沒有紙本簽名，但制度可能採電子簽核，最適當的作法是？",
     "options": [
       "先確認適用要求與程序，再依證據判斷",
       "直接判重大不符合",
@@ -3493,7 +4408,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "先確認適用要求與程序，再依證據判斷",
     "explanation": "稽核不符合必須有明確準則與客觀證據；外觀看起來『怪』不等於一定違反要求。",
-    "mnemonic": "有要求＋沒做到，才有不符合基礎。"
+    "mnemonic": "有要求＋沒做到，才有不符合基礎。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0185",
@@ -3503,7 +4423,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 備份控制 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "每天都有備份紀錄，但一年沒有做規定的還原測試，最適當的稽核判斷是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n每天都有備份紀錄，但一年沒有做規定的還原測試，最適當的稽核判斷是？",
     "options": [
       "不能只因有備份就判符合，應依要求確認測試/還原證據",
       "只要備份檔存在就一定符合",
@@ -3512,7 +4432,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "不能只因有備份就判符合，應依要求確認測試/還原證據",
     "explanation": "備份控制的重點不只『有備份』，還要依組織要求與控制安排驗證備份可用性。",
-    "mnemonic": "備份是救命包，還要驗證打得開。"
+    "mnemonic": "備份是救命包，還要驗證打得開。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0186",
@@ -3522,7 +4447,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 備份控制 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "備份檔存在，但從未確認能否還原，最適當的稽核判斷是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n備份檔存在，但從未確認能否還原，最適當的稽核判斷是？",
     "options": [
       "不能只因有備份就判符合，應依要求確認測試/還原證據",
       "只要備份檔存在就一定符合",
@@ -3531,7 +4456,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "不能只因有備份就判符合，應依要求確認測試/還原證據",
     "explanation": "備份控制的重點不只『有備份』，還要依組織要求與控制安排驗證備份可用性。",
-    "mnemonic": "備份是救命包，還要驗證打得開。"
+    "mnemonic": "備份是救命包，還要驗證打得開。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0187",
@@ -3541,7 +4471,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 備份控制 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "程序要求季度復原測試，現場只有備份成功畫面，最適當的稽核判斷是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n程序要求季度復原測試，現場只有備份成功畫面，最適當的稽核判斷是？",
     "options": [
       "不能只因有備份就判符合，應依要求確認測試/還原證據",
       "只要備份檔存在就一定符合",
@@ -3550,7 +4480,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "不能只因有備份就判符合，應依要求確認測試/還原證據",
     "explanation": "備份控制的重點不只『有備份』，還要依組織要求與控制安排驗證備份可用性。",
-    "mnemonic": "備份是救命包，還要驗證打得開。"
+    "mnemonic": "備份是救命包，還要驗證打得開。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0188",
@@ -3560,7 +4495,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 備份控制 / 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "主管說備份一定可用，但沒有測試紀錄，最適當的稽核判斷是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n主管說備份一定可用，但沒有測試紀錄，最適當的稽核判斷是？",
     "options": [
       "不能只因有備份就判符合，應依要求確認測試/還原證據",
       "只要備份檔存在就一定符合",
@@ -3569,7 +4504,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "不能只因有備份就判符合，應依要求確認測試/還原證據",
     "explanation": "備份控制的重點不只『有備份』，還要依組織要求與控制安排驗證備份可用性。",
-    "mnemonic": "備份是救命包，還要驗證打得開。"
+    "mnemonic": "備份是救命包，還要驗證打得開。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0189",
@@ -3579,7 +4519,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 5.15-5.18",
     "difficulty": "中",
     "type": "single",
-    "stem": "程序要求每季審查高權限帳號，但 9 個月沒有紀錄，哪個判斷最合理？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n程序要求每季審查高權限帳號，但 9 個月沒有紀錄，哪個判斷最合理？",
     "options": [
       "依存取控制與組織程序要求，進一步確認並形成稽核發現",
       "只要尚未發生攻擊就算符合",
@@ -3588,7 +4528,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依存取控制與組織程序要求，進一步確認並形成稽核發現",
     "explanation": "Annex A 要求依規則提供、審查、修改及刪除存取權限；組織自己核准的程序也屬稽核準則。",
-    "mnemonic": "權限要給、要審、要改、要刪。"
+    "mnemonic": "權限要給、要審、要改、要刪。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0190",
@@ -3598,7 +4543,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 5.15-5.18",
     "difficulty": "中",
     "type": "single",
-    "stem": "帳號離職後三天仍可登入，哪個判斷最合理？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n帳號離職後三天仍可登入，哪個判斷最合理？",
     "options": [
       "依存取控制與組織程序要求，進一步確認並形成稽核發現",
       "只要尚未發生攻擊就算符合",
@@ -3607,7 +4552,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依存取控制與組織程序要求，進一步確認並形成稽核發現",
     "explanation": "Annex A 要求依規則提供、審查、修改及刪除存取權限；組織自己核准的程序也屬稽核準則。",
-    "mnemonic": "權限要給、要審、要改、要刪。"
+    "mnemonic": "權限要給、要審、要改、要刪。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0191",
@@ -3617,7 +4567,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 5.15-5.18",
     "difficulty": "中",
     "type": "single",
-    "stem": "某使用者職務調整後仍保有舊部門權限，哪個判斷最合理？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n某使用者職務調整後仍保有舊部門權限，哪個判斷最合理？",
     "options": [
       "依存取控制與組織程序要求，進一步確認並形成稽核發現",
       "只要尚未發生攻擊就算符合",
@@ -3626,7 +4576,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依存取控制與組織程序要求，進一步確認並形成稽核發現",
     "explanation": "Annex A 要求依規則提供、審查、修改及刪除存取權限；組織自己核准的程序也屬稽核準則。",
-    "mnemonic": "權限要給、要審、要改、要刪。"
+    "mnemonic": "權限要給、要審、要改、要刪。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0192",
@@ -3636,7 +4591,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 5.15-5.18",
     "difficulty": "中",
     "type": "single",
-    "stem": "權限異動沒有依規則留下核准紀錄，哪個判斷最合理？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n權限異動沒有依規則留下核准紀錄，哪個判斷最合理？",
     "options": [
       "依存取控制與組織程序要求，進一步確認並形成稽核發現",
       "只要尚未發生攻擊就算符合",
@@ -3645,7 +4600,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依存取控制與組織程序要求，進一步確認並形成稽核發現",
     "explanation": "Annex A 要求依規則提供、審查、修改及刪除存取權限；組織自己核准的程序也屬稽核準則。",
-    "mnemonic": "權限要給、要審、要改、要刪。"
+    "mnemonic": "權限要給、要審、要改、要刪。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0193",
@@ -3655,7 +4615,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 身分與存取管理 / 10.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核發現離職者 VPN 帳號仍可登入，第一個立即處置最接近哪個概念？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n稽核發現離職者 VPN 帳號仍可登入，第一個立即處置最接近哪個概念？",
     "options": [
       "矯正（Correction）",
       "矯正措施（Corrective Action）",
@@ -3664,7 +4624,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "矯正（Correction）",
     "explanation": "立即停止不適當的有效帳號是在控制與修正眼前不符合；後續找原因並防再發才是矯正措施。",
-    "mnemonic": "先修現在，再防未來。"
+    "mnemonic": "先修現在，再防未來。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0194",
@@ -3674,7 +4639,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 身分與存取管理 / 10.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "承包商合約已終止但帳號未停用，第一個立即處置最接近哪個概念？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n承包商合約已終止但帳號未停用，第一個立即處置最接近哪個概念？",
     "options": [
       "矯正（Correction）",
       "矯正措施（Corrective Action）",
@@ -3683,7 +4648,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "矯正（Correction）",
     "explanation": "立即停止不適當的有效帳號是在控制與修正眼前不符合；後續找原因並防再發才是矯正措施。",
-    "mnemonic": "先修現在，再防未來。"
+    "mnemonic": "先修現在，再防未來。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0195",
@@ -3693,7 +4663,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 身分與存取管理 / 10.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "轉調人員仍有原高權限，第一個立即處置最接近哪個概念？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n轉調人員仍有原高權限，第一個立即處置最接近哪個概念？",
     "options": [
       "矯正（Correction）",
       "矯正措施（Corrective Action）",
@@ -3702,7 +4672,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "矯正（Correction）",
     "explanation": "立即停止不適當的有效帳號是在控制與修正眼前不符合；後續找原因並防再發才是矯正措施。",
-    "mnemonic": "先修現在，再防未來。"
+    "mnemonic": "先修現在，再防未來。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0196",
@@ -3712,7 +4687,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 身分與存取管理 / 10.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "停職人員的遠端帳號仍有效，第一個立即處置最接近哪個概念？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n停職人員的遠端帳號仍有效，第一個立即處置最接近哪個概念？",
     "options": [
       "矯正（Correction）",
       "矯正措施（Corrective Action）",
@@ -3721,7 +4696,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "矯正（Correction）",
     "explanation": "立即停止不適當的有效帳號是在控制與修正眼前不符合；後續找原因並防再發才是矯正措施。",
-    "mnemonic": "先修現在，再防未來。"
+    "mnemonic": "先修現在，再防未來。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0197",
@@ -3731,7 +4711,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 8.32",
     "difficulty": "中",
     "type": "single",
-    "stem": "工程師要修改正式防火牆規則，哪個做法最符合控制要求？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n工程師要修改正式防火牆規則，哪個做法最符合控制要求？",
     "options": [
       "依變更管理程序進行核准、評估與紀錄",
       "只要工程師資深就可直接改",
@@ -3740,7 +4720,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依變更管理程序進行核准、評估與紀錄",
     "explanation": "Annex A 8.32 要求資訊處理設施及資訊系統的變更遵循變更管理程序。",
-    "mnemonic": "正式環境不能想改就改。"
+    "mnemonic": "正式環境不能想改就改。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0198",
@@ -3750,7 +4735,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 8.32",
     "difficulty": "中",
     "type": "single",
-    "stem": "開發人員要更新正式系統版本，哪個做法最符合控制要求？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n開發人員要更新正式系統版本，哪個做法最符合控制要求？",
     "options": [
       "依變更管理程序進行核准、評估與紀錄",
       "只要工程師資深就可直接改",
@@ -3759,7 +4744,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依變更管理程序進行核准、評估與紀錄",
     "explanation": "Annex A 8.32 要求資訊處理設施及資訊系統的變更遵循變更管理程序。",
-    "mnemonic": "正式環境不能想改就改。"
+    "mnemonic": "正式環境不能想改就改。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0199",
@@ -3769,7 +4759,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 8.32",
     "difficulty": "中",
     "type": "single",
-    "stem": "管理員要調整核心網路設定，哪個做法最符合控制要求？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n管理員要調整核心網路設定，哪個做法最符合控制要求？",
     "options": [
       "依變更管理程序進行核准、評估與紀錄",
       "只要工程師資深就可直接改",
@@ -3778,7 +4768,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依變更管理程序進行核准、評估與紀錄",
     "explanation": "Annex A 8.32 要求資訊處理設施及資訊系統的變更遵循變更管理程序。",
-    "mnemonic": "正式環境不能想改就改。"
+    "mnemonic": "正式環境不能想改就改。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0200",
@@ -3788,7 +4783,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 8.32",
     "difficulty": "中",
     "type": "single",
-    "stem": "維運人員要變更正式資料庫設定，哪個做法最符合控制要求？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n維運人員要變更正式資料庫設定，哪個做法最符合控制要求？",
     "options": [
       "依變更管理程序進行核准、評估與紀錄",
       "只要工程師資深就可直接改",
@@ -3797,7 +4792,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依變更管理程序進行核准、評估與紀錄",
     "explanation": "Annex A 8.32 要求資訊處理設施及資訊系統的變更遵循變更管理程序。",
-    "mnemonic": "正式環境不能想改就改。"
+    "mnemonic": "正式環境不能想改就改。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0201",
@@ -3807,7 +4807,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 8.34",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核員想在正式主機跑可能影響效能的測試，最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n稽核員想在正式主機跑可能影響效能的測試，最適當的作法是？",
     "options": [
       "先與適當管理階層規劃議定並降低衝擊",
       "稽核員有權直接執行",
@@ -3816,7 +4816,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "先與適當管理階層規劃議定並降低衝擊",
     "explanation": "Annex A 8.34 明確要求涉及運作中系統的稽核測試與保證活動應事先規劃與議定。",
-    "mnemonic": "稽核不能把正式系統搞掛。"
+    "mnemonic": "稽核不能把正式系統搞掛。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0202",
@@ -3826,7 +4831,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 8.34",
     "difficulty": "中",
     "type": "single",
-    "stem": "要執行可能造成服務中斷的掃描，最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n要執行可能造成服務中斷的掃描，最適當的作法是？",
     "options": [
       "先與適當管理階層規劃議定並降低衝擊",
       "稽核員有權直接執行",
@@ -3835,7 +4840,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "先與適當管理階層規劃議定並降低衝擊",
     "explanation": "Annex A 8.34 明確要求涉及運作中系統的稽核測試與保證活動應事先規劃與議定。",
-    "mnemonic": "稽核不能把正式系統搞掛。"
+    "mnemonic": "稽核不能把正式系統搞掛。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0203",
@@ -3845,7 +4855,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 8.34",
     "difficulty": "中",
     "type": "single",
-    "stem": "測試需要使用正式客戶資料，最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n測試需要使用正式客戶資料，最適當的作法是？",
     "options": [
       "先與適當管理階層規劃議定並降低衝擊",
       "稽核員有權直接執行",
@@ -3854,7 +4864,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "先與適當管理階層規劃議定並降低衝擊",
     "explanation": "Annex A 8.34 明確要求涉及運作中系統的稽核測試與保證活動應事先規劃與議定。",
-    "mnemonic": "稽核不能把正式系統搞掛。"
+    "mnemonic": "稽核不能把正式系統搞掛。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0204",
@@ -3864,7 +4879,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 8.34",
     "difficulty": "中",
     "type": "single",
-    "stem": "保證活動可能影響營運流程，最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n保證活動可能影響營運流程，最適當的作法是？",
     "options": [
       "先與適當管理階層規劃議定並降低衝擊",
       "稽核員有權直接執行",
@@ -3873,7 +4888,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "先與適當管理階層規劃議定並降低衝擊",
     "explanation": "Annex A 8.34 明確要求涉及運作中系統的稽核測試與保證活動應事先規劃與議定。",
-    "mnemonic": "稽核不能把正式系統搞掛。"
+    "mnemonic": "稽核不能把正式系統搞掛。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0205",
@@ -3883,7 +4903,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 6.3",
     "difficulty": "中",
     "type": "single",
-    "stem": "組織聲稱所有員工均完成年度資安訓練，稽核員最合理的查核方式是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n組織聲稱所有員工均完成年度資安訓練，稽核員最合理的查核方式是？",
     "options": [
       "查看訓練要求、完成紀錄並適當抽樣確認",
       "只問主管是否有上課",
@@ -3892,7 +4912,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "查看訓練要求、完成紀錄並適當抽樣確認",
     "explanation": "Annex A 6.3 要求人員接受與職能相關的資安認知與教育訓練並定期更新，稽核時應確認實際完成證據。",
-    "mnemonic": "有課程還不夠，要看誰真的上完。"
+    "mnemonic": "有課程還不夠，要看誰真的上完。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0206",
@@ -3902,7 +4927,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 6.3",
     "difficulty": "中",
     "type": "single",
-    "stem": "新進員工需接受資安認知，稽核員最合理的查核方式是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n新進員工需接受資安認知，稽核員最合理的查核方式是？",
     "options": [
       "查看訓練要求、完成紀錄並適當抽樣確認",
       "只問主管是否有上課",
@@ -3911,7 +4936,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "查看訓練要求、完成紀錄並適當抽樣確認",
     "explanation": "Annex A 6.3 要求人員接受與職能相關的資安認知與教育訓練並定期更新，稽核時應確認實際完成證據。",
-    "mnemonic": "有課程還不夠，要看誰真的上完。"
+    "mnemonic": "有課程還不夠，要看誰真的上完。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0207",
@@ -3921,7 +4951,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 6.3",
     "difficulty": "中",
     "type": "single",
-    "stem": "特權使用者需接受特定教育，稽核員最合理的查核方式是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n特權使用者需接受特定教育，稽核員最合理的查核方式是？",
     "options": [
       "查看訓練要求、完成紀錄並適當抽樣確認",
       "只問主管是否有上課",
@@ -3930,7 +4960,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "查看訓練要求、完成紀錄並適當抽樣確認",
     "explanation": "Annex A 6.3 要求人員接受與職能相關的資安認知與教育訓練並定期更新，稽核時應確認實際完成證據。",
-    "mnemonic": "有課程還不夠，要看誰真的上完。"
+    "mnemonic": "有課程還不夠，要看誰真的上完。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0208",
@@ -3940,7 +4975,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 6.3",
     "difficulty": "中",
     "type": "single",
-    "stem": "外部承包商也被要求接受適用訓練，稽核員最合理的查核方式是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n外部承包商也被要求接受適用訓練，稽核員最合理的查核方式是？",
     "options": [
       "查看訓練要求、完成紀錄並適當抽樣確認",
       "只問主管是否有上課",
@@ -3949,7 +4984,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "查看訓練要求、完成紀錄並適當抽樣確認",
     "explanation": "Annex A 6.3 要求人員接受與職能相關的資安認知與教育訓練並定期更新，稽核時應確認實際完成證據。",
-    "mnemonic": "有課程還不夠，要看誰真的上完。"
+    "mnemonic": "有課程還不夠，要看誰真的上完。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0209",
@@ -3959,7 +4999,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 5.9",
     "difficulty": "中",
     "type": "single",
-    "stem": "組織無法說明有哪些重要資訊資產及其擁有者，哪個情況最值得稽核員追查？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n組織無法說明有哪些重要資訊資產及其擁有者，哪個情況最值得稽核員追查？",
     "options": [
       "確認資產清冊是否完整、維護並指定擁有者",
       "只要設備還能開機就沒問題",
@@ -3968,7 +5008,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認資產清冊是否完整、維護並指定擁有者",
     "explanation": "Annex A 5.9 要求製作並維護資訊及其他相關資產清冊，包括擁有者。",
-    "mnemonic": "有什麼資產、誰負責。"
+    "mnemonic": "有什麼資產、誰負責。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0210",
@@ -3978,7 +5023,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 5.9",
     "difficulty": "中",
     "type": "single",
-    "stem": "新伺服器上線但未納入任何清冊，哪個情況最值得稽核員追查？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n新伺服器上線但未納入任何清冊，哪個情況最值得稽核員追查？",
     "options": [
       "確認資產清冊是否完整、維護並指定擁有者",
       "只要設備還能開機就沒問題",
@@ -3987,7 +5032,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認資產清冊是否完整、維護並指定擁有者",
     "explanation": "Annex A 5.9 要求製作並維護資訊及其他相關資產清冊，包括擁有者。",
-    "mnemonic": "有什麼資產、誰負責。"
+    "mnemonic": "有什麼資產、誰負責。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0211",
@@ -3997,7 +5047,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 5.9",
     "difficulty": "中",
     "type": "single",
-    "stem": "重要資料庫找不到負責 owner，哪個情況最值得稽核員追查？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n重要資料庫找不到負責 owner，哪個情況最值得稽核員追查？",
     "options": [
       "確認資產清冊是否完整、維護並指定擁有者",
       "只要設備還能開機就沒問題",
@@ -4006,7 +5056,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認資產清冊是否完整、維護並指定擁有者",
     "explanation": "Annex A 5.9 要求製作並維護資訊及其他相關資產清冊，包括擁有者。",
-    "mnemonic": "有什麼資產、誰負責。"
+    "mnemonic": "有什麼資產、誰負責。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0212",
@@ -4016,7 +5071,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 5.9",
     "difficulty": "中",
     "type": "single",
-    "stem": "多項資產已淘汰但清冊仍顯示在用，哪個情況最值得稽核員追查？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n多項資產已淘汰但清冊仍顯示在用，哪個情況最值得稽核員追查？",
     "options": [
       "確認資產清冊是否完整、維護並指定擁有者",
       "只要設備還能開機就沒問題",
@@ -4025,7 +5080,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認資產清冊是否完整、維護並指定擁有者",
     "explanation": "Annex A 5.9 要求製作並維護資訊及其他相關資產清冊，包括擁有者。",
-    "mnemonic": "有什麼資產、誰負責。"
+    "mnemonic": "有什麼資產、誰負責。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0213",
@@ -4035,7 +5095,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 6.8",
     "difficulty": "中",
     "type": "single",
-    "stem": "員工看到可疑釣魚郵件，最符合控制要求的做法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n員工看到可疑釣魚郵件，最符合控制要求的做法是？",
     "options": [
       "依組織提供的適當管道及時通報",
       "自己偷偷處理後不要告訴任何人",
@@ -4044,7 +5104,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依組織提供的適當管道及時通報",
     "explanation": "Annex A 6.8 要求組織提供機制，讓人員能透過適切管道及時通報觀察到或可疑的資訊安全事件。",
-    "mnemonic": "看到可疑，趕快依程序通報。"
+    "mnemonic": "看到可疑，趕快依程序通報。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0214",
@@ -4054,7 +5119,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 6.8",
     "difficulty": "中",
     "type": "single",
-    "stem": "使用者發現帳號疑似被盜，最符合控制要求的做法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n使用者發現帳號疑似被盜，最符合控制要求的做法是？",
     "options": [
       "依組織提供的適當管道及時通報",
       "自己偷偷處理後不要告訴任何人",
@@ -4063,7 +5128,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依組織提供的適當管道及時通報",
     "explanation": "Annex A 6.8 要求組織提供機制，讓人員能透過適切管道及時通報觀察到或可疑的資訊安全事件。",
-    "mnemonic": "看到可疑，趕快依程序通報。"
+    "mnemonic": "看到可疑，趕快依程序通報。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0215",
@@ -4073,7 +5143,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 6.8",
     "difficulty": "中",
     "type": "single",
-    "stem": "員工發現異常資料外洩跡象，最符合控制要求的做法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n員工發現異常資料外洩跡象，最符合控制要求的做法是？",
     "options": [
       "依組織提供的適當管道及時通報",
       "自己偷偷處理後不要告訴任何人",
@@ -4082,7 +5152,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依組織提供的適當管道及時通報",
     "explanation": "Annex A 6.8 要求組織提供機制，讓人員能透過適切管道及時通報觀察到或可疑的資訊安全事件。",
-    "mnemonic": "看到可疑，趕快依程序通報。"
+    "mnemonic": "看到可疑，趕快依程序通報。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0216",
@@ -4092,7 +5167,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 6.8",
     "difficulty": "中",
     "type": "single",
-    "stem": "現場人員發現可疑 USB 裝置，最符合控制要求的做法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n現場人員發現可疑 USB 裝置，最符合控制要求的做法是？",
     "options": [
       "依組織提供的適當管道及時通報",
       "自己偷偷處理後不要告訴任何人",
@@ -4101,7 +5176,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "依組織提供的適當管道及時通報",
     "explanation": "Annex A 6.8 要求組織提供機制，讓人員能透過適切管道及時通報觀察到或可疑的資訊安全事件。",
-    "mnemonic": "看到可疑，趕快依程序通報。"
+    "mnemonic": "看到可疑，趕快依程序通報。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0217",
@@ -4111,7 +5191,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 7.1-7.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "機房門可自由進入且沒有紀錄，稽核員最應關注哪個證據？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n機房門可自由進入且沒有紀錄，稽核員最應關注哪個證據？",
     "options": [
       "是否有適當實體進入控制及可追溯紀錄",
       "牆面顏色是否統一",
@@ -4120,7 +5200,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "是否有適當實體進入控制及可追溯紀錄",
     "explanation": "Annex A 實體控制要求安全周界及進出控制，目的是防止未經授權的實體進入、破壞或干擾。",
-    "mnemonic": "機房不是公共場所。"
+    "mnemonic": "機房不是公共場所。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0218",
@@ -4130,7 +5215,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 7.1-7.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "保全區域訪客未經核准，稽核員最應關注哪個證據？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n保全區域訪客未經核准，稽核員最應關注哪個證據？",
     "options": [
       "是否有適當實體進入控制及可追溯紀錄",
       "牆面顏色是否統一",
@@ -4139,7 +5224,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "是否有適當實體進入控制及可追溯紀錄",
     "explanation": "Annex A 實體控制要求安全周界及進出控制，目的是防止未經授權的實體進入、破壞或干擾。",
-    "mnemonic": "機房不是公共場所。"
+    "mnemonic": "機房不是公共場所。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0219",
@@ -4149,7 +5239,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 7.1-7.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "門禁權限離職後未取消，稽核員最應關注哪個證據？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n門禁權限離職後未取消，稽核員最應關注哪個證據？",
     "options": [
       "是否有適當實體進入控制及可追溯紀錄",
       "牆面顏色是否統一",
@@ -4158,7 +5248,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "是否有適當實體進入控制及可追溯紀錄",
     "explanation": "Annex A 實體控制要求安全周界及進出控制，目的是防止未經授權的實體進入、破壞或干擾。",
-    "mnemonic": "機房不是公共場所。"
+    "mnemonic": "機房不是公共場所。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0220",
@@ -4168,7 +5263,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 7.1-7.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "機房進出紀錄無法追溯，稽核員最應關注哪個證據？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n機房進出紀錄無法追溯，稽核員最應關注哪個證據？",
     "options": [
       "是否有適當實體進入控制及可追溯紀錄",
       "牆面顏色是否統一",
@@ -4177,7 +5272,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "是否有適當實體進入控制及可追溯紀錄",
     "explanation": "Annex A 實體控制要求安全周界及進出控制，目的是防止未經授權的實體進入、破壞或干擾。",
-    "mnemonic": "機房不是公共場所。"
+    "mnemonic": "機房不是公共場所。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0221",
@@ -4187,7 +5287,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 6.7",
     "difficulty": "中",
     "type": "single",
-    "stem": "員工在家處理敏感資料，哪個做法最符合遠端工作控制？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n員工在家處理敏感資料，哪個做法最符合遠端工作控制？",
     "options": [
       "實作適當安全措施以保護在組織場所外存取、處理或儲存的資訊",
       "遠端工作不需要任何資安控制",
@@ -4196,7 +5296,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "實作適當安全措施以保護在組織場所外存取、處理或儲存的資訊",
     "explanation": "Annex A 6.7 要求遠端工作時保護組織場所外所存取、處理或儲存的資訊。",
-    "mnemonic": "人可以離開公司，控制不能消失。"
+    "mnemonic": "人可以離開公司，控制不能消失。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0222",
@@ -4206,7 +5311,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 6.7",
     "difficulty": "中",
     "type": "single",
-    "stem": "外派人員使用公共網路連線，哪個做法最符合遠端工作控制？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n外派人員使用公共網路連線，哪個做法最符合遠端工作控制？",
     "options": [
       "實作適當安全措施以保護在組織場所外存取、處理或儲存的資訊",
       "遠端工作不需要任何資安控制",
@@ -4215,7 +5320,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "實作適當安全措施以保護在組織場所外存取、處理或儲存的資訊",
     "explanation": "Annex A 6.7 要求遠端工作時保護組織場所外所存取、處理或儲存的資訊。",
-    "mnemonic": "人可以離開公司，控制不能消失。"
+    "mnemonic": "人可以離開公司，控制不能消失。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0223",
@@ -4225,7 +5335,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 6.7",
     "difficulty": "中",
     "type": "single",
-    "stem": "遠端維運人員存取內部系統，哪個做法最符合遠端工作控制？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n遠端維運人員存取內部系統，哪個做法最符合遠端工作控制？",
     "options": [
       "實作適當安全措施以保護在組織場所外存取、處理或儲存的資訊",
       "遠端工作不需要任何資安控制",
@@ -4234,7 +5344,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "實作適當安全措施以保護在組織場所外存取、處理或儲存的資訊",
     "explanation": "Annex A 6.7 要求遠端工作時保護組織場所外所存取、處理或儲存的資訊。",
-    "mnemonic": "人可以離開公司，控制不能消失。"
+    "mnemonic": "人可以離開公司，控制不能消失。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0224",
@@ -4244,7 +5359,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 6.7",
     "difficulty": "中",
     "type": "single",
-    "stem": "承包商在外部地點處理組織資訊，哪個做法最符合遠端工作控制？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n承包商在外部地點處理組織資訊，哪個做法最符合遠端工作控制？",
     "options": [
       "實作適當安全措施以保護在組織場所外存取、處理或儲存的資訊",
       "遠端工作不需要任何資安控制",
@@ -4253,7 +5368,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "實作適當安全措施以保護在組織場所外存取、處理或儲存的資訊",
     "explanation": "Annex A 6.7 要求遠端工作時保護組織場所外所存取、處理或儲存的資訊。",
-    "mnemonic": "人可以離開公司，控制不能消失。"
+    "mnemonic": "人可以離開公司，控制不能消失。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0225",
@@ -4263,7 +5383,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 5.19 等",
     "difficulty": "中",
     "type": "single",
-    "stem": "重要雲端供應商處理大量敏感資料，哪個做法最適當？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n重要雲端供應商處理大量敏感資料，哪個做法最適當？",
     "options": [
       "定義並實作供應商資訊安全風險管理過程與要求",
       "只看價格最低者",
@@ -4272,7 +5392,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "定義並實作供應商資訊安全風險管理過程與要求",
     "explanation": "Annex A 5.19 要求管理與供應者產品或服務使用相關的資訊安全風險。",
-    "mnemonic": "外包的是服務，不是責任。"
+    "mnemonic": "外包的是服務，不是責任。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0226",
@@ -4282,7 +5407,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 5.19 等",
     "difficulty": "中",
     "type": "single",
-    "stem": "外包商可遠端存取核心系統，哪個做法最適當？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n外包商可遠端存取核心系統，哪個做法最適當？",
     "options": [
       "定義並實作供應商資訊安全風險管理過程與要求",
       "只看價格最低者",
@@ -4291,7 +5416,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "定義並實作供應商資訊安全風險管理過程與要求",
     "explanation": "Annex A 5.19 要求管理與供應者產品或服務使用相關的資訊安全風險。",
-    "mnemonic": "外包的是服務，不是責任。"
+    "mnemonic": "外包的是服務，不是責任。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0227",
@@ -4301,7 +5431,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 5.19 等",
     "difficulty": "中",
     "type": "single",
-    "stem": "第三方服務中斷會影響營運，哪個做法最適當？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n第三方服務中斷會影響營運，哪個做法最適當？",
     "options": [
       "定義並實作供應商資訊安全風險管理過程與要求",
       "只看價格最低者",
@@ -4310,7 +5440,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "定義並實作供應商資訊安全風險管理過程與要求",
     "explanation": "Annex A 5.19 要求管理與供應者產品或服務使用相關的資訊安全風險。",
-    "mnemonic": "外包的是服務，不是責任。"
+    "mnemonic": "外包的是服務，不是責任。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0228",
@@ -4320,7 +5455,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 5.19 等",
     "difficulty": "中",
     "type": "single",
-    "stem": "供應商將工作再委外，哪個做法最適當？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n供應商將工作再委外，哪個做法最適當？",
     "options": [
       "定義並實作供應商資訊安全風險管理過程與要求",
       "只看價格最低者",
@@ -4329,7 +5464,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "定義並實作供應商資訊安全風險管理過程與要求",
     "explanation": "Annex A 5.19 要求管理與供應者產品或服務使用相關的資訊安全風險。",
-    "mnemonic": "外包的是服務，不是責任。"
+    "mnemonic": "外包的是服務，不是責任。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0229",
@@ -4339,7 +5479,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "抽查 5 筆變更紀錄有 2 筆缺核准，下一步最合理的是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n抽查 5 筆變更紀錄有 2 筆缺核准，下一步最合理的是？",
     "options": [
       "擴大或調整抽樣，確認問題範圍與系統性",
       "因不是全部樣本有問題所以忽略",
@@ -4348,7 +5488,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "擴大或調整抽樣，確認問題範圍與系統性",
     "explanation": "當樣本出現多筆異常，稽核員應取得更多證據以判斷問題範圍，而不是忽略或過度推論。",
-    "mnemonic": "抽到怪的，就往下追。"
+    "mnemonic": "抽到怪的，就往下追。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0230",
@@ -4358,7 +5503,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "抽查 10 個離職帳號發現 3 個未停用，下一步最合理的是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n抽查 10 個離職帳號發現 3 個未停用，下一步最合理的是？",
     "options": [
       "擴大或調整抽樣，確認問題範圍與系統性",
       "因不是全部樣本有問題所以忽略",
@@ -4367,7 +5512,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "擴大或調整抽樣，確認問題範圍與系統性",
     "explanation": "當樣本出現多筆異常，稽核員應取得更多證據以判斷問題範圍，而不是忽略或過度推論。",
-    "mnemonic": "抽到怪的，就往下追。"
+    "mnemonic": "抽到怪的，就往下追。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0231",
@@ -4377,7 +5527,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "抽查 8 筆備份紀錄發現多筆缺失，下一步最合理的是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n抽查 8 筆備份紀錄發現多筆缺失，下一步最合理的是？",
     "options": [
       "擴大或調整抽樣，確認問題範圍與系統性",
       "因不是全部樣本有問題所以忽略",
@@ -4386,7 +5536,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "擴大或調整抽樣，確認問題範圍與系統性",
     "explanation": "當樣本出現多筆異常，稽核員應取得更多證據以判斷問題範圍，而不是忽略或過度推論。",
-    "mnemonic": "抽到怪的，就往下追。"
+    "mnemonic": "抽到怪的，就往下追。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0232",
@@ -4396,7 +5551,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "抽查 6 位員工發現 3 位未完成要求訓練，下一步最合理的是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n抽查 6 位員工發現 3 位未完成要求訓練，下一步最合理的是？",
     "options": [
       "擴大或調整抽樣，確認問題範圍與系統性",
       "因不是全部樣本有問題所以忽略",
@@ -4405,7 +5560,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "擴大或調整抽樣，確認問題範圍與系統性",
     "explanation": "當樣本出現多筆異常，稽核員應取得更多證據以判斷問題範圍，而不是忽略或過度推論。",
-    "mnemonic": "抽到怪的，就往下追。"
+    "mnemonic": "抽到怪的，就往下追。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0233",
@@ -4415,7 +5575,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "主管說每月審查，但系統紀錄顯示半年無活動，稽核員最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n主管說每月審查，但系統紀錄顯示半年無活動，稽核員最適當的作法是？",
     "options": [
       "進一步交叉查證來源、時間與適用要求，再形成判斷",
       "只挑對受稽核方有利的證據",
@@ -4424,7 +5584,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "進一步交叉查證來源、時間與適用要求，再形成判斷",
     "explanation": "證據互相矛盾時不能急著下結論，應追查證據來源、完整性與適用時點。",
-    "mnemonic": "證據打架，先把真相查清楚。"
+    "mnemonic": "證據打架，先把真相查清楚。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0234",
@@ -4434,7 +5599,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "紙本表單顯示已核准，電子系統卻沒有核准紀錄，稽核員最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n紙本表單顯示已核准，電子系統卻沒有核准紀錄，稽核員最適當的作法是？",
     "options": [
       "進一步交叉查證來源、時間與適用要求，再形成判斷",
       "只挑對受稽核方有利的證據",
@@ -4443,7 +5608,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "進一步交叉查證來源、時間與適用要求，再形成判斷",
     "explanation": "證據互相矛盾時不能急著下結論，應追查證據來源、完整性與適用時點。",
-    "mnemonic": "證據打架，先把真相查清楚。"
+    "mnemonic": "證據打架，先把真相查清楚。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0235",
@@ -4453,7 +5623,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "員工說已受訓，訓練清冊沒有姓名，稽核員最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n員工說已受訓，訓練清冊沒有姓名，稽核員最適當的作法是？",
     "options": [
       "進一步交叉查證來源、時間與適用要求，再形成判斷",
       "只挑對受稽核方有利的證據",
@@ -4462,7 +5632,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "進一步交叉查證來源、時間與適用要求，再形成判斷",
     "explanation": "證據互相矛盾時不能急著下結論，應追查證據來源、完整性與適用時點。",
-    "mnemonic": "證據打架，先把真相查清楚。"
+    "mnemonic": "證據打架，先把真相查清楚。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0236",
@@ -4472,7 +5647,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "程序說先核准再變更，但紀錄顯示變更先發生，稽核員最適當的作法是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n程序說先核准再變更，但紀錄顯示變更先發生，稽核員最適當的作法是？",
     "options": [
       "進一步交叉查證來源、時間與適用要求，再形成判斷",
       "只挑對受稽核方有利的證據",
@@ -4481,7 +5656,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "進一步交叉查證來源、時間與適用要求，再形成判斷",
     "explanation": "證據互相矛盾時不能急著下結論，應追查證據來源、完整性與適用時點。",
-    "mnemonic": "證據打架，先把真相查清楚。"
+    "mnemonic": "證據打架，先把真相查清楚。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0237",
@@ -4491,7 +5671,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "公司有完整程序文件但無實際執行紀錄，最適當的稽核判斷是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n公司有完整程序文件但無實際執行紀錄，最適當的稽核判斷是？",
     "options": [
       "文件存在不等於有效實作，仍需確認實際證據",
       "有文件就一定符合",
@@ -4500,7 +5680,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "文件存在不等於有效實作，仍需確認實際證據",
     "explanation": "9.2.1 不只看是否符合要求，也看是否有效實作及維持。",
-    "mnemonic": "有制度 ≠ 有執行。"
+    "mnemonic": "有制度 ≠ 有執行。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0238",
@@ -4510,7 +5695,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "政策寫得很好但員工完全不知情，最適當的稽核判斷是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n政策寫得很好但員工完全不知情，最適當的稽核判斷是？",
     "options": [
       "文件存在不等於有效實作，仍需確認實際證據",
       "有文件就一定符合",
@@ -4519,7 +5704,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "文件存在不等於有效實作，仍需確認實際證據",
     "explanation": "9.2.1 不只看是否符合要求，也看是否有效實作及維持。",
-    "mnemonic": "有制度 ≠ 有執行。"
+    "mnemonic": "有制度 ≠ 有執行。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0239",
@@ -4529,7 +5719,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "備份程序存在但排程已停止，最適當的稽核判斷是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n備份程序存在但排程已停止，最適當的稽核判斷是？",
     "options": [
       "文件存在不等於有效實作，仍需確認實際證據",
       "有文件就一定符合",
@@ -4538,7 +5728,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "文件存在不等於有效實作，仍需確認實際證據",
     "explanation": "9.2.1 不只看是否符合要求，也看是否有效實作及維持。",
-    "mnemonic": "有制度 ≠ 有執行。"
+    "mnemonic": "有制度 ≠ 有執行。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0240",
@@ -4548,7 +5743,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.1",
     "difficulty": "中",
     "type": "single",
-    "stem": "權限審查制度存在但多年未執行，最適當的稽核判斷是？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n權限審查制度存在但多年未執行，最適當的稽核判斷是？",
     "options": [
       "文件存在不等於有效實作，仍需確認實際證據",
       "有文件就一定符合",
@@ -4557,7 +5752,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "文件存在不等於有效實作，仍需確認實際證據",
     "explanation": "9.2.1 不只看是否符合要求，也看是否有效實作及維持。",
-    "mnemonic": "有制度 ≠ 有執行。"
+    "mnemonic": "有制度 ≠ 有執行。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0241",
@@ -4567,7 +5767,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 8.31",
     "difficulty": "中",
     "type": "single",
-    "stem": "開發人員直接在正式環境測試新功能，哪個情況最值得關注？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n開發人員直接在正式環境測試新功能，哪個情況最值得關注？",
     "options": [
       "確認開發、測試與運作環境是否適當區隔並保全",
       "環境是否使用同品牌伺服器",
@@ -4576,7 +5776,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認開發、測試與運作環境是否適當區隔並保全",
     "explanation": "Annex A 8.31 要求區隔開發、測試與運作環境，以保護生產環境與資料。",
-    "mnemonic": "開發、測試、正式不要混成一鍋。"
+    "mnemonic": "開發、測試、正式不要混成一鍋。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0242",
@@ -4586,7 +5791,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 8.31",
     "difficulty": "中",
     "type": "single",
-    "stem": "測試資料與正式資料混用且無保護，哪個情況最值得關注？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n測試資料與正式資料混用且無保護，哪個情況最值得關注？",
     "options": [
       "確認開發、測試與運作環境是否適當區隔並保全",
       "環境是否使用同品牌伺服器",
@@ -4595,7 +5800,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認開發、測試與運作環境是否適當區隔並保全",
     "explanation": "Annex A 8.31 要求區隔開發、測試與運作環境，以保護生產環境與資料。",
-    "mnemonic": "開發、測試、正式不要混成一鍋。"
+    "mnemonic": "開發、測試、正式不要混成一鍋。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0243",
@@ -4605,7 +5815,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 8.31",
     "difficulty": "中",
     "type": "single",
-    "stem": "開發環境可任意連到正式系統，哪個情況最值得關注？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n開發環境可任意連到正式系統，哪個情況最值得關注？",
     "options": [
       "確認開發、測試與運作環境是否適當區隔並保全",
       "環境是否使用同品牌伺服器",
@@ -4614,7 +5824,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認開發、測試與運作環境是否適當區隔並保全",
     "explanation": "Annex A 8.31 要求區隔開發、測試與運作環境，以保護生產環境與資料。",
-    "mnemonic": "開發、測試、正式不要混成一鍋。"
+    "mnemonic": "開發、測試、正式不要混成一鍋。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0244",
@@ -4624,7 +5839,7 @@ window.QUESTION_BANK = [
     "source": "Annex A 8.31",
     "difficulty": "中",
     "type": "single",
-    "stem": "測試帳號長期保留在正式環境，哪個情況最值得關注？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n測試帳號長期保留在正式環境，哪個情況最值得關注？",
     "options": [
       "確認開發、測試與運作環境是否適當區隔並保全",
       "環境是否使用同品牌伺服器",
@@ -4633,7 +5848,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認開發、測試與運作環境是否適當區隔並保全",
     "explanation": "Annex A 8.31 要求區隔開發、測試與運作環境，以保護生產環境與資料。",
-    "mnemonic": "開發、測試、正式不要混成一鍋。"
+    "mnemonic": "開發、測試、正式不要混成一鍋。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0245",
@@ -4643,7 +5863,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "第二階段現場稽核完成後，Closing Meeting 最主要的目的為何？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n第二階段現場稽核完成後，Closing Meeting 最主要的目的為何？",
     "options": [
       "說明稽核發現、結論、未決事項、CAPA 與後續安排",
       "公開責罵造成缺失的人員",
@@ -4652,7 +5872,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "說明稽核發現、結論、未決事項、CAPA 與後續安排",
     "explanation": "教材的結束會議內容包括呈現發現與結論、處理分歧、說明 CAPA、跟催與後續流程。",
-    "mnemonic": "結束會議＝講清楚，不是吵輸贏。"
+    "mnemonic": "結束會議＝講清楚，不是吵輸贏。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0246",
@@ -4662,7 +5887,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核組形成最終發現後，Closing Meeting 最主要的目的為何？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n稽核組形成最終發現後，Closing Meeting 最主要的目的為何？",
     "options": [
       "說明稽核發現、結論、未決事項、CAPA 與後續安排",
       "公開責罵造成缺失的人員",
@@ -4671,7 +5896,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "說明稽核發現、結論、未決事項、CAPA 與後續安排",
     "explanation": "教材的結束會議內容包括呈現發現與結論、處理分歧、說明 CAPA、跟催與後續流程。",
-    "mnemonic": "結束會議＝講清楚，不是吵輸贏。"
+    "mnemonic": "結束會議＝講清楚，不是吵輸贏。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0247",
@@ -4681,7 +5911,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "受稽核方準備接收稽核結果時，Closing Meeting 最主要的目的為何？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n受稽核方準備接收稽核結果時，Closing Meeting 最主要的目的為何？",
     "options": [
       "說明稽核發現、結論、未決事項、CAPA 與後續安排",
       "公開責罵造成缺失的人員",
@@ -4690,7 +5920,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "說明稽核發現、結論、未決事項、CAPA 與後續安排",
     "explanation": "教材的結束會議內容包括呈現發現與結論、處理分歧、說明 CAPA、跟催與後續流程。",
-    "mnemonic": "結束會議＝講清楚，不是吵輸贏。"
+    "mnemonic": "結束會議＝講清楚，不是吵輸贏。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0248",
@@ -4700,7 +5935,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "主導稽核員結束正式稽核時，Closing Meeting 最主要的目的為何？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n主導稽核員結束正式稽核時，Closing Meeting 最主要的目的為何？",
     "options": [
       "說明稽核發現、結論、未決事項、CAPA 與後續安排",
       "公開責罵造成缺失的人員",
@@ -4709,7 +5944,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "說明稽核發現、結論、未決事項、CAPA 與後續安排",
     "explanation": "教材的結束會議內容包括呈現發現與結論、處理分歧、說明 CAPA、跟催與後續流程。",
-    "mnemonic": "結束會議＝講清楚，不是吵輸贏。"
+    "mnemonic": "結束會議＝講清楚，不是吵輸贏。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0249",
@@ -4719,7 +5959,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "受稽核主管不同意某項 NC，最適當的處理方式是？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n受稽核主管不同意某項 NC，最適當的處理方式是？",
     "options": [
       "回到適用準則與客觀證據，必要時記錄未解決分歧",
       "立即刪除 NC",
@@ -4728,7 +5968,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "回到適用準則與客觀證據，必要時記錄未解決分歧",
     "explanation": "教材要求對分歧意見處理並留下紀錄；稽核判斷的核心仍是準則與客觀證據。",
-    "mnemonic": "有爭議，不吵架；回準則，看證據。"
+    "mnemonic": "有爭議，不吵架；回準則，看證據。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0250",
@@ -4738,7 +5983,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "受稽核方提出新的反證，最適當的處理方式是？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n受稽核方提出新的反證，最適當的處理方式是？",
     "options": [
       "回到適用準則與客觀證據，必要時記錄未解決分歧",
       "立即刪除 NC",
@@ -4747,7 +5992,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "回到適用準則與客觀證據，必要時記錄未解決分歧",
     "explanation": "教材要求對分歧意見處理並留下紀錄；稽核判斷的核心仍是準則與客觀證據。",
-    "mnemonic": "有爭議，不吵架；回準則，看證據。"
+    "mnemonic": "有爭議，不吵架；回準則，看證據。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0251",
@@ -4757,7 +6007,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "雙方對程序適用日期有不同理解，最適當的處理方式是？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n雙方對程序適用日期有不同理解，最適當的處理方式是？",
     "options": [
       "回到適用準則與客觀證據，必要時記錄未解決分歧",
       "立即刪除 NC",
@@ -4766,7 +6016,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "回到適用準則與客觀證據，必要時記錄未解決分歧",
     "explanation": "教材要求對分歧意見處理並留下紀錄；稽核判斷的核心仍是準則與客觀證據。",
-    "mnemonic": "有爭議，不吵架；回準則，看證據。"
+    "mnemonic": "有爭議，不吵架；回準則，看證據。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0252",
@@ -4776,7 +6031,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "受稽核方認為抽樣證據不足，最適當的處理方式是？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n受稽核方認為抽樣證據不足，最適當的處理方式是？",
     "options": [
       "回到適用準則與客觀證據，必要時記錄未解決分歧",
       "立即刪除 NC",
@@ -4785,7 +6040,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "回到適用準則與客觀證據，必要時記錄未解決分歧",
     "explanation": "教材要求對分歧意見處理並留下紀錄；稽核判斷的核心仍是準則與客觀證據。",
-    "mnemonic": "有爭議，不吵架；回準則，看證據。"
+    "mnemonic": "有爭議，不吵架；回準則，看證據。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0253",
@@ -4795,7 +6055,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "主導稽核員準備定稿，正式稽核報告最應包含哪些內容？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n主導稽核員準備定稿，正式稽核報告最應包含哪些內容？",
     "options": [
       "稽核基本資訊、目標/範圍/準則/方法、發現、結論及後續要求",
       "只有公司名稱和日期",
@@ -4804,7 +6064,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核基本資訊、目標/範圍/準則/方法、發現、結論及後續要求",
     "explanation": "教材的報告架構包含基本資訊、稽核目標/範圍/準則/方法、摘要、發現、結論建議及後續要求。",
-    "mnemonic": "報告要能重建：查了什麼、看到什麼、怎麼判。"
+    "mnemonic": "報告要能重建：查了什麼、看到什麼、怎麼判。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0254",
@@ -4814,7 +6079,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核結果要交付受稽核方，正式稽核報告最應包含哪些內容？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n稽核結果要交付受稽核方，正式稽核報告最應包含哪些內容？",
     "options": [
       "稽核基本資訊、目標/範圍/準則/方法、發現、結論及後續要求",
       "只有公司名稱和日期",
@@ -4823,7 +6088,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核基本資訊、目標/範圍/準則/方法、發現、結論及後續要求",
     "explanation": "教材的報告架構包含基本資訊、稽核目標/範圍/準則/方法、摘要、發現、結論建議及後續要求。",
-    "mnemonic": "報告要能重建：查了什麼、看到什麼、怎麼判。"
+    "mnemonic": "報告要能重建：查了什麼、看到什麼、怎麼判。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0255",
@@ -4833,7 +6103,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "報告準備分發，正式稽核報告最應包含哪些內容？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n報告準備分發，正式稽核報告最應包含哪些內容？",
     "options": [
       "稽核基本資訊、目標/範圍/準則/方法、發現、結論及後續要求",
       "只有公司名稱和日期",
@@ -4842,7 +6112,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核基本資訊、目標/範圍/準則/方法、發現、結論及後續要求",
     "explanation": "教材的報告架構包含基本資訊、稽核目標/範圍/準則/方法、摘要、發現、結論建議及後續要求。",
-    "mnemonic": "報告要能重建：查了什麼、看到什麼、怎麼判。"
+    "mnemonic": "報告要能重建：查了什麼、看到什麼、怎麼判。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0256",
@@ -4852,7 +6127,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "驗證機構整理第二階段結果，正式稽核報告最應包含哪些內容？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n驗證機構整理第二階段結果，正式稽核報告最應包含哪些內容？",
     "options": [
       "稽核基本資訊、目標/範圍/準則/方法、發現、結論及後續要求",
       "只有公司名稱和日期",
@@ -4861,7 +6136,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核基本資訊、目標/範圍/準則/方法、發現、結論及後續要求",
     "explanation": "教材的報告架構包含基本資訊、稽核目標/範圍/準則/方法、摘要、發現、結論建議及後續要求。",
-    "mnemonic": "報告要能重建：查了什麼、看到什麼、怎麼判。"
+    "mnemonic": "報告要能重建：查了什麼、看到什麼、怎麼判。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0257",
@@ -4871,7 +6151,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "發現離職帳號仍有效後立刻停權，此立即行動最接近哪個概念？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n發現離職帳號仍有效後立刻停權，此立即行動最接近哪個概念？",
     "options": [
       "矯正（Correction）",
       "根因分析",
@@ -4880,7 +6160,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "矯正（Correction）",
     "explanation": "10.2 要求先對不符合反應並控制、矯正；這是處理眼前已發現問題。",
-    "mnemonic": "矯正修現在。"
+    "mnemonic": "矯正修現在。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0258",
@@ -4890,7 +6175,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "發現錯誤權限後立刻移除，此立即行動最接近哪個概念？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n發現錯誤權限後立刻移除，此立即行動最接近哪個概念？",
     "options": [
       "矯正（Correction）",
       "根因分析",
@@ -4899,7 +6184,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "矯正（Correction）",
     "explanation": "10.2 要求先對不符合反應並控制、矯正；這是處理眼前已發現問題。",
-    "mnemonic": "矯正修現在。"
+    "mnemonic": "矯正修現在。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0259",
@@ -4909,7 +6199,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "發現過期憑證後立即更換，此立即行動最接近哪個概念？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n發現過期憑證後立即更換，此立即行動最接近哪個概念？",
     "options": [
       "矯正（Correction）",
       "根因分析",
@@ -4918,7 +6208,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "矯正（Correction）",
     "explanation": "10.2 要求先對不符合反應並控制、矯正；這是處理眼前已發現問題。",
-    "mnemonic": "矯正修現在。"
+    "mnemonic": "矯正修現在。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0260",
@@ -4928,7 +6223,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "發現備份排程失效後立即恢復排程，此立即行動最接近哪個概念？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n發現備份排程失效後立即恢復排程，此立即行動最接近哪個概念？",
     "options": [
       "矯正（Correction）",
       "根因分析",
@@ -4937,7 +6232,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "矯正（Correction）",
     "explanation": "10.2 要求先對不符合反應並控制、矯正；這是處理眼前已發現問題。",
-    "mnemonic": "矯正修現在。"
+    "mnemonic": "矯正修現在。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0261",
@@ -4947,7 +6247,7 @@ window.QUESTION_BANK = [
     "source": "CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "離職帳號未停用事件發生後，哪個做法最符合 Root-cause analysis？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n離職帳號未停用事件發生後，哪個做法最符合 Root-cause analysis？",
     "options": [
       "追查流程、責任、能力、工具或監督為何失效",
       "只寫『人員疏失』就結案",
@@ -4956,7 +6256,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "追查流程、責任、能力、工具或監督為何失效",
     "explanation": "根因分析要找造成問題的系統性原因；只寫『粗心』通常不足以說明為什麼控制會失效。",
-    "mnemonic": "根因不是貼標籤，要找為什麼。"
+    "mnemonic": "根因不是貼標籤，要找為什麼。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0262",
@@ -4966,7 +6271,7 @@ window.QUESTION_BANK = [
     "source": "CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "變更未核准事件發生後，哪個做法最符合 Root-cause analysis？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n變更未核准事件發生後，哪個做法最符合 Root-cause analysis？",
     "options": [
       "追查流程、責任、能力、工具或監督為何失效",
       "只寫『人員疏失』就結案",
@@ -4975,7 +6280,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "追查流程、責任、能力、工具或監督為何失效",
     "explanation": "根因分析要找造成問題的系統性原因；只寫『粗心』通常不足以說明為什麼控制會失效。",
-    "mnemonic": "根因不是貼標籤，要找為什麼。"
+    "mnemonic": "根因不是貼標籤，要找為什麼。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0263",
@@ -4985,7 +6295,7 @@ window.QUESTION_BANK = [
     "source": "CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "多次漏做備份測試後，哪個做法最符合 Root-cause analysis？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n多次漏做備份測試後，哪個做法最符合 Root-cause analysis？",
     "options": [
       "追查流程、責任、能力、工具或監督為何失效",
       "只寫『人員疏失』就結案",
@@ -4994,7 +6304,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "追查流程、責任、能力、工具或監督為何失效",
     "explanation": "根因分析要找造成問題的系統性原因；只寫『粗心』通常不足以說明為什麼控制會失效。",
-    "mnemonic": "根因不是貼標籤，要找為什麼。"
+    "mnemonic": "根因不是貼標籤，要找為什麼。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0264",
@@ -5004,7 +6319,7 @@ window.QUESTION_BANK = [
     "source": "CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "教育訓練反覆逾期後，哪個做法最符合 Root-cause analysis？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n教育訓練反覆逾期後，哪個做法最符合 Root-cause analysis？",
     "options": [
       "追查流程、責任、能力、工具或監督為何失效",
       "只寫『人員疏失』就結案",
@@ -5013,7 +6328,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "追查流程、責任、能力、工具或監督為何失效",
     "explanation": "根因分析要找造成問題的系統性原因；只寫『粗心』通常不足以說明為什麼控制會失效。",
-    "mnemonic": "根因不是貼標籤，要找為什麼。"
+    "mnemonic": "根因不是貼標籤，要找為什麼。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0265",
@@ -5023,7 +6343,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "發現 HR 未通知資訊部造成離職帳號未停用，哪個行動最接近矯正措施？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n發現 HR 未通知資訊部造成離職帳號未停用，哪個行動最接近矯正措施？",
     "options": [
       "針對根因修改制度或流程，避免同類問題再次發生",
       "只把這次問題立即修好",
@@ -5032,7 +6352,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "針對根因修改制度或流程，避免同類問題再次發生",
     "explanation": "矯正措施的目的在消除不符合原因，使其不再發生或不在其他地方發生。",
-    "mnemonic": "矯正措施防未來。"
+    "mnemonic": "矯正措施防未來。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0266",
@@ -5042,7 +6367,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "反覆發生變更未核准，哪個行動最接近矯正措施？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n反覆發生變更未核准，哪個行動最接近矯正措施？",
     "options": [
       "針對根因修改制度或流程，避免同類問題再次發生",
       "只把這次問題立即修好",
@@ -5051,7 +6376,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "針對根因修改制度或流程，避免同類問題再次發生",
     "explanation": "矯正措施的目的在消除不符合原因，使其不再發生或不在其他地方發生。",
-    "mnemonic": "矯正措施防未來。"
+    "mnemonic": "矯正措施防未來。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0267",
@@ -5061,7 +6391,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "備份測試常被遺漏，哪個行動最接近矯正措施？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n備份測試常被遺漏，哪個行動最接近矯正措施？",
     "options": [
       "針對根因修改制度或流程，避免同類問題再次發生",
       "只把這次問題立即修好",
@@ -5070,7 +6400,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "針對根因修改制度或流程，避免同類問題再次發生",
     "explanation": "矯正措施的目的在消除不符合原因，使其不再發生或不在其他地方發生。",
-    "mnemonic": "矯正措施防未來。"
+    "mnemonic": "矯正措施防未來。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0268",
@@ -5080,7 +6415,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "多次權限審查逾期，哪個行動最接近矯正措施？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n多次權限審查逾期，哪個行動最接近矯正措施？",
     "options": [
       "針對根因修改制度或流程，避免同類問題再次發生",
       "只把這次問題立即修好",
@@ -5089,7 +6424,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "針對根因修改制度或流程，避免同類問題再次發生",
     "explanation": "矯正措施的目的在消除不符合原因，使其不再發生或不在其他地方發生。",
-    "mnemonic": "矯正措施防未來。"
+    "mnemonic": "矯正措施防未來。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0269",
@@ -5099,7 +6439,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "新離職停權流程上線三個月後，哪個最符合有效性確認？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n新離職停權流程上線三個月後，哪個最符合有效性確認？",
     "options": [
       "再抽樣或監測，確認問題不再發生且控制確實有效",
       "只看措施已標記完成",
@@ -5108,7 +6448,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "再抽樣或監測，確認問題不再發生且控制確實有效",
     "explanation": "10.2 要求審查所採矯正措施的有效性；教材也將有效性確認列為 CAPA 跟催的重要階段。",
-    "mnemonic": "做完不算完，還要驗。"
+    "mnemonic": "做完不算完，還要驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0270",
@@ -5118,7 +6463,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "新的變更核准機制上線後，哪個最符合有效性確認？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n新的變更核准機制上線後，哪個最符合有效性確認？",
     "options": [
       "再抽樣或監測，確認問題不再發生且控制確實有效",
       "只看措施已標記完成",
@@ -5127,7 +6472,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "再抽樣或監測，確認問題不再發生且控制確實有效",
     "explanation": "10.2 要求審查所採矯正措施的有效性；教材也將有效性確認列為 CAPA 跟催的重要階段。",
-    "mnemonic": "做完不算完，還要驗。"
+    "mnemonic": "做完不算完，還要驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0271",
@@ -5137,7 +6487,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "備份復原改善措施執行一段時間後，哪個最符合有效性確認？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n備份復原改善措施執行一段時間後，哪個最符合有效性確認？",
     "options": [
       "再抽樣或監測，確認問題不再發生且控制確實有效",
       "只看措施已標記完成",
@@ -5146,7 +6496,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "再抽樣或監測，確認問題不再發生且控制確實有效",
     "explanation": "10.2 要求審查所採矯正措施的有效性；教材也將有效性確認列為 CAPA 跟催的重要階段。",
-    "mnemonic": "做完不算完，還要驗。"
+    "mnemonic": "做完不算完，還要驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0272",
@@ -5156,7 +6511,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "教育訓練提醒機制改善後，哪個最符合有效性確認？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n教育訓練提醒機制改善後，哪個最符合有效性確認？",
     "options": [
       "再抽樣或監測，確認問題不再發生且控制確實有效",
       "只看措施已標記完成",
@@ -5165,7 +6520,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "再抽樣或監測，確認問題不再發生且控制確實有效",
     "explanation": "10.2 要求審查所採矯正措施的有效性；教材也將有效性確認列為 CAPA 跟催的重要階段。",
-    "mnemonic": "做完不算完，還要驗。"
+    "mnemonic": "做完不算完，還要驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0273",
@@ -5175,7 +6535,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "受稽核方回覆一項 NC，哪個 CAPA 回覆最完整？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n受稽核方回覆一項 NC，哪個 CAPA 回覆最完整？",
     "options": [
       "包含矯正、根因分析、矯正措施、責任/期限、完成證據及有效性確認方式",
       "只寫『已改善』",
@@ -5184,7 +6544,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "包含矯正、根因分析、矯正措施、責任/期限、完成證據及有效性確認方式",
     "explanation": "教材列出 CAPA 最低欄位，包括改正、根因、矯正措施、責任與期限、完成證據及有效性確認。",
-    "mnemonic": "修、因、防、驗，再加誰做何時完成。"
+    "mnemonic": "修、因、防、驗，再加誰做何時完成。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0274",
@@ -5194,7 +6559,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "組織準備申請缺失結案，哪個 CAPA 回覆最完整？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n組織準備申請缺失結案，哪個 CAPA 回覆最完整？",
     "options": [
       "包含矯正、根因分析、矯正措施、責任/期限、完成證據及有效性確認方式",
       "只寫『已改善』",
@@ -5203,7 +6568,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "包含矯正、根因分析、矯正措施、責任/期限、完成證據及有效性確認方式",
     "explanation": "教材列出 CAPA 最低欄位，包括改正、根因、矯正措施、責任與期限、完成證據及有效性確認。",
-    "mnemonic": "修、因、防、驗，再加誰做何時完成。"
+    "mnemonic": "修、因、防、驗，再加誰做何時完成。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0275",
@@ -5213,7 +6583,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核組進行 CAPA 受理審查，哪個 CAPA 回覆最完整？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n稽核組進行 CAPA 受理審查，哪個 CAPA 回覆最完整？",
     "options": [
       "包含矯正、根因分析、矯正措施、責任/期限、完成證據及有效性確認方式",
       "只寫『已改善』",
@@ -5222,7 +6592,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "包含矯正、根因分析、矯正措施、責任/期限、完成證據及有效性確認方式",
     "explanation": "教材列出 CAPA 最低欄位，包括改正、根因、矯正措施、責任與期限、完成證據及有效性確認。",
-    "mnemonic": "修、因、防、驗，再加誰做何時完成。"
+    "mnemonic": "修、因、防、驗，再加誰做何時完成。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0276",
@@ -5232,7 +6607,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "管理階層追蹤矯正狀態，哪個 CAPA 回覆最完整？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n管理階層追蹤矯正狀態，哪個 CAPA 回覆最完整？",
     "options": [
       "包含矯正、根因分析、矯正措施、責任/期限、完成證據及有效性確認方式",
       "只寫『已改善』",
@@ -5241,7 +6616,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "包含矯正、根因分析、矯正措施、責任/期限、完成證據及有效性確認方式",
     "explanation": "教材列出 CAPA 最低欄位，包括改正、根因、矯正措施、責任與期限、完成證據及有效性確認。",
-    "mnemonic": "修、因、防、驗，再加誰做何時完成。"
+    "mnemonic": "修、因、防、驗，再加誰做何時完成。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0277",
@@ -5251,7 +6631,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告課程 / 驗證邏輯",
     "difficulty": "中",
     "type": "single",
-    "stem": "驗證稽核完成後，哪個敘述最適當？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n驗證稽核完成後，哪個敘述最適當？",
     "options": [
       "稽核組形成稽核結論/建議；正式認證決定應由具有適當權限的認證決定角色依程序作成",
       "主導稽核員一個人可直接發證",
@@ -5260,7 +6640,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核組形成稽核結論/建議；正式認證決定應由具有適當權限的認證決定角色依程序作成",
     "explanation": "教材特別區分稽核結論、認證建議與認證決定角色；稽核員查核與提出結論，發證決定依正式程序進行。",
-    "mnemonic": "稽核員查，認證者決。"
+    "mnemonic": "稽核員查，認證者決。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0278",
@@ -5270,7 +6655,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告課程 / 驗證邏輯",
     "difficulty": "中",
     "type": "single",
-    "stem": "稽核組準備提出建議，哪個敘述最適當？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n稽核組準備提出建議，哪個敘述最適當？",
     "options": [
       "稽核組形成稽核結論/建議；正式認證決定應由具有適當權限的認證決定角色依程序作成",
       "主導稽核員一個人可直接發證",
@@ -5279,7 +6664,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核組形成稽核結論/建議；正式認證決定應由具有適當權限的認證決定角色依程序作成",
     "explanation": "教材特別區分稽核結論、認證建議與認證決定角色；稽核員查核與提出結論，發證決定依正式程序進行。",
-    "mnemonic": "稽核員查，認證者決。"
+    "mnemonic": "稽核員查，認證者決。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0279",
@@ -5289,7 +6679,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告課程 / 驗證邏輯",
     "difficulty": "中",
     "type": "single",
-    "stem": "認證流程進入正式決定階段，哪個敘述最適當？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n認證流程進入正式決定階段，哪個敘述最適當？",
     "options": [
       "稽核組形成稽核結論/建議；正式認證決定應由具有適當權限的認證決定角色依程序作成",
       "主導稽核員一個人可直接發證",
@@ -5298,7 +6688,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核組形成稽核結論/建議；正式認證決定應由具有適當權限的認證決定角色依程序作成",
     "explanation": "教材特別區分稽核結論、認證建議與認證決定角色；稽核員查核與提出結論，發證決定依正式程序進行。",
-    "mnemonic": "稽核員查，認證者決。"
+    "mnemonic": "稽核員查，認證者決。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0280",
@@ -5308,7 +6703,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告課程 / 驗證邏輯",
     "difficulty": "中",
     "type": "single",
-    "stem": "主導稽核員完成報告時，哪個敘述最適當？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n主導稽核員完成報告時，哪個敘述最適當？",
     "options": [
       "稽核組形成稽核結論/建議；正式認證決定應由具有適當權限的認證決定角色依程序作成",
       "主導稽核員一個人可直接發證",
@@ -5317,7 +6712,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "稽核組形成稽核結論/建議；正式認證決定應由具有適當權限的認證決定角色依程序作成",
     "explanation": "教材特別區分稽核結論、認證建議與認證決定角色；稽核員查核與提出結論，發證決定依正式程序進行。",
-    "mnemonic": "稽核員查，認證者決。"
+    "mnemonic": "稽核員查，認證者決。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0281",
@@ -5327,7 +6727,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "受稽核方回覆 CAPA 後，哪個做法最適當？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n受稽核方回覆 CAPA 後，哪個做法最適當？",
     "options": [
       "確認改正完成、根因合理、矯正措施針對根因且有效性證據足夠，再決定是否結案",
       "收到文件就自動結案",
@@ -5336,7 +6736,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認改正完成、根因合理、矯正措施針對根因且有效性證據足夠，再決定是否結案",
     "explanation": "教材的跟催與有效性確認要求逐步判斷 CAPA 是否可接受、措施是否真正有效，最後才決定是否結案。",
-    "mnemonic": "結案前：修了嗎、原因對嗎、防再犯嗎、有效嗎。"
+    "mnemonic": "結案前：修了嗎、原因對嗎、防再犯嗎、有效嗎。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0282",
@@ -5346,7 +6751,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "矯正措施已聲稱完成，哪個做法最適當？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n矯正措施已聲稱完成，哪個做法最適當？",
     "options": [
       "確認改正完成、根因合理、矯正措施針對根因且有效性證據足夠，再決定是否結案",
       "收到文件就自動結案",
@@ -5355,7 +6760,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認改正完成、根因合理、矯正措施針對根因且有效性證據足夠，再決定是否結案",
     "explanation": "教材的跟催與有效性確認要求逐步判斷 CAPA 是否可接受、措施是否真正有效，最後才決定是否結案。",
-    "mnemonic": "結案前：修了嗎、原因對嗎、防再犯嗎、有效嗎。"
+    "mnemonic": "結案前：修了嗎、原因對嗎、防再犯嗎、有效嗎。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0283",
@@ -5365,7 +6775,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "準備關閉 NC 前，哪個做法最適當？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n準備關閉 NC 前，哪個做法最適當？",
     "options": [
       "確認改正完成、根因合理、矯正措施針對根因且有效性證據足夠，再決定是否結案",
       "收到文件就自動結案",
@@ -5374,7 +6784,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認改正完成、根因合理、矯正措施針對根因且有效性證據足夠，再決定是否結案",
     "explanation": "教材的跟催與有效性確認要求逐步判斷 CAPA 是否可接受、措施是否真正有效，最後才決定是否結案。",
-    "mnemonic": "結案前：修了嗎、原因對嗎、防再犯嗎、有效嗎。"
+    "mnemonic": "結案前：修了嗎、原因對嗎、防再犯嗎、有效嗎。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0284",
@@ -5384,7 +6799,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、CAPA 課程",
     "difficulty": "中",
     "type": "single",
-    "stem": "跟催稽核階段，哪個做法最適當？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n跟催稽核階段，哪個做法最適當？",
     "options": [
       "確認改正完成、根因合理、矯正措施針對根因且有效性證據足夠，再決定是否結案",
       "收到文件就自動結案",
@@ -5393,7 +6808,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認改正完成、根因合理、矯正措施針對根因且有效性證據足夠，再決定是否結案",
     "explanation": "教材的跟催與有效性確認要求逐步判斷 CAPA 是否可接受、措施是否真正有效，最後才決定是否結案。",
-    "mnemonic": "結案前：修了嗎、原因對嗎、防再犯嗎、有效嗎。"
+    "mnemonic": "結案前：修了嗎、原因對嗎、防再犯嗎、有效嗎。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0285",
@@ -5403,7 +6823,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.3.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "最高管理階層進行年度管理審查，哪一項不是典型管理審查輸入？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n最高管理階層進行年度管理審查，哪一項不是典型管理審查輸入？",
     "options": [
       "員工午餐菜色",
       "先前決議處理狀態",
@@ -5412,7 +6832,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "員工午餐菜色",
     "explanation": "9.3.2 包含先前決議、內外部議題、關注方需求、資安績效、稽核結果、風險與持續改善機會等；與 ISMS 無關的午餐菜色不屬於要求。",
-    "mnemonic": "管理審查看上次、變化、績效、風險、改善。"
+    "mnemonic": "管理審查看上次、變化、績效、風險、改善。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0286",
@@ -5422,7 +6847,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.3.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "ISMS 有重大外部變更，哪一項不是典型管理審查輸入？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\nISMS 有重大外部變更，哪一項不是典型管理審查輸入？",
     "options": [
       "員工午餐菜色",
       "先前決議處理狀態",
@@ -5431,7 +6856,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "員工午餐菜色",
     "explanation": "9.3.2 包含先前決議、內外部議題、關注方需求、資安績效、稽核結果、風險與持續改善機會等；與 ISMS 無關的午餐菜色不屬於要求。",
-    "mnemonic": "管理審查看上次、變化、績效、風險、改善。"
+    "mnemonic": "管理審查看上次、變化、績效、風險、改善。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0287",
@@ -5441,7 +6871,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.3.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "組織檢視資安績效，哪一項不是典型管理審查輸入？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n組織檢視資安績效，哪一項不是典型管理審查輸入？",
     "options": [
       "員工午餐菜色",
       "先前決議處理狀態",
@@ -5450,7 +6880,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "員工午餐菜色",
     "explanation": "9.3.2 包含先前決議、內外部議題、關注方需求、資安績效、稽核結果、風險與持續改善機會等；與 ISMS 無關的午餐菜色不屬於要求。",
-    "mnemonic": "管理審查看上次、變化、績效、風險、改善。"
+    "mnemonic": "管理審查看上次、變化、績效、風險、改善。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0288",
@@ -5460,7 +6895,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.3.2",
     "difficulty": "中",
     "type": "single",
-    "stem": "管理審查準備會議資料，哪一項不是典型管理審查輸入？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n管理審查準備會議資料，哪一項不是典型管理審查輸入？",
     "options": [
       "員工午餐菜色",
       "先前決議處理狀態",
@@ -5469,7 +6904,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "員工午餐菜色",
     "explanation": "9.3.2 包含先前決議、內外部議題、關注方需求、資安績效、稽核結果、風險與持續改善機會等；與 ISMS 無關的午餐菜色不屬於要求。",
-    "mnemonic": "管理審查看上次、變化、績效、風險、改善。"
+    "mnemonic": "管理審查看上次、變化、績效、風險、改善。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0289",
@@ -5479,7 +6919,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 5.1",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "高階主管檢視 ISMS 時，下列哪些屬於最高管理階層應展現的領導與承諾？（複選）",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n高階主管檢視 ISMS 時，下列哪些屬於最高管理階層應展現的領導與承諾？（複選）",
     "options": [
       "確保資訊安全政策與目標",
       "確保所需資源可取得",
@@ -5492,7 +6932,12 @@ window.QUESTION_BANK = [
       "支持持續改善"
     ],
     "explanation": "5.1 包含政策與目標、資源、整合、溝通、預期成果、支持人員與持續改善等管理責任。",
-    "mnemonic": "老闆要挺、要訂、要給、要分。"
+    "mnemonic": "老闆要挺、要訂、要給、要分。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0290",
@@ -5502,7 +6947,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 5.1",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "組織準備年度管理會議時，下列哪些屬於最高管理階層應展現的領導與承諾？（複選）",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n組織準備年度管理會議時，下列哪些屬於最高管理階層應展現的領導與承諾？（複選）",
     "options": [
       "確保資訊安全政策與目標",
       "確保所需資源可取得",
@@ -5515,7 +6960,12 @@ window.QUESTION_BANK = [
       "支持持續改善"
     ],
     "explanation": "5.1 包含政策與目標、資源、整合、溝通、預期成果、支持人員與持續改善等管理責任。",
-    "mnemonic": "老闆要挺、要訂、要給、要分。"
+    "mnemonic": "老闆要挺、要訂、要給、要分。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0291",
@@ -5525,7 +6975,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 5.1",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "導入 ISMS 的管理階層會議中，下列哪些屬於最高管理階層應展現的領導與承諾？（複選）",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n導入 ISMS 的管理階層會議中，下列哪些屬於最高管理階層應展現的領導與承諾？（複選）",
     "options": [
       "確保資訊安全政策與目標",
       "確保所需資源可取得",
@@ -5538,7 +6988,12 @@ window.QUESTION_BANK = [
       "支持持續改善"
     ],
     "explanation": "5.1 包含政策與目標、資源、整合、溝通、預期成果、支持人員與持續改善等管理責任。",
-    "mnemonic": "老闆要挺、要訂、要給、要分。"
+    "mnemonic": "老闆要挺、要訂、要給、要分。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0292",
@@ -5548,7 +7003,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 5.1",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "稽核員訪談最高管理階層時，下列哪些屬於最高管理階層應展現的領導與承諾？（複選）",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n稽核員訪談最高管理階層時，下列哪些屬於最高管理階層應展現的領導與承諾？（複選）",
     "options": [
       "確保資訊安全政策與目標",
       "確保所需資源可取得",
@@ -5561,7 +7016,12 @@ window.QUESTION_BANK = [
       "支持持續改善"
     ],
     "explanation": "5.1 包含政策與目標、資源、整合、溝通、預期成果、支持人員與持續改善等管理責任。",
-    "mnemonic": "老闆要挺、要訂、要給、要分。"
+    "mnemonic": "老闆要挺、要訂、要給、要分。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0293",
@@ -5571,7 +7031,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核課程",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "稽核團隊複習職業操守時，下列哪些做法符合稽核應有的原則？（複選）",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核團隊複習職業操守時，下列哪些做法符合稽核應有的原則？（複選）",
     "options": [
       "依證據形成判斷",
       "維持保密與客觀",
@@ -5584,7 +7044,12 @@ window.QUESTION_BANK = [
       "如實呈現重要發現與分歧"
     ],
     "explanation": "稽核原則重視誠信、公正表達、專業關注、保密、獨立性，以及證據/風險導向等。",
-    "mnemonic": "真實、客觀、保密、證據。"
+    "mnemonic": "真實、客觀、保密、證據。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0294",
@@ -5594,7 +7059,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核課程",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "主導稽核員說明團隊行為準則時，下列哪些做法符合稽核應有的原則？（複選）",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n主導稽核員說明團隊行為準則時，下列哪些做法符合稽核應有的原則？（複選）",
     "options": [
       "依證據形成判斷",
       "維持保密與客觀",
@@ -5607,7 +7072,12 @@ window.QUESTION_BANK = [
       "如實呈現重要發現與分歧"
     ],
     "explanation": "稽核原則重視誠信、公正表達、專業關注、保密、獨立性，以及證據/風險導向等。",
-    "mnemonic": "真實、客觀、保密、證據。"
+    "mnemonic": "真實、客觀、保密、證據。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0295",
@@ -5617,7 +7087,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核課程",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "新稽核員接受訓練時，下列哪些做法符合稽核應有的原則？（複選）",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n新稽核員接受訓練時，下列哪些做法符合稽核應有的原則？（複選）",
     "options": [
       "依證據形成判斷",
       "維持保密與客觀",
@@ -5630,7 +7100,12 @@ window.QUESTION_BANK = [
       "如實呈現重要發現與分歧"
     ],
     "explanation": "稽核原則重視誠信、公正表達、專業關注、保密、獨立性，以及證據/風險導向等。",
-    "mnemonic": "真實、客觀、保密、證據。"
+    "mnemonic": "真實、客觀、保密、證據。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0296",
@@ -5640,7 +7115,7 @@ window.QUESTION_BANK = [
     "source": "ISO 19011 稽核課程",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "稽核組發生判斷爭議時，下列哪些做法符合稽核應有的原則？（複選）",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核組發生判斷爭議時，下列哪些做法符合稽核應有的原則？（複選）",
     "options": [
       "依證據形成判斷",
       "維持保密與客觀",
@@ -5653,7 +7128,12 @@ window.QUESTION_BANK = [
       "如實呈現重要發現與分歧"
     ],
     "explanation": "稽核原則重視誠信、公正表達、專業關注、保密、獨立性，以及證據/風險導向等。",
-    "mnemonic": "真實、客觀、保密、證據。"
+    "mnemonic": "真實、客觀、保密、證據。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0297",
@@ -5663,7 +7143,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2 / ISO 19011 課程",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "準備單次內部稽核時，下列哪些項目通常應在稽核規劃中明確？（複選）",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n準備單次內部稽核時，下列哪些項目通常應在稽核規劃中明確？（複選）",
     "options": [
       "稽核目標與範圍",
       "稽核準則與方法",
@@ -5676,7 +7156,12 @@ window.QUESTION_BANK = [
       "稽核團隊責任與時間安排"
     ],
     "explanation": "可執行的稽核計畫需要清楚界定為什麼查、查到哪、用什麼準則/方法、誰在什麼時間做。",
-    "mnemonic": "目標、範圍、準則、方法、人、時。"
+    "mnemonic": "目標、範圍、準則、方法、人、時。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0298",
@@ -5686,7 +7171,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2 / ISO 19011 課程",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "安排供應商稽核時，下列哪些項目通常應在稽核規劃中明確？（複選）",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n安排供應商稽核時，下列哪些項目通常應在稽核規劃中明確？（複選）",
     "options": [
       "稽核目標與範圍",
       "稽核準則與方法",
@@ -5699,7 +7184,12 @@ window.QUESTION_BANK = [
       "稽核團隊責任與時間安排"
     ],
     "explanation": "可執行的稽核計畫需要清楚界定為什麼查、查到哪、用什麼準則/方法、誰在什麼時間做。",
-    "mnemonic": "目標、範圍、準則、方法、人、時。"
+    "mnemonic": "目標、範圍、準則、方法、人、時。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0299",
@@ -5709,7 +7199,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2 / ISO 19011 課程",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "準備第二階段現場活動時，下列哪些項目通常應在稽核規劃中明確？（複選）",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n準備第二階段現場活動時，下列哪些項目通常應在稽核規劃中明確？（複選）",
     "options": [
       "稽核目標與範圍",
       "稽核準則與方法",
@@ -5722,7 +7212,12 @@ window.QUESTION_BANK = [
       "稽核團隊責任與時間安排"
     ],
     "explanation": "可執行的稽核計畫需要清楚界定為什麼查、查到哪、用什麼準則/方法、誰在什麼時間做。",
-    "mnemonic": "目標、範圍、準則、方法、人、時。"
+    "mnemonic": "目標、範圍、準則、方法、人、時。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0300",
@@ -5732,7 +7227,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 9.2.2 / ISO 19011 課程",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "主導稽核員建立查核日程時，下列哪些項目通常應在稽核規劃中明確？（複選）",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n主導稽核員建立查核日程時，下列哪些項目通常應在稽核規劃中明確？（複選）",
     "options": [
       "稽核目標與範圍",
       "稽核準則與方法",
@@ -5745,7 +7240,12 @@ window.QUESTION_BANK = [
       "稽核團隊責任與時間安排"
     ],
     "explanation": "可執行的稽核計畫需要清楚界定為什麼查、查到哪、用什麼準則/方法、誰在什麼時間做。",
-    "mnemonic": "目標、範圍、準則、方法、人、時。"
+    "mnemonic": "目標、範圍、準則、方法、人、時。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0301",
@@ -5755,7 +7255,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程 / ISO 19011",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "主管聲稱所有控制都有效時，下列哪些可成為適當的客觀證據來源？（複選）",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n主管聲稱所有控制都有效時，下列哪些可成為適當的客觀證據來源？（複選）",
     "options": [
       "可驗證的系統日誌",
       "受控文件與紀錄",
@@ -5768,7 +7268,12 @@ window.QUESTION_BANK = [
       "現場觀察及可交叉驗證的訪談資訊"
     ],
     "explanation": "客觀證據可以來自紀錄、文件、系統資料、觀察或可驗證資訊；重點是能被查證。",
-    "mnemonic": "證據要可查證。"
+    "mnemonic": "證據要可查證。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0302",
@@ -5778,7 +7283,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程 / ISO 19011",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "稽核員驗證一項權限控制時，下列哪些可成為適當的客觀證據來源？（複選）",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n稽核員驗證一項權限控制時，下列哪些可成為適當的客觀證據來源？（複選）",
     "options": [
       "可驗證的系統日誌",
       "受控文件與紀錄",
@@ -5791,7 +7296,12 @@ window.QUESTION_BANK = [
       "現場觀察及可交叉驗證的訪談資訊"
     ],
     "explanation": "客觀證據可以來自紀錄、文件、系統資料、觀察或可驗證資訊；重點是能被查證。",
-    "mnemonic": "證據要可查證。"
+    "mnemonic": "證據要可查證。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0303",
@@ -5801,7 +7311,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程 / ISO 19011",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "查核備份流程時，下列哪些可成為適當的客觀證據來源？（複選）",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n查核備份流程時，下列哪些可成為適當的客觀證據來源？（複選）",
     "options": [
       "可驗證的系統日誌",
       "受控文件與紀錄",
@@ -5814,7 +7324,12 @@ window.QUESTION_BANK = [
       "現場觀察及可交叉驗證的訪談資訊"
     ],
     "explanation": "客觀證據可以來自紀錄、文件、系統資料、觀察或可驗證資訊；重點是能被查證。",
-    "mnemonic": "證據要可查證。"
+    "mnemonic": "證據要可查證。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0304",
@@ -5824,7 +7339,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程 / ISO 19011",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "查核教育訓練時，下列哪些可成為適當的客觀證據來源？（複選）",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n查核教育訓練時，下列哪些可成為適當的客觀證據來源？（複選）",
     "options": [
       "可驗證的系統日誌",
       "受控文件與紀錄",
@@ -5837,7 +7352,12 @@ window.QUESTION_BANK = [
       "現場觀察及可交叉驗證的訪談資訊"
     ],
     "explanation": "客觀證據可以來自紀錄、文件、系統資料、觀察或可驗證資訊；重點是能被查證。",
-    "mnemonic": "證據要可查證。"
+    "mnemonic": "證據要可查證。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項答案。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0305",
@@ -5847,7 +7367,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "受稽核方準備回覆 NC 時，完整 CAPA 應涵蓋哪些核心內容？（複選）",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n受稽核方準備回覆 NC 時，完整 CAPA 應涵蓋哪些核心內容？（複選）",
     "options": [
       "立即改正/矯正",
       "根因分析",
@@ -5862,7 +7382,12 @@ window.QUESTION_BANK = [
       "有效性確認與完成證據"
     ],
     "explanation": "教材將改正、根因分析、矯正措施、完成證據與有效性確認列為 CAPA 與跟催的核心。",
-    "mnemonic": "修、因、防、驗。"
+    "mnemonic": "修、因、防、驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項答案。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0306",
@@ -5872,7 +7397,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "稽核組做 CAPA 受理審查時，完整 CAPA 應涵蓋哪些核心內容？（複選）",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n稽核組做 CAPA 受理審查時，完整 CAPA 應涵蓋哪些核心內容？（複選）",
     "options": [
       "立即改正/矯正",
       "根因分析",
@@ -5887,7 +7412,12 @@ window.QUESTION_BANK = [
       "有效性確認與完成證據"
     ],
     "explanation": "教材將改正、根因分析、矯正措施、完成證據與有效性確認列為 CAPA 與跟催的核心。",
-    "mnemonic": "修、因、防、驗。"
+    "mnemonic": "修、因、防、驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項答案。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0307",
@@ -5897,7 +7427,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "準備確認缺失能否結案時，完整 CAPA 應涵蓋哪些核心內容？（複選）",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n準備確認缺失能否結案時，完整 CAPA 應涵蓋哪些核心內容？（複選）",
     "options": [
       "立即改正/矯正",
       "根因分析",
@@ -5912,7 +7442,12 @@ window.QUESTION_BANK = [
       "有效性確認與完成證據"
     ],
     "explanation": "教材將改正、根因分析、矯正措施、完成證據與有效性確認列為 CAPA 與跟催的核心。",
-    "mnemonic": "修、因、防、驗。"
+    "mnemonic": "修、因、防、驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項答案。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0308",
@@ -5922,7 +7457,7 @@ window.QUESTION_BANK = [
     "source": "稽核報告、結束會議課程",
     "difficulty": "中高",
     "type": "multi",
-    "stem": "管理階層追蹤矯正措施時，完整 CAPA 應涵蓋哪些核心內容？（複選）",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n管理階層追蹤矯正措施時，完整 CAPA 應涵蓋哪些核心內容？（複選）",
     "options": [
       "立即改正/矯正",
       "根因分析",
@@ -5937,7 +7472,12 @@ window.QUESTION_BANK = [
       "有效性確認與完成證據"
     ],
     "explanation": "教材將改正、根因分析、矯正措施、完成證據與有效性確認列為 CAPA 與跟催的核心。",
-    "mnemonic": "修、因、防、驗。"
+    "mnemonic": "修、因、防、驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項答案。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": false
   },
   {
     "id": "Q0309",
@@ -5947,7 +7487,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2-6.1.3",
     "difficulty": "高",
     "type": "single",
-    "stem": "風險管理複習時，哪個順序最合理？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n風險管理複習時，哪個順序最合理？",
     "options": [
       "識別 → 分析 → 評估 → 處理",
       "處理 → 識別 → 分析 → 評估",
@@ -5956,7 +7496,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "識別 → 分析 → 評估 → 處理",
     "explanation": "先找風險，再分析可能性/後果，接著與準則比較評估，最後決定處理。",
-    "mnemonic": "找→算→比→治。"
+    "mnemonic": "找→算→比→治。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0310",
@@ -5966,7 +7511,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2-6.1.3",
     "difficulty": "高",
     "type": "single",
-    "stem": "新風險被納入評鑑時，哪個順序最合理？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n新風險被納入評鑑時，哪個順序最合理？",
     "options": [
       "識別 → 分析 → 評估 → 處理",
       "處理 → 識別 → 分析 → 評估",
@@ -5975,7 +7520,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "識別 → 分析 → 評估 → 處理",
     "explanation": "先找風險，再分析可能性/後果，接著與準則比較評估，最後決定處理。",
-    "mnemonic": "找→算→比→治。"
+    "mnemonic": "找→算→比→治。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0311",
@@ -5985,7 +7535,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2-6.1.3",
     "difficulty": "高",
     "type": "single",
-    "stem": "重大變更後重新評鑑時，哪個順序最合理？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n重大變更後重新評鑑時，哪個順序最合理？",
     "options": [
       "識別 → 分析 → 評估 → 處理",
       "處理 → 識別 → 分析 → 評估",
@@ -5994,7 +7544,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "識別 → 分析 → 評估 → 處理",
     "explanation": "先找風險，再分析可能性/後果，接著與準則比較評估，最後決定處理。",
-    "mnemonic": "找→算→比→治。"
+    "mnemonic": "找→算→比→治。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0312",
@@ -6004,7 +7559,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 6.1.2-6.1.3",
     "difficulty": "高",
     "type": "single",
-    "stem": "供應鏈風險分析時，哪個順序最合理？",
+    "stem": "你正在協助組織建立 ISO/IEC 27001:2022 資訊安全管理系統，並向管理階層與流程負責人說明相關要求。\n\n供應鏈風險分析時，哪個順序最合理？",
     "options": [
       "識別 → 分析 → 評估 → 處理",
       "處理 → 識別 → 分析 → 評估",
@@ -6013,7 +7568,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "識別 → 分析 → 評估 → 處理",
     "explanation": "先找風險，再分析可能性/後果，接著與準則比較評估，最後決定處理。",
-    "mnemonic": "找→算→比→治。"
+    "mnemonic": "找→算→比→治。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0313",
@@ -6023,7 +7583,7 @@ window.QUESTION_BANK = [
     "source": "稽核課程",
     "difficulty": "高",
     "type": "single",
-    "stem": "形成現場稽核發現時，哪個順序最合理？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n形成現場稽核發現時，哪個順序最合理？",
     "options": [
       "確認準則 → 蒐集證據 → 形成發現 → 整合結論",
       "形成結論 → 找證據 → 找準則 → 寫發現",
@@ -6032,7 +7592,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認準則 → 蒐集證據 → 形成發現 → 整合結論",
     "explanation": "稽核判斷必須先知道要求，再用客觀證據比較形成發現，最後整合為結論。",
-    "mnemonic": "準→證→發→結。"
+    "mnemonic": "準→證→發→結。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0314",
@@ -6042,7 +7607,7 @@ window.QUESTION_BANK = [
     "source": "稽核課程",
     "difficulty": "高",
     "type": "single",
-    "stem": "發現疑似問題時，哪個順序最合理？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n發現疑似問題時，哪個順序最合理？",
     "options": [
       "確認準則 → 蒐集證據 → 形成發現 → 整合結論",
       "形成結論 → 找證據 → 找準則 → 寫發現",
@@ -6051,7 +7616,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認準則 → 蒐集證據 → 形成發現 → 整合結論",
     "explanation": "稽核判斷必須先知道要求，再用客觀證據比較形成發現，最後整合為結論。",
-    "mnemonic": "準→證→發→結。"
+    "mnemonic": "準→證→發→結。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0315",
@@ -6061,7 +7631,7 @@ window.QUESTION_BANK = [
     "source": "稽核課程",
     "difficulty": "高",
     "type": "single",
-    "stem": "稽核員遇到爭議時，哪個順序最合理？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n稽核員遇到爭議時，哪個順序最合理？",
     "options": [
       "確認準則 → 蒐集證據 → 形成發現 → 整合結論",
       "形成結論 → 找證據 → 找準則 → 寫發現",
@@ -6070,7 +7640,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認準則 → 蒐集證據 → 形成發現 → 整合結論",
     "explanation": "稽核判斷必須先知道要求，再用客觀證據比較形成發現，最後整合為結論。",
-    "mnemonic": "準→證→發→結。"
+    "mnemonic": "準→證→發→結。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0316",
@@ -6080,7 +7655,7 @@ window.QUESTION_BANK = [
     "source": "稽核課程",
     "difficulty": "高",
     "type": "single",
-    "stem": "準備寫 NC 時，哪個順序最合理？",
+    "stem": "你是一位經驗豐富的 ISMS 稽核員，正在指導培訓中的稽核員理解 ISO 19011 與稽核員責任。\n\n準備寫 NC 時，哪個順序最合理？",
     "options": [
       "確認準則 → 蒐集證據 → 形成發現 → 整合結論",
       "形成結論 → 找證據 → 找準則 → 寫發現",
@@ -6089,7 +7664,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認準則 → 蒐集證據 → 形成發現 → 整合結論",
     "explanation": "稽核判斷必須先知道要求，再用客觀證據比較形成發現，最後整合為結論。",
-    "mnemonic": "準→證→發→結。"
+    "mnemonic": "準→證→發→結。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0317",
@@ -6099,7 +7679,7 @@ window.QUESTION_BANK = [
     "source": "驗證過程要求",
     "difficulty": "高",
     "type": "single",
-    "stem": "首次驗證流程複習時，哪個順序較合理？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n首次驗證流程複習時，哪個順序較合理？",
     "options": [
       "第一階段確認準備程度 → 第二階段驗證實作與有效性 → 後續認證流程",
       "第二階段 → 第一階段 → 文件準備",
@@ -6108,7 +7688,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "第一階段確認準備程度 → 第二階段驗證實作與有效性 → 後續認證流程",
     "explanation": "首次驗證通常先以第一階段了解準備程度，再進入第二階段查核實際實作與有效性，之後才進入後續認證決定流程。",
-    "mnemonic": "一階看準備，二階看實做。"
+    "mnemonic": "一階看準備，二階看實做。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0318",
@@ -6118,7 +7703,7 @@ window.QUESTION_BANK = [
     "source": "驗證過程要求",
     "difficulty": "高",
     "type": "single",
-    "stem": "組織準備 ISO 27001 初次認證時，哪個順序較合理？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n組織準備 ISO 27001 初次認證時，哪個順序較合理？",
     "options": [
       "第一階段確認準備程度 → 第二階段驗證實作與有效性 → 後續認證流程",
       "第二階段 → 第一階段 → 文件準備",
@@ -6127,7 +7712,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "第一階段確認準備程度 → 第二階段驗證實作與有效性 → 後續認證流程",
     "explanation": "首次驗證通常先以第一階段了解準備程度，再進入第二階段查核實際實作與有效性，之後才進入後續認證決定流程。",
-    "mnemonic": "一階看準備，二階看實做。"
+    "mnemonic": "一階看準備，二階看實做。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0319",
@@ -6137,7 +7727,7 @@ window.QUESTION_BANK = [
     "source": "驗證過程要求",
     "difficulty": "高",
     "type": "single",
-    "stem": "驗證機構規劃初次驗證時，哪個順序較合理？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n驗證機構規劃初次驗證時，哪個順序較合理？",
     "options": [
       "第一階段確認準備程度 → 第二階段驗證實作與有效性 → 後續認證流程",
       "第二階段 → 第一階段 → 文件準備",
@@ -6146,7 +7736,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "第一階段確認準備程度 → 第二階段驗證實作與有效性 → 後續認證流程",
     "explanation": "首次驗證通常先以第一階段了解準備程度，再進入第二階段查核實際實作與有效性，之後才進入後續認證決定流程。",
-    "mnemonic": "一階看準備，二階看實做。"
+    "mnemonic": "一階看準備，二階看實做。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0320",
@@ -6156,7 +7751,7 @@ window.QUESTION_BANK = [
     "source": "驗證過程要求",
     "difficulty": "高",
     "type": "single",
-    "stem": "新手理解 Stage 1/2 時，哪個順序較合理？",
+    "stem": "你是 ISMS 主導稽核員，正在規劃一次第三方驗證稽核，並帶領稽核小組完成稽核前準備。\n\n新手理解 Stage 1/2 時，哪個順序較合理？",
     "options": [
       "第一階段確認準備程度 → 第二階段驗證實作與有效性 → 後續認證流程",
       "第二階段 → 第一階段 → 文件準備",
@@ -6165,7 +7760,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "第一階段確認準備程度 → 第二階段驗證實作與有效性 → 後續認證流程",
     "explanation": "首次驗證通常先以第一階段了解準備程度，再進入第二階段查核實際實作與有效性，之後才進入後續認證決定流程。",
-    "mnemonic": "一階看準備，二階看實做。"
+    "mnemonic": "一階看準備，二階看實做。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0321",
@@ -6175,7 +7775,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程",
     "difficulty": "高",
     "type": "single",
-    "stem": "發現一份疑似過期文件時，哪個順序最符合稽核員邏輯？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n發現一份疑似過期文件時，哪個順序最符合稽核員邏輯？",
     "options": [
       "確認要求 → 取得證據 → 評估範圍/影響 → 形成發現",
       "直接開重大 NC → 再找證據",
@@ -6184,7 +7784,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認要求 → 取得證據 → 評估範圍/影響 → 形成發現",
     "explanation": "稽核員不能只憑外觀下結論，應先確認適用要求，取得證據並理解問題範圍。",
-    "mnemonic": "規→證→判。"
+    "mnemonic": "規→證→判。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0322",
@@ -6194,7 +7799,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程",
     "difficulty": "高",
     "type": "single",
-    "stem": "發現帳號可能未依程序停用時，哪個順序最符合稽核員邏輯？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n發現帳號可能未依程序停用時，哪個順序最符合稽核員邏輯？",
     "options": [
       "確認要求 → 取得證據 → 評估範圍/影響 → 形成發現",
       "直接開重大 NC → 再找證據",
@@ -6203,7 +7808,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認要求 → 取得證據 → 評估範圍/影響 → 形成發現",
     "explanation": "稽核員不能只憑外觀下結論，應先確認適用要求，取得證據並理解問題範圍。",
-    "mnemonic": "規→證→判。"
+    "mnemonic": "規→證→判。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0323",
@@ -6213,7 +7823,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程",
     "difficulty": "高",
     "type": "single",
-    "stem": "發現紀錄疑似缺漏時，哪個順序最符合稽核員邏輯？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n發現紀錄疑似缺漏時，哪個順序最符合稽核員邏輯？",
     "options": [
       "確認要求 → 取得證據 → 評估範圍/影響 → 形成發現",
       "直接開重大 NC → 再找證據",
@@ -6222,7 +7832,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認要求 → 取得證據 → 評估範圍/影響 → 形成發現",
     "explanation": "稽核員不能只憑外觀下結論，應先確認適用要求，取得證據並理解問題範圍。",
-    "mnemonic": "規→證→判。"
+    "mnemonic": "規→證→判。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0324",
@@ -6232,7 +7847,7 @@ window.QUESTION_BANK = [
     "source": "現場稽核課程",
     "difficulty": "高",
     "type": "single",
-    "stem": "發現備份測試疑似逾期時，哪個順序最符合稽核員邏輯？",
+    "stem": "你正在協助稽核團隊依 ISO/IEC 27001:2022 執行第三方驗證稽核，並需要依客觀證據形成適當的稽核判斷。\n\n發現備份測試疑似逾期時，哪個順序最符合稽核員邏輯？",
     "options": [
       "確認要求 → 取得證據 → 評估範圍/影響 → 形成發現",
       "直接開重大 NC → 再找證據",
@@ -6241,7 +7856,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "確認要求 → 取得證據 → 評估範圍/影響 → 形成發現",
     "explanation": "稽核員不能只憑外觀下結論，應先確認適用要求，取得證據並理解問題範圍。",
-    "mnemonic": "規→證→判。"
+    "mnemonic": "規→證→判。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0325",
@@ -6251,7 +7871,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "高",
     "type": "single",
-    "stem": "NC 發生後，哪個順序最合理？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\nNC 發生後，哪個順序最合理？",
     "options": [
       "矯正眼前問題 → 找根因 → 做矯正措施 → 驗證有效性",
       "驗證有效性 → 找根因 → 矯正 → 不需措施",
@@ -6260,7 +7880,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "矯正眼前問題 → 找根因 → 做矯正措施 → 驗證有效性",
     "explanation": "10.2 與 CAPA 課程強調先控制/矯正，再找原因、採取矯正措施，最後審查有效性。",
-    "mnemonic": "修→因→防→驗。"
+    "mnemonic": "修→因→防→驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0326",
@@ -6270,7 +7895,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "高",
     "type": "single",
-    "stem": "受稽核方準備矯正回覆時，哪個順序最合理？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n受稽核方準備矯正回覆時，哪個順序最合理？",
     "options": [
       "矯正眼前問題 → 找根因 → 做矯正措施 → 驗證有效性",
       "驗證有效性 → 找根因 → 矯正 → 不需措施",
@@ -6279,7 +7904,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "矯正眼前問題 → 找根因 → 做矯正措施 → 驗證有效性",
     "explanation": "10.2 與 CAPA 課程強調先控制/矯正，再找原因、採取矯正措施，最後審查有效性。",
-    "mnemonic": "修→因→防→驗。"
+    "mnemonic": "修→因→防→驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0327",
@@ -6289,7 +7919,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "高",
     "type": "single",
-    "stem": "跟催缺失時，哪個順序最合理？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n跟催缺失時，哪個順序最合理？",
     "options": [
       "矯正眼前問題 → 找根因 → 做矯正措施 → 驗證有效性",
       "驗證有效性 → 找根因 → 矯正 → 不需措施",
@@ -6298,7 +7928,12 @@ window.QUESTION_BANK = [
     ],
     "correct": "矯正眼前問題 → 找根因 → 做矯正措施 → 驗證有效性",
     "explanation": "10.2 與 CAPA 課程強調先控制/矯正，再找原因、採取矯正措施，最後審查有效性。",
-    "mnemonic": "修→因→防→驗。"
+    "mnemonic": "修→因→防→驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
   },
   {
     "id": "Q0328",
@@ -6308,7 +7943,7 @@ window.QUESTION_BANK = [
     "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
     "difficulty": "高",
     "type": "single",
-    "stem": "準備缺失結案時，哪個順序最合理？",
+    "stem": "你是 ISMS 稽核組長，正在準備稽核報告、結束會議、跟催與 CAPA 有效性確認。\n\n準備缺失結案時，哪個順序最合理？",
     "options": [
       "矯正眼前問題 → 找根因 → 做矯正措施 → 驗證有效性",
       "驗證有效性 → 找根因 → 矯正 → 不需措施",
@@ -6317,6 +7952,7606 @@ window.QUESTION_BANK = [
     ],
     "correct": "矯正眼前問題 → 找根因 → 做矯正措施 → 驗證有效性",
     "explanation": "10.2 與 CAPA 課程強調先控制/矯正，再找原因、採取矯正措施，最後審查有效性。",
-    "mnemonic": "修→因→防→驗。"
+    "mnemonic": "修→因→防→驗。",
+    "style": "CQI_IRCA_like",
+    "selectCount": 1,
+    "instruction": "請從下列選項中，選擇最適當的答案。",
+    "typeLabel": "單選題",
+    "priorityStyle": false
+  },
+  {
+    "id": "Q0329",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "ISMS 基本原則",
+    "source": "ISO/IEC 27000 概觀 / ISO/IEC 27001",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在向新加入 ISMS 專案的流程負責人進行簡報。\n\n審查下列陳述，哪三項最能描述 ISMS 的管理系統觀念？",
+    "options": [
+      "以風險為基礎管理資訊安全",
+      "包含政策、程序、資源與活動",
+      "需要持續監督、審查與改善",
+      "只要安裝資安設備就等同建立 ISMS",
+      "ISMS 僅由資訊部運作，其他部門不需參與",
+      "通過一次驗證後即可停止管理活動"
+    ],
+    "correct": [
+      "以風險為基礎管理資訊安全",
+      "包含政策、程序、資源與活動",
+      "需要持續監督、審查與改善"
+    ],
+    "explanation": "ISMS 是系統化管理資訊安全的管理系統，不是單一技術工具，也不是一次性的驗證活動。",
+    "mnemonic": "制度化、風險化、持續化。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0330",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "ISMS 基本原則",
+    "source": "ISO/IEC 27000 概觀 / ISO/IEC 27001",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備管理階層訪談題目。\n\n審查下列陳述，哪三項最能描述 ISMS 的管理系統觀念？",
+    "options": [
+      "以風險為基礎管理資訊安全",
+      "包含政策、程序、資源與活動",
+      "需要持續監督、審查與改善",
+      "只要安裝資安設備就等同建立 ISMS",
+      "ISMS 僅由資訊部運作，其他部門不需參與",
+      "通過一次驗證後即可停止管理活動"
+    ],
+    "correct": [
+      "以風險為基礎管理資訊安全",
+      "包含政策、程序、資源與活動",
+      "需要持續監督、審查與改善"
+    ],
+    "explanation": "ISMS 是系統化管理資訊安全的管理系統，不是單一技術工具，也不是一次性的驗證活動。",
+    "mnemonic": "制度化、風險化、持續化。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0331",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "ISMS 基本原則",
+    "source": "ISO/IEC 27000 概觀 / ISO/IEC 27001",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在協助組織進行年度 ISMS 檢討。\n\n審查下列陳述，哪三項最能描述 ISMS 的管理系統觀念？",
+    "options": [
+      "以風險為基礎管理資訊安全",
+      "包含政策、程序、資源與活動",
+      "需要持續監督、審查與改善",
+      "只要安裝資安設備就等同建立 ISMS",
+      "ISMS 僅由資訊部運作，其他部門不需參與",
+      "通過一次驗證後即可停止管理活動"
+    ],
+    "correct": [
+      "以風險為基礎管理資訊安全",
+      "包含政策、程序、資源與活動",
+      "需要持續監督、審查與改善"
+    ],
+    "explanation": "ISMS 是系統化管理資訊安全的管理系統，不是單一技術工具，也不是一次性的驗證活動。",
+    "mnemonic": "制度化、風險化、持續化。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0332",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "ISMS 基本原則",
+    "source": "ISO/IEC 27000 概觀 / ISO/IEC 27001",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在對培訓中的稽核員說明 ISO/IEC 27001:2022 第 4 至 6 條。\n\n審查下列陳述，哪三項最能描述 ISMS 的管理系統觀念？",
+    "options": [
+      "以風險為基礎管理資訊安全",
+      "包含政策、程序、資源與活動",
+      "需要持續監督、審查與改善",
+      "只要安裝資安設備就等同建立 ISMS",
+      "ISMS 僅由資訊部運作，其他部門不需參與",
+      "通過一次驗證後即可停止管理活動"
+    ],
+    "correct": [
+      "以風險為基礎管理資訊安全",
+      "包含政策、程序、資源與活動",
+      "需要持續監督、審查與改善"
+    ],
+    "explanation": "ISMS 是系統化管理資訊安全的管理系統，不是單一技術工具，也不是一次性的驗證活動。",
+    "mnemonic": "制度化、風險化、持續化。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0333",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "ISMS 基本原則",
+    "source": "ISO/IEC 27000 概觀 / ISO/IEC 27001",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備一份與正式練習題相近的情境式自我評量。\n\n審查下列陳述，哪三項最能描述 ISMS 的管理系統觀念？",
+    "options": [
+      "以風險為基礎管理資訊安全",
+      "包含政策、程序、資源與活動",
+      "需要持續監督、審查與改善",
+      "只要安裝資安設備就等同建立 ISMS",
+      "ISMS 僅由資訊部運作，其他部門不需參與",
+      "通過一次驗證後即可停止管理活動"
+    ],
+    "correct": [
+      "以風險為基礎管理資訊安全",
+      "包含政策、程序、資源與活動",
+      "需要持續監督、審查與改善"
+    ],
+    "explanation": "ISMS 是系統化管理資訊安全的管理系統，不是單一技術工具，也不是一次性的驗證活動。",
+    "mnemonic": "制度化、風險化、持續化。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0334",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "CIA",
+    "source": "ISO/IEC 27001:2022 6.1.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在向新加入 ISMS 專案的流程負責人進行簡報。\n\n請選擇三項與資訊安全核心特性 CIA 相符的敘述。",
+    "options": [
+      "機密性：資訊不被未授權者取得或揭露",
+      "完整性：資訊不被未授權修改並維持正確完整",
+      "可用性：授權使用者需要時可使用資訊與服務",
+      "機密性：所有資訊都必須公開透明",
+      "完整性：只要系統能開機即可",
+      "可用性：只要資料保密就一定可用"
+    ],
+    "correct": [
+      "機密性：資訊不被未授權者取得或揭露",
+      "完整性：資訊不被未授權修改並維持正確完整",
+      "可用性：授權使用者需要時可使用資訊與服務"
+    ],
+    "explanation": "CIA 是資訊安全的核心三特性。",
+    "mnemonic": "不能偷看、不能亂改、不能掛。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0335",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "CIA",
+    "source": "ISO/IEC 27001:2022 6.1.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備管理階層訪談題目。\n\n請選擇三項與資訊安全核心特性 CIA 相符的敘述。",
+    "options": [
+      "機密性：資訊不被未授權者取得或揭露",
+      "完整性：資訊不被未授權修改並維持正確完整",
+      "可用性：授權使用者需要時可使用資訊與服務",
+      "機密性：所有資訊都必須公開透明",
+      "完整性：只要系統能開機即可",
+      "可用性：只要資料保密就一定可用"
+    ],
+    "correct": [
+      "機密性：資訊不被未授權者取得或揭露",
+      "完整性：資訊不被未授權修改並維持正確完整",
+      "可用性：授權使用者需要時可使用資訊與服務"
+    ],
+    "explanation": "CIA 是資訊安全的核心三特性。",
+    "mnemonic": "不能偷看、不能亂改、不能掛。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0336",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "CIA",
+    "source": "ISO/IEC 27001:2022 6.1.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在協助組織進行年度 ISMS 檢討。\n\n請選擇三項與資訊安全核心特性 CIA 相符的敘述。",
+    "options": [
+      "機密性：資訊不被未授權者取得或揭露",
+      "完整性：資訊不被未授權修改並維持正確完整",
+      "可用性：授權使用者需要時可使用資訊與服務",
+      "機密性：所有資訊都必須公開透明",
+      "完整性：只要系統能開機即可",
+      "可用性：只要資料保密就一定可用"
+    ],
+    "correct": [
+      "機密性：資訊不被未授權者取得或揭露",
+      "完整性：資訊不被未授權修改並維持正確完整",
+      "可用性：授權使用者需要時可使用資訊與服務"
+    ],
+    "explanation": "CIA 是資訊安全的核心三特性。",
+    "mnemonic": "不能偷看、不能亂改、不能掛。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0337",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "CIA",
+    "source": "ISO/IEC 27001:2022 6.1.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在對培訓中的稽核員說明 ISO/IEC 27001:2022 第 4 至 6 條。\n\n請選擇三項與資訊安全核心特性 CIA 相符的敘述。",
+    "options": [
+      "機密性：資訊不被未授權者取得或揭露",
+      "完整性：資訊不被未授權修改並維持正確完整",
+      "可用性：授權使用者需要時可使用資訊與服務",
+      "機密性：所有資訊都必須公開透明",
+      "完整性：只要系統能開機即可",
+      "可用性：只要資料保密就一定可用"
+    ],
+    "correct": [
+      "機密性：資訊不被未授權者取得或揭露",
+      "完整性：資訊不被未授權修改並維持正確完整",
+      "可用性：授權使用者需要時可使用資訊與服務"
+    ],
+    "explanation": "CIA 是資訊安全的核心三特性。",
+    "mnemonic": "不能偷看、不能亂改、不能掛。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0338",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "CIA",
+    "source": "ISO/IEC 27001:2022 6.1.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備一份與正式練習題相近的情境式自我評量。\n\n請選擇三項與資訊安全核心特性 CIA 相符的敘述。",
+    "options": [
+      "機密性：資訊不被未授權者取得或揭露",
+      "完整性：資訊不被未授權修改並維持正確完整",
+      "可用性：授權使用者需要時可使用資訊與服務",
+      "機密性：所有資訊都必須公開透明",
+      "完整性：只要系統能開機即可",
+      "可用性：只要資料保密就一定可用"
+    ],
+    "correct": [
+      "機密性：資訊不被未授權者取得或揭露",
+      "完整性：資訊不被未授權修改並維持正確完整",
+      "可用性：授權使用者需要時可使用資訊與服務"
+    ],
+    "explanation": "CIA 是資訊安全的核心三特性。",
+    "mnemonic": "不能偷看、不能亂改、不能掛。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0339",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "組織全景",
+    "source": "ISO/IEC 27001:2022 4.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在向新加入 ISMS 專案的流程負責人進行簡報。\n\n下列哪四項較可能屬於組織在判斷 ISMS 外部議題時應考量的內容？",
+    "options": [
+      "新法規或主管機關要求",
+      "供應鏈與市場環境變化",
+      "外部威脅情勢與科技變化",
+      "氣候變遷等可能影響組織的外部因素",
+      "資訊部人力不足",
+      "內部責任分工不清",
+      "員工資安能力不足",
+      "內部流程效率不佳"
+    ],
+    "correct": [
+      "新法規或主管機關要求",
+      "供應鏈與市場環境變化",
+      "外部威脅情勢與科技變化",
+      "氣候變遷等可能影響組織的外部因素"
+    ],
+    "explanation": "外部議題來自組織外部環境；人力、責任分工、內部能力等通常屬內部議題。",
+    "mnemonic": "外＝法規、市場、威脅、環境。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0340",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "組織全景",
+    "source": "ISO/IEC 27001:2022 4.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在準備管理階層訪談題目。\n\n下列哪四項較可能屬於組織在判斷 ISMS 外部議題時應考量的內容？",
+    "options": [
+      "新法規或主管機關要求",
+      "供應鏈與市場環境變化",
+      "外部威脅情勢與科技變化",
+      "氣候變遷等可能影響組織的外部因素",
+      "資訊部人力不足",
+      "內部責任分工不清",
+      "員工資安能力不足",
+      "內部流程效率不佳"
+    ],
+    "correct": [
+      "新法規或主管機關要求",
+      "供應鏈與市場環境變化",
+      "外部威脅情勢與科技變化",
+      "氣候變遷等可能影響組織的外部因素"
+    ],
+    "explanation": "外部議題來自組織外部環境；人力、責任分工、內部能力等通常屬內部議題。",
+    "mnemonic": "外＝法規、市場、威脅、環境。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0341",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "組織全景",
+    "source": "ISO/IEC 27001:2022 4.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在協助組織進行年度 ISMS 檢討。\n\n下列哪四項較可能屬於組織在判斷 ISMS 外部議題時應考量的內容？",
+    "options": [
+      "新法規或主管機關要求",
+      "供應鏈與市場環境變化",
+      "外部威脅情勢與科技變化",
+      "氣候變遷等可能影響組織的外部因素",
+      "資訊部人力不足",
+      "內部責任分工不清",
+      "員工資安能力不足",
+      "內部流程效率不佳"
+    ],
+    "correct": [
+      "新法規或主管機關要求",
+      "供應鏈與市場環境變化",
+      "外部威脅情勢與科技變化",
+      "氣候變遷等可能影響組織的外部因素"
+    ],
+    "explanation": "外部議題來自組織外部環境；人力、責任分工、內部能力等通常屬內部議題。",
+    "mnemonic": "外＝法規、市場、威脅、環境。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0342",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "組織全景",
+    "source": "ISO/IEC 27001:2022 4.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在對培訓中的稽核員說明 ISO/IEC 27001:2022 第 4 至 6 條。\n\n下列哪四項較可能屬於組織在判斷 ISMS 外部議題時應考量的內容？",
+    "options": [
+      "新法規或主管機關要求",
+      "供應鏈與市場環境變化",
+      "外部威脅情勢與科技變化",
+      "氣候變遷等可能影響組織的外部因素",
+      "資訊部人力不足",
+      "內部責任分工不清",
+      "員工資安能力不足",
+      "內部流程效率不佳"
+    ],
+    "correct": [
+      "新法規或主管機關要求",
+      "供應鏈與市場環境變化",
+      "外部威脅情勢與科技變化",
+      "氣候變遷等可能影響組織的外部因素"
+    ],
+    "explanation": "外部議題來自組織外部環境；人力、責任分工、內部能力等通常屬內部議題。",
+    "mnemonic": "外＝法規、市場、威脅、環境。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0343",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "組織全景",
+    "source": "ISO/IEC 27001:2022 4.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在準備一份與正式練習題相近的情境式自我評量。\n\n下列哪四項較可能屬於組織在判斷 ISMS 外部議題時應考量的內容？",
+    "options": [
+      "新法規或主管機關要求",
+      "供應鏈與市場環境變化",
+      "外部威脅情勢與科技變化",
+      "氣候變遷等可能影響組織的外部因素",
+      "資訊部人力不足",
+      "內部責任分工不清",
+      "員工資安能力不足",
+      "內部流程效率不佳"
+    ],
+    "correct": [
+      "新法規或主管機關要求",
+      "供應鏈與市場環境變化",
+      "外部威脅情勢與科技變化",
+      "氣候變遷等可能影響組織的外部因素"
+    ],
+    "explanation": "外部議題來自組織外部環境；人力、責任分工、內部能力等通常屬內部議題。",
+    "mnemonic": "外＝法規、市場、威脅、環境。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0344",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "ISMS 範圍",
+    "source": "ISO/IEC 27001:2022 4.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在向新加入 ISMS 專案的流程負責人進行簡報。\n\n請選擇三項在決定 ISMS 範圍時應考量的事項。",
+    "options": [
+      "與 ISMS 有關的內部及外部議題",
+      "相關關注方的要求",
+      "組織與其他組織活動間的介面及相依性",
+      "公司尾牙活動",
+      "稽核員個人偏好",
+      "只看哪個範圍最容易通過驗證"
+    ],
+    "correct": [
+      "與 ISMS 有關的內部及外部議題",
+      "相關關注方的要求",
+      "組織與其他組織活動間的介面及相依性"
+    ],
+    "explanation": "4.3 明確要求範圍決定需考量 4.1、4.2 與活動介面/相依性，且範圍需文件化。",
+    "mnemonic": "Scope＝邊界＋適用性＋相依性。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0345",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "ISMS 範圍",
+    "source": "ISO/IEC 27001:2022 4.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備管理階層訪談題目。\n\n請選擇三項在決定 ISMS 範圍時應考量的事項。",
+    "options": [
+      "與 ISMS 有關的內部及外部議題",
+      "相關關注方的要求",
+      "組織與其他組織活動間的介面及相依性",
+      "公司尾牙活動",
+      "稽核員個人偏好",
+      "只看哪個範圍最容易通過驗證"
+    ],
+    "correct": [
+      "與 ISMS 有關的內部及外部議題",
+      "相關關注方的要求",
+      "組織與其他組織活動間的介面及相依性"
+    ],
+    "explanation": "4.3 明確要求範圍決定需考量 4.1、4.2 與活動介面/相依性，且範圍需文件化。",
+    "mnemonic": "Scope＝邊界＋適用性＋相依性。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0346",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "ISMS 範圍",
+    "source": "ISO/IEC 27001:2022 4.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在協助組織進行年度 ISMS 檢討。\n\n請選擇三項在決定 ISMS 範圍時應考量的事項。",
+    "options": [
+      "與 ISMS 有關的內部及外部議題",
+      "相關關注方的要求",
+      "組織與其他組織活動間的介面及相依性",
+      "公司尾牙活動",
+      "稽核員個人偏好",
+      "只看哪個範圍最容易通過驗證"
+    ],
+    "correct": [
+      "與 ISMS 有關的內部及外部議題",
+      "相關關注方的要求",
+      "組織與其他組織活動間的介面及相依性"
+    ],
+    "explanation": "4.3 明確要求範圍決定需考量 4.1、4.2 與活動介面/相依性，且範圍需文件化。",
+    "mnemonic": "Scope＝邊界＋適用性＋相依性。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0347",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "ISMS 範圍",
+    "source": "ISO/IEC 27001:2022 4.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在對培訓中的稽核員說明 ISO/IEC 27001:2022 第 4 至 6 條。\n\n請選擇三項在決定 ISMS 範圍時應考量的事項。",
+    "options": [
+      "與 ISMS 有關的內部及外部議題",
+      "相關關注方的要求",
+      "組織與其他組織活動間的介面及相依性",
+      "公司尾牙活動",
+      "稽核員個人偏好",
+      "只看哪個範圍最容易通過驗證"
+    ],
+    "correct": [
+      "與 ISMS 有關的內部及外部議題",
+      "相關關注方的要求",
+      "組織與其他組織活動間的介面及相依性"
+    ],
+    "explanation": "4.3 明確要求範圍決定需考量 4.1、4.2 與活動介面/相依性，且範圍需文件化。",
+    "mnemonic": "Scope＝邊界＋適用性＋相依性。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0348",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "ISMS 範圍",
+    "source": "ISO/IEC 27001:2022 4.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備一份與正式練習題相近的情境式自我評量。\n\n請選擇三項在決定 ISMS 範圍時應考量的事項。",
+    "options": [
+      "與 ISMS 有關的內部及外部議題",
+      "相關關注方的要求",
+      "組織與其他組織活動間的介面及相依性",
+      "公司尾牙活動",
+      "稽核員個人偏好",
+      "只看哪個範圍最容易通過驗證"
+    ],
+    "correct": [
+      "與 ISMS 有關的內部及外部議題",
+      "相關關注方的要求",
+      "組織與其他組織活動間的介面及相依性"
+    ],
+    "explanation": "4.3 明確要求範圍決定需考量 4.1、4.2 與活動介面/相依性，且範圍需文件化。",
+    "mnemonic": "Scope＝邊界＋適用性＋相依性。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0349",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "領導與承諾",
+    "source": "ISO/IEC 27001:2022 5.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在向新加入 ISMS 專案的流程負責人進行簡報。\n\n以下哪四項是最高管理階層展現 ISMS 領導與承諾的適當作法？",
+    "options": [
+      "確保資訊安全政策與目標建立並與策略方向相容",
+      "確保 ISMS 所需資源可取得",
+      "確保 ISMS 要求整合到組織過程",
+      "支持持續改善並促進 ISMS 有效性",
+      "把所有資安責任完全交給資訊部後不再過問",
+      "只在驗證前一天簽署文件",
+      "只要沒有事故即可不參與管理審查"
+    ],
+    "correct": [
+      "確保資訊安全政策與目標建立並與策略方向相容",
+      "確保 ISMS 所需資源可取得",
+      "確保 ISMS 要求整合到組織過程",
+      "支持持續改善並促進 ISMS 有效性"
+    ],
+    "explanation": "第 5.1 條要求最高管理階層透過政策/目標、資源、整合、溝通、支持與持續改善展現領導。",
+    "mnemonic": "老闆要挺、要訂、要給、要分。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0350",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "領導與承諾",
+    "source": "ISO/IEC 27001:2022 5.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在準備管理階層訪談題目。\n\n以下哪四項是最高管理階層展現 ISMS 領導與承諾的適當作法？",
+    "options": [
+      "確保資訊安全政策與目標建立並與策略方向相容",
+      "確保 ISMS 所需資源可取得",
+      "確保 ISMS 要求整合到組織過程",
+      "支持持續改善並促進 ISMS 有效性",
+      "把所有資安責任完全交給資訊部後不再過問",
+      "只在驗證前一天簽署文件",
+      "只要沒有事故即可不參與管理審查"
+    ],
+    "correct": [
+      "確保資訊安全政策與目標建立並與策略方向相容",
+      "確保 ISMS 所需資源可取得",
+      "確保 ISMS 要求整合到組織過程",
+      "支持持續改善並促進 ISMS 有效性"
+    ],
+    "explanation": "第 5.1 條要求最高管理階層透過政策/目標、資源、整合、溝通、支持與持續改善展現領導。",
+    "mnemonic": "老闆要挺、要訂、要給、要分。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0351",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "領導與承諾",
+    "source": "ISO/IEC 27001:2022 5.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在協助組織進行年度 ISMS 檢討。\n\n以下哪四項是最高管理階層展現 ISMS 領導與承諾的適當作法？",
+    "options": [
+      "確保資訊安全政策與目標建立並與策略方向相容",
+      "確保 ISMS 所需資源可取得",
+      "確保 ISMS 要求整合到組織過程",
+      "支持持續改善並促進 ISMS 有效性",
+      "把所有資安責任完全交給資訊部後不再過問",
+      "只在驗證前一天簽署文件",
+      "只要沒有事故即可不參與管理審查"
+    ],
+    "correct": [
+      "確保資訊安全政策與目標建立並與策略方向相容",
+      "確保 ISMS 所需資源可取得",
+      "確保 ISMS 要求整合到組織過程",
+      "支持持續改善並促進 ISMS 有效性"
+    ],
+    "explanation": "第 5.1 條要求最高管理階層透過政策/目標、資源、整合、溝通、支持與持續改善展現領導。",
+    "mnemonic": "老闆要挺、要訂、要給、要分。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0352",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "領導與承諾",
+    "source": "ISO/IEC 27001:2022 5.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在對培訓中的稽核員說明 ISO/IEC 27001:2022 第 4 至 6 條。\n\n以下哪四項是最高管理階層展現 ISMS 領導與承諾的適當作法？",
+    "options": [
+      "確保資訊安全政策與目標建立並與策略方向相容",
+      "確保 ISMS 所需資源可取得",
+      "確保 ISMS 要求整合到組織過程",
+      "支持持續改善並促進 ISMS 有效性",
+      "把所有資安責任完全交給資訊部後不再過問",
+      "只在驗證前一天簽署文件",
+      "只要沒有事故即可不參與管理審查"
+    ],
+    "correct": [
+      "確保資訊安全政策與目標建立並與策略方向相容",
+      "確保 ISMS 所需資源可取得",
+      "確保 ISMS 要求整合到組織過程",
+      "支持持續改善並促進 ISMS 有效性"
+    ],
+    "explanation": "第 5.1 條要求最高管理階層透過政策/目標、資源、整合、溝通、支持與持續改善展現領導。",
+    "mnemonic": "老闆要挺、要訂、要給、要分。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0353",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "領導與承諾",
+    "source": "ISO/IEC 27001:2022 5.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在準備一份與正式練習題相近的情境式自我評量。\n\n以下哪四項是最高管理階層展現 ISMS 領導與承諾的適當作法？",
+    "options": [
+      "確保資訊安全政策與目標建立並與策略方向相容",
+      "確保 ISMS 所需資源可取得",
+      "確保 ISMS 要求整合到組織過程",
+      "支持持續改善並促進 ISMS 有效性",
+      "把所有資安責任完全交給資訊部後不再過問",
+      "只在驗證前一天簽署文件",
+      "只要沒有事故即可不參與管理審查"
+    ],
+    "correct": [
+      "確保資訊安全政策與目標建立並與策略方向相容",
+      "確保 ISMS 所需資源可取得",
+      "確保 ISMS 要求整合到組織過程",
+      "支持持續改善並促進 ISMS 有效性"
+    ],
+    "explanation": "第 5.1 條要求最高管理階層透過政策/目標、資源、整合、溝通、支持與持續改善展現領導。",
+    "mnemonic": "老闆要挺、要訂、要給、要分。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0354",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "風險評鑑",
+    "source": "ISO/IEC 27001:2022 6.1.2(d)",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在向新加入 ISMS 專案的流程負責人進行簡報。\n\n你要求培訓中的稽核員找出資訊安全風險「分析」階段的工作。下列哪三項正確？",
+    "options": [
+      "評估風險實際發生時的潛在後果",
+      "評估風險發生的實際可能性",
+      "判定風險等級",
+      "直接購買安全設備",
+      "立即決定接受風險",
+      "直接撰寫稽核不符合"
+    ],
+    "correct": [
+      "評估風險實際發生時的潛在後果",
+      "評估風險發生的實際可能性",
+      "判定風險等級"
+    ],
+    "explanation": "風險分析是後果、可能性、風險等級；控制選擇屬風險處理。",
+    "mnemonic": "分析＝算後果、可能性、等級。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0355",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "風險評鑑",
+    "source": "ISO/IEC 27001:2022 6.1.2(d)",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備管理階層訪談題目。\n\n你要求培訓中的稽核員找出資訊安全風險「分析」階段的工作。下列哪三項正確？",
+    "options": [
+      "評估風險實際發生時的潛在後果",
+      "評估風險發生的實際可能性",
+      "判定風險等級",
+      "直接購買安全設備",
+      "立即決定接受風險",
+      "直接撰寫稽核不符合"
+    ],
+    "correct": [
+      "評估風險實際發生時的潛在後果",
+      "評估風險發生的實際可能性",
+      "判定風險等級"
+    ],
+    "explanation": "風險分析是後果、可能性、風險等級；控制選擇屬風險處理。",
+    "mnemonic": "分析＝算後果、可能性、等級。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0356",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "風險評鑑",
+    "source": "ISO/IEC 27001:2022 6.1.2(d)",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在協助組織進行年度 ISMS 檢討。\n\n你要求培訓中的稽核員找出資訊安全風險「分析」階段的工作。下列哪三項正確？",
+    "options": [
+      "評估風險實際發生時的潛在後果",
+      "評估風險發生的實際可能性",
+      "判定風險等級",
+      "直接購買安全設備",
+      "立即決定接受風險",
+      "直接撰寫稽核不符合"
+    ],
+    "correct": [
+      "評估風險實際發生時的潛在後果",
+      "評估風險發生的實際可能性",
+      "判定風險等級"
+    ],
+    "explanation": "風險分析是後果、可能性、風險等級；控制選擇屬風險處理。",
+    "mnemonic": "分析＝算後果、可能性、等級。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0357",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "風險評鑑",
+    "source": "ISO/IEC 27001:2022 6.1.2(d)",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在對培訓中的稽核員說明 ISO/IEC 27001:2022 第 4 至 6 條。\n\n你要求培訓中的稽核員找出資訊安全風險「分析」階段的工作。下列哪三項正確？",
+    "options": [
+      "評估風險實際發生時的潛在後果",
+      "評估風險發生的實際可能性",
+      "判定風險等級",
+      "直接購買安全設備",
+      "立即決定接受風險",
+      "直接撰寫稽核不符合"
+    ],
+    "correct": [
+      "評估風險實際發生時的潛在後果",
+      "評估風險發生的實際可能性",
+      "判定風險等級"
+    ],
+    "explanation": "風險分析是後果、可能性、風險等級；控制選擇屬風險處理。",
+    "mnemonic": "分析＝算後果、可能性、等級。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0358",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "風險評鑑",
+    "source": "ISO/IEC 27001:2022 6.1.2(d)",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備一份與正式練習題相近的情境式自我評量。\n\n你要求培訓中的稽核員找出資訊安全風險「分析」階段的工作。下列哪三項正確？",
+    "options": [
+      "評估風險實際發生時的潛在後果",
+      "評估風險發生的實際可能性",
+      "判定風險等級",
+      "直接購買安全設備",
+      "立即決定接受風險",
+      "直接撰寫稽核不符合"
+    ],
+    "correct": [
+      "評估風險實際發生時的潛在後果",
+      "評估風險發生的實際可能性",
+      "判定風險等級"
+    ],
+    "explanation": "風險分析是後果、可能性、風險等級；控制選擇屬風險處理。",
+    "mnemonic": "分析＝算後果、可能性、等級。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0359",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "風險評估",
+    "source": "ISO/IEC 27001:2022 6.1.2(e)",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你正在向新加入 ISMS 專案的流程負責人進行簡報。\n\n下列哪兩項屬於資訊安全風險「評估」階段？",
+    "options": [
+      "將風險分析結果與既定風險準則比較",
+      "訂定已分析風險的處理優先序",
+      "辨識 CIA 相關風險",
+      "安裝控制措施",
+      "執行矯正措施",
+      "撰寫稽核報告"
+    ],
+    "correct": [
+      "將風險分析結果與既定風險準則比較",
+      "訂定已分析風險的處理優先序"
+    ],
+    "explanation": "評估階段是把分析結果與風險準則比較並排定處理優先序。",
+    "mnemonic": "找→算→比→排。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0360",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "風險評估",
+    "source": "ISO/IEC 27001:2022 6.1.2(e)",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你正在準備管理階層訪談題目。\n\n下列哪兩項屬於資訊安全風險「評估」階段？",
+    "options": [
+      "將風險分析結果與既定風險準則比較",
+      "訂定已分析風險的處理優先序",
+      "辨識 CIA 相關風險",
+      "安裝控制措施",
+      "執行矯正措施",
+      "撰寫稽核報告"
+    ],
+    "correct": [
+      "將風險分析結果與既定風險準則比較",
+      "訂定已分析風險的處理優先序"
+    ],
+    "explanation": "評估階段是把分析結果與風險準則比較並排定處理優先序。",
+    "mnemonic": "找→算→比→排。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0361",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "風險評估",
+    "source": "ISO/IEC 27001:2022 6.1.2(e)",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你正在協助組織進行年度 ISMS 檢討。\n\n下列哪兩項屬於資訊安全風險「評估」階段？",
+    "options": [
+      "將風險分析結果與既定風險準則比較",
+      "訂定已分析風險的處理優先序",
+      "辨識 CIA 相關風險",
+      "安裝控制措施",
+      "執行矯正措施",
+      "撰寫稽核報告"
+    ],
+    "correct": [
+      "將風險分析結果與既定風險準則比較",
+      "訂定已分析風險的處理優先序"
+    ],
+    "explanation": "評估階段是把分析結果與風險準則比較並排定處理優先序。",
+    "mnemonic": "找→算→比→排。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0362",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "風險評估",
+    "source": "ISO/IEC 27001:2022 6.1.2(e)",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你正在對培訓中的稽核員說明 ISO/IEC 27001:2022 第 4 至 6 條。\n\n下列哪兩項屬於資訊安全風險「評估」階段？",
+    "options": [
+      "將風險分析結果與既定風險準則比較",
+      "訂定已分析風險的處理優先序",
+      "辨識 CIA 相關風險",
+      "安裝控制措施",
+      "執行矯正措施",
+      "撰寫稽核報告"
+    ],
+    "correct": [
+      "將風險分析結果與既定風險準則比較",
+      "訂定已分析風險的處理優先序"
+    ],
+    "explanation": "評估階段是把分析結果與風險準則比較並排定處理優先序。",
+    "mnemonic": "找→算→比→排。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0363",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "風險評估",
+    "source": "ISO/IEC 27001:2022 6.1.2(e)",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你正在準備一份與正式練習題相近的情境式自我評量。\n\n下列哪兩項屬於資訊安全風險「評估」階段？",
+    "options": [
+      "將風險分析結果與既定風險準則比較",
+      "訂定已分析風險的處理優先序",
+      "辨識 CIA 相關風險",
+      "安裝控制措施",
+      "執行矯正措施",
+      "撰寫稽核報告"
+    ],
+    "correct": [
+      "將風險分析結果與既定風險準則比較",
+      "訂定已分析風險的處理優先序"
+    ],
+    "explanation": "評估階段是把分析結果與風險準則比較並排定處理優先序。",
+    "mnemonic": "找→算→比→排。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0364",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "SoA",
+    "source": "ISO/IEC 27001:2022 6.1.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在向新加入 ISMS 專案的流程負責人進行簡報。\n\n關於適用性聲明（SoA），請選擇三項正確陳述。",
+    "options": [
+      "應包含必要的控制措施",
+      "應說明控制措施是否已實作",
+      "應對排除 Annex A 控制措施提供理由",
+      "Annex A 93 項必須全部實作且不可排除",
+      "SoA 就是資產清冊",
+      "SoA 不需要與風險處理連結"
+    ],
+    "correct": [
+      "應包含必要的控制措施",
+      "應說明控制措施是否已實作",
+      "應對排除 Annex A 控制措施提供理由"
+    ],
+    "explanation": "SoA 說明必要控制、實作狀態與排除理由，並與風險處理結果連結。",
+    "mnemonic": "SoA＝用什麼、不用什麼、為什麼。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0365",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "SoA",
+    "source": "ISO/IEC 27001:2022 6.1.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備管理階層訪談題目。\n\n關於適用性聲明（SoA），請選擇三項正確陳述。",
+    "options": [
+      "應包含必要的控制措施",
+      "應說明控制措施是否已實作",
+      "應對排除 Annex A 控制措施提供理由",
+      "Annex A 93 項必須全部實作且不可排除",
+      "SoA 就是資產清冊",
+      "SoA 不需要與風險處理連結"
+    ],
+    "correct": [
+      "應包含必要的控制措施",
+      "應說明控制措施是否已實作",
+      "應對排除 Annex A 控制措施提供理由"
+    ],
+    "explanation": "SoA 說明必要控制、實作狀態與排除理由，並與風險處理結果連結。",
+    "mnemonic": "SoA＝用什麼、不用什麼、為什麼。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0366",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "SoA",
+    "source": "ISO/IEC 27001:2022 6.1.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在協助組織進行年度 ISMS 檢討。\n\n關於適用性聲明（SoA），請選擇三項正確陳述。",
+    "options": [
+      "應包含必要的控制措施",
+      "應說明控制措施是否已實作",
+      "應對排除 Annex A 控制措施提供理由",
+      "Annex A 93 項必須全部實作且不可排除",
+      "SoA 就是資產清冊",
+      "SoA 不需要與風險處理連結"
+    ],
+    "correct": [
+      "應包含必要的控制措施",
+      "應說明控制措施是否已實作",
+      "應對排除 Annex A 控制措施提供理由"
+    ],
+    "explanation": "SoA 說明必要控制、實作狀態與排除理由，並與風險處理結果連結。",
+    "mnemonic": "SoA＝用什麼、不用什麼、為什麼。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0367",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "SoA",
+    "source": "ISO/IEC 27001:2022 6.1.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在對培訓中的稽核員說明 ISO/IEC 27001:2022 第 4 至 6 條。\n\n關於適用性聲明（SoA），請選擇三項正確陳述。",
+    "options": [
+      "應包含必要的控制措施",
+      "應說明控制措施是否已實作",
+      "應對排除 Annex A 控制措施提供理由",
+      "Annex A 93 項必須全部實作且不可排除",
+      "SoA 就是資產清冊",
+      "SoA 不需要與風險處理連結"
+    ],
+    "correct": [
+      "應包含必要的控制措施",
+      "應說明控制措施是否已實作",
+      "應對排除 Annex A 控制措施提供理由"
+    ],
+    "explanation": "SoA 說明必要控制、實作狀態與排除理由，並與風險處理結果連結。",
+    "mnemonic": "SoA＝用什麼、不用什麼、為什麼。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0368",
+    "unit": 1,
+    "unitName": "管理系統標準與管理系統概念原則",
+    "topic": "SoA",
+    "source": "ISO/IEC 27001:2022 6.1.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備一份與正式練習題相近的情境式自我評量。\n\n關於適用性聲明（SoA），請選擇三項正確陳述。",
+    "options": [
+      "應包含必要的控制措施",
+      "應說明控制措施是否已實作",
+      "應對排除 Annex A 控制措施提供理由",
+      "Annex A 93 項必須全部實作且不可排除",
+      "SoA 就是資產清冊",
+      "SoA 不需要與風險處理連結"
+    ],
+    "correct": [
+      "應包含必要的控制措施",
+      "應說明控制措施是否已實作",
+      "應對排除 Annex A 控制措施提供理由"
+    ],
+    "explanation": "SoA 說明必要控制、實作狀態與排除理由，並與風險處理結果連結。",
+    "mnemonic": "SoA＝用什麼、不用什麼、為什麼。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0369",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "互動式與非互動式稽核方法",
+    "source": "ISO 19011 稽核方法課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在帶領一名培訓中的稽核員進行知識複習。\n\n因為稽核方式不同，稽核過程可以與受稽核方代表互動，也可以沒有互動。請選擇四種通常屬於「沒有直接互動」的稽核方式。",
+    "options": [
+      "分析既有資料或分析結果",
+      "審查受稽核方提供的文件與紀錄",
+      "透過監測工具或系統資料觀察活動",
+      "抽樣檢查既有產品或輸出",
+      "進行訪談",
+      "現場陪同觀察工作並即時詢問人員",
+      "與受稽核方共同完成查檢表",
+      "召開工作坊討論流程"
+    ],
+    "correct": [
+      "分析既有資料或分析結果",
+      "審查受稽核方提供的文件與紀錄",
+      "透過監測工具或系統資料觀察活動",
+      "抽樣檢查既有產品或輸出"
+    ],
+    "explanation": "沒有直接互動的方法重點在分析、審查、觀察既有資料/輸出；訪談、共同完成查檢表與即時詢問則有互動。",
+    "mnemonic": "有沒有跟人直接對話/共同作業，是判斷關鍵。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0370",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "互動式與非互動式稽核方法",
+    "source": "ISO 19011 稽核方法課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在稽核小組會議中說明 ISO 19011 的稽核原則。\n\n因為稽核方式不同，稽核過程可以與受稽核方代表互動，也可以沒有互動。請選擇四種通常屬於「沒有直接互動」的稽核方式。",
+    "options": [
+      "分析既有資料或分析結果",
+      "審查受稽核方提供的文件與紀錄",
+      "透過監測工具或系統資料觀察活動",
+      "抽樣檢查既有產品或輸出",
+      "進行訪談",
+      "現場陪同觀察工作並即時詢問人員",
+      "與受稽核方共同完成查檢表",
+      "召開工作坊討論流程"
+    ],
+    "correct": [
+      "分析既有資料或分析結果",
+      "審查受稽核方提供的文件與紀錄",
+      "透過監測工具或系統資料觀察活動",
+      "抽樣檢查既有產品或輸出"
+    ],
+    "explanation": "沒有直接互動的方法重點在分析、審查、觀察既有資料/輸出；訪談、共同完成查檢表與即時詢問則有互動。",
+    "mnemonic": "有沒有跟人直接對話/共同作業，是判斷關鍵。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0371",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "互動式與非互動式稽核方法",
+    "source": "ISO 19011 稽核方法課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在準備主導稽核員模擬考。\n\n因為稽核方式不同，稽核過程可以與受稽核方代表互動，也可以沒有互動。請選擇四種通常屬於「沒有直接互動」的稽核方式。",
+    "options": [
+      "分析既有資料或分析結果",
+      "審查受稽核方提供的文件與紀錄",
+      "透過監測工具或系統資料觀察活動",
+      "抽樣檢查既有產品或輸出",
+      "進行訪談",
+      "現場陪同觀察工作並即時詢問人員",
+      "與受稽核方共同完成查檢表",
+      "召開工作坊討論流程"
+    ],
+    "correct": [
+      "分析既有資料或分析結果",
+      "審查受稽核方提供的文件與紀錄",
+      "透過監測工具或系統資料觀察活動",
+      "抽樣檢查既有產品或輸出"
+    ],
+    "explanation": "沒有直接互動的方法重點在分析、審查、觀察既有資料/輸出；訪談、共同完成查檢表與即時詢問則有互動。",
+    "mnemonic": "有沒有跟人直接對話/共同作業，是判斷關鍵。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0372",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "互動式與非互動式稽核方法",
+    "source": "ISO 19011 稽核方法課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在第三方驗證稽核前確認稽核團隊的共同理解。\n\n因為稽核方式不同，稽核過程可以與受稽核方代表互動，也可以沒有互動。請選擇四種通常屬於「沒有直接互動」的稽核方式。",
+    "options": [
+      "分析既有資料或分析結果",
+      "審查受稽核方提供的文件與紀錄",
+      "透過監測工具或系統資料觀察活動",
+      "抽樣檢查既有產品或輸出",
+      "進行訪談",
+      "現場陪同觀察工作並即時詢問人員",
+      "與受稽核方共同完成查檢表",
+      "召開工作坊討論流程"
+    ],
+    "correct": [
+      "分析既有資料或分析結果",
+      "審查受稽核方提供的文件與紀錄",
+      "透過監測工具或系統資料觀察活動",
+      "抽樣檢查既有產品或輸出"
+    ],
+    "explanation": "沒有直接互動的方法重點在分析、審查、觀察既有資料/輸出；訪談、共同完成查檢表與即時詢問則有互動。",
+    "mnemonic": "有沒有跟人直接對話/共同作業，是判斷關鍵。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0373",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "互動式與非互動式稽核方法",
+    "source": "ISO 19011 稽核方法課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在用情境題檢查稽核員是否真正理解稽核原則。\n\n因為稽核方式不同，稽核過程可以與受稽核方代表互動，也可以沒有互動。請選擇四種通常屬於「沒有直接互動」的稽核方式。",
+    "options": [
+      "分析既有資料或分析結果",
+      "審查受稽核方提供的文件與紀錄",
+      "透過監測工具或系統資料觀察活動",
+      "抽樣檢查既有產品或輸出",
+      "進行訪談",
+      "現場陪同觀察工作並即時詢問人員",
+      "與受稽核方共同完成查檢表",
+      "召開工作坊討論流程"
+    ],
+    "correct": [
+      "分析既有資料或分析結果",
+      "審查受稽核方提供的文件與紀錄",
+      "透過監測工具或系統資料觀察活動",
+      "抽樣檢查既有產品或輸出"
+    ],
+    "explanation": "沒有直接互動的方法重點在分析、審查、觀察既有資料/輸出；訪談、共同完成查檢表與即時詢問則有互動。",
+    "mnemonic": "有沒有跟人直接對話/共同作業，是判斷關鍵。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0374",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核準則",
+    "source": "ISO 19011 / ISO/IEC 27001 稽核課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領一名培訓中的稽核員進行知識複習。\n\n請從下列選擇三項與「稽核準則」相關的描述。",
+    "options": [
+      "法律及法規要求",
+      "國際或產業標準",
+      "組織管理政策及程序要求",
+      "確認管理系統的範圍",
+      "識別改進機會",
+      "按時完成稽核"
+    ],
+    "correct": [
+      "法律及法規要求",
+      "國際或產業標準",
+      "組織管理政策及程序要求"
+    ],
+    "explanation": "稽核準則是拿來與證據比較的要求來源，可包含法律法規、標準、政策、程序與契約等。",
+    "mnemonic": "準則＝拿什麼標準來比。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0375",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核準則",
+    "source": "ISO 19011 / ISO/IEC 27001 稽核課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在稽核小組會議中說明 ISO 19011 的稽核原則。\n\n請從下列選擇三項與「稽核準則」相關的描述。",
+    "options": [
+      "法律及法規要求",
+      "國際或產業標準",
+      "組織管理政策及程序要求",
+      "確認管理系統的範圍",
+      "識別改進機會",
+      "按時完成稽核"
+    ],
+    "correct": [
+      "法律及法規要求",
+      "國際或產業標準",
+      "組織管理政策及程序要求"
+    ],
+    "explanation": "稽核準則是拿來與證據比較的要求來源，可包含法律法規、標準、政策、程序與契約等。",
+    "mnemonic": "準則＝拿什麼標準來比。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0376",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核準則",
+    "source": "ISO 19011 / ISO/IEC 27001 稽核課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備主導稽核員模擬考。\n\n請從下列選擇三項與「稽核準則」相關的描述。",
+    "options": [
+      "法律及法規要求",
+      "國際或產業標準",
+      "組織管理政策及程序要求",
+      "確認管理系統的範圍",
+      "識別改進機會",
+      "按時完成稽核"
+    ],
+    "correct": [
+      "法律及法規要求",
+      "國際或產業標準",
+      "組織管理政策及程序要求"
+    ],
+    "explanation": "稽核準則是拿來與證據比較的要求來源，可包含法律法規、標準、政策、程序與契約等。",
+    "mnemonic": "準則＝拿什麼標準來比。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0377",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核準則",
+    "source": "ISO 19011 / ISO/IEC 27001 稽核課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在第三方驗證稽核前確認稽核團隊的共同理解。\n\n請從下列選擇三項與「稽核準則」相關的描述。",
+    "options": [
+      "法律及法規要求",
+      "國際或產業標準",
+      "組織管理政策及程序要求",
+      "確認管理系統的範圍",
+      "識別改進機會",
+      "按時完成稽核"
+    ],
+    "correct": [
+      "法律及法規要求",
+      "國際或產業標準",
+      "組織管理政策及程序要求"
+    ],
+    "explanation": "稽核準則是拿來與證據比較的要求來源，可包含法律法規、標準、政策、程序與契約等。",
+    "mnemonic": "準則＝拿什麼標準來比。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0378",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核準則",
+    "source": "ISO 19011 / ISO/IEC 27001 稽核課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在用情境題檢查稽核員是否真正理解稽核原則。\n\n請從下列選擇三項與「稽核準則」相關的描述。",
+    "options": [
+      "法律及法規要求",
+      "國際或產業標準",
+      "組織管理政策及程序要求",
+      "確認管理系統的範圍",
+      "識別改進機會",
+      "按時完成稽核"
+    ],
+    "correct": [
+      "法律及法規要求",
+      "國際或產業標準",
+      "組織管理政策及程序要求"
+    ],
+    "explanation": "稽核準則是拿來與證據比較的要求來源，可包含法律法規、標準、政策、程序與契約等。",
+    "mnemonic": "準則＝拿什麼標準來比。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0379",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員特質",
+    "source": "ISO 19011 稽核員能力與行為課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領一名培訓中的稽核員進行知識複習。\n\n以下哪三項較符合稽核員應具備的個人行為特質？",
+    "options": [
+      "道德、誠實與謹慎",
+      "願意學習並持續改善",
+      "思想開放且能接受不同觀點",
+      "為維持權威，遇到不懂的問題也要硬答",
+      "只相信自己原先判斷，不接受新證據",
+      "為了效率可忽略受稽核方合理說明"
+    ],
+    "correct": [
+      "道德、誠實與謹慎",
+      "願意學習並持續改善",
+      "思想開放且能接受不同觀點"
+    ],
+    "explanation": "稽核員需具備道德、開放、觀察、判斷與願意改善等專業行為特質。",
+    "mnemonic": "有原則、能學習、肯聽證據。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0380",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員特質",
+    "source": "ISO 19011 稽核員能力與行為課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在稽核小組會議中說明 ISO 19011 的稽核原則。\n\n以下哪三項較符合稽核員應具備的個人行為特質？",
+    "options": [
+      "道德、誠實與謹慎",
+      "願意學習並持續改善",
+      "思想開放且能接受不同觀點",
+      "為維持權威，遇到不懂的問題也要硬答",
+      "只相信自己原先判斷，不接受新證據",
+      "為了效率可忽略受稽核方合理說明"
+    ],
+    "correct": [
+      "道德、誠實與謹慎",
+      "願意學習並持續改善",
+      "思想開放且能接受不同觀點"
+    ],
+    "explanation": "稽核員需具備道德、開放、觀察、判斷與願意改善等專業行為特質。",
+    "mnemonic": "有原則、能學習、肯聽證據。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0381",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員特質",
+    "source": "ISO 19011 稽核員能力與行為課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備主導稽核員模擬考。\n\n以下哪三項較符合稽核員應具備的個人行為特質？",
+    "options": [
+      "道德、誠實與謹慎",
+      "願意學習並持續改善",
+      "思想開放且能接受不同觀點",
+      "為維持權威，遇到不懂的問題也要硬答",
+      "只相信自己原先判斷，不接受新證據",
+      "為了效率可忽略受稽核方合理說明"
+    ],
+    "correct": [
+      "道德、誠實與謹慎",
+      "願意學習並持續改善",
+      "思想開放且能接受不同觀點"
+    ],
+    "explanation": "稽核員需具備道德、開放、觀察、判斷與願意改善等專業行為特質。",
+    "mnemonic": "有原則、能學習、肯聽證據。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0382",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員特質",
+    "source": "ISO 19011 稽核員能力與行為課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在第三方驗證稽核前確認稽核團隊的共同理解。\n\n以下哪三項較符合稽核員應具備的個人行為特質？",
+    "options": [
+      "道德、誠實與謹慎",
+      "願意學習並持續改善",
+      "思想開放且能接受不同觀點",
+      "為維持權威，遇到不懂的問題也要硬答",
+      "只相信自己原先判斷，不接受新證據",
+      "為了效率可忽略受稽核方合理說明"
+    ],
+    "correct": [
+      "道德、誠實與謹慎",
+      "願意學習並持續改善",
+      "思想開放且能接受不同觀點"
+    ],
+    "explanation": "稽核員需具備道德、開放、觀察、判斷與願意改善等專業行為特質。",
+    "mnemonic": "有原則、能學習、肯聽證據。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0383",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員特質",
+    "source": "ISO 19011 稽核員能力與行為課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在用情境題檢查稽核員是否真正理解稽核原則。\n\n以下哪三項較符合稽核員應具備的個人行為特質？",
+    "options": [
+      "道德、誠實與謹慎",
+      "願意學習並持續改善",
+      "思想開放且能接受不同觀點",
+      "為維持權威，遇到不懂的問題也要硬答",
+      "只相信自己原先判斷，不接受新證據",
+      "為了效率可忽略受稽核方合理說明"
+    ],
+    "correct": [
+      "道德、誠實與謹慎",
+      "願意學習並持續改善",
+      "思想開放且能接受不同觀點"
+    ],
+    "explanation": "稽核員需具備道德、開放、觀察、判斷與願意改善等專業行為特質。",
+    "mnemonic": "有原則、能學習、肯聽證據。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0384",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核抽樣優點",
+    "source": "ISO 19011 抽樣概念",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領一名培訓中的稽核員進行知識複習。\n\n以下哪三個選項，是稽核過程中使用稽核抽樣計畫的合理優點？",
+    "options": [
+      "在有限時間內取得足以支持結論的代表性證據",
+      "協助將稽核資源集中於重要或高風險領域",
+      "透過有計畫的樣本提高稽核效率",
+      "保證百分之百發現所有不符合",
+      "代表抽到一筆符合即可推論全部符合",
+      "可以完全取代稽核員的專業判斷"
+    ],
+    "correct": [
+      "在有限時間內取得足以支持結論的代表性證據",
+      "協助將稽核資源集中於重要或高風險領域",
+      "透過有計畫的樣本提高稽核效率"
+    ],
+    "explanation": "抽樣是基於有限資源取得合理信心，不代表百分之百查核，也不能取代專業判斷。",
+    "mnemonic": "抽樣＝用代表性證據換合理信心，不是保證全查。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0385",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核抽樣優點",
+    "source": "ISO 19011 抽樣概念",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在稽核小組會議中說明 ISO 19011 的稽核原則。\n\n以下哪三個選項，是稽核過程中使用稽核抽樣計畫的合理優點？",
+    "options": [
+      "在有限時間內取得足以支持結論的代表性證據",
+      "協助將稽核資源集中於重要或高風險領域",
+      "透過有計畫的樣本提高稽核效率",
+      "保證百分之百發現所有不符合",
+      "代表抽到一筆符合即可推論全部符合",
+      "可以完全取代稽核員的專業判斷"
+    ],
+    "correct": [
+      "在有限時間內取得足以支持結論的代表性證據",
+      "協助將稽核資源集中於重要或高風險領域",
+      "透過有計畫的樣本提高稽核效率"
+    ],
+    "explanation": "抽樣是基於有限資源取得合理信心，不代表百分之百查核，也不能取代專業判斷。",
+    "mnemonic": "抽樣＝用代表性證據換合理信心，不是保證全查。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0386",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核抽樣優點",
+    "source": "ISO 19011 抽樣概念",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備主導稽核員模擬考。\n\n以下哪三個選項，是稽核過程中使用稽核抽樣計畫的合理優點？",
+    "options": [
+      "在有限時間內取得足以支持結論的代表性證據",
+      "協助將稽核資源集中於重要或高風險領域",
+      "透過有計畫的樣本提高稽核效率",
+      "保證百分之百發現所有不符合",
+      "代表抽到一筆符合即可推論全部符合",
+      "可以完全取代稽核員的專業判斷"
+    ],
+    "correct": [
+      "在有限時間內取得足以支持結論的代表性證據",
+      "協助將稽核資源集中於重要或高風險領域",
+      "透過有計畫的樣本提高稽核效率"
+    ],
+    "explanation": "抽樣是基於有限資源取得合理信心，不代表百分之百查核，也不能取代專業判斷。",
+    "mnemonic": "抽樣＝用代表性證據換合理信心，不是保證全查。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0387",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核抽樣優點",
+    "source": "ISO 19011 抽樣概念",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在第三方驗證稽核前確認稽核團隊的共同理解。\n\n以下哪三個選項，是稽核過程中使用稽核抽樣計畫的合理優點？",
+    "options": [
+      "在有限時間內取得足以支持結論的代表性證據",
+      "協助將稽核資源集中於重要或高風險領域",
+      "透過有計畫的樣本提高稽核效率",
+      "保證百分之百發現所有不符合",
+      "代表抽到一筆符合即可推論全部符合",
+      "可以完全取代稽核員的專業判斷"
+    ],
+    "correct": [
+      "在有限時間內取得足以支持結論的代表性證據",
+      "協助將稽核資源集中於重要或高風險領域",
+      "透過有計畫的樣本提高稽核效率"
+    ],
+    "explanation": "抽樣是基於有限資源取得合理信心，不代表百分之百查核，也不能取代專業判斷。",
+    "mnemonic": "抽樣＝用代表性證據換合理信心，不是保證全查。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0388",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核抽樣優點",
+    "source": "ISO 19011 抽樣概念",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在用情境題檢查稽核員是否真正理解稽核原則。\n\n以下哪三個選項，是稽核過程中使用稽核抽樣計畫的合理優點？",
+    "options": [
+      "在有限時間內取得足以支持結論的代表性證據",
+      "協助將稽核資源集中於重要或高風險領域",
+      "透過有計畫的樣本提高稽核效率",
+      "保證百分之百發現所有不符合",
+      "代表抽到一筆符合即可推論全部符合",
+      "可以完全取代稽核員的專業判斷"
+    ],
+    "correct": [
+      "在有限時間內取得足以支持結論的代表性證據",
+      "協助將稽核資源集中於重要或高風險領域",
+      "透過有計畫的樣本提高稽核效率"
+    ],
+    "explanation": "抽樣是基於有限資源取得合理信心，不代表百分之百查核，也不能取代專業判斷。",
+    "mnemonic": "抽樣＝用代表性證據換合理信心，不是保證全查。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0389",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "客觀性",
+    "source": "ISO/IEC 27001:2022 9.2.2 / ISO 19011",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領一名培訓中的稽核員進行知識複習。\n\n你要測試培訓中的稽核員對客觀性與公平性的理解。請選擇三項可能威脅稽核客觀性的情況。",
+    "options": [
+      "稽核員稽核自己負責設計與執行的流程",
+      "稽核員對受稽核主管有直接績效依賴",
+      "稽核員只接受對自己原先結論有利的證據",
+      "稽核員查閱受控紀錄",
+      "稽核員訪談流程負責人",
+      "稽核員依稽核準則核對客觀證據"
+    ],
+    "correct": [
+      "稽核員稽核自己負責設計與執行的流程",
+      "稽核員對受稽核主管有直接績效依賴",
+      "稽核員只接受對自己原先結論有利的證據"
+    ],
+    "explanation": "客觀性要求避免利益衝突與偏見，並依證據與準則判斷。",
+    "mnemonic": "自己做的避免自己審；證據不能挑著看。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0390",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "客觀性",
+    "source": "ISO/IEC 27001:2022 9.2.2 / ISO 19011",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在稽核小組會議中說明 ISO 19011 的稽核原則。\n\n你要測試培訓中的稽核員對客觀性與公平性的理解。請選擇三項可能威脅稽核客觀性的情況。",
+    "options": [
+      "稽核員稽核自己負責設計與執行的流程",
+      "稽核員對受稽核主管有直接績效依賴",
+      "稽核員只接受對自己原先結論有利的證據",
+      "稽核員查閱受控紀錄",
+      "稽核員訪談流程負責人",
+      "稽核員依稽核準則核對客觀證據"
+    ],
+    "correct": [
+      "稽核員稽核自己負責設計與執行的流程",
+      "稽核員對受稽核主管有直接績效依賴",
+      "稽核員只接受對自己原先結論有利的證據"
+    ],
+    "explanation": "客觀性要求避免利益衝突與偏見，並依證據與準則判斷。",
+    "mnemonic": "自己做的避免自己審；證據不能挑著看。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0391",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "客觀性",
+    "source": "ISO/IEC 27001:2022 9.2.2 / ISO 19011",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備主導稽核員模擬考。\n\n你要測試培訓中的稽核員對客觀性與公平性的理解。請選擇三項可能威脅稽核客觀性的情況。",
+    "options": [
+      "稽核員稽核自己負責設計與執行的流程",
+      "稽核員對受稽核主管有直接績效依賴",
+      "稽核員只接受對自己原先結論有利的證據",
+      "稽核員查閱受控紀錄",
+      "稽核員訪談流程負責人",
+      "稽核員依稽核準則核對客觀證據"
+    ],
+    "correct": [
+      "稽核員稽核自己負責設計與執行的流程",
+      "稽核員對受稽核主管有直接績效依賴",
+      "稽核員只接受對自己原先結論有利的證據"
+    ],
+    "explanation": "客觀性要求避免利益衝突與偏見，並依證據與準則判斷。",
+    "mnemonic": "自己做的避免自己審；證據不能挑著看。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0392",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "客觀性",
+    "source": "ISO/IEC 27001:2022 9.2.2 / ISO 19011",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在第三方驗證稽核前確認稽核團隊的共同理解。\n\n你要測試培訓中的稽核員對客觀性與公平性的理解。請選擇三項可能威脅稽核客觀性的情況。",
+    "options": [
+      "稽核員稽核自己負責設計與執行的流程",
+      "稽核員對受稽核主管有直接績效依賴",
+      "稽核員只接受對自己原先結論有利的證據",
+      "稽核員查閱受控紀錄",
+      "稽核員訪談流程負責人",
+      "稽核員依稽核準則核對客觀證據"
+    ],
+    "correct": [
+      "稽核員稽核自己負責設計與執行的流程",
+      "稽核員對受稽核主管有直接績效依賴",
+      "稽核員只接受對自己原先結論有利的證據"
+    ],
+    "explanation": "客觀性要求避免利益衝突與偏見，並依證據與準則判斷。",
+    "mnemonic": "自己做的避免自己審；證據不能挑著看。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0393",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "客觀性",
+    "source": "ISO/IEC 27001:2022 9.2.2 / ISO 19011",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在用情境題檢查稽核員是否真正理解稽核原則。\n\n你要測試培訓中的稽核員對客觀性與公平性的理解。請選擇三項可能威脅稽核客觀性的情況。",
+    "options": [
+      "稽核員稽核自己負責設計與執行的流程",
+      "稽核員對受稽核主管有直接績效依賴",
+      "稽核員只接受對自己原先結論有利的證據",
+      "稽核員查閱受控紀錄",
+      "稽核員訪談流程負責人",
+      "稽核員依稽核準則核對客觀證據"
+    ],
+    "correct": [
+      "稽核員稽核自己負責設計與執行的流程",
+      "稽核員對受稽核主管有直接績效依賴",
+      "稽核員只接受對自己原先結論有利的證據"
+    ],
+    "explanation": "客觀性要求避免利益衝突與偏見，並依證據與準則判斷。",
+    "mnemonic": "自己做的避免自己審；證據不能挑著看。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0394",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員能力",
+    "source": "ISO 19011 / 稽核員資格與能力清冊",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在帶領一名培訓中的稽核員進行知識複習。\n\n以下哪四項通常可作為評估稽核員是否勝任特定稽核任務的重要因素？",
+    "options": [
+      "管理系統與條款知識",
+      "稽核方法與技巧",
+      "相關技術或產業領域能力",
+      "實際稽核經驗與訓練",
+      "是否與受稽核主管私交良好",
+      "職稱是否最高",
+      "是否能把所有問題都判成重大不符合"
+    ],
+    "correct": [
+      "管理系統與條款知識",
+      "稽核方法與技巧",
+      "相關技術或產業領域能力",
+      "實際稽核經驗與訓練"
+    ],
+    "explanation": "稽核員能力應考量知識、技能、經驗及領域需求，不是只看證照或職稱。",
+    "mnemonic": "證照是門票，能力才是能不能上場。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0395",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員能力",
+    "source": "ISO 19011 / 稽核員資格與能力清冊",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在稽核小組會議中說明 ISO 19011 的稽核原則。\n\n以下哪四項通常可作為評估稽核員是否勝任特定稽核任務的重要因素？",
+    "options": [
+      "管理系統與條款知識",
+      "稽核方法與技巧",
+      "相關技術或產業領域能力",
+      "實際稽核經驗與訓練",
+      "是否與受稽核主管私交良好",
+      "職稱是否最高",
+      "是否能把所有問題都判成重大不符合"
+    ],
+    "correct": [
+      "管理系統與條款知識",
+      "稽核方法與技巧",
+      "相關技術或產業領域能力",
+      "實際稽核經驗與訓練"
+    ],
+    "explanation": "稽核員能力應考量知識、技能、經驗及領域需求，不是只看證照或職稱。",
+    "mnemonic": "證照是門票，能力才是能不能上場。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0396",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員能力",
+    "source": "ISO 19011 / 稽核員資格與能力清冊",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在準備主導稽核員模擬考。\n\n以下哪四項通常可作為評估稽核員是否勝任特定稽核任務的重要因素？",
+    "options": [
+      "管理系統與條款知識",
+      "稽核方法與技巧",
+      "相關技術或產業領域能力",
+      "實際稽核經驗與訓練",
+      "是否與受稽核主管私交良好",
+      "職稱是否最高",
+      "是否能把所有問題都判成重大不符合"
+    ],
+    "correct": [
+      "管理系統與條款知識",
+      "稽核方法與技巧",
+      "相關技術或產業領域能力",
+      "實際稽核經驗與訓練"
+    ],
+    "explanation": "稽核員能力應考量知識、技能、經驗及領域需求，不是只看證照或職稱。",
+    "mnemonic": "證照是門票，能力才是能不能上場。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0397",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員能力",
+    "source": "ISO 19011 / 稽核員資格與能力清冊",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在第三方驗證稽核前確認稽核團隊的共同理解。\n\n以下哪四項通常可作為評估稽核員是否勝任特定稽核任務的重要因素？",
+    "options": [
+      "管理系統與條款知識",
+      "稽核方法與技巧",
+      "相關技術或產業領域能力",
+      "實際稽核經驗與訓練",
+      "是否與受稽核主管私交良好",
+      "職稱是否最高",
+      "是否能把所有問題都判成重大不符合"
+    ],
+    "correct": [
+      "管理系統與條款知識",
+      "稽核方法與技巧",
+      "相關技術或產業領域能力",
+      "實際稽核經驗與訓練"
+    ],
+    "explanation": "稽核員能力應考量知識、技能、經驗及領域需求，不是只看證照或職稱。",
+    "mnemonic": "證照是門票，能力才是能不能上場。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0398",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員能力",
+    "source": "ISO 19011 / 稽核員資格與能力清冊",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在用情境題檢查稽核員是否真正理解稽核原則。\n\n以下哪四項通常可作為評估稽核員是否勝任特定稽核任務的重要因素？",
+    "options": [
+      "管理系統與條款知識",
+      "稽核方法與技巧",
+      "相關技術或產業領域能力",
+      "實際稽核經驗與訓練",
+      "是否與受稽核主管私交良好",
+      "職稱是否最高",
+      "是否能把所有問題都判成重大不符合"
+    ],
+    "correct": [
+      "管理系統與條款知識",
+      "稽核方法與技巧",
+      "相關技術或產業領域能力",
+      "實際稽核經驗與訓練"
+    ],
+    "explanation": "稽核員能力應考量知識、技能、經驗及領域需求，不是只看證照或職稱。",
+    "mnemonic": "證照是門票，能力才是能不能上場。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0399",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核報告分級陷阱",
+    "source": "ISO 19011 / 驗證機構程序課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項錯誤的答案。",
+    "stem": "你正在帶領一名培訓中的稽核員進行知識複習。\n\n你是一位經驗豐富的 ISMS 稽核組長，培訓中的稽核員詢問不符合性的分級。請選擇下列四項「不適當」的陳述。",
+    "options": [
+      "受稽核方始終負責決定稽核機構的不符合分級標準",
+      "不符合只能使用「主要」或「次要」兩種名稱，否則就不符合 ISO 19011",
+      "任何兩個次要不符合一定自動合併為一個主要不符合",
+      "非常輕微的不符合可以不留任何紀錄，只給改善機會即可",
+      "不符合的嚴重性可以依其重要性與系統性影響進行分類",
+      "重大問題可能需要在現場或認證決定前完成適當處置",
+      "分類應依適用方案、準則與認證程序，而非由受稽核方任意決定"
+    ],
+    "correct": [
+      "受稽核方始終負責決定稽核機構的不符合分級標準",
+      "不符合只能使用「主要」或「次要」兩種名稱，否則就不符合 ISO 19011",
+      "任何兩個次要不符合一定自動合併為一個主要不符合",
+      "非常輕微的不符合可以不留任何紀錄，只給改善機會即可"
+    ],
+    "explanation": "ISO 19011 提供稽核管理與報告原則，但具體分級名稱與規則會依驗證方案/機構程序；不能由受稽核方任意決定，也不能機械地把兩個次要自動視為主要。",
+    "mnemonic": "分級看準則、方案、系統性，不是看誰聲音大。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0400",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核報告分級陷阱",
+    "source": "ISO 19011 / 驗證機構程序課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項錯誤的答案。",
+    "stem": "你正在稽核小組會議中說明 ISO 19011 的稽核原則。\n\n你是一位經驗豐富的 ISMS 稽核組長，培訓中的稽核員詢問不符合性的分級。請選擇下列四項「不適當」的陳述。",
+    "options": [
+      "受稽核方始終負責決定稽核機構的不符合分級標準",
+      "不符合只能使用「主要」或「次要」兩種名稱，否則就不符合 ISO 19011",
+      "任何兩個次要不符合一定自動合併為一個主要不符合",
+      "非常輕微的不符合可以不留任何紀錄，只給改善機會即可",
+      "不符合的嚴重性可以依其重要性與系統性影響進行分類",
+      "重大問題可能需要在現場或認證決定前完成適當處置",
+      "分類應依適用方案、準則與認證程序，而非由受稽核方任意決定"
+    ],
+    "correct": [
+      "受稽核方始終負責決定稽核機構的不符合分級標準",
+      "不符合只能使用「主要」或「次要」兩種名稱，否則就不符合 ISO 19011",
+      "任何兩個次要不符合一定自動合併為一個主要不符合",
+      "非常輕微的不符合可以不留任何紀錄，只給改善機會即可"
+    ],
+    "explanation": "ISO 19011 提供稽核管理與報告原則，但具體分級名稱與規則會依驗證方案/機構程序；不能由受稽核方任意決定，也不能機械地把兩個次要自動視為主要。",
+    "mnemonic": "分級看準則、方案、系統性，不是看誰聲音大。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0401",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核報告分級陷阱",
+    "source": "ISO 19011 / 驗證機構程序課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項錯誤的答案。",
+    "stem": "你正在準備主導稽核員模擬考。\n\n你是一位經驗豐富的 ISMS 稽核組長，培訓中的稽核員詢問不符合性的分級。請選擇下列四項「不適當」的陳述。",
+    "options": [
+      "受稽核方始終負責決定稽核機構的不符合分級標準",
+      "不符合只能使用「主要」或「次要」兩種名稱，否則就不符合 ISO 19011",
+      "任何兩個次要不符合一定自動合併為一個主要不符合",
+      "非常輕微的不符合可以不留任何紀錄，只給改善機會即可",
+      "不符合的嚴重性可以依其重要性與系統性影響進行分類",
+      "重大問題可能需要在現場或認證決定前完成適當處置",
+      "分類應依適用方案、準則與認證程序，而非由受稽核方任意決定"
+    ],
+    "correct": [
+      "受稽核方始終負責決定稽核機構的不符合分級標準",
+      "不符合只能使用「主要」或「次要」兩種名稱，否則就不符合 ISO 19011",
+      "任何兩個次要不符合一定自動合併為一個主要不符合",
+      "非常輕微的不符合可以不留任何紀錄，只給改善機會即可"
+    ],
+    "explanation": "ISO 19011 提供稽核管理與報告原則，但具體分級名稱與規則會依驗證方案/機構程序；不能由受稽核方任意決定，也不能機械地把兩個次要自動視為主要。",
+    "mnemonic": "分級看準則、方案、系統性，不是看誰聲音大。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0402",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核報告分級陷阱",
+    "source": "ISO 19011 / 驗證機構程序課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項錯誤的答案。",
+    "stem": "你正在第三方驗證稽核前確認稽核團隊的共同理解。\n\n你是一位經驗豐富的 ISMS 稽核組長，培訓中的稽核員詢問不符合性的分級。請選擇下列四項「不適當」的陳述。",
+    "options": [
+      "受稽核方始終負責決定稽核機構的不符合分級標準",
+      "不符合只能使用「主要」或「次要」兩種名稱，否則就不符合 ISO 19011",
+      "任何兩個次要不符合一定自動合併為一個主要不符合",
+      "非常輕微的不符合可以不留任何紀錄，只給改善機會即可",
+      "不符合的嚴重性可以依其重要性與系統性影響進行分類",
+      "重大問題可能需要在現場或認證決定前完成適當處置",
+      "分類應依適用方案、準則與認證程序，而非由受稽核方任意決定"
+    ],
+    "correct": [
+      "受稽核方始終負責決定稽核機構的不符合分級標準",
+      "不符合只能使用「主要」或「次要」兩種名稱，否則就不符合 ISO 19011",
+      "任何兩個次要不符合一定自動合併為一個主要不符合",
+      "非常輕微的不符合可以不留任何紀錄，只給改善機會即可"
+    ],
+    "explanation": "ISO 19011 提供稽核管理與報告原則，但具體分級名稱與規則會依驗證方案/機構程序；不能由受稽核方任意決定，也不能機械地把兩個次要自動視為主要。",
+    "mnemonic": "分級看準則、方案、系統性，不是看誰聲音大。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0403",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核報告分級陷阱",
+    "source": "ISO 19011 / 驗證機構程序課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項錯誤的答案。",
+    "stem": "你正在用情境題檢查稽核員是否真正理解稽核原則。\n\n你是一位經驗豐富的 ISMS 稽核組長，培訓中的稽核員詢問不符合性的分級。請選擇下列四項「不適當」的陳述。",
+    "options": [
+      "受稽核方始終負責決定稽核機構的不符合分級標準",
+      "不符合只能使用「主要」或「次要」兩種名稱，否則就不符合 ISO 19011",
+      "任何兩個次要不符合一定自動合併為一個主要不符合",
+      "非常輕微的不符合可以不留任何紀錄，只給改善機會即可",
+      "不符合的嚴重性可以依其重要性與系統性影響進行分類",
+      "重大問題可能需要在現場或認證決定前完成適當處置",
+      "分類應依適用方案、準則與認證程序，而非由受稽核方任意決定"
+    ],
+    "correct": [
+      "受稽核方始終負責決定稽核機構的不符合分級標準",
+      "不符合只能使用「主要」或「次要」兩種名稱，否則就不符合 ISO 19011",
+      "任何兩個次要不符合一定自動合併為一個主要不符合",
+      "非常輕微的不符合可以不留任何紀錄，只給改善機會即可"
+    ],
+    "explanation": "ISO 19011 提供稽核管理與報告原則，但具體分級名稱與規則會依驗證方案/機構程序；不能由受稽核方任意決定，也不能機械地把兩個次要自動視為主要。",
+    "mnemonic": "分級看準則、方案、系統性，不是看誰聲音大。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0404",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "公正表達",
+    "source": "ISO 19011 稽核原則",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領一名培訓中的稽核員進行知識複習。\n\n下列哪三項符合「公正表達」的稽核原則？",
+    "options": [
+      "如實、準確報告稽核發現與結論",
+      "重要未解決分歧應適當記錄",
+      "重大限制或不確定性應適當揭露",
+      "為保護關係可刪除不利發現",
+      "用誇張措辭增加受稽核方壓力",
+      "只記錄支持稽核員原先意見的證據"
+    ],
+    "correct": [
+      "如實、準確報告稽核發現與結論",
+      "重要未解決分歧應適當記錄",
+      "重大限制或不確定性應適當揭露"
+    ],
+    "explanation": "公正表達要求真實、準確、客觀呈現稽核結果與重要限制/分歧。",
+    "mnemonic": "報告如實，不美化也不誇大。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0405",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "公正表達",
+    "source": "ISO 19011 稽核原則",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在稽核小組會議中說明 ISO 19011 的稽核原則。\n\n下列哪三項符合「公正表達」的稽核原則？",
+    "options": [
+      "如實、準確報告稽核發現與結論",
+      "重要未解決分歧應適當記錄",
+      "重大限制或不確定性應適當揭露",
+      "為保護關係可刪除不利發現",
+      "用誇張措辭增加受稽核方壓力",
+      "只記錄支持稽核員原先意見的證據"
+    ],
+    "correct": [
+      "如實、準確報告稽核發現與結論",
+      "重要未解決分歧應適當記錄",
+      "重大限制或不確定性應適當揭露"
+    ],
+    "explanation": "公正表達要求真實、準確、客觀呈現稽核結果與重要限制/分歧。",
+    "mnemonic": "報告如實，不美化也不誇大。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0406",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "公正表達",
+    "source": "ISO 19011 稽核原則",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在準備主導稽核員模擬考。\n\n下列哪三項符合「公正表達」的稽核原則？",
+    "options": [
+      "如實、準確報告稽核發現與結論",
+      "重要未解決分歧應適當記錄",
+      "重大限制或不確定性應適當揭露",
+      "為保護關係可刪除不利發現",
+      "用誇張措辭增加受稽核方壓力",
+      "只記錄支持稽核員原先意見的證據"
+    ],
+    "correct": [
+      "如實、準確報告稽核發現與結論",
+      "重要未解決分歧應適當記錄",
+      "重大限制或不確定性應適當揭露"
+    ],
+    "explanation": "公正表達要求真實、準確、客觀呈現稽核結果與重要限制/分歧。",
+    "mnemonic": "報告如實，不美化也不誇大。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0407",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "公正表達",
+    "source": "ISO 19011 稽核原則",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在第三方驗證稽核前確認稽核團隊的共同理解。\n\n下列哪三項符合「公正表達」的稽核原則？",
+    "options": [
+      "如實、準確報告稽核發現與結論",
+      "重要未解決分歧應適當記錄",
+      "重大限制或不確定性應適當揭露",
+      "為保護關係可刪除不利發現",
+      "用誇張措辭增加受稽核方壓力",
+      "只記錄支持稽核員原先意見的證據"
+    ],
+    "correct": [
+      "如實、準確報告稽核發現與結論",
+      "重要未解決分歧應適當記錄",
+      "重大限制或不確定性應適當揭露"
+    ],
+    "explanation": "公正表達要求真實、準確、客觀呈現稽核結果與重要限制/分歧。",
+    "mnemonic": "報告如實，不美化也不誇大。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0408",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "公正表達",
+    "source": "ISO 19011 稽核原則",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在用情境題檢查稽核員是否真正理解稽核原則。\n\n下列哪三項符合「公正表達」的稽核原則？",
+    "options": [
+      "如實、準確報告稽核發現與結論",
+      "重要未解決分歧應適當記錄",
+      "重大限制或不確定性應適當揭露",
+      "為保護關係可刪除不利發現",
+      "用誇張措辭增加受稽核方壓力",
+      "只記錄支持稽核員原先意見的證據"
+    ],
+    "correct": [
+      "如實、準確報告稽核發現與結論",
+      "重要未解決分歧應適當記錄",
+      "重大限制或不確定性應適當揭露"
+    ],
+    "explanation": "公正表達要求真實、準確、客觀呈現稽核結果與重要限制/分歧。",
+    "mnemonic": "報告如實，不美化也不誇大。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0409",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員行為特質",
+    "source": "ISO 19011 稽核員行為特質",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你正在帶領一名培訓中的稽核員進行知識複習。\n\n請將下列描述與最適合的稽核員特質相互配對。",
+    "rows": [
+      {
+        "prompt": "公平、誠實、真誠、誠懇、謹慎",
+        "answer": "具道德觀"
+      },
+      {
+        "prompt": "願意從經驗、回饋與新知中持續學習",
+        "answer": "願意改進"
+      },
+      {
+        "prompt": "能接受不同想法與觀點，必要時調整判斷",
+        "answer": "思想開放"
+      },
+      {
+        "prompt": "主動觀察周遭環境、活動與細節",
+        "answer": "善於觀察"
+      }
+    ],
+    "choices": [
+      "具道德觀",
+      "願意改進",
+      "思想開放",
+      "善於觀察",
+      "果斷",
+      "自立"
+    ],
+    "explanation": "這類題型測試稽核員個人行為特質；手機版以每列下拉選單作答。",
+    "mnemonic": "特質看描述，不要只背中文名詞。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0410",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員行為特質",
+    "source": "ISO 19011 稽核員行為特質",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你正在稽核小組會議中說明 ISO 19011 的稽核原則。\n\n請將下列描述與最適合的稽核員特質相互配對。",
+    "rows": [
+      {
+        "prompt": "公平、誠實、真誠、誠懇、謹慎",
+        "answer": "具道德觀"
+      },
+      {
+        "prompt": "願意從經驗、回饋與新知中持續學習",
+        "answer": "願意改進"
+      },
+      {
+        "prompt": "能接受不同想法與觀點，必要時調整判斷",
+        "answer": "思想開放"
+      },
+      {
+        "prompt": "主動觀察周遭環境、活動與細節",
+        "answer": "善於觀察"
+      }
+    ],
+    "choices": [
+      "具道德觀",
+      "願意改進",
+      "思想開放",
+      "善於觀察",
+      "果斷",
+      "自立"
+    ],
+    "explanation": "這類題型測試稽核員個人行為特質；手機版以每列下拉選單作答。",
+    "mnemonic": "特質看描述，不要只背中文名詞。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0411",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員行為特質",
+    "source": "ISO 19011 稽核員行為特質",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你正在準備主導稽核員模擬考。\n\n請將下列描述與最適合的稽核員特質相互配對。",
+    "rows": [
+      {
+        "prompt": "公平、誠實、真誠、誠懇、謹慎",
+        "answer": "具道德觀"
+      },
+      {
+        "prompt": "願意從經驗、回饋與新知中持續學習",
+        "answer": "願意改進"
+      },
+      {
+        "prompt": "能接受不同想法與觀點，必要時調整判斷",
+        "answer": "思想開放"
+      },
+      {
+        "prompt": "主動觀察周遭環境、活動與細節",
+        "answer": "善於觀察"
+      }
+    ],
+    "choices": [
+      "具道德觀",
+      "願意改進",
+      "思想開放",
+      "善於觀察",
+      "果斷",
+      "自立"
+    ],
+    "explanation": "這類題型測試稽核員個人行為特質；手機版以每列下拉選單作答。",
+    "mnemonic": "特質看描述，不要只背中文名詞。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0412",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員行為特質",
+    "source": "ISO 19011 稽核員行為特質",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你正在第三方驗證稽核前確認稽核團隊的共同理解。\n\n請將下列描述與最適合的稽核員特質相互配對。",
+    "rows": [
+      {
+        "prompt": "公平、誠實、真誠、誠懇、謹慎",
+        "answer": "具道德觀"
+      },
+      {
+        "prompt": "願意從經驗、回饋與新知中持續學習",
+        "answer": "願意改進"
+      },
+      {
+        "prompt": "能接受不同想法與觀點，必要時調整判斷",
+        "answer": "思想開放"
+      },
+      {
+        "prompt": "主動觀察周遭環境、活動與細節",
+        "answer": "善於觀察"
+      }
+    ],
+    "choices": [
+      "具道德觀",
+      "願意改進",
+      "思想開放",
+      "善於觀察",
+      "果斷",
+      "自立"
+    ],
+    "explanation": "這類題型測試稽核員個人行為特質；手機版以每列下拉選單作答。",
+    "mnemonic": "特質看描述，不要只背中文名詞。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0413",
+    "unit": 2,
+    "unitName": "稽核概念與稽核員責任",
+    "topic": "稽核員行為特質",
+    "source": "ISO 19011 稽核員行為特質",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你正在用情境題檢查稽核員是否真正理解稽核原則。\n\n請將下列描述與最適合的稽核員特質相互配對。",
+    "rows": [
+      {
+        "prompt": "公平、誠實、真誠、誠懇、謹慎",
+        "answer": "具道德觀"
+      },
+      {
+        "prompt": "願意從經驗、回饋與新知中持續學習",
+        "answer": "願意改進"
+      },
+      {
+        "prompt": "能接受不同想法與觀點，必要時調整判斷",
+        "answer": "思想開放"
+      },
+      {
+        "prompt": "主動觀察周遭環境、活動與細節",
+        "answer": "善於觀察"
+      }
+    ],
+    "choices": [
+      "具道德觀",
+      "願意改進",
+      "思想開放",
+      "善於觀察",
+      "果斷",
+      "自立"
+    ],
+    "explanation": "這類題型測試稽核員個人行為特質；手機版以每列下拉選單作答。",
+    "mnemonic": "特質看描述，不要只背中文名詞。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0414",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "遠距稽核",
+    "source": "ISO 19011 遠距稽核課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在規劃一次第三方驗證稽核，並向稽核小組說明準備方式。\n\n審查下列敘述，哪三項是進行遠距稽核時較適當的作法？",
+    "options": [
+      "事先確認受稽核方提供的網路/視訊與資料存取方式可用",
+      "選擇現場、遠端或混合方式時考量風險、可行性與稽核目的",
+      "考量資訊保密與資安要求，並控制遠距分享資訊的方式",
+      "遠距稽核可免除所有技術與保密風險評估",
+      "遠距稽核永遠比現場稽核有效",
+      "只要有視訊即可，不需要確認證據品質"
+    ],
+    "correct": [
+      "事先確認受稽核方提供的網路/視訊與資料存取方式可用",
+      "選擇現場、遠端或混合方式時考量風險、可行性與稽核目的",
+      "考量資訊保密與資安要求，並控制遠距分享資訊的方式"
+    ],
+    "explanation": "遠距稽核需考量 ICT 可行性、保密、資訊安全、證據品質以及達成稽核目標的能力。",
+    "mnemonic": "遠距不是省事版，風險與證據品質一樣要管。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0415",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "遠距稽核",
+    "source": "ISO 19011 遠距稽核課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在審查下一季的稽核方案與單次稽核計畫。\n\n審查下列敘述，哪三項是進行遠距稽核時較適當的作法？",
+    "options": [
+      "事先確認受稽核方提供的網路/視訊與資料存取方式可用",
+      "選擇現場、遠端或混合方式時考量風險、可行性與稽核目的",
+      "考量資訊保密與資安要求，並控制遠距分享資訊的方式",
+      "遠距稽核可免除所有技術與保密風險評估",
+      "遠距稽核永遠比現場稽核有效",
+      "只要有視訊即可，不需要確認證據品質"
+    ],
+    "correct": [
+      "事先確認受稽核方提供的網路/視訊與資料存取方式可用",
+      "選擇現場、遠端或混合方式時考量風險、可行性與稽核目的",
+      "考量資訊保密與資安要求，並控制遠距分享資訊的方式"
+    ],
+    "explanation": "遠距稽核需考量 ICT 可行性、保密、資訊安全、證據品質以及達成稽核目標的能力。",
+    "mnemonic": "遠距不是省事版，風險與證據品質一樣要管。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0416",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "遠距稽核",
+    "source": "ISO 19011 遠距稽核課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領培訓中的稽核員準備現場稽核。\n\n審查下列敘述，哪三項是進行遠距稽核時較適當的作法？",
+    "options": [
+      "事先確認受稽核方提供的網路/視訊與資料存取方式可用",
+      "選擇現場、遠端或混合方式時考量風險、可行性與稽核目的",
+      "考量資訊保密與資安要求，並控制遠距分享資訊的方式",
+      "遠距稽核可免除所有技術與保密風險評估",
+      "遠距稽核永遠比現場稽核有效",
+      "只要有視訊即可，不需要確認證據品質"
+    ],
+    "correct": [
+      "事先確認受稽核方提供的網路/視訊與資料存取方式可用",
+      "選擇現場、遠端或混合方式時考量風險、可行性與稽核目的",
+      "考量資訊保密與資安要求，並控制遠距分享資訊的方式"
+    ],
+    "explanation": "遠距稽核需考量 ICT 可行性、保密、資訊安全、證據品質以及達成稽核目標的能力。",
+    "mnemonic": "遠距不是省事版，風險與證據品質一樣要管。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0417",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "遠距稽核",
+    "source": "ISO 19011 遠距稽核課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在依 ISO 19011 檢查稽核規劃是否完整。\n\n審查下列敘述，哪三項是進行遠距稽核時較適當的作法？",
+    "options": [
+      "事先確認受稽核方提供的網路/視訊與資料存取方式可用",
+      "選擇現場、遠端或混合方式時考量風險、可行性與稽核目的",
+      "考量資訊保密與資安要求，並控制遠距分享資訊的方式",
+      "遠距稽核可免除所有技術與保密風險評估",
+      "遠距稽核永遠比現場稽核有效",
+      "只要有視訊即可，不需要確認證據品質"
+    ],
+    "correct": [
+      "事先確認受稽核方提供的網路/視訊與資料存取方式可用",
+      "選擇現場、遠端或混合方式時考量風險、可行性與稽核目的",
+      "考量資訊保密與資安要求，並控制遠距分享資訊的方式"
+    ],
+    "explanation": "遠距稽核需考量 ICT 可行性、保密、資訊安全、證據品質以及達成稽核目標的能力。",
+    "mnemonic": "遠距不是省事版，風險與證據品質一樣要管。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0418",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "遠距稽核",
+    "source": "ISO 19011 遠距稽核課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在以正式考試的方式測試稽核員對規劃流程的掌握。\n\n審查下列敘述，哪三項是進行遠距稽核時較適當的作法？",
+    "options": [
+      "事先確認受稽核方提供的網路/視訊與資料存取方式可用",
+      "選擇現場、遠端或混合方式時考量風險、可行性與稽核目的",
+      "考量資訊保密與資安要求，並控制遠距分享資訊的方式",
+      "遠距稽核可免除所有技術與保密風險評估",
+      "遠距稽核永遠比現場稽核有效",
+      "只要有視訊即可，不需要確認證據品質"
+    ],
+    "correct": [
+      "事先確認受稽核方提供的網路/視訊與資料存取方式可用",
+      "選擇現場、遠端或混合方式時考量風險、可行性與稽核目的",
+      "考量資訊保密與資安要求，並控制遠距分享資訊的方式"
+    ],
+    "explanation": "遠距稽核需考量 ICT 可行性、保密、資訊安全、證據品質以及達成稽核目標的能力。",
+    "mnemonic": "遠距不是省事版，風險與證據品質一樣要管。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0419",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核查檢表",
+    "source": "ISO 19011 / 稽核查檢表課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在規劃一次第三方驗證稽核，並向稽核小組說明準備方式。\n\n以下哪三個選項，是使用稽核查檢表的合理優點？",
+    "options": [
+      "展現對 ISMS 及稽核準則已有準確理解",
+      "協助稽核員有系統地查核流程與要求",
+      "降低遺漏重要查核主題的可能性",
+      "保證每次稽核都使用完全相同問題且不用調整",
+      "限制訪談內容越多越好",
+      "可以完全取代稽核員判斷"
+    ],
+    "correct": [
+      "展現對 ISMS 及稽核準則已有準確理解",
+      "協助稽核員有系統地查核流程與要求",
+      "降低遺漏重要查核主題的可能性"
+    ],
+    "explanation": "查檢表是規劃與提醒工具，不應僵化限制稽核，也不能取代專業判斷。",
+    "mnemonic": "查檢表是地圖，不是手銬。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0420",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核查檢表",
+    "source": "ISO 19011 / 稽核查檢表課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在審查下一季的稽核方案與單次稽核計畫。\n\n以下哪三個選項，是使用稽核查檢表的合理優點？",
+    "options": [
+      "展現對 ISMS 及稽核準則已有準確理解",
+      "協助稽核員有系統地查核流程與要求",
+      "降低遺漏重要查核主題的可能性",
+      "保證每次稽核都使用完全相同問題且不用調整",
+      "限制訪談內容越多越好",
+      "可以完全取代稽核員判斷"
+    ],
+    "correct": [
+      "展現對 ISMS 及稽核準則已有準確理解",
+      "協助稽核員有系統地查核流程與要求",
+      "降低遺漏重要查核主題的可能性"
+    ],
+    "explanation": "查檢表是規劃與提醒工具，不應僵化限制稽核，也不能取代專業判斷。",
+    "mnemonic": "查檢表是地圖，不是手銬。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0421",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核查檢表",
+    "source": "ISO 19011 / 稽核查檢表課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領培訓中的稽核員準備現場稽核。\n\n以下哪三個選項，是使用稽核查檢表的合理優點？",
+    "options": [
+      "展現對 ISMS 及稽核準則已有準確理解",
+      "協助稽核員有系統地查核流程與要求",
+      "降低遺漏重要查核主題的可能性",
+      "保證每次稽核都使用完全相同問題且不用調整",
+      "限制訪談內容越多越好",
+      "可以完全取代稽核員判斷"
+    ],
+    "correct": [
+      "展現對 ISMS 及稽核準則已有準確理解",
+      "協助稽核員有系統地查核流程與要求",
+      "降低遺漏重要查核主題的可能性"
+    ],
+    "explanation": "查檢表是規劃與提醒工具，不應僵化限制稽核，也不能取代專業判斷。",
+    "mnemonic": "查檢表是地圖，不是手銬。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0422",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核查檢表",
+    "source": "ISO 19011 / 稽核查檢表課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在依 ISO 19011 檢查稽核規劃是否完整。\n\n以下哪三個選項，是使用稽核查檢表的合理優點？",
+    "options": [
+      "展現對 ISMS 及稽核準則已有準確理解",
+      "協助稽核員有系統地查核流程與要求",
+      "降低遺漏重要查核主題的可能性",
+      "保證每次稽核都使用完全相同問題且不用調整",
+      "限制訪談內容越多越好",
+      "可以完全取代稽核員判斷"
+    ],
+    "correct": [
+      "展現對 ISMS 及稽核準則已有準確理解",
+      "協助稽核員有系統地查核流程與要求",
+      "降低遺漏重要查核主題的可能性"
+    ],
+    "explanation": "查檢表是規劃與提醒工具，不應僵化限制稽核，也不能取代專業判斷。",
+    "mnemonic": "查檢表是地圖，不是手銬。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0423",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核查檢表",
+    "source": "ISO 19011 / 稽核查檢表課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在以正式考試的方式測試稽核員對規劃流程的掌握。\n\n以下哪三個選項，是使用稽核查檢表的合理優點？",
+    "options": [
+      "展現對 ISMS 及稽核準則已有準確理解",
+      "協助稽核員有系統地查核流程與要求",
+      "降低遺漏重要查核主題的可能性",
+      "保證每次稽核都使用完全相同問題且不用調整",
+      "限制訪談內容越多越好",
+      "可以完全取代稽核員判斷"
+    ],
+    "correct": [
+      "展現對 ISMS 及稽核準則已有準確理解",
+      "協助稽核員有系統地查核流程與要求",
+      "降低遺漏重要查核主題的可能性"
+    ],
+    "explanation": "查檢表是規劃與提醒工具，不應僵化限制稽核，也不能取代專業判斷。",
+    "mnemonic": "查檢表是地圖，不是手銬。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0424",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核查檢表錯誤觀念",
+    "source": "ISO 19011 / 稽核查檢表課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你正在規劃一次第三方驗證稽核，並向稽核小組說明準備方式。\n\n請選擇三項對「使用稽核查檢表」的錯誤描述。",
+    "options": [
+      "每次稽核都應使用完全相同查檢表且無需審查",
+      "查檢表應限制訪談討論的範圍，不可追問新證據",
+      "有查檢表就能確保所有稽核軌跡都一定被遵循",
+      "查檢表可協助記錄查核相關細節",
+      "查檢表應與稽核目標、範圍及準則一致",
+      "必要時可依現場證據調整追查方向"
+    ],
+    "correct": [
+      "每次稽核都應使用完全相同查檢表且無需審查",
+      "查檢表應限制訪談討論的範圍，不可追問新證據",
+      "有查檢表就能確保所有稽核軌跡都一定被遵循"
+    ],
+    "explanation": "查檢表要適度更新，不能限制專業追查，也不能保證所有稽核軌跡一定完整。",
+    "mnemonic": "查檢表輔助，不僵化、不保證。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0425",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核查檢表錯誤觀念",
+    "source": "ISO 19011 / 稽核查檢表課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你正在審查下一季的稽核方案與單次稽核計畫。\n\n請選擇三項對「使用稽核查檢表」的錯誤描述。",
+    "options": [
+      "每次稽核都應使用完全相同查檢表且無需審查",
+      "查檢表應限制訪談討論的範圍，不可追問新證據",
+      "有查檢表就能確保所有稽核軌跡都一定被遵循",
+      "查檢表可協助記錄查核相關細節",
+      "查檢表應與稽核目標、範圍及準則一致",
+      "必要時可依現場證據調整追查方向"
+    ],
+    "correct": [
+      "每次稽核都應使用完全相同查檢表且無需審查",
+      "查檢表應限制訪談討論的範圍，不可追問新證據",
+      "有查檢表就能確保所有稽核軌跡都一定被遵循"
+    ],
+    "explanation": "查檢表要適度更新，不能限制專業追查，也不能保證所有稽核軌跡一定完整。",
+    "mnemonic": "查檢表輔助，不僵化、不保證。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0426",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核查檢表錯誤觀念",
+    "source": "ISO 19011 / 稽核查檢表課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你正在帶領培訓中的稽核員準備現場稽核。\n\n請選擇三項對「使用稽核查檢表」的錯誤描述。",
+    "options": [
+      "每次稽核都應使用完全相同查檢表且無需審查",
+      "查檢表應限制訪談討論的範圍，不可追問新證據",
+      "有查檢表就能確保所有稽核軌跡都一定被遵循",
+      "查檢表可協助記錄查核相關細節",
+      "查檢表應與稽核目標、範圍及準則一致",
+      "必要時可依現場證據調整追查方向"
+    ],
+    "correct": [
+      "每次稽核都應使用完全相同查檢表且無需審查",
+      "查檢表應限制訪談討論的範圍，不可追問新證據",
+      "有查檢表就能確保所有稽核軌跡都一定被遵循"
+    ],
+    "explanation": "查檢表要適度更新，不能限制專業追查，也不能保證所有稽核軌跡一定完整。",
+    "mnemonic": "查檢表輔助，不僵化、不保證。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0427",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核查檢表錯誤觀念",
+    "source": "ISO 19011 / 稽核查檢表課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你正在依 ISO 19011 檢查稽核規劃是否完整。\n\n請選擇三項對「使用稽核查檢表」的錯誤描述。",
+    "options": [
+      "每次稽核都應使用完全相同查檢表且無需審查",
+      "查檢表應限制訪談討論的範圍，不可追問新證據",
+      "有查檢表就能確保所有稽核軌跡都一定被遵循",
+      "查檢表可協助記錄查核相關細節",
+      "查檢表應與稽核目標、範圍及準則一致",
+      "必要時可依現場證據調整追查方向"
+    ],
+    "correct": [
+      "每次稽核都應使用完全相同查檢表且無需審查",
+      "查檢表應限制訪談討論的範圍，不可追問新證據",
+      "有查檢表就能確保所有稽核軌跡都一定被遵循"
+    ],
+    "explanation": "查檢表要適度更新，不能限制專業追查，也不能保證所有稽核軌跡一定完整。",
+    "mnemonic": "查檢表輔助，不僵化、不保證。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0428",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核查檢表錯誤觀念",
+    "source": "ISO 19011 / 稽核查檢表課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你正在以正式考試的方式測試稽核員對規劃流程的掌握。\n\n請選擇三項對「使用稽核查檢表」的錯誤描述。",
+    "options": [
+      "每次稽核都應使用完全相同查檢表且無需審查",
+      "查檢表應限制訪談討論的範圍，不可追問新證據",
+      "有查檢表就能確保所有稽核軌跡都一定被遵循",
+      "查檢表可協助記錄查核相關細節",
+      "查檢表應與稽核目標、範圍及準則一致",
+      "必要時可依現場證據調整追查方向"
+    ],
+    "correct": [
+      "每次稽核都應使用完全相同查檢表且無需審查",
+      "查檢表應限制訪談討論的範圍，不可追問新證據",
+      "有查檢表就能確保所有稽核軌跡都一定被遵循"
+    ],
+    "explanation": "查檢表要適度更新，不能限制專業追查，也不能保證所有稽核軌跡一定完整。",
+    "mnemonic": "查檢表輔助，不僵化、不保證。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0429",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核計畫",
+    "source": "ISO 19011 稽核計畫課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在規劃一次第三方驗證稽核，並向稽核小組說明準備方式。\n\n下列哪四項通常應在單次稽核計畫中予以明確？",
+    "options": [
+      "稽核目標",
+      "稽核範圍與準則",
+      "稽核方法及日程",
+      "稽核團隊角色與責任",
+      "受稽核員工的私人休閒活動",
+      "公司尾牙日期",
+      "稽核員的個人投資偏好"
+    ],
+    "correct": [
+      "稽核目標",
+      "稽核範圍與準則",
+      "稽核方法及日程",
+      "稽核團隊角色與責任"
+    ],
+    "explanation": "稽核計畫需能指導實際活動，因此目標、範圍、準則、方法、日程與角色都應清楚。",
+    "mnemonic": "目標、範圍、準則、方法、人、時。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0430",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核計畫",
+    "source": "ISO 19011 稽核計畫課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在審查下一季的稽核方案與單次稽核計畫。\n\n下列哪四項通常應在單次稽核計畫中予以明確？",
+    "options": [
+      "稽核目標",
+      "稽核範圍與準則",
+      "稽核方法及日程",
+      "稽核團隊角色與責任",
+      "受稽核員工的私人休閒活動",
+      "公司尾牙日期",
+      "稽核員的個人投資偏好"
+    ],
+    "correct": [
+      "稽核目標",
+      "稽核範圍與準則",
+      "稽核方法及日程",
+      "稽核團隊角色與責任"
+    ],
+    "explanation": "稽核計畫需能指導實際活動，因此目標、範圍、準則、方法、日程與角色都應清楚。",
+    "mnemonic": "目標、範圍、準則、方法、人、時。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0431",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核計畫",
+    "source": "ISO 19011 稽核計畫課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在帶領培訓中的稽核員準備現場稽核。\n\n下列哪四項通常應在單次稽核計畫中予以明確？",
+    "options": [
+      "稽核目標",
+      "稽核範圍與準則",
+      "稽核方法及日程",
+      "稽核團隊角色與責任",
+      "受稽核員工的私人休閒活動",
+      "公司尾牙日期",
+      "稽核員的個人投資偏好"
+    ],
+    "correct": [
+      "稽核目標",
+      "稽核範圍與準則",
+      "稽核方法及日程",
+      "稽核團隊角色與責任"
+    ],
+    "explanation": "稽核計畫需能指導實際活動，因此目標、範圍、準則、方法、日程與角色都應清楚。",
+    "mnemonic": "目標、範圍、準則、方法、人、時。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0432",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核計畫",
+    "source": "ISO 19011 稽核計畫課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在依 ISO 19011 檢查稽核規劃是否完整。\n\n下列哪四項通常應在單次稽核計畫中予以明確？",
+    "options": [
+      "稽核目標",
+      "稽核範圍與準則",
+      "稽核方法及日程",
+      "稽核團隊角色與責任",
+      "受稽核員工的私人休閒活動",
+      "公司尾牙日期",
+      "稽核員的個人投資偏好"
+    ],
+    "correct": [
+      "稽核目標",
+      "稽核範圍與準則",
+      "稽核方法及日程",
+      "稽核團隊角色與責任"
+    ],
+    "explanation": "稽核計畫需能指導實際活動，因此目標、範圍、準則、方法、日程與角色都應清楚。",
+    "mnemonic": "目標、範圍、準則、方法、人、時。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0433",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核計畫",
+    "source": "ISO 19011 稽核計畫課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在以正式考試的方式測試稽核員對規劃流程的掌握。\n\n下列哪四項通常應在單次稽核計畫中予以明確？",
+    "options": [
+      "稽核目標",
+      "稽核範圍與準則",
+      "稽核方法及日程",
+      "稽核團隊角色與責任",
+      "受稽核員工的私人休閒活動",
+      "公司尾牙日期",
+      "稽核員的個人投資偏好"
+    ],
+    "correct": [
+      "稽核目標",
+      "稽核範圍與準則",
+      "稽核方法及日程",
+      "稽核團隊角色與責任"
+    ],
+    "explanation": "稽核計畫需能指導實際活動，因此目標、範圍、準則、方法、日程與角色都應清楚。",
+    "mnemonic": "目標、範圍、準則、方法、人、時。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0434",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核方案風險",
+    "source": "ISO 19011 稽核方案課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在規劃一次第三方驗證稽核，並向稽核小組說明準備方式。\n\nISO 19011 要求辨識與管理稽核方案相關的風險。下列哪四項可合理視為稽核方案/活動風險？",
+    "options": [
+      "網路連線或遠距技術失敗",
+      "稽核小組能力不足",
+      "未明確設定稽核目標、範圍與準則",
+      "稽核時間或資源分配不足",
+      "公司餐廳菜色不符稽核員喜好",
+      "稽核員交通工具品牌不一致",
+      "稽核報告字體不是稽核員最愛的字型"
+    ],
+    "correct": [
+      "網路連線或遠距技術失敗",
+      "稽核小組能力不足",
+      "未明確設定稽核目標、範圍與準則",
+      "稽核時間或資源分配不足"
+    ],
+    "explanation": "稽核方案風險包括資源、能力、目標範圍、溝通與技術可行性等可能阻礙達成稽核目的的因素。",
+    "mnemonic": "風險看會不會害稽核目標做不到。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0435",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核方案風險",
+    "source": "ISO 19011 稽核方案課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在審查下一季的稽核方案與單次稽核計畫。\n\nISO 19011 要求辨識與管理稽核方案相關的風險。下列哪四項可合理視為稽核方案/活動風險？",
+    "options": [
+      "網路連線或遠距技術失敗",
+      "稽核小組能力不足",
+      "未明確設定稽核目標、範圍與準則",
+      "稽核時間或資源分配不足",
+      "公司餐廳菜色不符稽核員喜好",
+      "稽核員交通工具品牌不一致",
+      "稽核報告字體不是稽核員最愛的字型"
+    ],
+    "correct": [
+      "網路連線或遠距技術失敗",
+      "稽核小組能力不足",
+      "未明確設定稽核目標、範圍與準則",
+      "稽核時間或資源分配不足"
+    ],
+    "explanation": "稽核方案風險包括資源、能力、目標範圍、溝通與技術可行性等可能阻礙達成稽核目的的因素。",
+    "mnemonic": "風險看會不會害稽核目標做不到。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0436",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核方案風險",
+    "source": "ISO 19011 稽核方案課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在帶領培訓中的稽核員準備現場稽核。\n\nISO 19011 要求辨識與管理稽核方案相關的風險。下列哪四項可合理視為稽核方案/活動風險？",
+    "options": [
+      "網路連線或遠距技術失敗",
+      "稽核小組能力不足",
+      "未明確設定稽核目標、範圍與準則",
+      "稽核時間或資源分配不足",
+      "公司餐廳菜色不符稽核員喜好",
+      "稽核員交通工具品牌不一致",
+      "稽核報告字體不是稽核員最愛的字型"
+    ],
+    "correct": [
+      "網路連線或遠距技術失敗",
+      "稽核小組能力不足",
+      "未明確設定稽核目標、範圍與準則",
+      "稽核時間或資源分配不足"
+    ],
+    "explanation": "稽核方案風險包括資源、能力、目標範圍、溝通與技術可行性等可能阻礙達成稽核目的的因素。",
+    "mnemonic": "風險看會不會害稽核目標做不到。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0437",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核方案風險",
+    "source": "ISO 19011 稽核方案課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在依 ISO 19011 檢查稽核規劃是否完整。\n\nISO 19011 要求辨識與管理稽核方案相關的風險。下列哪四項可合理視為稽核方案/活動風險？",
+    "options": [
+      "網路連線或遠距技術失敗",
+      "稽核小組能力不足",
+      "未明確設定稽核目標、範圍與準則",
+      "稽核時間或資源分配不足",
+      "公司餐廳菜色不符稽核員喜好",
+      "稽核員交通工具品牌不一致",
+      "稽核報告字體不是稽核員最愛的字型"
+    ],
+    "correct": [
+      "網路連線或遠距技術失敗",
+      "稽核小組能力不足",
+      "未明確設定稽核目標、範圍與準則",
+      "稽核時間或資源分配不足"
+    ],
+    "explanation": "稽核方案風險包括資源、能力、目標範圍、溝通與技術可行性等可能阻礙達成稽核目的的因素。",
+    "mnemonic": "風險看會不會害稽核目標做不到。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0438",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核方案風險",
+    "source": "ISO 19011 稽核方案課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在以正式考試的方式測試稽核員對規劃流程的掌握。\n\nISO 19011 要求辨識與管理稽核方案相關的風險。下列哪四項可合理視為稽核方案/活動風險？",
+    "options": [
+      "網路連線或遠距技術失敗",
+      "稽核小組能力不足",
+      "未明確設定稽核目標、範圍與準則",
+      "稽核時間或資源分配不足",
+      "公司餐廳菜色不符稽核員喜好",
+      "稽核員交通工具品牌不一致",
+      "稽核報告字體不是稽核員最愛的字型"
+    ],
+    "correct": [
+      "網路連線或遠距技術失敗",
+      "稽核小組能力不足",
+      "未明確設定稽核目標、範圍與準則",
+      "稽核時間或資源分配不足"
+    ],
+    "explanation": "稽核方案風險包括資源、能力、目標範圍、溝通與技術可行性等可能阻礙達成稽核目的的因素。",
+    "mnemonic": "風險看會不會害稽核目標做不到。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0439",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "開幕會議情境",
+    "source": "ISO 19011 啟始會議 / 稽核計畫",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在規劃一次第三方驗證稽核，並向稽核小組說明準備方式。\n\n第二階段稽核的啟始會議上，受稽核方的執行長邀請稽核團隊觀看 45 分鐘的新公司影片。請選擇三項較適當的回應。",
+    "options": [
+      "說明稽核小組已依計畫安排活動與時間，需要維持稽核時程",
+      "如影片有助理解組織，可建議觀看與稽核目的直接相關的短片段",
+      "與執行長協調是否可在不影響稽核目標的時段另行觀看",
+      "直接同意看完整 45 分鐘，不需調整計畫",
+      "因受稽核方邀請，稽核團隊必須接受",
+      "為避免尷尬可取消原本高風險流程的查核"
+    ],
+    "correct": [
+      "說明稽核小組已依計畫安排活動與時間，需要維持稽核時程",
+      "如影片有助理解組織，可建議觀看與稽核目的直接相關的短片段",
+      "與執行長協調是否可在不影響稽核目標的時段另行觀看"
+    ],
+    "explanation": "稽核組長需維持稽核目標與時程，同時可以專業方式協調受稽核方的額外要求。",
+    "mnemonic": "禮貌協調，但不能犧牲稽核目標。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0440",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "開幕會議情境",
+    "source": "ISO 19011 啟始會議 / 稽核計畫",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在審查下一季的稽核方案與單次稽核計畫。\n\n第二階段稽核的啟始會議上，受稽核方的執行長邀請稽核團隊觀看 45 分鐘的新公司影片。請選擇三項較適當的回應。",
+    "options": [
+      "說明稽核小組已依計畫安排活動與時間，需要維持稽核時程",
+      "如影片有助理解組織，可建議觀看與稽核目的直接相關的短片段",
+      "與執行長協調是否可在不影響稽核目標的時段另行觀看",
+      "直接同意看完整 45 分鐘，不需調整計畫",
+      "因受稽核方邀請，稽核團隊必須接受",
+      "為避免尷尬可取消原本高風險流程的查核"
+    ],
+    "correct": [
+      "說明稽核小組已依計畫安排活動與時間，需要維持稽核時程",
+      "如影片有助理解組織，可建議觀看與稽核目的直接相關的短片段",
+      "與執行長協調是否可在不影響稽核目標的時段另行觀看"
+    ],
+    "explanation": "稽核組長需維持稽核目標與時程，同時可以專業方式協調受稽核方的額外要求。",
+    "mnemonic": "禮貌協調，但不能犧牲稽核目標。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0441",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "開幕會議情境",
+    "source": "ISO 19011 啟始會議 / 稽核計畫",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領培訓中的稽核員準備現場稽核。\n\n第二階段稽核的啟始會議上，受稽核方的執行長邀請稽核團隊觀看 45 分鐘的新公司影片。請選擇三項較適當的回應。",
+    "options": [
+      "說明稽核小組已依計畫安排活動與時間，需要維持稽核時程",
+      "如影片有助理解組織，可建議觀看與稽核目的直接相關的短片段",
+      "與執行長協調是否可在不影響稽核目標的時段另行觀看",
+      "直接同意看完整 45 分鐘，不需調整計畫",
+      "因受稽核方邀請，稽核團隊必須接受",
+      "為避免尷尬可取消原本高風險流程的查核"
+    ],
+    "correct": [
+      "說明稽核小組已依計畫安排活動與時間，需要維持稽核時程",
+      "如影片有助理解組織，可建議觀看與稽核目的直接相關的短片段",
+      "與執行長協調是否可在不影響稽核目標的時段另行觀看"
+    ],
+    "explanation": "稽核組長需維持稽核目標與時程，同時可以專業方式協調受稽核方的額外要求。",
+    "mnemonic": "禮貌協調，但不能犧牲稽核目標。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0442",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "開幕會議情境",
+    "source": "ISO 19011 啟始會議 / 稽核計畫",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在依 ISO 19011 檢查稽核規劃是否完整。\n\n第二階段稽核的啟始會議上，受稽核方的執行長邀請稽核團隊觀看 45 分鐘的新公司影片。請選擇三項較適當的回應。",
+    "options": [
+      "說明稽核小組已依計畫安排活動與時間，需要維持稽核時程",
+      "如影片有助理解組織，可建議觀看與稽核目的直接相關的短片段",
+      "與執行長協調是否可在不影響稽核目標的時段另行觀看",
+      "直接同意看完整 45 分鐘，不需調整計畫",
+      "因受稽核方邀請，稽核團隊必須接受",
+      "為避免尷尬可取消原本高風險流程的查核"
+    ],
+    "correct": [
+      "說明稽核小組已依計畫安排活動與時間，需要維持稽核時程",
+      "如影片有助理解組織，可建議觀看與稽核目的直接相關的短片段",
+      "與執行長協調是否可在不影響稽核目標的時段另行觀看"
+    ],
+    "explanation": "稽核組長需維持稽核目標與時程，同時可以專業方式協調受稽核方的額外要求。",
+    "mnemonic": "禮貌協調，但不能犧牲稽核目標。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0443",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "開幕會議情境",
+    "source": "ISO 19011 啟始會議 / 稽核計畫",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在以正式考試的方式測試稽核員對規劃流程的掌握。\n\n第二階段稽核的啟始會議上，受稽核方的執行長邀請稽核團隊觀看 45 分鐘的新公司影片。請選擇三項較適當的回應。",
+    "options": [
+      "說明稽核小組已依計畫安排活動與時間，需要維持稽核時程",
+      "如影片有助理解組織，可建議觀看與稽核目的直接相關的短片段",
+      "與執行長協調是否可在不影響稽核目標的時段另行觀看",
+      "直接同意看完整 45 分鐘，不需調整計畫",
+      "因受稽核方邀請，稽核團隊必須接受",
+      "為避免尷尬可取消原本高風險流程的查核"
+    ],
+    "correct": [
+      "說明稽核小組已依計畫安排活動與時間，需要維持稽核時程",
+      "如影片有助理解組織，可建議觀看與稽核目的直接相關的短片段",
+      "與執行長協調是否可在不影響稽核目標的時段另行觀看"
+    ],
+    "explanation": "稽核組長需維持稽核目標與時程，同時可以專業方式協調受稽核方的額外要求。",
+    "mnemonic": "禮貌協調，但不能犧牲稽核目標。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0444",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "抽樣規劃",
+    "source": "ISO 19011 抽樣課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在規劃一次第三方驗證稽核，並向稽核小組說明準備方式。\n\n以下哪三項是建立稽核抽樣方法時應考量的合理因素？",
+    "options": [
+      "流程或控制的重要性與風險",
+      "資料母體的期間、類型與分布",
+      "先前稽核結果與已知異常",
+      "只挑受稽核方事先選好的最佳樣本",
+      "不論母體大小永遠只抽一筆",
+      "為節省時間只抽最近一天資料"
+    ],
+    "correct": [
+      "流程或控制的重要性與風險",
+      "資料母體的期間、類型與分布",
+      "先前稽核結果與已知異常"
+    ],
+    "explanation": "抽樣應支持代表性與合理信心，並依風險、母體與先前結果設計。",
+    "mnemonic": "抽樣要有代表性，異常要追。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0445",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "抽樣規劃",
+    "source": "ISO 19011 抽樣課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在審查下一季的稽核方案與單次稽核計畫。\n\n以下哪三項是建立稽核抽樣方法時應考量的合理因素？",
+    "options": [
+      "流程或控制的重要性與風險",
+      "資料母體的期間、類型與分布",
+      "先前稽核結果與已知異常",
+      "只挑受稽核方事先選好的最佳樣本",
+      "不論母體大小永遠只抽一筆",
+      "為節省時間只抽最近一天資料"
+    ],
+    "correct": [
+      "流程或控制的重要性與風險",
+      "資料母體的期間、類型與分布",
+      "先前稽核結果與已知異常"
+    ],
+    "explanation": "抽樣應支持代表性與合理信心，並依風險、母體與先前結果設計。",
+    "mnemonic": "抽樣要有代表性，異常要追。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0446",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "抽樣規劃",
+    "source": "ISO 19011 抽樣課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領培訓中的稽核員準備現場稽核。\n\n以下哪三項是建立稽核抽樣方法時應考量的合理因素？",
+    "options": [
+      "流程或控制的重要性與風險",
+      "資料母體的期間、類型與分布",
+      "先前稽核結果與已知異常",
+      "只挑受稽核方事先選好的最佳樣本",
+      "不論母體大小永遠只抽一筆",
+      "為節省時間只抽最近一天資料"
+    ],
+    "correct": [
+      "流程或控制的重要性與風險",
+      "資料母體的期間、類型與分布",
+      "先前稽核結果與已知異常"
+    ],
+    "explanation": "抽樣應支持代表性與合理信心，並依風險、母體與先前結果設計。",
+    "mnemonic": "抽樣要有代表性，異常要追。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0447",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "抽樣規劃",
+    "source": "ISO 19011 抽樣課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在依 ISO 19011 檢查稽核規劃是否完整。\n\n以下哪三項是建立稽核抽樣方法時應考量的合理因素？",
+    "options": [
+      "流程或控制的重要性與風險",
+      "資料母體的期間、類型與分布",
+      "先前稽核結果與已知異常",
+      "只挑受稽核方事先選好的最佳樣本",
+      "不論母體大小永遠只抽一筆",
+      "為節省時間只抽最近一天資料"
+    ],
+    "correct": [
+      "流程或控制的重要性與風險",
+      "資料母體的期間、類型與分布",
+      "先前稽核結果與已知異常"
+    ],
+    "explanation": "抽樣應支持代表性與合理信心，並依風險、母體與先前結果設計。",
+    "mnemonic": "抽樣要有代表性，異常要追。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0448",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "抽樣規劃",
+    "source": "ISO 19011 抽樣課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在以正式考試的方式測試稽核員對規劃流程的掌握。\n\n以下哪三項是建立稽核抽樣方法時應考量的合理因素？",
+    "options": [
+      "流程或控制的重要性與風險",
+      "資料母體的期間、類型與分布",
+      "先前稽核結果與已知異常",
+      "只挑受稽核方事先選好的最佳樣本",
+      "不論母體大小永遠只抽一筆",
+      "為節省時間只抽最近一天資料"
+    ],
+    "correct": [
+      "流程或控制的重要性與風險",
+      "資料母體的期間、類型與分布",
+      "先前稽核結果與已知異常"
+    ],
+    "explanation": "抽樣應支持代表性與合理信心，並依風險、母體與先前結果設計。",
+    "mnemonic": "抽樣要有代表性，異常要追。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0449",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "第一/第二階段",
+    "source": "驗證過程要求 / ISO/IEC 17021-1 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在規劃一次第三方驗證稽核，並向稽核小組說明準備方式。\n\n關於初次驗證的第一階段與第二階段，哪三項敘述較正確？",
+    "options": [
+      "第一階段主要了解管理系統文件、範圍與準備程度",
+      "第二階段主要驗證現場實作、符合性與有效性",
+      "第一階段結果可作為第二階段規劃的重要輸入",
+      "第一階段完成就一定直接發證",
+      "第二階段只需看政策封面",
+      "第二階段完全不需要抽樣"
+    ],
+    "correct": [
+      "第一階段主要了解管理系統文件、範圍與準備程度",
+      "第二階段主要驗證現場實作、符合性與有效性",
+      "第一階段結果可作為第二階段規劃的重要輸入"
+    ],
+    "explanation": "第一階段看準備，第二階段看實際運作與有效性。",
+    "mnemonic": "一階看準備，二階看實做。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0450",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "第一/第二階段",
+    "source": "驗證過程要求 / ISO/IEC 17021-1 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在審查下一季的稽核方案與單次稽核計畫。\n\n關於初次驗證的第一階段與第二階段，哪三項敘述較正確？",
+    "options": [
+      "第一階段主要了解管理系統文件、範圍與準備程度",
+      "第二階段主要驗證現場實作、符合性與有效性",
+      "第一階段結果可作為第二階段規劃的重要輸入",
+      "第一階段完成就一定直接發證",
+      "第二階段只需看政策封面",
+      "第二階段完全不需要抽樣"
+    ],
+    "correct": [
+      "第一階段主要了解管理系統文件、範圍與準備程度",
+      "第二階段主要驗證現場實作、符合性與有效性",
+      "第一階段結果可作為第二階段規劃的重要輸入"
+    ],
+    "explanation": "第一階段看準備，第二階段看實際運作與有效性。",
+    "mnemonic": "一階看準備，二階看實做。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0451",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "第一/第二階段",
+    "source": "驗證過程要求 / ISO/IEC 17021-1 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領培訓中的稽核員準備現場稽核。\n\n關於初次驗證的第一階段與第二階段，哪三項敘述較正確？",
+    "options": [
+      "第一階段主要了解管理系統文件、範圍與準備程度",
+      "第二階段主要驗證現場實作、符合性與有效性",
+      "第一階段結果可作為第二階段規劃的重要輸入",
+      "第一階段完成就一定直接發證",
+      "第二階段只需看政策封面",
+      "第二階段完全不需要抽樣"
+    ],
+    "correct": [
+      "第一階段主要了解管理系統文件、範圍與準備程度",
+      "第二階段主要驗證現場實作、符合性與有效性",
+      "第一階段結果可作為第二階段規劃的重要輸入"
+    ],
+    "explanation": "第一階段看準備，第二階段看實際運作與有效性。",
+    "mnemonic": "一階看準備，二階看實做。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0452",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "第一/第二階段",
+    "source": "驗證過程要求 / ISO/IEC 17021-1 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在依 ISO 19011 檢查稽核規劃是否完整。\n\n關於初次驗證的第一階段與第二階段，哪三項敘述較正確？",
+    "options": [
+      "第一階段主要了解管理系統文件、範圍與準備程度",
+      "第二階段主要驗證現場實作、符合性與有效性",
+      "第一階段結果可作為第二階段規劃的重要輸入",
+      "第一階段完成就一定直接發證",
+      "第二階段只需看政策封面",
+      "第二階段完全不需要抽樣"
+    ],
+    "correct": [
+      "第一階段主要了解管理系統文件、範圍與準備程度",
+      "第二階段主要驗證現場實作、符合性與有效性",
+      "第一階段結果可作為第二階段規劃的重要輸入"
+    ],
+    "explanation": "第一階段看準備，第二階段看實際運作與有效性。",
+    "mnemonic": "一階看準備，二階看實做。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0453",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "第一/第二階段",
+    "source": "驗證過程要求 / ISO/IEC 17021-1 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在以正式考試的方式測試稽核員對規劃流程的掌握。\n\n關於初次驗證的第一階段與第二階段，哪三項敘述較正確？",
+    "options": [
+      "第一階段主要了解管理系統文件、範圍與準備程度",
+      "第二階段主要驗證現場實作、符合性與有效性",
+      "第一階段結果可作為第二階段規劃的重要輸入",
+      "第一階段完成就一定直接發證",
+      "第二階段只需看政策封面",
+      "第二階段完全不需要抽樣"
+    ],
+    "correct": [
+      "第一階段主要了解管理系統文件、範圍與準備程度",
+      "第二階段主要驗證現場實作、符合性與有效性",
+      "第一階段結果可作為第二階段規劃的重要輸入"
+    ],
+    "explanation": "第一階段看準備，第二階段看實際運作與有效性。",
+    "mnemonic": "一階看準備，二階看實做。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0454",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核方案風險配對",
+    "source": "ISO 19011 稽核方案管理",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你正在規劃一次第三方驗證稽核，並向稽核小組說明準備方式。\n\n請將下列稽核風險與最可能需要加強的稽核管理過程配對。",
+    "rows": [
+      {
+        "prompt": "網路連線失敗，影響遠距稽核",
+        "answer": "稽核活動"
+      },
+      {
+        "prompt": "稽核小組經驗與能力不足",
+        "answer": "選擇稽核小組的成員"
+      },
+      {
+        "prompt": "未設定相關稽核目標、範圍與準則",
+        "answer": "稽核規劃"
+      },
+      {
+        "prompt": "未建立與抽樣相關的規範",
+        "answer": "抽樣過程"
+      },
+      {
+        "prompt": "允許的稽核時間與資訊科技資源不足",
+        "answer": "資源分配"
+      },
+      {
+        "prompt": "稽核員與受稽核方之間缺乏協調",
+        "answer": "溝通過程"
+      }
+    ],
+    "choices": [
+      "稽核規劃",
+      "抽樣過程",
+      "溝通過程",
+      "稽核活動",
+      "選擇稽核小組的成員",
+      "資源分配"
+    ],
+    "explanation": "此題仿照正式練習題的風險—流程配對；手機版改以每列下拉選單完成。",
+    "mnemonic": "看到風險，想它會卡在哪個稽核管理過程。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0455",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核方案風險配對",
+    "source": "ISO 19011 稽核方案管理",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你正在審查下一季的稽核方案與單次稽核計畫。\n\n請將下列稽核風險與最可能需要加強的稽核管理過程配對。",
+    "rows": [
+      {
+        "prompt": "網路連線失敗，影響遠距稽核",
+        "answer": "稽核活動"
+      },
+      {
+        "prompt": "稽核小組經驗與能力不足",
+        "answer": "選擇稽核小組的成員"
+      },
+      {
+        "prompt": "未設定相關稽核目標、範圍與準則",
+        "answer": "稽核規劃"
+      },
+      {
+        "prompt": "未建立與抽樣相關的規範",
+        "answer": "抽樣過程"
+      },
+      {
+        "prompt": "允許的稽核時間與資訊科技資源不足",
+        "answer": "資源分配"
+      },
+      {
+        "prompt": "稽核員與受稽核方之間缺乏協調",
+        "answer": "溝通過程"
+      }
+    ],
+    "choices": [
+      "稽核規劃",
+      "抽樣過程",
+      "溝通過程",
+      "稽核活動",
+      "選擇稽核小組的成員",
+      "資源分配"
+    ],
+    "explanation": "此題仿照正式練習題的風險—流程配對；手機版改以每列下拉選單完成。",
+    "mnemonic": "看到風險，想它會卡在哪個稽核管理過程。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0456",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核方案風險配對",
+    "source": "ISO 19011 稽核方案管理",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你正在帶領培訓中的稽核員準備現場稽核。\n\n請將下列稽核風險與最可能需要加強的稽核管理過程配對。",
+    "rows": [
+      {
+        "prompt": "網路連線失敗，影響遠距稽核",
+        "answer": "稽核活動"
+      },
+      {
+        "prompt": "稽核小組經驗與能力不足",
+        "answer": "選擇稽核小組的成員"
+      },
+      {
+        "prompt": "未設定相關稽核目標、範圍與準則",
+        "answer": "稽核規劃"
+      },
+      {
+        "prompt": "未建立與抽樣相關的規範",
+        "answer": "抽樣過程"
+      },
+      {
+        "prompt": "允許的稽核時間與資訊科技資源不足",
+        "answer": "資源分配"
+      },
+      {
+        "prompt": "稽核員與受稽核方之間缺乏協調",
+        "answer": "溝通過程"
+      }
+    ],
+    "choices": [
+      "稽核規劃",
+      "抽樣過程",
+      "溝通過程",
+      "稽核活動",
+      "選擇稽核小組的成員",
+      "資源分配"
+    ],
+    "explanation": "此題仿照正式練習題的風險—流程配對；手機版改以每列下拉選單完成。",
+    "mnemonic": "看到風險，想它會卡在哪個稽核管理過程。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0457",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核方案風險配對",
+    "source": "ISO 19011 稽核方案管理",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你正在依 ISO 19011 檢查稽核規劃是否完整。\n\n請將下列稽核風險與最可能需要加強的稽核管理過程配對。",
+    "rows": [
+      {
+        "prompt": "網路連線失敗，影響遠距稽核",
+        "answer": "稽核活動"
+      },
+      {
+        "prompt": "稽核小組經驗與能力不足",
+        "answer": "選擇稽核小組的成員"
+      },
+      {
+        "prompt": "未設定相關稽核目標、範圍與準則",
+        "answer": "稽核規劃"
+      },
+      {
+        "prompt": "未建立與抽樣相關的規範",
+        "answer": "抽樣過程"
+      },
+      {
+        "prompt": "允許的稽核時間與資訊科技資源不足",
+        "answer": "資源分配"
+      },
+      {
+        "prompt": "稽核員與受稽核方之間缺乏協調",
+        "answer": "溝通過程"
+      }
+    ],
+    "choices": [
+      "稽核規劃",
+      "抽樣過程",
+      "溝通過程",
+      "稽核活動",
+      "選擇稽核小組的成員",
+      "資源分配"
+    ],
+    "explanation": "此題仿照正式練習題的風險—流程配對；手機版改以每列下拉選單完成。",
+    "mnemonic": "看到風險，想它會卡在哪個稽核管理過程。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0458",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "稽核方案風險配對",
+    "source": "ISO 19011 稽核方案管理",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你正在以正式考試的方式測試稽核員對規劃流程的掌握。\n\n請將下列稽核風險與最可能需要加強的稽核管理過程配對。",
+    "rows": [
+      {
+        "prompt": "網路連線失敗，影響遠距稽核",
+        "answer": "稽核活動"
+      },
+      {
+        "prompt": "稽核小組經驗與能力不足",
+        "answer": "選擇稽核小組的成員"
+      },
+      {
+        "prompt": "未設定相關稽核目標、範圍與準則",
+        "answer": "稽核規劃"
+      },
+      {
+        "prompt": "未建立與抽樣相關的規範",
+        "answer": "抽樣過程"
+      },
+      {
+        "prompt": "允許的稽核時間與資訊科技資源不足",
+        "answer": "資源分配"
+      },
+      {
+        "prompt": "稽核員與受稽核方之間缺乏協調",
+        "answer": "溝通過程"
+      }
+    ],
+    "choices": [
+      "稽核規劃",
+      "抽樣過程",
+      "溝通過程",
+      "稽核活動",
+      "選擇稽核小組的成員",
+      "資源分配"
+    ],
+    "explanation": "此題仿照正式練習題的風險—流程配對；手機版改以每列下拉選單完成。",
+    "mnemonic": "看到風險，想它會卡在哪個稽核管理過程。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0459",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "收集與驗證資訊順序",
+    "source": "ISO 19011 稽核活動流程",
+    "difficulty": "高",
+    "type": "ordering",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用下拉式選單，依正確順序選出各步驟。",
+    "stem": "你正在規劃一次第三方驗證稽核，並向稽核小組說明準備方式。\n\n稽核員收集資訊是稽核過程的重要活動，也是形成稽核發現的方法。請依正確順序完成流程。",
+    "items": [
+      "確定資訊來源",
+      "透過適當抽樣收集資訊",
+      "取得/確認稽核證據",
+      "依稽核準則評估證據",
+      "形成稽核發現",
+      "審查稽核發現",
+      "形成稽核結論"
+    ],
+    "correctOrder": [
+      "確定資訊來源",
+      "透過適當抽樣收集資訊",
+      "取得/確認稽核證據",
+      "依稽核準則評估證據",
+      "形成稽核發現",
+      "審查稽核發現",
+      "形成稽核結論"
+    ],
+    "explanation": "資訊先從來源蒐集並成為可驗證證據，再與準則比較形成發現，最後整合成結論。",
+    "mnemonic": "來源→收集→證據→準則→發現→審查→結論。",
+    "typeLabel": "排序題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0460",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "收集與驗證資訊順序",
+    "source": "ISO 19011 稽核活動流程",
+    "difficulty": "高",
+    "type": "ordering",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用下拉式選單，依正確順序選出各步驟。",
+    "stem": "你正在審查下一季的稽核方案與單次稽核計畫。\n\n稽核員收集資訊是稽核過程的重要活動，也是形成稽核發現的方法。請依正確順序完成流程。",
+    "items": [
+      "確定資訊來源",
+      "透過適當抽樣收集資訊",
+      "取得/確認稽核證據",
+      "依稽核準則評估證據",
+      "形成稽核發現",
+      "審查稽核發現",
+      "形成稽核結論"
+    ],
+    "correctOrder": [
+      "確定資訊來源",
+      "透過適當抽樣收集資訊",
+      "取得/確認稽核證據",
+      "依稽核準則評估證據",
+      "形成稽核發現",
+      "審查稽核發現",
+      "形成稽核結論"
+    ],
+    "explanation": "資訊先從來源蒐集並成為可驗證證據，再與準則比較形成發現，最後整合成結論。",
+    "mnemonic": "來源→收集→證據→準則→發現→審查→結論。",
+    "typeLabel": "排序題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0461",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "收集與驗證資訊順序",
+    "source": "ISO 19011 稽核活動流程",
+    "difficulty": "高",
+    "type": "ordering",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用下拉式選單，依正確順序選出各步驟。",
+    "stem": "你正在帶領培訓中的稽核員準備現場稽核。\n\n稽核員收集資訊是稽核過程的重要活動，也是形成稽核發現的方法。請依正確順序完成流程。",
+    "items": [
+      "確定資訊來源",
+      "透過適當抽樣收集資訊",
+      "取得/確認稽核證據",
+      "依稽核準則評估證據",
+      "形成稽核發現",
+      "審查稽核發現",
+      "形成稽核結論"
+    ],
+    "correctOrder": [
+      "確定資訊來源",
+      "透過適當抽樣收集資訊",
+      "取得/確認稽核證據",
+      "依稽核準則評估證據",
+      "形成稽核發現",
+      "審查稽核發現",
+      "形成稽核結論"
+    ],
+    "explanation": "資訊先從來源蒐集並成為可驗證證據，再與準則比較形成發現，最後整合成結論。",
+    "mnemonic": "來源→收集→證據→準則→發現→審查→結論。",
+    "typeLabel": "排序題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0462",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "收集與驗證資訊順序",
+    "source": "ISO 19011 稽核活動流程",
+    "difficulty": "高",
+    "type": "ordering",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用下拉式選單，依正確順序選出各步驟。",
+    "stem": "你正在依 ISO 19011 檢查稽核規劃是否完整。\n\n稽核員收集資訊是稽核過程的重要活動，也是形成稽核發現的方法。請依正確順序完成流程。",
+    "items": [
+      "確定資訊來源",
+      "透過適當抽樣收集資訊",
+      "取得/確認稽核證據",
+      "依稽核準則評估證據",
+      "形成稽核發現",
+      "審查稽核發現",
+      "形成稽核結論"
+    ],
+    "correctOrder": [
+      "確定資訊來源",
+      "透過適當抽樣收集資訊",
+      "取得/確認稽核證據",
+      "依稽核準則評估證據",
+      "形成稽核發現",
+      "審查稽核發現",
+      "形成稽核結論"
+    ],
+    "explanation": "資訊先從來源蒐集並成為可驗證證據，再與準則比較形成發現，最後整合成結論。",
+    "mnemonic": "來源→收集→證據→準則→發現→審查→結論。",
+    "typeLabel": "排序題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0463",
+    "unit": 3,
+    "unitName": "稽核規劃",
+    "topic": "收集與驗證資訊順序",
+    "source": "ISO 19011 稽核活動流程",
+    "difficulty": "高",
+    "type": "ordering",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用下拉式選單，依正確順序選出各步驟。",
+    "stem": "你正在以正式考試的方式測試稽核員對規劃流程的掌握。\n\n稽核員收集資訊是稽核過程的重要活動，也是形成稽核發現的方法。請依正確順序完成流程。",
+    "items": [
+      "確定資訊來源",
+      "透過適當抽樣收集資訊",
+      "取得/確認稽核證據",
+      "依稽核準則評估證據",
+      "形成稽核發現",
+      "審查稽核發現",
+      "形成稽核結論"
+    ],
+    "correctOrder": [
+      "確定資訊來源",
+      "透過適當抽樣收集資訊",
+      "取得/確認稽核證據",
+      "依稽核準則評估證據",
+      "形成稽核發現",
+      "審查稽核發現",
+      "形成稽核結論"
+    ],
+    "explanation": "資訊先從來源蒐集並成為可驗證證據，再與準則比較形成發現，最後整合成結論。",
+    "mnemonic": "來源→收集→證據→準則→發現→審查→結論。",
+    "typeLabel": "排序題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0464",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "規劃與風險條款判斷",
+    "source": "ISO/IEC 27001:2022 6.1.2、6.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你是一位經驗豐富的 ISMS 稽核組長，正在執行第三方驗證稽核。\n\n稽核團隊正在評估組織第 6 條規劃方法。下列哪兩項較可能支持提出不符合或進一步追查？",
+    "options": [
+      "組織的風險評鑑方法未能產生一致、有效且可比較的結果",
+      "資訊安全目標中多項目標不可量測且沒有監測方式",
+      "組織除 Annex A 外另設計了其他必要控制措施",
+      "最高管理階層被指定為某項風險當責者",
+      "組織對某些低風險選擇接受且符合既定準則",
+      "組織保留風險評鑑文件化資訊"
+    ],
+    "correct": [
+      "組織的風險評鑑方法未能產生一致、有效且可比較的結果",
+      "資訊安全目標中多項目標不可量測且沒有監測方式"
+    ],
+    "explanation": "6.1.2 要求風險評鑑產生一致、有效、可比較結果；6.2 要求目標需可監測並規劃如何達成。",
+    "mnemonic": "條款判斷先看「要求」再找「證據」。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0465",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "規劃與風險條款判斷",
+    "source": "ISO/IEC 27001:2022 6.1.2、6.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你正在帶領一個由兩位稽核員組成的稽核小組進行第二階段驗證。\n\n稽核團隊正在評估組織第 6 條規劃方法。下列哪兩項較可能支持提出不符合或進一步追查？",
+    "options": [
+      "組織的風險評鑑方法未能產生一致、有效且可比較的結果",
+      "資訊安全目標中多項目標不可量測且沒有監測方式",
+      "組織除 Annex A 外另設計了其他必要控制措施",
+      "最高管理階層被指定為某項風險當責者",
+      "組織對某些低風險選擇接受且符合既定準則",
+      "組織保留風險評鑑文件化資訊"
+    ],
+    "correct": [
+      "組織的風險評鑑方法未能產生一致、有效且可比較的結果",
+      "資訊安全目標中多項目標不可量測且沒有監測方式"
+    ],
+    "explanation": "6.1.2 要求風險評鑑產生一致、有效、可比較結果；6.2 要求目標需可監測並規劃如何達成。",
+    "mnemonic": "條款判斷先看「要求」再找「證據」。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0466",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "規劃與風險條款判斷",
+    "source": "ISO/IEC 27001:2022 6.1.2、6.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你要求培訓中的稽核員依 ISO/IEC 27001:2022 查核現場控制。\n\n稽核團隊正在評估組織第 6 條規劃方法。下列哪兩項較可能支持提出不符合或進一步追查？",
+    "options": [
+      "組織的風險評鑑方法未能產生一致、有效且可比較的結果",
+      "資訊安全目標中多項目標不可量測且沒有監測方式",
+      "組織除 Annex A 外另設計了其他必要控制措施",
+      "最高管理階層被指定為某項風險當責者",
+      "組織對某些低風險選擇接受且符合既定準則",
+      "組織保留風險評鑑文件化資訊"
+    ],
+    "correct": [
+      "組織的風險評鑑方法未能產生一致、有效且可比較的結果",
+      "資訊安全目標中多項目標不可量測且沒有監測方式"
+    ],
+    "explanation": "6.1.2 要求風險評鑑產生一致、有效、可比較結果；6.2 要求目標需可監測並規劃如何達成。",
+    "mnemonic": "條款判斷先看「要求」再找「證據」。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0467",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "規劃與風險條款判斷",
+    "source": "ISO/IEC 27001:2022 6.1.2、6.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你正在稽核組會議中審查現場證據並決定下一步稽核軌跡。\n\n稽核團隊正在評估組織第 6 條規劃方法。下列哪兩項較可能支持提出不符合或進一步追查？",
+    "options": [
+      "組織的風險評鑑方法未能產生一致、有效且可比較的結果",
+      "資訊安全目標中多項目標不可量測且沒有監測方式",
+      "組織除 Annex A 外另設計了其他必要控制措施",
+      "最高管理階層被指定為某項風險當責者",
+      "組織對某些低風險選擇接受且符合既定準則",
+      "組織保留風險評鑑文件化資訊"
+    ],
+    "correct": [
+      "組織的風險評鑑方法未能產生一致、有效且可比較的結果",
+      "資訊安全目標中多項目標不可量測且沒有監測方式"
+    ],
+    "explanation": "6.1.2 要求風險評鑑產生一致、有效、可比較結果；6.2 要求目標需可監測並規劃如何達成。",
+    "mnemonic": "條款判斷先看「要求」再找「證據」。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0468",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "規劃與風險條款判斷",
+    "source": "ISO/IEC 27001:2022 6.1.2、6.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你正在用實際案例訓練稽核員辨識最適當的現場稽核行動。\n\n稽核團隊正在評估組織第 6 條規劃方法。下列哪兩項較可能支持提出不符合或進一步追查？",
+    "options": [
+      "組織的風險評鑑方法未能產生一致、有效且可比較的結果",
+      "資訊安全目標中多項目標不可量測且沒有監測方式",
+      "組織除 Annex A 外另設計了其他必要控制措施",
+      "最高管理階層被指定為某項風險當責者",
+      "組織對某些低風險選擇接受且符合既定準則",
+      "組織保留風險評鑑文件化資訊"
+    ],
+    "correct": [
+      "組織的風險評鑑方法未能產生一致、有效且可比較的結果",
+      "資訊安全目標中多項目標不可量測且沒有監測方式"
+    ],
+    "explanation": "6.1.2 要求風險評鑑產生一致、有效、可比較結果；6.2 要求目標需可監測並規劃如何達成。",
+    "mnemonic": "條款判斷先看「要求」再找「證據」。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0469",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "Annex A 實體控制",
+    "source": "ISO/IEC 27001:2022 Annex A 7.x",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你是一位經驗豐富的 ISMS 稽核組長，正在執行第三方驗證稽核。\n\n你正在檢查稽核計畫中列出的活動，請選擇三項與 Annex A「實體控制」最直接相關的活動。",
+    "options": [
+      "檢查機房閉路電視覆蓋範圍與登入/保存紀錄",
+      "檢查保全區域門禁及訪客進出控制",
+      "檢查設備周邊是否存在未授權實體進入的風險",
+      "訪談程式設計師是否使用授權軟體",
+      "測試網路封包過濾規則",
+      "審查密碼雜湊演算法設定",
+      "檢查開發程式碼版本控制"
+    ],
+    "correct": [
+      "檢查機房閉路電視覆蓋範圍與登入/保存紀錄",
+      "檢查保全區域門禁及訪客進出控制",
+      "檢查設備周邊是否存在未授權實體進入的風險"
+    ],
+    "explanation": "實體控制重點在安全周界、實體進入、監視、設備與場所保護。",
+    "mnemonic": "看得到、摸得到、進得去的，多半先想實體控制。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0470",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "Annex A 實體控制",
+    "source": "ISO/IEC 27001:2022 Annex A 7.x",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領一個由兩位稽核員組成的稽核小組進行第二階段驗證。\n\n你正在檢查稽核計畫中列出的活動，請選擇三項與 Annex A「實體控制」最直接相關的活動。",
+    "options": [
+      "檢查機房閉路電視覆蓋範圍與登入/保存紀錄",
+      "檢查保全區域門禁及訪客進出控制",
+      "檢查設備周邊是否存在未授權實體進入的風險",
+      "訪談程式設計師是否使用授權軟體",
+      "測試網路封包過濾規則",
+      "審查密碼雜湊演算法設定",
+      "檢查開發程式碼版本控制"
+    ],
+    "correct": [
+      "檢查機房閉路電視覆蓋範圍與登入/保存紀錄",
+      "檢查保全區域門禁及訪客進出控制",
+      "檢查設備周邊是否存在未授權實體進入的風險"
+    ],
+    "explanation": "實體控制重點在安全周界、實體進入、監視、設備與場所保護。",
+    "mnemonic": "看得到、摸得到、進得去的，多半先想實體控制。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0471",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "Annex A 實體控制",
+    "source": "ISO/IEC 27001:2022 Annex A 7.x",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你要求培訓中的稽核員依 ISO/IEC 27001:2022 查核現場控制。\n\n你正在檢查稽核計畫中列出的活動，請選擇三項與 Annex A「實體控制」最直接相關的活動。",
+    "options": [
+      "檢查機房閉路電視覆蓋範圍與登入/保存紀錄",
+      "檢查保全區域門禁及訪客進出控制",
+      "檢查設備周邊是否存在未授權實體進入的風險",
+      "訪談程式設計師是否使用授權軟體",
+      "測試網路封包過濾規則",
+      "審查密碼雜湊演算法設定",
+      "檢查開發程式碼版本控制"
+    ],
+    "correct": [
+      "檢查機房閉路電視覆蓋範圍與登入/保存紀錄",
+      "檢查保全區域門禁及訪客進出控制",
+      "檢查設備周邊是否存在未授權實體進入的風險"
+    ],
+    "explanation": "實體控制重點在安全周界、實體進入、監視、設備與場所保護。",
+    "mnemonic": "看得到、摸得到、進得去的，多半先想實體控制。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0472",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "Annex A 實體控制",
+    "source": "ISO/IEC 27001:2022 Annex A 7.x",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在稽核組會議中審查現場證據並決定下一步稽核軌跡。\n\n你正在檢查稽核計畫中列出的活動，請選擇三項與 Annex A「實體控制」最直接相關的活動。",
+    "options": [
+      "檢查機房閉路電視覆蓋範圍與登入/保存紀錄",
+      "檢查保全區域門禁及訪客進出控制",
+      "檢查設備周邊是否存在未授權實體進入的風險",
+      "訪談程式設計師是否使用授權軟體",
+      "測試網路封包過濾規則",
+      "審查密碼雜湊演算法設定",
+      "檢查開發程式碼版本控制"
+    ],
+    "correct": [
+      "檢查機房閉路電視覆蓋範圍與登入/保存紀錄",
+      "檢查保全區域門禁及訪客進出控制",
+      "檢查設備周邊是否存在未授權實體進入的風險"
+    ],
+    "explanation": "實體控制重點在安全周界、實體進入、監視、設備與場所保護。",
+    "mnemonic": "看得到、摸得到、進得去的，多半先想實體控制。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0473",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "Annex A 實體控制",
+    "source": "ISO/IEC 27001:2022 Annex A 7.x",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在用實際案例訓練稽核員辨識最適當的現場稽核行動。\n\n你正在檢查稽核計畫中列出的活動，請選擇三項與 Annex A「實體控制」最直接相關的活動。",
+    "options": [
+      "檢查機房閉路電視覆蓋範圍與登入/保存紀錄",
+      "檢查保全區域門禁及訪客進出控制",
+      "檢查設備周邊是否存在未授權實體進入的風險",
+      "訪談程式設計師是否使用授權軟體",
+      "測試網路封包過濾規則",
+      "審查密碼雜湊演算法設定",
+      "檢查開發程式碼版本控制"
+    ],
+    "correct": [
+      "檢查機房閉路電視覆蓋範圍與登入/保存紀錄",
+      "檢查保全區域門禁及訪客進出控制",
+      "檢查設備周邊是否存在未授權實體進入的風險"
+    ],
+    "explanation": "實體控制重點在安全周界、實體進入、監視、設備與場所保護。",
+    "mnemonic": "看得到、摸得到、進得去的，多半先想實體控制。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0474",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "風險處理與剩餘風險",
+    "source": "ISO/IEC 27001:2022 6.1.3 / 風險管理課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你是一位經驗豐富的 ISMS 稽核組長，正在執行第三方驗證稽核。\n\n關於資訊安全風險處理與剩餘風險，請選擇三項正確陳述。",
+    "options": [
+      "風險處理後仍可能存在剩餘風險",
+      "組織應保存與風險處理過程相關的文件化資訊",
+      "風險接受可作為適當的風險處理選項之一，但應符合既定準則與權限",
+      "風險處理必須保證風險永久降為零",
+      "只要選擇接受風險就不需要任何依據",
+      "風險當責者一定必須由最高管理階層擔任"
+    ],
+    "correct": [
+      "風險處理後仍可能存在剩餘風險",
+      "組織應保存與風險處理過程相關的文件化資訊",
+      "風險接受可作為適當的風險處理選項之一，但應符合既定準則與權限"
+    ],
+    "explanation": "風險管理並不保證零風險；接受風險需依準則與權限，且處理過程應保有證據。",
+    "mnemonic": "風險處理不是歸零，是降到可接受。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0475",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "風險處理與剩餘風險",
+    "source": "ISO/IEC 27001:2022 6.1.3 / 風險管理課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領一個由兩位稽核員組成的稽核小組進行第二階段驗證。\n\n關於資訊安全風險處理與剩餘風險，請選擇三項正確陳述。",
+    "options": [
+      "風險處理後仍可能存在剩餘風險",
+      "組織應保存與風險處理過程相關的文件化資訊",
+      "風險接受可作為適當的風險處理選項之一，但應符合既定準則與權限",
+      "風險處理必須保證風險永久降為零",
+      "只要選擇接受風險就不需要任何依據",
+      "風險當責者一定必須由最高管理階層擔任"
+    ],
+    "correct": [
+      "風險處理後仍可能存在剩餘風險",
+      "組織應保存與風險處理過程相關的文件化資訊",
+      "風險接受可作為適當的風險處理選項之一，但應符合既定準則與權限"
+    ],
+    "explanation": "風險管理並不保證零風險；接受風險需依準則與權限，且處理過程應保有證據。",
+    "mnemonic": "風險處理不是歸零，是降到可接受。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0476",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "風險處理與剩餘風險",
+    "source": "ISO/IEC 27001:2022 6.1.3 / 風險管理課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你要求培訓中的稽核員依 ISO/IEC 27001:2022 查核現場控制。\n\n關於資訊安全風險處理與剩餘風險，請選擇三項正確陳述。",
+    "options": [
+      "風險處理後仍可能存在剩餘風險",
+      "組織應保存與風險處理過程相關的文件化資訊",
+      "風險接受可作為適當的風險處理選項之一，但應符合既定準則與權限",
+      "風險處理必須保證風險永久降為零",
+      "只要選擇接受風險就不需要任何依據",
+      "風險當責者一定必須由最高管理階層擔任"
+    ],
+    "correct": [
+      "風險處理後仍可能存在剩餘風險",
+      "組織應保存與風險處理過程相關的文件化資訊",
+      "風險接受可作為適當的風險處理選項之一，但應符合既定準則與權限"
+    ],
+    "explanation": "風險管理並不保證零風險；接受風險需依準則與權限，且處理過程應保有證據。",
+    "mnemonic": "風險處理不是歸零，是降到可接受。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0477",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "風險處理與剩餘風險",
+    "source": "ISO/IEC 27001:2022 6.1.3 / 風險管理課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在稽核組會議中審查現場證據並決定下一步稽核軌跡。\n\n關於資訊安全風險處理與剩餘風險，請選擇三項正確陳述。",
+    "options": [
+      "風險處理後仍可能存在剩餘風險",
+      "組織應保存與風險處理過程相關的文件化資訊",
+      "風險接受可作為適當的風險處理選項之一，但應符合既定準則與權限",
+      "風險處理必須保證風險永久降為零",
+      "只要選擇接受風險就不需要任何依據",
+      "風險當責者一定必須由最高管理階層擔任"
+    ],
+    "correct": [
+      "風險處理後仍可能存在剩餘風險",
+      "組織應保存與風險處理過程相關的文件化資訊",
+      "風險接受可作為適當的風險處理選項之一，但應符合既定準則與權限"
+    ],
+    "explanation": "風險管理並不保證零風險；接受風險需依準則與權限，且處理過程應保有證據。",
+    "mnemonic": "風險處理不是歸零，是降到可接受。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0478",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "風險處理與剩餘風險",
+    "source": "ISO/IEC 27001:2022 6.1.3 / 風險管理課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在用實際案例訓練稽核員辨識最適當的現場稽核行動。\n\n關於資訊安全風險處理與剩餘風險，請選擇三項正確陳述。",
+    "options": [
+      "風險處理後仍可能存在剩餘風險",
+      "組織應保存與風險處理過程相關的文件化資訊",
+      "風險接受可作為適當的風險處理選項之一，但應符合既定準則與權限",
+      "風險處理必須保證風險永久降為零",
+      "只要選擇接受風險就不需要任何依據",
+      "風險當責者一定必須由最高管理階層擔任"
+    ],
+    "correct": [
+      "風險處理後仍可能存在剩餘風險",
+      "組織應保存與風險處理過程相關的文件化資訊",
+      "風險接受可作為適當的風險處理選項之一，但應符合既定準則與權限"
+    ],
+    "explanation": "風險管理並不保證零風險；接受風險需依準則與權限，且處理過程應保有證據。",
+    "mnemonic": "風險處理不是歸零，是降到可接受。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0479",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "外部議題",
+    "source": "ISO/IEC 27001:2022 4.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你是一位經驗豐富的 ISMS 稽核組長，正在執行第三方驗證稽核。\n\n在第三方驗證稽核期間，請從受稽核方提供的相關議題中選出四項較可能屬於管理系統的「外部」議題。",
+    "options": [
+      "政府新法規或政策變更",
+      "人口結構或勞動市場變化",
+      "供應鏈與市場競爭環境變化",
+      "外部科技與威脅情勢變化",
+      "組織內管理不善造成離職率增加",
+      "內部訓練預算刪減",
+      "內部生產設備效率下降",
+      "內部資安角色分工不清"
+    ],
+    "correct": [
+      "政府新法規或政策變更",
+      "人口結構或勞動市場變化",
+      "供應鏈與市場競爭環境變化",
+      "外部科技與威脅情勢變化"
+    ],
+    "explanation": "外部議題來自組織外部環境；內部管理、人力與設備效率屬內部議題。",
+    "mnemonic": "外＝環境；內＝自己。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0480",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "外部議題",
+    "source": "ISO/IEC 27001:2022 4.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在帶領一個由兩位稽核員組成的稽核小組進行第二階段驗證。\n\n在第三方驗證稽核期間，請從受稽核方提供的相關議題中選出四項較可能屬於管理系統的「外部」議題。",
+    "options": [
+      "政府新法規或政策變更",
+      "人口結構或勞動市場變化",
+      "供應鏈與市場競爭環境變化",
+      "外部科技與威脅情勢變化",
+      "組織內管理不善造成離職率增加",
+      "內部訓練預算刪減",
+      "內部生產設備效率下降",
+      "內部資安角色分工不清"
+    ],
+    "correct": [
+      "政府新法規或政策變更",
+      "人口結構或勞動市場變化",
+      "供應鏈與市場競爭環境變化",
+      "外部科技與威脅情勢變化"
+    ],
+    "explanation": "外部議題來自組織外部環境；內部管理、人力與設備效率屬內部議題。",
+    "mnemonic": "外＝環境；內＝自己。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0481",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "外部議題",
+    "source": "ISO/IEC 27001:2022 4.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你要求培訓中的稽核員依 ISO/IEC 27001:2022 查核現場控制。\n\n在第三方驗證稽核期間，請從受稽核方提供的相關議題中選出四項較可能屬於管理系統的「外部」議題。",
+    "options": [
+      "政府新法規或政策變更",
+      "人口結構或勞動市場變化",
+      "供應鏈與市場競爭環境變化",
+      "外部科技與威脅情勢變化",
+      "組織內管理不善造成離職率增加",
+      "內部訓練預算刪減",
+      "內部生產設備效率下降",
+      "內部資安角色分工不清"
+    ],
+    "correct": [
+      "政府新法規或政策變更",
+      "人口結構或勞動市場變化",
+      "供應鏈與市場競爭環境變化",
+      "外部科技與威脅情勢變化"
+    ],
+    "explanation": "外部議題來自組織外部環境；內部管理、人力與設備效率屬內部議題。",
+    "mnemonic": "外＝環境；內＝自己。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0482",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "外部議題",
+    "source": "ISO/IEC 27001:2022 4.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在稽核組會議中審查現場證據並決定下一步稽核軌跡。\n\n在第三方驗證稽核期間，請從受稽核方提供的相關議題中選出四項較可能屬於管理系統的「外部」議題。",
+    "options": [
+      "政府新法規或政策變更",
+      "人口結構或勞動市場變化",
+      "供應鏈與市場競爭環境變化",
+      "外部科技與威脅情勢變化",
+      "組織內管理不善造成離職率增加",
+      "內部訓練預算刪減",
+      "內部生產設備效率下降",
+      "內部資安角色分工不清"
+    ],
+    "correct": [
+      "政府新法規或政策變更",
+      "人口結構或勞動市場變化",
+      "供應鏈與市場競爭環境變化",
+      "外部科技與威脅情勢變化"
+    ],
+    "explanation": "外部議題來自組織外部環境；內部管理、人力與設備效率屬內部議題。",
+    "mnemonic": "外＝環境；內＝自己。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0483",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "外部議題",
+    "source": "ISO/IEC 27001:2022 4.1",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在用實際案例訓練稽核員辨識最適當的現場稽核行動。\n\n在第三方驗證稽核期間，請從受稽核方提供的相關議題中選出四項較可能屬於管理系統的「外部」議題。",
+    "options": [
+      "政府新法規或政策變更",
+      "人口結構或勞動市場變化",
+      "供應鏈與市場競爭環境變化",
+      "外部科技與威脅情勢變化",
+      "組織內管理不善造成離職率增加",
+      "內部訓練預算刪減",
+      "內部生產設備效率下降",
+      "內部資安角色分工不清"
+    ],
+    "correct": [
+      "政府新法規或政策變更",
+      "人口結構或勞動市場變化",
+      "供應鏈與市場競爭環境變化",
+      "外部科技與威脅情勢變化"
+    ],
+    "explanation": "外部議題來自組織外部環境；內部管理、人力與設備效率屬內部議題。",
+    "mnemonic": "外＝環境；內＝自己。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0484",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "監督量測分析評估不符合",
+    "source": "ISO/IEC 27001:2022 9.1、9.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你是一位經驗豐富的 ISMS 稽核組長，正在執行第三方驗證稽核。\n\n你正在訪談績效管理流程負責人並審查監督、量測、分析與評估。請選擇三個較明顯不符合 ISO/IEC 27001:2022 要求的陳述。",
+    "options": [
+      "資訊安全績效分析非常全面，因此不需要對監測結果進行評估",
+      "ISMS 有效性不影響組織，因此監測只看效率即可",
+      "管理審查不需要考量監測結果的趨勢",
+      "組織定義需要監督及量測的資訊安全過程與控制",
+      "組織規定誰負責監督量測及何時分析結果",
+      "組織保留監督量測結果的文件化資訊"
+    ],
+    "correct": [
+      "資訊安全績效分析非常全面，因此不需要對監測結果進行評估",
+      "ISMS 有效性不影響組織，因此監測只看效率即可",
+      "管理審查不需要考量監測結果的趨勢"
+    ],
+    "explanation": "9.1 要求監督、量測、分析、評估並評估 ISMS 有效性；9.3 管理審查亦要考量監督量測結果。",
+    "mnemonic": "量測不是量完就算，還要分析、評估、帶進管理審查。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0485",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "監督量測分析評估不符合",
+    "source": "ISO/IEC 27001:2022 9.1、9.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你正在帶領一個由兩位稽核員組成的稽核小組進行第二階段驗證。\n\n你正在訪談績效管理流程負責人並審查監督、量測、分析與評估。請選擇三個較明顯不符合 ISO/IEC 27001:2022 要求的陳述。",
+    "options": [
+      "資訊安全績效分析非常全面，因此不需要對監測結果進行評估",
+      "ISMS 有效性不影響組織，因此監測只看效率即可",
+      "管理審查不需要考量監測結果的趨勢",
+      "組織定義需要監督及量測的資訊安全過程與控制",
+      "組織規定誰負責監督量測及何時分析結果",
+      "組織保留監督量測結果的文件化資訊"
+    ],
+    "correct": [
+      "資訊安全績效分析非常全面，因此不需要對監測結果進行評估",
+      "ISMS 有效性不影響組織，因此監測只看效率即可",
+      "管理審查不需要考量監測結果的趨勢"
+    ],
+    "explanation": "9.1 要求監督、量測、分析、評估並評估 ISMS 有效性；9.3 管理審查亦要考量監督量測結果。",
+    "mnemonic": "量測不是量完就算，還要分析、評估、帶進管理審查。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0486",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "監督量測分析評估不符合",
+    "source": "ISO/IEC 27001:2022 9.1、9.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你要求培訓中的稽核員依 ISO/IEC 27001:2022 查核現場控制。\n\n你正在訪談績效管理流程負責人並審查監督、量測、分析與評估。請選擇三個較明顯不符合 ISO/IEC 27001:2022 要求的陳述。",
+    "options": [
+      "資訊安全績效分析非常全面，因此不需要對監測結果進行評估",
+      "ISMS 有效性不影響組織，因此監測只看效率即可",
+      "管理審查不需要考量監測結果的趨勢",
+      "組織定義需要監督及量測的資訊安全過程與控制",
+      "組織規定誰負責監督量測及何時分析結果",
+      "組織保留監督量測結果的文件化資訊"
+    ],
+    "correct": [
+      "資訊安全績效分析非常全面，因此不需要對監測結果進行評估",
+      "ISMS 有效性不影響組織，因此監測只看效率即可",
+      "管理審查不需要考量監測結果的趨勢"
+    ],
+    "explanation": "9.1 要求監督、量測、分析、評估並評估 ISMS 有效性；9.3 管理審查亦要考量監督量測結果。",
+    "mnemonic": "量測不是量完就算，還要分析、評估、帶進管理審查。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0487",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "監督量測分析評估不符合",
+    "source": "ISO/IEC 27001:2022 9.1、9.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你正在稽核組會議中審查現場證據並決定下一步稽核軌跡。\n\n你正在訪談績效管理流程負責人並審查監督、量測、分析與評估。請選擇三個較明顯不符合 ISO/IEC 27001:2022 要求的陳述。",
+    "options": [
+      "資訊安全績效分析非常全面，因此不需要對監測結果進行評估",
+      "ISMS 有效性不影響組織，因此監測只看效率即可",
+      "管理審查不需要考量監測結果的趨勢",
+      "組織定義需要監督及量測的資訊安全過程與控制",
+      "組織規定誰負責監督量測及何時分析結果",
+      "組織保留監督量測結果的文件化資訊"
+    ],
+    "correct": [
+      "資訊安全績效分析非常全面，因此不需要對監測結果進行評估",
+      "ISMS 有效性不影響組織，因此監測只看效率即可",
+      "管理審查不需要考量監測結果的趨勢"
+    ],
+    "explanation": "9.1 要求監督、量測、分析、評估並評估 ISMS 有效性；9.3 管理審查亦要考量監督量測結果。",
+    "mnemonic": "量測不是量完就算，還要分析、評估、帶進管理審查。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0488",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "監督量測分析評估不符合",
+    "source": "ISO/IEC 27001:2022 9.1、9.3",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你正在用實際案例訓練稽核員辨識最適當的現場稽核行動。\n\n你正在訪談績效管理流程負責人並審查監督、量測、分析與評估。請選擇三個較明顯不符合 ISO/IEC 27001:2022 要求的陳述。",
+    "options": [
+      "資訊安全績效分析非常全面，因此不需要對監測結果進行評估",
+      "ISMS 有效性不影響組織，因此監測只看效率即可",
+      "管理審查不需要考量監測結果的趨勢",
+      "組織定義需要監督及量測的資訊安全過程與控制",
+      "組織規定誰負責監督量測及何時分析結果",
+      "組織保留監督量測結果的文件化資訊"
+    ],
+    "correct": [
+      "資訊安全績效分析非常全面，因此不需要對監測結果進行評估",
+      "ISMS 有效性不影響組織，因此監測只看效率即可",
+      "管理審查不需要考量監測結果的趨勢"
+    ],
+    "explanation": "9.1 要求監督、量測、分析、評估並評估 ISMS 有效性；9.3 管理審查亦要考量監督量測結果。",
+    "mnemonic": "量測不是量完就算，還要分析、評估、帶進管理審查。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0489",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "風險評分差異處理",
+    "source": "ISO/IEC 27001:2022 6.1.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你是一位經驗豐富的 ISMS 稽核組長，正在執行第三方驗證稽核。\n\n兩個資料中心使用相同風險描述，但對同一剩餘風險給出顯著不同的風險等級。請選擇四項稽核團隊應考量的適當行動。",
+    "options": [
+      "確認組織是否已定義並一致應用風險接受與評估準則",
+      "比較兩處使用的可能性、後果與評分方式是否一致",
+      "訪談風險當責者與相關人員理解差異原因",
+      "確認重複風險評鑑是否產生一致、有效且可比較結果",
+      "只因分數不同就立即判重大不符合",
+      "告訴組織所有資料中心的風險分數必須完全相同",
+      "只記錄差異但不追查原因"
+    ],
+    "correct": [
+      "確認組織是否已定義並一致應用風險接受與評估準則",
+      "比較兩處使用的可能性、後果與評分方式是否一致",
+      "訪談風險當責者與相關人員理解差異原因",
+      "確認重複風險評鑑是否產生一致、有效且可比較結果"
+    ],
+    "explanation": "風險分數不同本身不必然是不符合；關鍵是方法、準則與應用是否一致、有效、可比較。",
+    "mnemonic": "先找差異原因，再判是否違反準則。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0490",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "風險評分差異處理",
+    "source": "ISO/IEC 27001:2022 6.1.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在帶領一個由兩位稽核員組成的稽核小組進行第二階段驗證。\n\n兩個資料中心使用相同風險描述，但對同一剩餘風險給出顯著不同的風險等級。請選擇四項稽核團隊應考量的適當行動。",
+    "options": [
+      "確認組織是否已定義並一致應用風險接受與評估準則",
+      "比較兩處使用的可能性、後果與評分方式是否一致",
+      "訪談風險當責者與相關人員理解差異原因",
+      "確認重複風險評鑑是否產生一致、有效且可比較結果",
+      "只因分數不同就立即判重大不符合",
+      "告訴組織所有資料中心的風險分數必須完全相同",
+      "只記錄差異但不追查原因"
+    ],
+    "correct": [
+      "確認組織是否已定義並一致應用風險接受與評估準則",
+      "比較兩處使用的可能性、後果與評分方式是否一致",
+      "訪談風險當責者與相關人員理解差異原因",
+      "確認重複風險評鑑是否產生一致、有效且可比較結果"
+    ],
+    "explanation": "風險分數不同本身不必然是不符合；關鍵是方法、準則與應用是否一致、有效、可比較。",
+    "mnemonic": "先找差異原因，再判是否違反準則。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0491",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "風險評分差異處理",
+    "source": "ISO/IEC 27001:2022 6.1.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你要求培訓中的稽核員依 ISO/IEC 27001:2022 查核現場控制。\n\n兩個資料中心使用相同風險描述，但對同一剩餘風險給出顯著不同的風險等級。請選擇四項稽核團隊應考量的適當行動。",
+    "options": [
+      "確認組織是否已定義並一致應用風險接受與評估準則",
+      "比較兩處使用的可能性、後果與評分方式是否一致",
+      "訪談風險當責者與相關人員理解差異原因",
+      "確認重複風險評鑑是否產生一致、有效且可比較結果",
+      "只因分數不同就立即判重大不符合",
+      "告訴組織所有資料中心的風險分數必須完全相同",
+      "只記錄差異但不追查原因"
+    ],
+    "correct": [
+      "確認組織是否已定義並一致應用風險接受與評估準則",
+      "比較兩處使用的可能性、後果與評分方式是否一致",
+      "訪談風險當責者與相關人員理解差異原因",
+      "確認重複風險評鑑是否產生一致、有效且可比較結果"
+    ],
+    "explanation": "風險分數不同本身不必然是不符合；關鍵是方法、準則與應用是否一致、有效、可比較。",
+    "mnemonic": "先找差異原因，再判是否違反準則。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0492",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "風險評分差異處理",
+    "source": "ISO/IEC 27001:2022 6.1.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在稽核組會議中審查現場證據並決定下一步稽核軌跡。\n\n兩個資料中心使用相同風險描述，但對同一剩餘風險給出顯著不同的風險等級。請選擇四項稽核團隊應考量的適當行動。",
+    "options": [
+      "確認組織是否已定義並一致應用風險接受與評估準則",
+      "比較兩處使用的可能性、後果與評分方式是否一致",
+      "訪談風險當責者與相關人員理解差異原因",
+      "確認重複風險評鑑是否產生一致、有效且可比較結果",
+      "只因分數不同就立即判重大不符合",
+      "告訴組織所有資料中心的風險分數必須完全相同",
+      "只記錄差異但不追查原因"
+    ],
+    "correct": [
+      "確認組織是否已定義並一致應用風險接受與評估準則",
+      "比較兩處使用的可能性、後果與評分方式是否一致",
+      "訪談風險當責者與相關人員理解差異原因",
+      "確認重複風險評鑑是否產生一致、有效且可比較結果"
+    ],
+    "explanation": "風險分數不同本身不必然是不符合；關鍵是方法、準則與應用是否一致、有效、可比較。",
+    "mnemonic": "先找差異原因，再判是否違反準則。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0493",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "風險評分差異處理",
+    "source": "ISO/IEC 27001:2022 6.1.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在用實際案例訓練稽核員辨識最適當的現場稽核行動。\n\n兩個資料中心使用相同風險描述，但對同一剩餘風險給出顯著不同的風險等級。請選擇四項稽核團隊應考量的適當行動。",
+    "options": [
+      "確認組織是否已定義並一致應用風險接受與評估準則",
+      "比較兩處使用的可能性、後果與評分方式是否一致",
+      "訪談風險當責者與相關人員理解差異原因",
+      "確認重複風險評鑑是否產生一致、有效且可比較結果",
+      "只因分數不同就立即判重大不符合",
+      "告訴組織所有資料中心的風險分數必須完全相同",
+      "只記錄差異但不追查原因"
+    ],
+    "correct": [
+      "確認組織是否已定義並一致應用風險接受與評估準則",
+      "比較兩處使用的可能性、後果與評分方式是否一致",
+      "訪談風險當責者與相關人員理解差異原因",
+      "確認重複風險評鑑是否產生一致、有效且可比較結果"
+    ],
+    "explanation": "風險分數不同本身不必然是不符合；關鍵是方法、準則與應用是否一致、有效、可比較。",
+    "mnemonic": "先找差異原因，再判是否違反準則。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0494",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "文件化資訊稽核軌跡",
+    "source": "ISO/IEC 27001:2022 7.5",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你是一位經驗豐富的 ISMS 稽核組長，正在執行第三方驗證稽核。\n\n你要求培訓中的稽核員製作文件化資訊控制的稽核查檢表。請選擇三個「不適當」的稽核軌跡。",
+    "options": [
+      "要求只有最高管理階層成員可以審核所有文件發布",
+      "要求所有已不再需要支援 ISMS 運作的文件都必須立即銷毀，不論保存要求",
+      "要求所有文件都必須用完全相同且固定的語言發布，即使使用者無法理解",
+      "確認文件化資訊存在並在需要時可取得與適用",
+      "確認文件化資訊受到適當保護，避免遺失完整性或不當使用",
+      "確認版本、保存、變更與處置受到適當控制"
+    ],
+    "correct": [
+      "要求只有最高管理階層成員可以審核所有文件發布",
+      "要求所有已不再需要支援 ISMS 運作的文件都必須立即銷毀，不論保存要求",
+      "要求所有文件都必須用完全相同且固定的語言發布，即使使用者無法理解"
+    ],
+    "explanation": "7.5 關注文件的適切性、可用性、保護、版本/變更、保存與處置，但不要求所有文件只能由最高管理階層核准、立即銷毀或單一固定語言。",
+    "mnemonic": "文件管制看：誰寫、哪版、誰能看、放哪、留多久。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0495",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "文件化資訊稽核軌跡",
+    "source": "ISO/IEC 27001:2022 7.5",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你正在帶領一個由兩位稽核員組成的稽核小組進行第二階段驗證。\n\n你要求培訓中的稽核員製作文件化資訊控制的稽核查檢表。請選擇三個「不適當」的稽核軌跡。",
+    "options": [
+      "要求只有最高管理階層成員可以審核所有文件發布",
+      "要求所有已不再需要支援 ISMS 運作的文件都必須立即銷毀，不論保存要求",
+      "要求所有文件都必須用完全相同且固定的語言發布，即使使用者無法理解",
+      "確認文件化資訊存在並在需要時可取得與適用",
+      "確認文件化資訊受到適當保護，避免遺失完整性或不當使用",
+      "確認版本、保存、變更與處置受到適當控制"
+    ],
+    "correct": [
+      "要求只有最高管理階層成員可以審核所有文件發布",
+      "要求所有已不再需要支援 ISMS 運作的文件都必須立即銷毀，不論保存要求",
+      "要求所有文件都必須用完全相同且固定的語言發布，即使使用者無法理解"
+    ],
+    "explanation": "7.5 關注文件的適切性、可用性、保護、版本/變更、保存與處置，但不要求所有文件只能由最高管理階層核准、立即銷毀或單一固定語言。",
+    "mnemonic": "文件管制看：誰寫、哪版、誰能看、放哪、留多久。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0496",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "文件化資訊稽核軌跡",
+    "source": "ISO/IEC 27001:2022 7.5",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你要求培訓中的稽核員依 ISO/IEC 27001:2022 查核現場控制。\n\n你要求培訓中的稽核員製作文件化資訊控制的稽核查檢表。請選擇三個「不適當」的稽核軌跡。",
+    "options": [
+      "要求只有最高管理階層成員可以審核所有文件發布",
+      "要求所有已不再需要支援 ISMS 運作的文件都必須立即銷毀，不論保存要求",
+      "要求所有文件都必須用完全相同且固定的語言發布，即使使用者無法理解",
+      "確認文件化資訊存在並在需要時可取得與適用",
+      "確認文件化資訊受到適當保護，避免遺失完整性或不當使用",
+      "確認版本、保存、變更與處置受到適當控制"
+    ],
+    "correct": [
+      "要求只有最高管理階層成員可以審核所有文件發布",
+      "要求所有已不再需要支援 ISMS 運作的文件都必須立即銷毀，不論保存要求",
+      "要求所有文件都必須用完全相同且固定的語言發布，即使使用者無法理解"
+    ],
+    "explanation": "7.5 關注文件的適切性、可用性、保護、版本/變更、保存與處置，但不要求所有文件只能由最高管理階層核准、立即銷毀或單一固定語言。",
+    "mnemonic": "文件管制看：誰寫、哪版、誰能看、放哪、留多久。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0497",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "文件化資訊稽核軌跡",
+    "source": "ISO/IEC 27001:2022 7.5",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你正在稽核組會議中審查現場證據並決定下一步稽核軌跡。\n\n你要求培訓中的稽核員製作文件化資訊控制的稽核查檢表。請選擇三個「不適當」的稽核軌跡。",
+    "options": [
+      "要求只有最高管理階層成員可以審核所有文件發布",
+      "要求所有已不再需要支援 ISMS 運作的文件都必須立即銷毀，不論保存要求",
+      "要求所有文件都必須用完全相同且固定的語言發布，即使使用者無法理解",
+      "確認文件化資訊存在並在需要時可取得與適用",
+      "確認文件化資訊受到適當保護，避免遺失完整性或不當使用",
+      "確認版本、保存、變更與處置受到適當控制"
+    ],
+    "correct": [
+      "要求只有最高管理階層成員可以審核所有文件發布",
+      "要求所有已不再需要支援 ISMS 運作的文件都必須立即銷毀，不論保存要求",
+      "要求所有文件都必須用完全相同且固定的語言發布，即使使用者無法理解"
+    ],
+    "explanation": "7.5 關注文件的適切性、可用性、保護、版本/變更、保存與處置，但不要求所有文件只能由最高管理階層核准、立即銷毀或單一固定語言。",
+    "mnemonic": "文件管制看：誰寫、哪版、誰能看、放哪、留多久。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0498",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "文件化資訊稽核軌跡",
+    "source": "ISO/IEC 27001:2022 7.5",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項錯誤的答案。",
+    "stem": "你正在用實際案例訓練稽核員辨識最適當的現場稽核行動。\n\n你要求培訓中的稽核員製作文件化資訊控制的稽核查檢表。請選擇三個「不適當」的稽核軌跡。",
+    "options": [
+      "要求只有最高管理階層成員可以審核所有文件發布",
+      "要求所有已不再需要支援 ISMS 運作的文件都必須立即銷毀，不論保存要求",
+      "要求所有文件都必須用完全相同且固定的語言發布，即使使用者無法理解",
+      "確認文件化資訊存在並在需要時可取得與適用",
+      "確認文件化資訊受到適當保護，避免遺失完整性或不當使用",
+      "確認版本、保存、變更與處置受到適當控制"
+    ],
+    "correct": [
+      "要求只有最高管理階層成員可以審核所有文件發布",
+      "要求所有已不再需要支援 ISMS 運作的文件都必須立即銷毀，不論保存要求",
+      "要求所有文件都必須用完全相同且固定的語言發布，即使使用者無法理解"
+    ],
+    "explanation": "7.5 關注文件的適切性、可用性、保護、版本/變更、保存與處置，但不要求所有文件只能由最高管理階層核准、立即銷毀或單一固定語言。",
+    "mnemonic": "文件管制看：誰寫、哪版、誰能看、放哪、留多久。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0499",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "稽核發現證據不足",
+    "source": "ISO 19011 稽核發現與證據",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你是一位經驗豐富的 ISMS 稽核組長，正在執行第三方驗證稽核。\n\n稽核組會議中，你發現某位培訓中的稽核員無法清楚說明其不符合紀錄的稽核軌跡。請選擇兩項較適當的決定。",
+    "options": [
+      "依稽核期間已收集的證據重新審查該發現，確認是否有充分準則與證據支持",
+      "詢問該稽核員是否需要補充追查相關證據，必要時調整稽核活動",
+      "直接告訴受稽核方必須加班直到稽核員想清楚",
+      "因記錄不完整就自動判成重大不符合",
+      "把內容不完整的紀錄直接放入最終報告當作最佳證據",
+      "在結束會議前完全不要討論該問題"
+    ],
+    "correct": [
+      "依稽核期間已收集的證據重新審查該發現，確認是否有充分準則與證據支持",
+      "詢問該稽核員是否需要補充追查相關證據，必要時調整稽核活動"
+    ],
+    "explanation": "稽核發現必須能被準則與客觀證據支持；若軌跡不清楚，應回頭審查/補證，而不是硬下結論。",
+    "mnemonic": "規→證→判；說不清就回頭補證。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0500",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "稽核發現證據不足",
+    "source": "ISO 19011 稽核發現與證據",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你正在帶領一個由兩位稽核員組成的稽核小組進行第二階段驗證。\n\n稽核組會議中，你發現某位培訓中的稽核員無法清楚說明其不符合紀錄的稽核軌跡。請選擇兩項較適當的決定。",
+    "options": [
+      "依稽核期間已收集的證據重新審查該發現，確認是否有充分準則與證據支持",
+      "詢問該稽核員是否需要補充追查相關證據，必要時調整稽核活動",
+      "直接告訴受稽核方必須加班直到稽核員想清楚",
+      "因記錄不完整就自動判成重大不符合",
+      "把內容不完整的紀錄直接放入最終報告當作最佳證據",
+      "在結束會議前完全不要討論該問題"
+    ],
+    "correct": [
+      "依稽核期間已收集的證據重新審查該發現，確認是否有充分準則與證據支持",
+      "詢問該稽核員是否需要補充追查相關證據，必要時調整稽核活動"
+    ],
+    "explanation": "稽核發現必須能被準則與客觀證據支持；若軌跡不清楚，應回頭審查/補證，而不是硬下結論。",
+    "mnemonic": "規→證→判；說不清就回頭補證。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0501",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "稽核發現證據不足",
+    "source": "ISO 19011 稽核發現與證據",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你要求培訓中的稽核員依 ISO/IEC 27001:2022 查核現場控制。\n\n稽核組會議中，你發現某位培訓中的稽核員無法清楚說明其不符合紀錄的稽核軌跡。請選擇兩項較適當的決定。",
+    "options": [
+      "依稽核期間已收集的證據重新審查該發現，確認是否有充分準則與證據支持",
+      "詢問該稽核員是否需要補充追查相關證據，必要時調整稽核活動",
+      "直接告訴受稽核方必須加班直到稽核員想清楚",
+      "因記錄不完整就自動判成重大不符合",
+      "把內容不完整的紀錄直接放入最終報告當作最佳證據",
+      "在結束會議前完全不要討論該問題"
+    ],
+    "correct": [
+      "依稽核期間已收集的證據重新審查該發現，確認是否有充分準則與證據支持",
+      "詢問該稽核員是否需要補充追查相關證據，必要時調整稽核活動"
+    ],
+    "explanation": "稽核發現必須能被準則與客觀證據支持；若軌跡不清楚，應回頭審查/補證，而不是硬下結論。",
+    "mnemonic": "規→證→判；說不清就回頭補證。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0502",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "稽核發現證據不足",
+    "source": "ISO 19011 稽核發現與證據",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你正在稽核組會議中審查現場證據並決定下一步稽核軌跡。\n\n稽核組會議中，你發現某位培訓中的稽核員無法清楚說明其不符合紀錄的稽核軌跡。請選擇兩項較適當的決定。",
+    "options": [
+      "依稽核期間已收集的證據重新審查該發現，確認是否有充分準則與證據支持",
+      "詢問該稽核員是否需要補充追查相關證據，必要時調整稽核活動",
+      "直接告訴受稽核方必須加班直到稽核員想清楚",
+      "因記錄不完整就自動判成重大不符合",
+      "把內容不完整的紀錄直接放入最終報告當作最佳證據",
+      "在結束會議前完全不要討論該問題"
+    ],
+    "correct": [
+      "依稽核期間已收集的證據重新審查該發現，確認是否有充分準則與證據支持",
+      "詢問該稽核員是否需要補充追查相關證據，必要時調整稽核活動"
+    ],
+    "explanation": "稽核發現必須能被準則與客觀證據支持；若軌跡不清楚，應回頭審查/補證，而不是硬下結論。",
+    "mnemonic": "規→證→判；說不清就回頭補證。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0503",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "稽核發現證據不足",
+    "source": "ISO 19011 稽核發現與證據",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 2,
+    "instruction": "請選擇 2 項正確的答案。",
+    "stem": "你正在用實際案例訓練稽核員辨識最適當的現場稽核行動。\n\n稽核組會議中，你發現某位培訓中的稽核員無法清楚說明其不符合紀錄的稽核軌跡。請選擇兩項較適當的決定。",
+    "options": [
+      "依稽核期間已收集的證據重新審查該發現，確認是否有充分準則與證據支持",
+      "詢問該稽核員是否需要補充追查相關證據，必要時調整稽核活動",
+      "直接告訴受稽核方必須加班直到稽核員想清楚",
+      "因記錄不完整就自動判成重大不符合",
+      "把內容不完整的紀錄直接放入最終報告當作最佳證據",
+      "在結束會議前完全不要討論該問題"
+    ],
+    "correct": [
+      "依稽核期間已收集的證據重新審查該發現，確認是否有充分準則與證據支持",
+      "詢問該稽核員是否需要補充追查相關證據，必要時調整稽核活動"
+    ],
+    "explanation": "稽核發現必須能被準則與客觀證據支持；若軌跡不清楚，應回頭審查/補證，而不是硬下結論。",
+    "mnemonic": "規→證→判；說不清就回頭補證。",
+    "typeLabel": "複選題｜選 2 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0504",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "備份與還原",
+    "source": "Annex A 備份控制 / 組織程序",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你是一位經驗豐富的 ISMS 稽核組長，正在執行第三方驗證稽核。\n\n程序要求每日備份並每季執行還原測試。你抽查後發現每日備份紀錄完整，但一年沒有任何還原測試證據。請選擇三項適當判斷或下一步。",
+    "options": [
+      "依程序要求與客觀證據評估未執行還原測試的符合性",
+      "確認是否有其他可驗證的復原測試證據或正式變更後的要求",
+      "評估缺失範圍及是否為系統性問題",
+      "因每日備份都有成功，所以直接判符合",
+      "因尚未發生資料遺失，所以不需理會",
+      "直接宣告所有備份資料均無效，不需再查"
+    ],
+    "correct": [
+      "依程序要求與客觀證據評估未執行還原測試的符合性",
+      "確認是否有其他可驗證的復原測試證據或正式變更後的要求",
+      "評估缺失範圍及是否為系統性問題"
+    ],
+    "explanation": "有備份不等於完成既定還原測試要求；稽核員應依要求、證據與問題範圍形成發現。",
+    "mnemonic": "備份是救命包，還要驗證打得開。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0505",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "備份與還原",
+    "source": "Annex A 備份控制 / 組織程序",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領一個由兩位稽核員組成的稽核小組進行第二階段驗證。\n\n程序要求每日備份並每季執行還原測試。你抽查後發現每日備份紀錄完整，但一年沒有任何還原測試證據。請選擇三項適當判斷或下一步。",
+    "options": [
+      "依程序要求與客觀證據評估未執行還原測試的符合性",
+      "確認是否有其他可驗證的復原測試證據或正式變更後的要求",
+      "評估缺失範圍及是否為系統性問題",
+      "因每日備份都有成功，所以直接判符合",
+      "因尚未發生資料遺失，所以不需理會",
+      "直接宣告所有備份資料均無效，不需再查"
+    ],
+    "correct": [
+      "依程序要求與客觀證據評估未執行還原測試的符合性",
+      "確認是否有其他可驗證的復原測試證據或正式變更後的要求",
+      "評估缺失範圍及是否為系統性問題"
+    ],
+    "explanation": "有備份不等於完成既定還原測試要求；稽核員應依要求、證據與問題範圍形成發現。",
+    "mnemonic": "備份是救命包，還要驗證打得開。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0506",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "備份與還原",
+    "source": "Annex A 備份控制 / 組織程序",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你要求培訓中的稽核員依 ISO/IEC 27001:2022 查核現場控制。\n\n程序要求每日備份並每季執行還原測試。你抽查後發現每日備份紀錄完整，但一年沒有任何還原測試證據。請選擇三項適當判斷或下一步。",
+    "options": [
+      "依程序要求與客觀證據評估未執行還原測試的符合性",
+      "確認是否有其他可驗證的復原測試證據或正式變更後的要求",
+      "評估缺失範圍及是否為系統性問題",
+      "因每日備份都有成功，所以直接判符合",
+      "因尚未發生資料遺失，所以不需理會",
+      "直接宣告所有備份資料均無效，不需再查"
+    ],
+    "correct": [
+      "依程序要求與客觀證據評估未執行還原測試的符合性",
+      "確認是否有其他可驗證的復原測試證據或正式變更後的要求",
+      "評估缺失範圍及是否為系統性問題"
+    ],
+    "explanation": "有備份不等於完成既定還原測試要求；稽核員應依要求、證據與問題範圍形成發現。",
+    "mnemonic": "備份是救命包，還要驗證打得開。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0507",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "備份與還原",
+    "source": "Annex A 備份控制 / 組織程序",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在稽核組會議中審查現場證據並決定下一步稽核軌跡。\n\n程序要求每日備份並每季執行還原測試。你抽查後發現每日備份紀錄完整，但一年沒有任何還原測試證據。請選擇三項適當判斷或下一步。",
+    "options": [
+      "依程序要求與客觀證據評估未執行還原測試的符合性",
+      "確認是否有其他可驗證的復原測試證據或正式變更後的要求",
+      "評估缺失範圍及是否為系統性問題",
+      "因每日備份都有成功，所以直接判符合",
+      "因尚未發生資料遺失，所以不需理會",
+      "直接宣告所有備份資料均無效，不需再查"
+    ],
+    "correct": [
+      "依程序要求與客觀證據評估未執行還原測試的符合性",
+      "確認是否有其他可驗證的復原測試證據或正式變更後的要求",
+      "評估缺失範圍及是否為系統性問題"
+    ],
+    "explanation": "有備份不等於完成既定還原測試要求；稽核員應依要求、證據與問題範圍形成發現。",
+    "mnemonic": "備份是救命包，還要驗證打得開。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0508",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "備份與還原",
+    "source": "Annex A 備份控制 / 組織程序",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在用實際案例訓練稽核員辨識最適當的現場稽核行動。\n\n程序要求每日備份並每季執行還原測試。你抽查後發現每日備份紀錄完整，但一年沒有任何還原測試證據。請選擇三項適當判斷或下一步。",
+    "options": [
+      "依程序要求與客觀證據評估未執行還原測試的符合性",
+      "確認是否有其他可驗證的復原測試證據或正式變更後的要求",
+      "評估缺失範圍及是否為系統性問題",
+      "因每日備份都有成功，所以直接判符合",
+      "因尚未發生資料遺失，所以不需理會",
+      "直接宣告所有備份資料均無效，不需再查"
+    ],
+    "correct": [
+      "依程序要求與客觀證據評估未執行還原測試的符合性",
+      "確認是否有其他可驗證的復原測試證據或正式變更後的要求",
+      "評估缺失範圍及是否為系統性問題"
+    ],
+    "explanation": "有備份不等於完成既定還原測試要求；稽核員應依要求、證據與問題範圍形成發現。",
+    "mnemonic": "備份是救命包，還要驗證打得開。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0509",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "權限生命週期",
+    "source": "ISO/IEC 27001:2022 Annex A 5.15-5.18",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你是一位經驗豐富的 ISMS 稽核組長，正在執行第三方驗證稽核。\n\n審查存取權限管理時，下列哪四項屬於重要的稽核軌跡？",
+    "options": [
+      "新帳號授權與核准",
+      "定期權限審查",
+      "職務變更時修改不再需要的權限",
+      "離職或終止時刪除/停用權限",
+      "員工個人桌布樣式",
+      "電腦品牌是否一致",
+      "使用者是否喜歡目前的登入畫面"
+    ],
+    "correct": [
+      "新帳號授權與核准",
+      "定期權限審查",
+      "職務變更時修改不再需要的權限",
+      "離職或終止時刪除/停用權限"
+    ],
+    "explanation": "Annex A 5.18 要求依規則提供、審查、修改及刪除存取權限。",
+    "mnemonic": "權限要給、要審、要改、要刪。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0510",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "權限生命週期",
+    "source": "ISO/IEC 27001:2022 Annex A 5.15-5.18",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在帶領一個由兩位稽核員組成的稽核小組進行第二階段驗證。\n\n審查存取權限管理時，下列哪四項屬於重要的稽核軌跡？",
+    "options": [
+      "新帳號授權與核准",
+      "定期權限審查",
+      "職務變更時修改不再需要的權限",
+      "離職或終止時刪除/停用權限",
+      "員工個人桌布樣式",
+      "電腦品牌是否一致",
+      "使用者是否喜歡目前的登入畫面"
+    ],
+    "correct": [
+      "新帳號授權與核准",
+      "定期權限審查",
+      "職務變更時修改不再需要的權限",
+      "離職或終止時刪除/停用權限"
+    ],
+    "explanation": "Annex A 5.18 要求依規則提供、審查、修改及刪除存取權限。",
+    "mnemonic": "權限要給、要審、要改、要刪。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0511",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "權限生命週期",
+    "source": "ISO/IEC 27001:2022 Annex A 5.15-5.18",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你要求培訓中的稽核員依 ISO/IEC 27001:2022 查核現場控制。\n\n審查存取權限管理時，下列哪四項屬於重要的稽核軌跡？",
+    "options": [
+      "新帳號授權與核准",
+      "定期權限審查",
+      "職務變更時修改不再需要的權限",
+      "離職或終止時刪除/停用權限",
+      "員工個人桌布樣式",
+      "電腦品牌是否一致",
+      "使用者是否喜歡目前的登入畫面"
+    ],
+    "correct": [
+      "新帳號授權與核准",
+      "定期權限審查",
+      "職務變更時修改不再需要的權限",
+      "離職或終止時刪除/停用權限"
+    ],
+    "explanation": "Annex A 5.18 要求依規則提供、審查、修改及刪除存取權限。",
+    "mnemonic": "權限要給、要審、要改、要刪。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0512",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "權限生命週期",
+    "source": "ISO/IEC 27001:2022 Annex A 5.15-5.18",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在稽核組會議中審查現場證據並決定下一步稽核軌跡。\n\n審查存取權限管理時，下列哪四項屬於重要的稽核軌跡？",
+    "options": [
+      "新帳號授權與核准",
+      "定期權限審查",
+      "職務變更時修改不再需要的權限",
+      "離職或終止時刪除/停用權限",
+      "員工個人桌布樣式",
+      "電腦品牌是否一致",
+      "使用者是否喜歡目前的登入畫面"
+    ],
+    "correct": [
+      "新帳號授權與核准",
+      "定期權限審查",
+      "職務變更時修改不再需要的權限",
+      "離職或終止時刪除/停用權限"
+    ],
+    "explanation": "Annex A 5.18 要求依規則提供、審查、修改及刪除存取權限。",
+    "mnemonic": "權限要給、要審、要改、要刪。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0513",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "權限生命週期",
+    "source": "ISO/IEC 27001:2022 Annex A 5.15-5.18",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在用實際案例訓練稽核員辨識最適當的現場稽核行動。\n\n審查存取權限管理時，下列哪四項屬於重要的稽核軌跡？",
+    "options": [
+      "新帳號授權與核准",
+      "定期權限審查",
+      "職務變更時修改不再需要的權限",
+      "離職或終止時刪除/停用權限",
+      "員工個人桌布樣式",
+      "電腦品牌是否一致",
+      "使用者是否喜歡目前的登入畫面"
+    ],
+    "correct": [
+      "新帳號授權與核准",
+      "定期權限審查",
+      "職務變更時修改不再需要的權限",
+      "離職或終止時刪除/停用權限"
+    ],
+    "explanation": "Annex A 5.18 要求依規則提供、審查、修改及刪除存取權限。",
+    "mnemonic": "權限要給、要審、要改、要刪。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0514",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "變更管理",
+    "source": "ISO/IEC 27001:2022 Annex A 8.32",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你是一位經驗豐富的 ISMS 稽核組長，正在執行第三方驗證稽核。\n\n工程師在未核准的情況下直接修改正式系統設定。請選擇三項較適當的稽核追查方向。",
+    "options": [
+      "確認組織的變更管理程序與核准要求",
+      "抽查變更紀錄、風險評估、測試與回復安排是否依要求執行",
+      "確認此事件是否為單一事件或存在更廣泛的系統性問題",
+      "只要系統沒有當機就直接判符合",
+      "因工程師資深所以可免除程序",
+      "直接由稽核員代替組織核准該變更"
+    ],
+    "correct": [
+      "確認組織的變更管理程序與核准要求",
+      "抽查變更紀錄、風險評估、測試與回復安排是否依要求執行",
+      "確認此事件是否為單一事件或存在更廣泛的系統性問題"
+    ],
+    "explanation": "變更管理要求變更遵循既定程序；稽核員應查要求、證據與問題範圍。",
+    "mnemonic": "正式環境不能想改就改。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0515",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "變更管理",
+    "source": "ISO/IEC 27001:2022 Annex A 8.32",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領一個由兩位稽核員組成的稽核小組進行第二階段驗證。\n\n工程師在未核准的情況下直接修改正式系統設定。請選擇三項較適當的稽核追查方向。",
+    "options": [
+      "確認組織的變更管理程序與核准要求",
+      "抽查變更紀錄、風險評估、測試與回復安排是否依要求執行",
+      "確認此事件是否為單一事件或存在更廣泛的系統性問題",
+      "只要系統沒有當機就直接判符合",
+      "因工程師資深所以可免除程序",
+      "直接由稽核員代替組織核准該變更"
+    ],
+    "correct": [
+      "確認組織的變更管理程序與核准要求",
+      "抽查變更紀錄、風險評估、測試與回復安排是否依要求執行",
+      "確認此事件是否為單一事件或存在更廣泛的系統性問題"
+    ],
+    "explanation": "變更管理要求變更遵循既定程序；稽核員應查要求、證據與問題範圍。",
+    "mnemonic": "正式環境不能想改就改。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0516",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "變更管理",
+    "source": "ISO/IEC 27001:2022 Annex A 8.32",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你要求培訓中的稽核員依 ISO/IEC 27001:2022 查核現場控制。\n\n工程師在未核准的情況下直接修改正式系統設定。請選擇三項較適當的稽核追查方向。",
+    "options": [
+      "確認組織的變更管理程序與核准要求",
+      "抽查變更紀錄、風險評估、測試與回復安排是否依要求執行",
+      "確認此事件是否為單一事件或存在更廣泛的系統性問題",
+      "只要系統沒有當機就直接判符合",
+      "因工程師資深所以可免除程序",
+      "直接由稽核員代替組織核准該變更"
+    ],
+    "correct": [
+      "確認組織的變更管理程序與核准要求",
+      "抽查變更紀錄、風險評估、測試與回復安排是否依要求執行",
+      "確認此事件是否為單一事件或存在更廣泛的系統性問題"
+    ],
+    "explanation": "變更管理要求變更遵循既定程序；稽核員應查要求、證據與問題範圍。",
+    "mnemonic": "正式環境不能想改就改。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0517",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "變更管理",
+    "source": "ISO/IEC 27001:2022 Annex A 8.32",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在稽核組會議中審查現場證據並決定下一步稽核軌跡。\n\n工程師在未核准的情況下直接修改正式系統設定。請選擇三項較適當的稽核追查方向。",
+    "options": [
+      "確認組織的變更管理程序與核准要求",
+      "抽查變更紀錄、風險評估、測試與回復安排是否依要求執行",
+      "確認此事件是否為單一事件或存在更廣泛的系統性問題",
+      "只要系統沒有當機就直接判符合",
+      "因工程師資深所以可免除程序",
+      "直接由稽核員代替組織核准該變更"
+    ],
+    "correct": [
+      "確認組織的變更管理程序與核准要求",
+      "抽查變更紀錄、風險評估、測試與回復安排是否依要求執行",
+      "確認此事件是否為單一事件或存在更廣泛的系統性問題"
+    ],
+    "explanation": "變更管理要求變更遵循既定程序；稽核員應查要求、證據與問題範圍。",
+    "mnemonic": "正式環境不能想改就改。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0518",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "變更管理",
+    "source": "ISO/IEC 27001:2022 Annex A 8.32",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在用實際案例訓練稽核員辨識最適當的現場稽核行動。\n\n工程師在未核准的情況下直接修改正式系統設定。請選擇三項較適當的稽核追查方向。",
+    "options": [
+      "確認組織的變更管理程序與核准要求",
+      "抽查變更紀錄、風險評估、測試與回復安排是否依要求執行",
+      "確認此事件是否為單一事件或存在更廣泛的系統性問題",
+      "只要系統沒有當機就直接判符合",
+      "因工程師資深所以可免除程序",
+      "直接由稽核員代替組織核准該變更"
+    ],
+    "correct": [
+      "確認組織的變更管理程序與核准要求",
+      "抽查變更紀錄、風險評估、測試與回復安排是否依要求執行",
+      "確認此事件是否為單一事件或存在更廣泛的系統性問題"
+    ],
+    "explanation": "變更管理要求變更遵循既定程序；稽核員應查要求、證據與問題範圍。",
+    "mnemonic": "正式環境不能想改就改。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0519",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "稽核測試保護",
+    "source": "ISO/IEC 27001:2022 Annex A 8.34",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你是一位經驗豐富的 ISMS 稽核組長，正在執行第三方驗證稽核。\n\n稽核員準備對正式運作系統執行可能影響服務的測試。請選擇三項適當作法。",
+    "options": [
+      "在測試前與適當管理階層規劃並議定",
+      "評估並降低對運作中系統及營運流程的衝擊",
+      "明確界定測試方式、時間與必要保護措施",
+      "稽核員有權直接執行任何測試而無需告知",
+      "只要晚上執行就不需要任何管理安排",
+      "若測試可能中斷服務就直接在尖峰時段執行以驗證韌性"
+    ],
+    "correct": [
+      "在測試前與適當管理階層規劃並議定",
+      "評估並降低對運作中系統及營運流程的衝擊",
+      "明確界定測試方式、時間與必要保護措施"
+    ],
+    "explanation": "Annex A 8.34 要求涉及運作中系統的稽核測試與保證活動事先規劃議定並最小化衝擊。",
+    "mnemonic": "稽核不能把正式系統搞掛。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0520",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "稽核測試保護",
+    "source": "ISO/IEC 27001:2022 Annex A 8.34",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在帶領一個由兩位稽核員組成的稽核小組進行第二階段驗證。\n\n稽核員準備對正式運作系統執行可能影響服務的測試。請選擇三項適當作法。",
+    "options": [
+      "在測試前與適當管理階層規劃並議定",
+      "評估並降低對運作中系統及營運流程的衝擊",
+      "明確界定測試方式、時間與必要保護措施",
+      "稽核員有權直接執行任何測試而無需告知",
+      "只要晚上執行就不需要任何管理安排",
+      "若測試可能中斷服務就直接在尖峰時段執行以驗證韌性"
+    ],
+    "correct": [
+      "在測試前與適當管理階層規劃並議定",
+      "評估並降低對運作中系統及營運流程的衝擊",
+      "明確界定測試方式、時間與必要保護措施"
+    ],
+    "explanation": "Annex A 8.34 要求涉及運作中系統的稽核測試與保證活動事先規劃議定並最小化衝擊。",
+    "mnemonic": "稽核不能把正式系統搞掛。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0521",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "稽核測試保護",
+    "source": "ISO/IEC 27001:2022 Annex A 8.34",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你要求培訓中的稽核員依 ISO/IEC 27001:2022 查核現場控制。\n\n稽核員準備對正式運作系統執行可能影響服務的測試。請選擇三項適當作法。",
+    "options": [
+      "在測試前與適當管理階層規劃並議定",
+      "評估並降低對運作中系統及營運流程的衝擊",
+      "明確界定測試方式、時間與必要保護措施",
+      "稽核員有權直接執行任何測試而無需告知",
+      "只要晚上執行就不需要任何管理安排",
+      "若測試可能中斷服務就直接在尖峰時段執行以驗證韌性"
+    ],
+    "correct": [
+      "在測試前與適當管理階層規劃並議定",
+      "評估並降低對運作中系統及營運流程的衝擊",
+      "明確界定測試方式、時間與必要保護措施"
+    ],
+    "explanation": "Annex A 8.34 要求涉及運作中系統的稽核測試與保證活動事先規劃議定並最小化衝擊。",
+    "mnemonic": "稽核不能把正式系統搞掛。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0522",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "稽核測試保護",
+    "source": "ISO/IEC 27001:2022 Annex A 8.34",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在稽核組會議中審查現場證據並決定下一步稽核軌跡。\n\n稽核員準備對正式運作系統執行可能影響服務的測試。請選擇三項適當作法。",
+    "options": [
+      "在測試前與適當管理階層規劃並議定",
+      "評估並降低對運作中系統及營運流程的衝擊",
+      "明確界定測試方式、時間與必要保護措施",
+      "稽核員有權直接執行任何測試而無需告知",
+      "只要晚上執行就不需要任何管理安排",
+      "若測試可能中斷服務就直接在尖峰時段執行以驗證韌性"
+    ],
+    "correct": [
+      "在測試前與適當管理階層規劃並議定",
+      "評估並降低對運作中系統及營運流程的衝擊",
+      "明確界定測試方式、時間與必要保護措施"
+    ],
+    "explanation": "Annex A 8.34 要求涉及運作中系統的稽核測試與保證活動事先規劃議定並最小化衝擊。",
+    "mnemonic": "稽核不能把正式系統搞掛。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0523",
+    "unit": 4,
+    "unitName": "稽核執行",
+    "topic": "稽核測試保護",
+    "source": "ISO/IEC 27001:2022 Annex A 8.34",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在用實際案例訓練稽核員辨識最適當的現場稽核行動。\n\n稽核員準備對正式運作系統執行可能影響服務的測試。請選擇三項適當作法。",
+    "options": [
+      "在測試前與適當管理階層規劃並議定",
+      "評估並降低對運作中系統及營運流程的衝擊",
+      "明確界定測試方式、時間與必要保護措施",
+      "稽核員有權直接執行任何測試而無需告知",
+      "只要晚上執行就不需要任何管理安排",
+      "若測試可能中斷服務就直接在尖峰時段執行以驗證韌性"
+    ],
+    "correct": [
+      "在測試前與適當管理階層規劃並議定",
+      "評估並降低對運作中系統及營運流程的衝擊",
+      "明確界定測試方式、時間與必要保護措施"
+    ],
+    "explanation": "Annex A 8.34 要求涉及運作中系統的稽核測試與保證活動事先規劃議定並最小化衝擊。",
+    "mnemonic": "稽核不能把正式系統搞掛。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0524",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "矯正措施辨識",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你是稽核組長，第三方驗證稽核已完成現場活動，正在準備結束與後續流程。\n\n稽核後你要確認不符合在關閉前已採取適當行動。下列哪四項較接近「矯正措施（Corrective Action）」而不是單純修正眼前問題？",
+    "options": [
+      "針對備份程序未遵循的根因，重新設計並訓練相關人員",
+      "因客戶資料服務合約缺少必要條款，修改契約審查流程避免再發",
+      "因產品運輸流程未反映實際活動，重新設計流程並訓練團隊",
+      "因責任分工不清造成反覆缺失，重新定義責任並建立監督機制",
+      "把日期錯誤的採購單立即改正",
+      "把顏色編碼錯誤的硬碟從系統中移除",
+      "補寄一封尚未寄出的軟體安裝指南",
+      "把一次漏填的欄位補上"
+    ],
+    "correct": [
+      "針對備份程序未遵循的根因，重新設計並訓練相關人員",
+      "因客戶資料服務合約缺少必要條款，修改契約審查流程避免再發",
+      "因產品運輸流程未反映實際活動，重新設計流程並訓練團隊",
+      "因責任分工不清造成反覆缺失，重新定義責任並建立監督機制"
+    ],
+    "explanation": "矯正措施是針對不符合的原因採取行動以防再發；單純修正單筆錯誤屬矯正。",
+    "mnemonic": "矯正修現在，矯正措施防未來。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0525",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "矯正措施辨識",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在主持稽核組最終會議並準備正式報告。\n\n稽核後你要確認不符合在關閉前已採取適當行動。下列哪四項較接近「矯正措施（Corrective Action）」而不是單純修正眼前問題？",
+    "options": [
+      "針對備份程序未遵循的根因，重新設計並訓練相關人員",
+      "因客戶資料服務合約缺少必要條款，修改契約審查流程避免再發",
+      "因產品運輸流程未反映實際活動，重新設計流程並訓練團隊",
+      "因責任分工不清造成反覆缺失，重新定義責任並建立監督機制",
+      "把日期錯誤的採購單立即改正",
+      "把顏色編碼錯誤的硬碟從系統中移除",
+      "補寄一封尚未寄出的軟體安裝指南",
+      "把一次漏填的欄位補上"
+    ],
+    "correct": [
+      "針對備份程序未遵循的根因，重新設計並訓練相關人員",
+      "因客戶資料服務合約缺少必要條款，修改契約審查流程避免再發",
+      "因產品運輸流程未反映實際活動，重新設計流程並訓練團隊",
+      "因責任分工不清造成反覆缺失，重新定義責任並建立監督機制"
+    ],
+    "explanation": "矯正措施是針對不符合的原因採取行動以防再發；單純修正單筆錯誤屬矯正。",
+    "mnemonic": "矯正修現在，矯正措施防未來。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0526",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "矯正措施辨識",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在指導培訓中的稽核員進行 CAPA 跟催與有效性確認。\n\n稽核後你要確認不符合在關閉前已採取適當行動。下列哪四項較接近「矯正措施（Corrective Action）」而不是單純修正眼前問題？",
+    "options": [
+      "針對備份程序未遵循的根因，重新設計並訓練相關人員",
+      "因客戶資料服務合約缺少必要條款，修改契約審查流程避免再發",
+      "因產品運輸流程未反映實際活動，重新設計流程並訓練團隊",
+      "因責任分工不清造成反覆缺失，重新定義責任並建立監督機制",
+      "把日期錯誤的採購單立即改正",
+      "把顏色編碼錯誤的硬碟從系統中移除",
+      "補寄一封尚未寄出的軟體安裝指南",
+      "把一次漏填的欄位補上"
+    ],
+    "correct": [
+      "針對備份程序未遵循的根因，重新設計並訓練相關人員",
+      "因客戶資料服務合約缺少必要條款，修改契約審查流程避免再發",
+      "因產品運輸流程未反映實際活動，重新設計流程並訓練團隊",
+      "因責任分工不清造成反覆缺失，重新定義責任並建立監督機制"
+    ],
+    "explanation": "矯正措施是針對不符合的原因採取行動以防再發；單純修正單筆錯誤屬矯正。",
+    "mnemonic": "矯正修現在，矯正措施防未來。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0527",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "矯正措施辨識",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在審查受稽核方對不符合事項的回覆。\n\n稽核後你要確認不符合在關閉前已採取適當行動。下列哪四項較接近「矯正措施（Corrective Action）」而不是單純修正眼前問題？",
+    "options": [
+      "針對備份程序未遵循的根因，重新設計並訓練相關人員",
+      "因客戶資料服務合約缺少必要條款，修改契約審查流程避免再發",
+      "因產品運輸流程未反映實際活動，重新設計流程並訓練團隊",
+      "因責任分工不清造成反覆缺失，重新定義責任並建立監督機制",
+      "把日期錯誤的採購單立即改正",
+      "把顏色編碼錯誤的硬碟從系統中移除",
+      "補寄一封尚未寄出的軟體安裝指南",
+      "把一次漏填的欄位補上"
+    ],
+    "correct": [
+      "針對備份程序未遵循的根因，重新設計並訓練相關人員",
+      "因客戶資料服務合約缺少必要條款，修改契約審查流程避免再發",
+      "因產品運輸流程未反映實際活動，重新設計流程並訓練團隊",
+      "因責任分工不清造成反覆缺失，重新定義責任並建立監督機制"
+    ],
+    "explanation": "矯正措施是針對不符合的原因採取行動以防再發；單純修正單筆錯誤屬矯正。",
+    "mnemonic": "矯正修現在，矯正措施防未來。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0528",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "矯正措施辨識",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在用第三方驗證後的實務案例測試稽核員對報告與結案邏輯的掌握。\n\n稽核後你要確認不符合在關閉前已採取適當行動。下列哪四項較接近「矯正措施（Corrective Action）」而不是單純修正眼前問題？",
+    "options": [
+      "針對備份程序未遵循的根因，重新設計並訓練相關人員",
+      "因客戶資料服務合約缺少必要條款，修改契約審查流程避免再發",
+      "因產品運輸流程未反映實際活動，重新設計流程並訓練團隊",
+      "因責任分工不清造成反覆缺失，重新定義責任並建立監督機制",
+      "把日期錯誤的採購單立即改正",
+      "把顏色編碼錯誤的硬碟從系統中移除",
+      "補寄一封尚未寄出的軟體安裝指南",
+      "把一次漏填的欄位補上"
+    ],
+    "correct": [
+      "針對備份程序未遵循的根因，重新設計並訓練相關人員",
+      "因客戶資料服務合約缺少必要條款，修改契約審查流程避免再發",
+      "因產品運輸流程未反映實際活動，重新設計流程並訓練團隊",
+      "因責任分工不清造成反覆缺失，重新定義責任並建立監督機制"
+    ],
+    "explanation": "矯正措施是針對不符合的原因採取行動以防再發；單純修正單筆錯誤屬矯正。",
+    "mnemonic": "矯正修現在，矯正措施防未來。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0529",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "稽核報告錯誤陳述",
+    "source": "ISO 19011 稽核報告 / 稽核報告課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項錯誤的答案。",
+    "stem": "你是稽核組長，第三方驗證稽核已完成現場活動，正在準備結束與後續流程。\n\n以下哪四個關於 ISMS 稽核報告的陳述是錯誤的？",
+    "options": [
+      "稽核報告只能由稽核小組成員永久保留，受稽核方不應取得適當報告",
+      "稽核報告必須由客戶逐頁簽名才視為接受",
+      "稽核報告應先寄給最高管理階層，因內容可能不體面而不能讓流程負責人知道",
+      "不再需要的稽核報告可不依任何保存/保密要求直接公開銷毀",
+      "報告應依既定分發與保密安排提供給適當收件者",
+      "報告應清楚說明重要發現與不符合",
+      "報告應在約定時限內完成或說明延遲原因",
+      "報告內容應能追溯稽核範圍、準則、發現與結論"
+    ],
+    "correct": [
+      "稽核報告只能由稽核小組成員永久保留，受稽核方不應取得適當報告",
+      "稽核報告必須由客戶逐頁簽名才視為接受",
+      "稽核報告應先寄給最高管理階層，因內容可能不體面而不能讓流程負責人知道",
+      "不再需要的稽核報告可不依任何保存/保密要求直接公開銷毀"
+    ],
+    "explanation": "報告分發、保存、保密與完成時限應依約定與程序；不要求客戶逐頁簽名，也不能因內容不利而任意限制適當對象取得。",
+    "mnemonic": "報告要準、要完整、要按程序分發與保存。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0530",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "稽核報告錯誤陳述",
+    "source": "ISO 19011 稽核報告 / 稽核報告課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項錯誤的答案。",
+    "stem": "你正在主持稽核組最終會議並準備正式報告。\n\n以下哪四個關於 ISMS 稽核報告的陳述是錯誤的？",
+    "options": [
+      "稽核報告只能由稽核小組成員永久保留，受稽核方不應取得適當報告",
+      "稽核報告必須由客戶逐頁簽名才視為接受",
+      "稽核報告應先寄給最高管理階層，因內容可能不體面而不能讓流程負責人知道",
+      "不再需要的稽核報告可不依任何保存/保密要求直接公開銷毀",
+      "報告應依既定分發與保密安排提供給適當收件者",
+      "報告應清楚說明重要發現與不符合",
+      "報告應在約定時限內完成或說明延遲原因",
+      "報告內容應能追溯稽核範圍、準則、發現與結論"
+    ],
+    "correct": [
+      "稽核報告只能由稽核小組成員永久保留，受稽核方不應取得適當報告",
+      "稽核報告必須由客戶逐頁簽名才視為接受",
+      "稽核報告應先寄給最高管理階層，因內容可能不體面而不能讓流程負責人知道",
+      "不再需要的稽核報告可不依任何保存/保密要求直接公開銷毀"
+    ],
+    "explanation": "報告分發、保存、保密與完成時限應依約定與程序；不要求客戶逐頁簽名，也不能因內容不利而任意限制適當對象取得。",
+    "mnemonic": "報告要準、要完整、要按程序分發與保存。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0531",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "稽核報告錯誤陳述",
+    "source": "ISO 19011 稽核報告 / 稽核報告課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項錯誤的答案。",
+    "stem": "你正在指導培訓中的稽核員進行 CAPA 跟催與有效性確認。\n\n以下哪四個關於 ISMS 稽核報告的陳述是錯誤的？",
+    "options": [
+      "稽核報告只能由稽核小組成員永久保留，受稽核方不應取得適當報告",
+      "稽核報告必須由客戶逐頁簽名才視為接受",
+      "稽核報告應先寄給最高管理階層，因內容可能不體面而不能讓流程負責人知道",
+      "不再需要的稽核報告可不依任何保存/保密要求直接公開銷毀",
+      "報告應依既定分發與保密安排提供給適當收件者",
+      "報告應清楚說明重要發現與不符合",
+      "報告應在約定時限內完成或說明延遲原因",
+      "報告內容應能追溯稽核範圍、準則、發現與結論"
+    ],
+    "correct": [
+      "稽核報告只能由稽核小組成員永久保留，受稽核方不應取得適當報告",
+      "稽核報告必須由客戶逐頁簽名才視為接受",
+      "稽核報告應先寄給最高管理階層，因內容可能不體面而不能讓流程負責人知道",
+      "不再需要的稽核報告可不依任何保存/保密要求直接公開銷毀"
+    ],
+    "explanation": "報告分發、保存、保密與完成時限應依約定與程序；不要求客戶逐頁簽名，也不能因內容不利而任意限制適當對象取得。",
+    "mnemonic": "報告要準、要完整、要按程序分發與保存。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0532",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "稽核報告錯誤陳述",
+    "source": "ISO 19011 稽核報告 / 稽核報告課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項錯誤的答案。",
+    "stem": "你正在審查受稽核方對不符合事項的回覆。\n\n以下哪四個關於 ISMS 稽核報告的陳述是錯誤的？",
+    "options": [
+      "稽核報告只能由稽核小組成員永久保留，受稽核方不應取得適當報告",
+      "稽核報告必須由客戶逐頁簽名才視為接受",
+      "稽核報告應先寄給最高管理階層，因內容可能不體面而不能讓流程負責人知道",
+      "不再需要的稽核報告可不依任何保存/保密要求直接公開銷毀",
+      "報告應依既定分發與保密安排提供給適當收件者",
+      "報告應清楚說明重要發現與不符合",
+      "報告應在約定時限內完成或說明延遲原因",
+      "報告內容應能追溯稽核範圍、準則、發現與結論"
+    ],
+    "correct": [
+      "稽核報告只能由稽核小組成員永久保留，受稽核方不應取得適當報告",
+      "稽核報告必須由客戶逐頁簽名才視為接受",
+      "稽核報告應先寄給最高管理階層，因內容可能不體面而不能讓流程負責人知道",
+      "不再需要的稽核報告可不依任何保存/保密要求直接公開銷毀"
+    ],
+    "explanation": "報告分發、保存、保密與完成時限應依約定與程序；不要求客戶逐頁簽名，也不能因內容不利而任意限制適當對象取得。",
+    "mnemonic": "報告要準、要完整、要按程序分發與保存。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0533",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "稽核報告錯誤陳述",
+    "source": "ISO 19011 稽核報告 / 稽核報告課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項錯誤的答案。",
+    "stem": "你正在用第三方驗證後的實務案例測試稽核員對報告與結案邏輯的掌握。\n\n以下哪四個關於 ISMS 稽核報告的陳述是錯誤的？",
+    "options": [
+      "稽核報告只能由稽核小組成員永久保留，受稽核方不應取得適當報告",
+      "稽核報告必須由客戶逐頁簽名才視為接受",
+      "稽核報告應先寄給最高管理階層，因內容可能不體面而不能讓流程負責人知道",
+      "不再需要的稽核報告可不依任何保存/保密要求直接公開銷毀",
+      "報告應依既定分發與保密安排提供給適當收件者",
+      "報告應清楚說明重要發現與不符合",
+      "報告應在約定時限內完成或說明延遲原因",
+      "報告內容應能追溯稽核範圍、準則、發現與結論"
+    ],
+    "correct": [
+      "稽核報告只能由稽核小組成員永久保留，受稽核方不應取得適當報告",
+      "稽核報告必須由客戶逐頁簽名才視為接受",
+      "稽核報告應先寄給最高管理階層，因內容可能不體面而不能讓流程負責人知道",
+      "不再需要的稽核報告可不依任何保存/保密要求直接公開銷毀"
+    ],
+    "explanation": "報告分發、保存、保密與完成時限應依約定與程序；不要求客戶逐頁簽名，也不能因內容不利而任意限制適當對象取得。",
+    "mnemonic": "報告要準、要完整、要按程序分發與保存。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0534",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "結束會議",
+    "source": "ISO 19011 / 稽核報告、結束會議課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你是稽核組長，第三方驗證稽核已完成現場活動，正在準備結束與後續流程。\n\n在結束會議中，下列哪四項是主導稽核員應適當處理的內容？",
+    "options": [
+      "說明稽核發現與稽核結論",
+      "說明未解決分歧與其處理方式",
+      "說明 CAPA 回覆、期限及跟催安排",
+      "說明報告分發與後續流程",
+      "公開責罵造成缺失的人員",
+      "要求受稽核方無條件承認所有發現",
+      "現場替受稽核方完成所有根因分析"
+    ],
+    "correct": [
+      "說明稽核發現與稽核結論",
+      "說明未解決分歧與其處理方式",
+      "說明 CAPA 回覆、期限及跟催安排",
+      "說明報告分發與後續流程"
+    ],
+    "explanation": "結束會議重點是清楚呈現結果、處理分歧、說明 CAPA 與後續流程。",
+    "mnemonic": "結束會議＝講清楚，不是吵輸贏。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0535",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "結束會議",
+    "source": "ISO 19011 / 稽核報告、結束會議課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在主持稽核組最終會議並準備正式報告。\n\n在結束會議中，下列哪四項是主導稽核員應適當處理的內容？",
+    "options": [
+      "說明稽核發現與稽核結論",
+      "說明未解決分歧與其處理方式",
+      "說明 CAPA 回覆、期限及跟催安排",
+      "說明報告分發與後續流程",
+      "公開責罵造成缺失的人員",
+      "要求受稽核方無條件承認所有發現",
+      "現場替受稽核方完成所有根因分析"
+    ],
+    "correct": [
+      "說明稽核發現與稽核結論",
+      "說明未解決分歧與其處理方式",
+      "說明 CAPA 回覆、期限及跟催安排",
+      "說明報告分發與後續流程"
+    ],
+    "explanation": "結束會議重點是清楚呈現結果、處理分歧、說明 CAPA 與後續流程。",
+    "mnemonic": "結束會議＝講清楚，不是吵輸贏。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0536",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "結束會議",
+    "source": "ISO 19011 / 稽核報告、結束會議課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在指導培訓中的稽核員進行 CAPA 跟催與有效性確認。\n\n在結束會議中，下列哪四項是主導稽核員應適當處理的內容？",
+    "options": [
+      "說明稽核發現與稽核結論",
+      "說明未解決分歧與其處理方式",
+      "說明 CAPA 回覆、期限及跟催安排",
+      "說明報告分發與後續流程",
+      "公開責罵造成缺失的人員",
+      "要求受稽核方無條件承認所有發現",
+      "現場替受稽核方完成所有根因分析"
+    ],
+    "correct": [
+      "說明稽核發現與稽核結論",
+      "說明未解決分歧與其處理方式",
+      "說明 CAPA 回覆、期限及跟催安排",
+      "說明報告分發與後續流程"
+    ],
+    "explanation": "結束會議重點是清楚呈現結果、處理分歧、說明 CAPA 與後續流程。",
+    "mnemonic": "結束會議＝講清楚，不是吵輸贏。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0537",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "結束會議",
+    "source": "ISO 19011 / 稽核報告、結束會議課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在審查受稽核方對不符合事項的回覆。\n\n在結束會議中，下列哪四項是主導稽核員應適當處理的內容？",
+    "options": [
+      "說明稽核發現與稽核結論",
+      "說明未解決分歧與其處理方式",
+      "說明 CAPA 回覆、期限及跟催安排",
+      "說明報告分發與後續流程",
+      "公開責罵造成缺失的人員",
+      "要求受稽核方無條件承認所有發現",
+      "現場替受稽核方完成所有根因分析"
+    ],
+    "correct": [
+      "說明稽核發現與稽核結論",
+      "說明未解決分歧與其處理方式",
+      "說明 CAPA 回覆、期限及跟催安排",
+      "說明報告分發與後續流程"
+    ],
+    "explanation": "結束會議重點是清楚呈現結果、處理分歧、說明 CAPA 與後續流程。",
+    "mnemonic": "結束會議＝講清楚，不是吵輸贏。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0538",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "結束會議",
+    "source": "ISO 19011 / 稽核報告、結束會議課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在用第三方驗證後的實務案例測試稽核員對報告與結案邏輯的掌握。\n\n在結束會議中，下列哪四項是主導稽核員應適當處理的內容？",
+    "options": [
+      "說明稽核發現與稽核結論",
+      "說明未解決分歧與其處理方式",
+      "說明 CAPA 回覆、期限及跟催安排",
+      "說明報告分發與後續流程",
+      "公開責罵造成缺失的人員",
+      "要求受稽核方無條件承認所有發現",
+      "現場替受稽核方完成所有根因分析"
+    ],
+    "correct": [
+      "說明稽核發現與稽核結論",
+      "說明未解決分歧與其處理方式",
+      "說明 CAPA 回覆、期限及跟催安排",
+      "說明報告分發與後續流程"
+    ],
+    "explanation": "結束會議重點是清楚呈現結果、處理分歧、說明 CAPA 與後續流程。",
+    "mnemonic": "結束會議＝講清楚，不是吵輸贏。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0539",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 根因",
+    "source": "ISO/IEC 27001:2022 10.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你是稽核組長，第三方驗證稽核已完成現場活動，正在準備結束與後續流程。\n\n下列哪三項較能反映適當的根因分析，而不是只描述表面現象？",
+    "options": [
+      "追查流程設計是否缺少必要通知或核准點",
+      "追查責任、能力、工具或監督是否失效",
+      "分析相同問題是否可能在其他區域發生",
+      "只寫「員工粗心」就停止分析",
+      "只把這次錯誤資料修正",
+      "因沒有造成損失所以不需要找原因"
+    ],
+    "correct": [
+      "追查流程設計是否缺少必要通知或核准點",
+      "追查責任、能力、工具或監督是否失效",
+      "分析相同問題是否可能在其他區域發生"
+    ],
+    "explanation": "10.2 要求審查不符合、判定原因並確認類似不符合是否存在或可能發生。",
+    "mnemonic": "根因不是貼標籤，要找系統為什麼失效。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0540",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 根因",
+    "source": "ISO/IEC 27001:2022 10.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在主持稽核組最終會議並準備正式報告。\n\n下列哪三項較能反映適當的根因分析，而不是只描述表面現象？",
+    "options": [
+      "追查流程設計是否缺少必要通知或核准點",
+      "追查責任、能力、工具或監督是否失效",
+      "分析相同問題是否可能在其他區域發生",
+      "只寫「員工粗心」就停止分析",
+      "只把這次錯誤資料修正",
+      "因沒有造成損失所以不需要找原因"
+    ],
+    "correct": [
+      "追查流程設計是否缺少必要通知或核准點",
+      "追查責任、能力、工具或監督是否失效",
+      "分析相同問題是否可能在其他區域發生"
+    ],
+    "explanation": "10.2 要求審查不符合、判定原因並確認類似不符合是否存在或可能發生。",
+    "mnemonic": "根因不是貼標籤，要找系統為什麼失效。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0541",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 根因",
+    "source": "ISO/IEC 27001:2022 10.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在指導培訓中的稽核員進行 CAPA 跟催與有效性確認。\n\n下列哪三項較能反映適當的根因分析，而不是只描述表面現象？",
+    "options": [
+      "追查流程設計是否缺少必要通知或核准點",
+      "追查責任、能力、工具或監督是否失效",
+      "分析相同問題是否可能在其他區域發生",
+      "只寫「員工粗心」就停止分析",
+      "只把這次錯誤資料修正",
+      "因沒有造成損失所以不需要找原因"
+    ],
+    "correct": [
+      "追查流程設計是否缺少必要通知或核准點",
+      "追查責任、能力、工具或監督是否失效",
+      "分析相同問題是否可能在其他區域發生"
+    ],
+    "explanation": "10.2 要求審查不符合、判定原因並確認類似不符合是否存在或可能發生。",
+    "mnemonic": "根因不是貼標籤，要找系統為什麼失效。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0542",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 根因",
+    "source": "ISO/IEC 27001:2022 10.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在審查受稽核方對不符合事項的回覆。\n\n下列哪三項較能反映適當的根因分析，而不是只描述表面現象？",
+    "options": [
+      "追查流程設計是否缺少必要通知或核准點",
+      "追查責任、能力、工具或監督是否失效",
+      "分析相同問題是否可能在其他區域發生",
+      "只寫「員工粗心」就停止分析",
+      "只把這次錯誤資料修正",
+      "因沒有造成損失所以不需要找原因"
+    ],
+    "correct": [
+      "追查流程設計是否缺少必要通知或核准點",
+      "追查責任、能力、工具或監督是否失效",
+      "分析相同問題是否可能在其他區域發生"
+    ],
+    "explanation": "10.2 要求審查不符合、判定原因並確認類似不符合是否存在或可能發生。",
+    "mnemonic": "根因不是貼標籤，要找系統為什麼失效。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0543",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 根因",
+    "source": "ISO/IEC 27001:2022 10.2",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在用第三方驗證後的實務案例測試稽核員對報告與結案邏輯的掌握。\n\n下列哪三項較能反映適當的根因分析，而不是只描述表面現象？",
+    "options": [
+      "追查流程設計是否缺少必要通知或核准點",
+      "追查責任、能力、工具或監督是否失效",
+      "分析相同問題是否可能在其他區域發生",
+      "只寫「員工粗心」就停止分析",
+      "只把這次錯誤資料修正",
+      "因沒有造成損失所以不需要找原因"
+    ],
+    "correct": [
+      "追查流程設計是否缺少必要通知或核准點",
+      "追查責任、能力、工具或監督是否失效",
+      "分析相同問題是否可能在其他區域發生"
+    ],
+    "explanation": "10.2 要求審查不符合、判定原因並確認類似不符合是否存在或可能發生。",
+    "mnemonic": "根因不是貼標籤，要找系統為什麼失效。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0544",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 完整回覆",
+    "source": "稽核報告、結束會議 CAPA 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你是稽核組長，第三方驗證稽核已完成現場活動，正在準備結束與後續流程。\n\n你正在審查受稽核方提交的 CAPA。請選擇四項屬於完整回覆的重要內容。",
+    "options": [
+      "立即改正/矯正與完成證據",
+      "根因分析",
+      "針對根因的矯正措施與責任/期限",
+      "有效性確認方法或後續驗證證據",
+      "只寫「已改善」",
+      "只附主管簽名",
+      "只提供一句「員工會注意」"
+    ],
+    "correct": [
+      "立即改正/矯正與完成證據",
+      "根因分析",
+      "針對根因的矯正措施與責任/期限",
+      "有效性確認方法或後續驗證證據"
+    ],
+    "explanation": "教材要求 CAPA 至少能說明改正、根因、矯正措施、責任期限、證據與有效性確認。",
+    "mnemonic": "修、因、防、驗。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0545",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 完整回覆",
+    "source": "稽核報告、結束會議 CAPA 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在主持稽核組最終會議並準備正式報告。\n\n你正在審查受稽核方提交的 CAPA。請選擇四項屬於完整回覆的重要內容。",
+    "options": [
+      "立即改正/矯正與完成證據",
+      "根因分析",
+      "針對根因的矯正措施與責任/期限",
+      "有效性確認方法或後續驗證證據",
+      "只寫「已改善」",
+      "只附主管簽名",
+      "只提供一句「員工會注意」"
+    ],
+    "correct": [
+      "立即改正/矯正與完成證據",
+      "根因分析",
+      "針對根因的矯正措施與責任/期限",
+      "有效性確認方法或後續驗證證據"
+    ],
+    "explanation": "教材要求 CAPA 至少能說明改正、根因、矯正措施、責任期限、證據與有效性確認。",
+    "mnemonic": "修、因、防、驗。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0546",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 完整回覆",
+    "source": "稽核報告、結束會議 CAPA 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在指導培訓中的稽核員進行 CAPA 跟催與有效性確認。\n\n你正在審查受稽核方提交的 CAPA。請選擇四項屬於完整回覆的重要內容。",
+    "options": [
+      "立即改正/矯正與完成證據",
+      "根因分析",
+      "針對根因的矯正措施與責任/期限",
+      "有效性確認方法或後續驗證證據",
+      "只寫「已改善」",
+      "只附主管簽名",
+      "只提供一句「員工會注意」"
+    ],
+    "correct": [
+      "立即改正/矯正與完成證據",
+      "根因分析",
+      "針對根因的矯正措施與責任/期限",
+      "有效性確認方法或後續驗證證據"
+    ],
+    "explanation": "教材要求 CAPA 至少能說明改正、根因、矯正措施、責任期限、證據與有效性確認。",
+    "mnemonic": "修、因、防、驗。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0547",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 完整回覆",
+    "source": "稽核報告、結束會議 CAPA 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在審查受稽核方對不符合事項的回覆。\n\n你正在審查受稽核方提交的 CAPA。請選擇四項屬於完整回覆的重要內容。",
+    "options": [
+      "立即改正/矯正與完成證據",
+      "根因分析",
+      "針對根因的矯正措施與責任/期限",
+      "有效性確認方法或後續驗證證據",
+      "只寫「已改善」",
+      "只附主管簽名",
+      "只提供一句「員工會注意」"
+    ],
+    "correct": [
+      "立即改正/矯正與完成證據",
+      "根因分析",
+      "針對根因的矯正措施與責任/期限",
+      "有效性確認方法或後續驗證證據"
+    ],
+    "explanation": "教材要求 CAPA 至少能說明改正、根因、矯正措施、責任期限、證據與有效性確認。",
+    "mnemonic": "修、因、防、驗。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0548",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 完整回覆",
+    "source": "稽核報告、結束會議 CAPA 課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在用第三方驗證後的實務案例測試稽核員對報告與結案邏輯的掌握。\n\n你正在審查受稽核方提交的 CAPA。請選擇四項屬於完整回覆的重要內容。",
+    "options": [
+      "立即改正/矯正與完成證據",
+      "根因分析",
+      "針對根因的矯正措施與責任/期限",
+      "有效性確認方法或後續驗證證據",
+      "只寫「已改善」",
+      "只附主管簽名",
+      "只提供一句「員工會注意」"
+    ],
+    "correct": [
+      "立即改正/矯正與完成證據",
+      "根因分析",
+      "針對根因的矯正措施與責任/期限",
+      "有效性確認方法或後續驗證證據"
+    ],
+    "explanation": "教材要求 CAPA 至少能說明改正、根因、矯正措施、責任期限、證據與有效性確認。",
+    "mnemonic": "修、因、防、驗。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0549",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "有效性確認",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 跟催課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你是稽核組長，第三方驗證稽核已完成現場活動，正在準備結束與後續流程。\n\n矯正措施已完成後，下列哪三項最能支持「有效性確認」？",
+    "options": [
+      "隔一段時間重新抽樣確認相同問題未再發生",
+      "查看新的流程/控制是否按設計運作",
+      "利用趨勢、紀錄或測試確認根因已被有效處理",
+      "只看 CAPA 狀態欄寫「完成」",
+      "只詢問負責人是否覺得有效",
+      "因三天內沒再出事就永久結案"
+    ],
+    "correct": [
+      "隔一段時間重新抽樣確認相同問題未再發生",
+      "查看新的流程/控制是否按設計運作",
+      "利用趨勢、紀錄或測試確認根因已被有效處理"
+    ],
+    "explanation": "有效性確認必須確認措施真的防止再發，而不只是文件已完成。",
+    "mnemonic": "做完不算完，還要驗。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0550",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "有效性確認",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 跟催課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在主持稽核組最終會議並準備正式報告。\n\n矯正措施已完成後，下列哪三項最能支持「有效性確認」？",
+    "options": [
+      "隔一段時間重新抽樣確認相同問題未再發生",
+      "查看新的流程/控制是否按設計運作",
+      "利用趨勢、紀錄或測試確認根因已被有效處理",
+      "只看 CAPA 狀態欄寫「完成」",
+      "只詢問負責人是否覺得有效",
+      "因三天內沒再出事就永久結案"
+    ],
+    "correct": [
+      "隔一段時間重新抽樣確認相同問題未再發生",
+      "查看新的流程/控制是否按設計運作",
+      "利用趨勢、紀錄或測試確認根因已被有效處理"
+    ],
+    "explanation": "有效性確認必須確認措施真的防止再發，而不只是文件已完成。",
+    "mnemonic": "做完不算完，還要驗。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0551",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "有效性確認",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 跟催課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在指導培訓中的稽核員進行 CAPA 跟催與有效性確認。\n\n矯正措施已完成後，下列哪三項最能支持「有效性確認」？",
+    "options": [
+      "隔一段時間重新抽樣確認相同問題未再發生",
+      "查看新的流程/控制是否按設計運作",
+      "利用趨勢、紀錄或測試確認根因已被有效處理",
+      "只看 CAPA 狀態欄寫「完成」",
+      "只詢問負責人是否覺得有效",
+      "因三天內沒再出事就永久結案"
+    ],
+    "correct": [
+      "隔一段時間重新抽樣確認相同問題未再發生",
+      "查看新的流程/控制是否按設計運作",
+      "利用趨勢、紀錄或測試確認根因已被有效處理"
+    ],
+    "explanation": "有效性確認必須確認措施真的防止再發，而不只是文件已完成。",
+    "mnemonic": "做完不算完，還要驗。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0552",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "有效性確認",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 跟催課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在審查受稽核方對不符合事項的回覆。\n\n矯正措施已完成後，下列哪三項最能支持「有效性確認」？",
+    "options": [
+      "隔一段時間重新抽樣確認相同問題未再發生",
+      "查看新的流程/控制是否按設計運作",
+      "利用趨勢、紀錄或測試確認根因已被有效處理",
+      "只看 CAPA 狀態欄寫「完成」",
+      "只詢問負責人是否覺得有效",
+      "因三天內沒再出事就永久結案"
+    ],
+    "correct": [
+      "隔一段時間重新抽樣確認相同問題未再發生",
+      "查看新的流程/控制是否按設計運作",
+      "利用趨勢、紀錄或測試確認根因已被有效處理"
+    ],
+    "explanation": "有效性確認必須確認措施真的防止再發，而不只是文件已完成。",
+    "mnemonic": "做完不算完，還要驗。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0553",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "有效性確認",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 跟催課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在用第三方驗證後的實務案例測試稽核員對報告與結案邏輯的掌握。\n\n矯正措施已完成後，下列哪三項最能支持「有效性確認」？",
+    "options": [
+      "隔一段時間重新抽樣確認相同問題未再發生",
+      "查看新的流程/控制是否按設計運作",
+      "利用趨勢、紀錄或測試確認根因已被有效處理",
+      "只看 CAPA 狀態欄寫「完成」",
+      "只詢問負責人是否覺得有效",
+      "因三天內沒再出事就永久結案"
+    ],
+    "correct": [
+      "隔一段時間重新抽樣確認相同問題未再發生",
+      "查看新的流程/控制是否按設計運作",
+      "利用趨勢、紀錄或測試確認根因已被有效處理"
+    ],
+    "explanation": "有效性確認必須確認措施真的防止再發，而不只是文件已完成。",
+    "mnemonic": "做完不算完，還要驗。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0554",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "認證決定",
+    "source": "驗證過程要求 / 認證邏輯課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你是稽核組長，第三方驗證稽核已完成現場活動，正在準備結束與後續流程。\n\n關於稽核結論與認證決定，下列哪三項較正確？",
+    "options": [
+      "稽核團隊依稽核目標與發現形成稽核結論",
+      "稽核團隊可依程序提出認證建議",
+      "正式認證決定應由具適當權限且符合獨立性要求的角色依程序作成",
+      "主導稽核員在結束會議上可以直接自行發證",
+      "受稽核方自己決定是否認證",
+      "只要沒有資安事故即可自動取得認證"
+    ],
+    "correct": [
+      "稽核團隊依稽核目標與發現形成稽核結論",
+      "稽核團隊可依程序提出認證建議",
+      "正式認證決定應由具適當權限且符合獨立性要求的角色依程序作成"
+    ],
+    "explanation": "稽核結論/建議與正式認證決定是不同角色與流程。",
+    "mnemonic": "稽核員查，認證者決。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0555",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "認證決定",
+    "source": "驗證過程要求 / 認證邏輯課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在主持稽核組最終會議並準備正式報告。\n\n關於稽核結論與認證決定，下列哪三項較正確？",
+    "options": [
+      "稽核團隊依稽核目標與發現形成稽核結論",
+      "稽核團隊可依程序提出認證建議",
+      "正式認證決定應由具適當權限且符合獨立性要求的角色依程序作成",
+      "主導稽核員在結束會議上可以直接自行發證",
+      "受稽核方自己決定是否認證",
+      "只要沒有資安事故即可自動取得認證"
+    ],
+    "correct": [
+      "稽核團隊依稽核目標與發現形成稽核結論",
+      "稽核團隊可依程序提出認證建議",
+      "正式認證決定應由具適當權限且符合獨立性要求的角色依程序作成"
+    ],
+    "explanation": "稽核結論/建議與正式認證決定是不同角色與流程。",
+    "mnemonic": "稽核員查，認證者決。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0556",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "認證決定",
+    "source": "驗證過程要求 / 認證邏輯課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在指導培訓中的稽核員進行 CAPA 跟催與有效性確認。\n\n關於稽核結論與認證決定，下列哪三項較正確？",
+    "options": [
+      "稽核團隊依稽核目標與發現形成稽核結論",
+      "稽核團隊可依程序提出認證建議",
+      "正式認證決定應由具適當權限且符合獨立性要求的角色依程序作成",
+      "主導稽核員在結束會議上可以直接自行發證",
+      "受稽核方自己決定是否認證",
+      "只要沒有資安事故即可自動取得認證"
+    ],
+    "correct": [
+      "稽核團隊依稽核目標與發現形成稽核結論",
+      "稽核團隊可依程序提出認證建議",
+      "正式認證決定應由具適當權限且符合獨立性要求的角色依程序作成"
+    ],
+    "explanation": "稽核結論/建議與正式認證決定是不同角色與流程。",
+    "mnemonic": "稽核員查，認證者決。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0557",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "認證決定",
+    "source": "驗證過程要求 / 認證邏輯課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在審查受稽核方對不符合事項的回覆。\n\n關於稽核結論與認證決定，下列哪三項較正確？",
+    "options": [
+      "稽核團隊依稽核目標與發現形成稽核結論",
+      "稽核團隊可依程序提出認證建議",
+      "正式認證決定應由具適當權限且符合獨立性要求的角色依程序作成",
+      "主導稽核員在結束會議上可以直接自行發證",
+      "受稽核方自己決定是否認證",
+      "只要沒有資安事故即可自動取得認證"
+    ],
+    "correct": [
+      "稽核團隊依稽核目標與發現形成稽核結論",
+      "稽核團隊可依程序提出認證建議",
+      "正式認證決定應由具適當權限且符合獨立性要求的角色依程序作成"
+    ],
+    "explanation": "稽核結論/建議與正式認證決定是不同角色與流程。",
+    "mnemonic": "稽核員查，認證者決。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0558",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "認證決定",
+    "source": "驗證過程要求 / 認證邏輯課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 3,
+    "instruction": "請選擇 3 項正確的答案。",
+    "stem": "你正在用第三方驗證後的實務案例測試稽核員對報告與結案邏輯的掌握。\n\n關於稽核結論與認證決定，下列哪三項較正確？",
+    "options": [
+      "稽核團隊依稽核目標與發現形成稽核結論",
+      "稽核團隊可依程序提出認證建議",
+      "正式認證決定應由具適當權限且符合獨立性要求的角色依程序作成",
+      "主導稽核員在結束會議上可以直接自行發證",
+      "受稽核方自己決定是否認證",
+      "只要沒有資安事故即可自動取得認證"
+    ],
+    "correct": [
+      "稽核團隊依稽核目標與發現形成稽核結論",
+      "稽核團隊可依程序提出認證建議",
+      "正式認證決定應由具適當權限且符合獨立性要求的角色依程序作成"
+    ],
+    "explanation": "稽核結論/建議與正式認證決定是不同角色與流程。",
+    "mnemonic": "稽核員查，認證者決。",
+    "typeLabel": "複選題｜選 3 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0559",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "跟催結案",
+    "source": "CAPA 跟催與有效性確認課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你是稽核組長，第三方驗證稽核已完成現場活動，正在準備結束與後續流程。\n\n在決定一項不符合是否可以結案前，請選擇四項最重要的確認事項。",
+    "options": [
+      "改正是否完成並有證據",
+      "根因分析是否合理且對應不符合",
+      "矯正措施是否針對根因且已實施",
+      "有效性是否已有適當確認或後續安排",
+      "受稽核主管是否喜歡稽核員",
+      "是否已過一段時間所以自動關閉",
+      "是否能把不符合改名成觀察事項"
+    ],
+    "correct": [
+      "改正是否完成並有證據",
+      "根因分析是否合理且對應不符合",
+      "矯正措施是否針對根因且已實施",
+      "有效性是否已有適當確認或後續安排"
+    ],
+    "explanation": "跟催不是只收文件，而是確認修正、根因、矯正措施與有效性。",
+    "mnemonic": "結案前：修了嗎、原因對嗎、防再犯嗎、有效嗎。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0560",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "跟催結案",
+    "source": "CAPA 跟催與有效性確認課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在主持稽核組最終會議並準備正式報告。\n\n在決定一項不符合是否可以結案前，請選擇四項最重要的確認事項。",
+    "options": [
+      "改正是否完成並有證據",
+      "根因分析是否合理且對應不符合",
+      "矯正措施是否針對根因且已實施",
+      "有效性是否已有適當確認或後續安排",
+      "受稽核主管是否喜歡稽核員",
+      "是否已過一段時間所以自動關閉",
+      "是否能把不符合改名成觀察事項"
+    ],
+    "correct": [
+      "改正是否完成並有證據",
+      "根因分析是否合理且對應不符合",
+      "矯正措施是否針對根因且已實施",
+      "有效性是否已有適當確認或後續安排"
+    ],
+    "explanation": "跟催不是只收文件，而是確認修正、根因、矯正措施與有效性。",
+    "mnemonic": "結案前：修了嗎、原因對嗎、防再犯嗎、有效嗎。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0561",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "跟催結案",
+    "source": "CAPA 跟催與有效性確認課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在指導培訓中的稽核員進行 CAPA 跟催與有效性確認。\n\n在決定一項不符合是否可以結案前，請選擇四項最重要的確認事項。",
+    "options": [
+      "改正是否完成並有證據",
+      "根因分析是否合理且對應不符合",
+      "矯正措施是否針對根因且已實施",
+      "有效性是否已有適當確認或後續安排",
+      "受稽核主管是否喜歡稽核員",
+      "是否已過一段時間所以自動關閉",
+      "是否能把不符合改名成觀察事項"
+    ],
+    "correct": [
+      "改正是否完成並有證據",
+      "根因分析是否合理且對應不符合",
+      "矯正措施是否針對根因且已實施",
+      "有效性是否已有適當確認或後續安排"
+    ],
+    "explanation": "跟催不是只收文件，而是確認修正、根因、矯正措施與有效性。",
+    "mnemonic": "結案前：修了嗎、原因對嗎、防再犯嗎、有效嗎。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0562",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "跟催結案",
+    "source": "CAPA 跟催與有效性確認課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在審查受稽核方對不符合事項的回覆。\n\n在決定一項不符合是否可以結案前，請選擇四項最重要的確認事項。",
+    "options": [
+      "改正是否完成並有證據",
+      "根因分析是否合理且對應不符合",
+      "矯正措施是否針對根因且已實施",
+      "有效性是否已有適當確認或後續安排",
+      "受稽核主管是否喜歡稽核員",
+      "是否已過一段時間所以自動關閉",
+      "是否能把不符合改名成觀察事項"
+    ],
+    "correct": [
+      "改正是否完成並有證據",
+      "根因分析是否合理且對應不符合",
+      "矯正措施是否針對根因且已實施",
+      "有效性是否已有適當確認或後續安排"
+    ],
+    "explanation": "跟催不是只收文件，而是確認修正、根因、矯正措施與有效性。",
+    "mnemonic": "結案前：修了嗎、原因對嗎、防再犯嗎、有效嗎。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0563",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "跟催結案",
+    "source": "CAPA 跟催與有效性確認課程",
+    "difficulty": "高",
+    "type": "multi",
+    "style": "CQI_IRCA_like",
+    "selectCount": 4,
+    "instruction": "請選擇 4 項正確的答案。",
+    "stem": "你正在用第三方驗證後的實務案例測試稽核員對報告與結案邏輯的掌握。\n\n在決定一項不符合是否可以結案前，請選擇四項最重要的確認事項。",
+    "options": [
+      "改正是否完成並有證據",
+      "根因分析是否合理且對應不符合",
+      "矯正措施是否針對根因且已實施",
+      "有效性是否已有適當確認或後續安排",
+      "受稽核主管是否喜歡稽核員",
+      "是否已過一段時間所以自動關閉",
+      "是否能把不符合改名成觀察事項"
+    ],
+    "correct": [
+      "改正是否完成並有證據",
+      "根因分析是否合理且對應不符合",
+      "矯正措施是否針對根因且已實施",
+      "有效性是否已有適當確認或後續安排"
+    ],
+    "explanation": "跟催不是只收文件，而是確認修正、根因、矯正措施與有效性。",
+    "mnemonic": "結案前：修了嗎、原因對嗎、防再犯嗎、有效嗎。",
+    "typeLabel": "複選題｜選 4 項",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0564",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 階段配對",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你是稽核組長，第三方驗證稽核已完成現場活動，正在準備結束與後續流程。\n\n請將下列 CAPA 描述與最適合的階段配對。",
+    "rows": [
+      {
+        "prompt": "立即停用離職人員仍有效的帳號",
+        "answer": "矯正"
+      },
+      {
+        "prompt": "分析為何 HR 離職通知沒有傳到資訊部",
+        "answer": "根因分析"
+      },
+      {
+        "prompt": "建立 HR 核准離職後自動通知並停權的流程",
+        "answer": "矯正措施"
+      },
+      {
+        "prompt": "三個月後抽查離職帳號是否皆在時限內停權",
+        "answer": "有效性確認"
+      }
+    ],
+    "choices": [
+      "矯正",
+      "根因分析",
+      "矯正措施",
+      "有效性確認"
+    ],
+    "explanation": "這四個階段最容易在考試中混淆，配對題可直接檢驗是否真正理解。",
+    "mnemonic": "修→因→防→驗。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0565",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 階段配對",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你正在主持稽核組最終會議並準備正式報告。\n\n請將下列 CAPA 描述與最適合的階段配對。",
+    "rows": [
+      {
+        "prompt": "立即停用離職人員仍有效的帳號",
+        "answer": "矯正"
+      },
+      {
+        "prompt": "分析為何 HR 離職通知沒有傳到資訊部",
+        "answer": "根因分析"
+      },
+      {
+        "prompt": "建立 HR 核准離職後自動通知並停權的流程",
+        "answer": "矯正措施"
+      },
+      {
+        "prompt": "三個月後抽查離職帳號是否皆在時限內停權",
+        "answer": "有效性確認"
+      }
+    ],
+    "choices": [
+      "矯正",
+      "根因分析",
+      "矯正措施",
+      "有效性確認"
+    ],
+    "explanation": "這四個階段最容易在考試中混淆，配對題可直接檢驗是否真正理解。",
+    "mnemonic": "修→因→防→驗。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0566",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 階段配對",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你正在指導培訓中的稽核員進行 CAPA 跟催與有效性確認。\n\n請將下列 CAPA 描述與最適合的階段配對。",
+    "rows": [
+      {
+        "prompt": "立即停用離職人員仍有效的帳號",
+        "answer": "矯正"
+      },
+      {
+        "prompt": "分析為何 HR 離職通知沒有傳到資訊部",
+        "answer": "根因分析"
+      },
+      {
+        "prompt": "建立 HR 核准離職後自動通知並停權的流程",
+        "answer": "矯正措施"
+      },
+      {
+        "prompt": "三個月後抽查離職帳號是否皆在時限內停權",
+        "answer": "有效性確認"
+      }
+    ],
+    "choices": [
+      "矯正",
+      "根因分析",
+      "矯正措施",
+      "有效性確認"
+    ],
+    "explanation": "這四個階段最容易在考試中混淆，配對題可直接檢驗是否真正理解。",
+    "mnemonic": "修→因→防→驗。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0567",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 階段配對",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你正在審查受稽核方對不符合事項的回覆。\n\n請將下列 CAPA 描述與最適合的階段配對。",
+    "rows": [
+      {
+        "prompt": "立即停用離職人員仍有效的帳號",
+        "answer": "矯正"
+      },
+      {
+        "prompt": "分析為何 HR 離職通知沒有傳到資訊部",
+        "answer": "根因分析"
+      },
+      {
+        "prompt": "建立 HR 核准離職後自動通知並停權的流程",
+        "answer": "矯正措施"
+      },
+      {
+        "prompt": "三個月後抽查離職帳號是否皆在時限內停權",
+        "answer": "有效性確認"
+      }
+    ],
+    "choices": [
+      "矯正",
+      "根因分析",
+      "矯正措施",
+      "有效性確認"
+    ],
+    "explanation": "這四個階段最容易在考試中混淆，配對題可直接檢驗是否真正理解。",
+    "mnemonic": "修→因→防→驗。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
+  },
+  {
+    "id": "Q0568",
+    "unit": 5,
+    "unitName": "稽核報告與結束",
+    "topic": "CAPA 階段配對",
+    "source": "ISO/IEC 27001:2022 10.2 / CAPA 課程",
+    "difficulty": "高",
+    "type": "matching",
+    "style": "CQI_IRCA_like",
+    "instruction": "請使用每列的下拉式選單完成配對。",
+    "stem": "你正在用第三方驗證後的實務案例測試稽核員對報告與結案邏輯的掌握。\n\n請將下列 CAPA 描述與最適合的階段配對。",
+    "rows": [
+      {
+        "prompt": "立即停用離職人員仍有效的帳號",
+        "answer": "矯正"
+      },
+      {
+        "prompt": "分析為何 HR 離職通知沒有傳到資訊部",
+        "answer": "根因分析"
+      },
+      {
+        "prompt": "建立 HR 核准離職後自動通知並停權的流程",
+        "answer": "矯正措施"
+      },
+      {
+        "prompt": "三個月後抽查離職帳號是否皆在時限內停權",
+        "answer": "有效性確認"
+      }
+    ],
+    "choices": [
+      "矯正",
+      "根因分析",
+      "矯正措施",
+      "有效性確認"
+    ],
+    "explanation": "這四個階段最容易在考試中混淆，配對題可直接檢驗是否真正理解。",
+    "mnemonic": "修→因→防→驗。",
+    "typeLabel": "配對題｜下拉選單",
+    "priorityStyle": true
   }
 ];
