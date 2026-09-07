@@ -1,452 +1,58 @@
 <!doctype html>
 <html lang="zh-Hant">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#0b1f33">
-<title>ISO/IEC 27001:2022 主導稽核員模擬考</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#267549"><title>ISO/IEC 27001:2022 主導稽核員模擬考</title>
 <style>
-:root{
-  --bg:#081523; --panel:#0f2236; --panel2:#132a41; --line:#29445f;
-  --text:#edf5fb; --muted:#9fb5c8; --accent:#34d3b3; --accent2:#50a8ff;
-  --warn:#ffd166; --danger:#ff6b6b; --ok:#5ee08b; --white:#fff;
-}
-*{box-sizing:border-box} html{scroll-behavior:smooth}
-body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;background:linear-gradient(180deg,#07111d 0%,#0a1c2d 100%);color:var(--text);line-height:1.6}
-button,input,select{font:inherit}
-button{cursor:pointer}
-.wrap{max-width:1240px;margin:auto;padding:20px}
-.hero{padding:34px 0 24px}
-.badge{display:inline-flex;gap:8px;align-items:center;background:#14364a;border:1px solid #23617c;color:#9ff4df;border-radius:999px;padding:6px 12px;font-size:13px;font-weight:700}
-h1{font-size:clamp(30px,5vw,54px);line-height:1.08;margin:14px 0 10px;letter-spacing:-.02em}
-.lead{max-width:850px;color:var(--muted);font-size:17px}
-.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:16px}
-.card{background:rgba(15,34,54,.94);border:1px solid var(--line);border-radius:18px;padding:20px;box-shadow:0 12px 40px rgba(0,0,0,.18)}
-.stat{grid-column:span 3}
-.stat b{font-size:28px;display:block;color:var(--white)}
-.stat span{color:var(--muted);font-size:13px}
-.mode{grid-column:span 4;display:flex;flex-direction:column;justify-content:space-between;min-height:215px}
-.mode h3{margin:0 0 6px}
-.mode p{color:var(--muted);font-size:14px;margin:0 0 18px}
-.btn{border:0;border-radius:12px;padding:12px 16px;font-weight:800;background:var(--accent);color:#04241d}
-.btn.secondary{background:#193a56;color:#dbeefe;border:1px solid #315a78}
-.btn.warn{background:var(--warn);color:#352800}
-.btn.danger{background:#572b37;color:#ffdbe1;border:1px solid #8b4657}
-.btn:disabled{opacity:.45;cursor:not-allowed}
-.unit-list{grid-column:span 12}
-.unit-row{display:grid;grid-template-columns:80px 1fr 120px;gap:12px;align-items:center;padding:10px 0;border-bottom:1px dashed #284259}
-.unit-row:last-child{border-bottom:0}
-.pill{background:#18344e;color:#aad4f2;border:1px solid #2a597c;border-radius:999px;padding:4px 9px;font-size:12px;width:max-content}
-.note{background:#0c2733;border-left:4px solid var(--accent);padding:14px 16px;border-radius:10px;color:#cce8e5;margin-top:18px}
-.hidden{display:none!important}
-
-#examView{padding-bottom:120px}
-.topbar{position:sticky;top:0;z-index:20;background:rgba(7,17,29,.93);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
-.topbar-inner{max-width:1240px;margin:auto;padding:10px 20px;display:flex;gap:12px;align-items:center;justify-content:space-between}
-.progress{height:8px;background:#173049;border-radius:999px;overflow:hidden;flex:1;max-width:420px}
-.progress > div{height:100%;background:linear-gradient(90deg,var(--accent),var(--accent2));width:0%}
-.timer{font-weight:900;font-variant-numeric:tabular-nums;padding:6px 10px;border-radius:10px;background:#122b42}
-.exam-layout{display:grid;grid-template-columns:minmax(0,1fr) 290px;gap:18px;max-width:1240px;margin:auto;padding:18px 20px}
-.questions{display:flex;flex-direction:column;gap:16px}
-.qcard{background:rgba(15,34,54,.97);border:1px solid var(--line);border-radius:18px;padding:20px;scroll-margin-top:86px}
-.qhead{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:10px}
-.qnum{font-weight:900;color:#dff8ff}.topic{font-size:12px;color:#99bed7}
-.qstem{font-size:18px;font-weight:800;margin:8px 0 14px}
-.option{display:block;border:1px solid #31506d;background:#0c1d2f;border-radius:12px;padding:12px 13px;margin:9px 0;transition:.15s}
-.option:hover{border-color:#5b87aa;background:#10263b}
-.option input{margin-right:9px;transform:scale(1.12)}
-.option.correct{border-color:#3dbf70;background:#103522}
-.option.wrong{border-color:#d95b6a;background:#3a1820}
-.option.missed{border-color:#d7b34f;background:#352e15}
-.explain{margin-top:14px;padding:14px;border-radius:12px;background:#0a2930;border:1px solid #1c5b63}
-.explain strong{color:#97f4e2}
-.source{font-size:12px;color:#8fa9bc;margin-top:8px}
-.sidebar{position:sticky;top:78px;height:max-content}
-.navgrid{display:grid;grid-template-columns:repeat(5,1fr);gap:7px}
-.navbtn{border:1px solid #31516f;background:#10263b;color:#cce4f7;border-radius:9px;padding:8px 0;font-size:12px}
-.navbtn.answered{background:#153d3c;border-color:#318074}
-.navbtn.wrong{background:#4a222b;border-color:#8e4655}
-.navbtn.correct{background:#17412a;border-color:#397f54}
-.summary-box{margin-bottom:14px}
-.submitbar{position:fixed;left:0;right:0;bottom:0;z-index:25;background:rgba(7,17,29,.96);backdrop-filter:blur(12px);border-top:1px solid var(--line)}
-.submitbar-inner{max-width:1240px;margin:auto;padding:12px 20px;display:flex;gap:12px;justify-content:flex-end;align-items:center}
-#resultPanel{max-width:1240px;margin:20px auto;padding:0 20px}
-.score-big{font-size:58px;line-height:1;font-weight:950}
-.pass{color:var(--ok)} .fail{color:var(--danger)}
-.unit-score{display:grid;grid-template-columns:1fr 90px 90px;gap:10px;padding:10px 0;border-bottom:1px solid #284259}
-.review-toolbar{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
-small.muted,.muted{color:var(--muted)}
-.footer{color:#71899e;text-align:center;padding:34px 0 110px;font-size:12px}
-.kbd{border:1px solid #36516c;border-radius:6px;padding:1px 6px;background:#12283c;color:#d7e8f7}
-@media (max-width:900px){
- .stat{grid-column:span 6}.mode{grid-column:span 12}
- .exam-layout{grid-template-columns:1fr}.sidebar{position:static;order:-1}
- .sidebar .card{padding:12px}.navgrid{grid-template-columns:repeat(10,1fr)}
- .unit-row{grid-template-columns:62px 1fr}
- .unit-row .last{display:none}
-}
-@media (max-width:560px){
- .wrap{padding:14px}.stat{grid-column:span 12}
- .topbar-inner{padding:8px 12px;gap:8px}.progress{display:none}
- .exam-layout{padding:12px}.qcard{padding:16px}.qstem{font-size:16px}
- .navgrid{grid-template-columns:repeat(8,1fr)}
- .submitbar-inner{padding:10px 12px}.btn{padding:11px 13px}
-}
-</style>
-</head>
-<body>
-<div id="homeView">
-  <main class="wrap">
-    <section class="hero">
-      <span class="badge">🛡️ GitHub Pages Ready｜ISO/IEC 27001:2022 Lead Auditor</span>
-      <h1>主導稽核員<br>模擬考訓練系統</h1>
-      <p class="lead">依你提供的課程考試大綱與教材建立。正式模擬固定抽出 <b>40 題</b>，單元比例 <b>6 / 6 / 6 / 14 / 8</b>，倒數 <b>105 分鐘</b>。送出後立即顯示每題答案、白話解析、教材依據與記憶口訣。</p>
-      <div class="note">題庫為教材導向的自製模擬題，不是正式考題或洩題。系統刻意把第 4、5 單元做成較多情境判斷，訓練「準則 → 證據 → 發現 → 結論」與「修 → 因 → 防 → 驗」的邏輯。</div>
-    </section>
-
-    <section class="grid">
-      <div class="card stat"><b id="bankCount">—</b><span>題題庫</span></div>
-      <div class="card stat"><b>40</b><span>正式模擬每回題數</span></div>
-      <div class="card stat"><b>105</b><span>分鐘倒數</span></div>
-      <div class="card stat"><b>80%</b><span>總分及格門檻</span></div>
-
-      <div class="card mode">
-        <div><span class="pill">推薦</span><h3>正式模擬考</h3><p>40 題、105 分鐘，完全按照 6 / 6 / 6 / 14 / 8 配題。總分 ≥80%，且每單元 ≥50% 才判 PASS。</p></div>
-        <button class="btn" onclick="startOfficial()">開始正式模擬</button>
-      </div>
-      <div class="card mode">
-        <div><span class="pill">大量刷題</span><h3>80 題強化練習</h3><p>一次抽 80 題，不限時。適合把觀念刷熟，送出後同樣逐題講解。</p></div>
-        <button class="btn secondary" onclick="startPractice(80)">開始 80 題</button>
-      </div>
-      <div class="card mode">
-        <div><span class="pill">錯題追打</span><h3>錯題重練</h3><p>自動記住做錯的題目；答對後會從錯題庫移除，反覆考到你真的會。</p></div>
-        <button id="wrongBtn" class="btn warn" onclick="startWrong()">錯題重練（0）</button>
-      </div>
-
-      <div class="card unit-list">
-        <h3 style="margin-top:0">正式考試大綱</h3>
-        <div class="unit-row"><b>單元 1</b><span>管理系統標準與管理系統概念原則</span><span class="last">6 題</span></div>
-        <div class="unit-row"><b>單元 2</b><span>稽核概念與稽核員責任</span><span class="last">6 題</span></div>
-        <div class="unit-row"><b>單元 3</b><span>稽核規劃</span><span class="last">6 題</span></div>
-        <div class="unit-row"><b>單元 4</b><span>稽核執行｜訪談、抽樣、證據、控制測試、稽核發現</span><span class="last">14 題 🔥</span></div>
-        <div class="unit-row"><b>單元 5</b><span>稽核報告與結束｜Closing Meeting、CAPA、跟催、有效性</span><span class="last">8 題 🔥</span></div>
-      </div>
-
-      <div class="card unit-list">
-        <h3 style="margin-top:0">單元專攻</h3>
-        <div class="review-toolbar">
-          <button class="btn secondary" onclick="startUnit(1)">單元 1｜40 題</button>
-          <button class="btn secondary" onclick="startUnit(2)">單元 2｜40 題</button>
-          <button class="btn secondary" onclick="startUnit(3)">單元 3｜40 題</button>
-          <button class="btn secondary" onclick="startUnit(4)">單元 4｜40 題</button>
-          <button class="btn secondary" onclick="startUnit(5)">單元 5｜40 題</button>
-        </div>
-      </div>
-
-      <div class="card unit-list">
-        <h3 style="margin-top:0">考前 10 句</h3>
-        <div class="grid" style="gap:10px">
-          <div style="grid-column:span 6">① CIA：不能偷看、不能亂改、不能掛</div>
-          <div style="grid-column:span 6">② 風險：找 → 算 → 比 → 治</div>
-          <div style="grid-column:span 6">③ 稽核：準 → 證 → 發 → 結</div>
-          <div style="grid-column:span 6">④ 現場：規 → 證 → 判</div>
-          <div style="grid-column:span 6">⑤ CAPA：修 → 因 → 防 → 驗</div>
-          <div style="grid-column:span 6">⑥ 發現看單點，結論看全局</div>
-          <div style="grid-column:span 6">⑦ KPI 看成績，KRI 看危險</div>
-          <div style="grid-column:span 6">⑧ Scope＝ISMS 邊界在哪</div>
-          <div style="grid-column:span 6">⑨ 一階看準備，二階看實做</div>
-          <div style="grid-column:span 6">⑩ 有制度 ≠ 有執行</div>
-        </div>
-      </div>
-    </section>
-    <div class="footer">v1.0｜靜態網站，不需後端、不需資料庫，可直接部署 GitHub Pages。</div>
-  </main>
-</div>
-
-<div id="examView" class="hidden">
-  <div class="topbar">
-    <div class="topbar-inner">
-      <button class="btn secondary" style="padding:7px 10px" onclick="confirmExit()">← 返回</button>
-      <div><b id="modeTitle">模擬考</b><br><small class="muted" id="answeredText">0 / 40 已作答</small></div>
-      <div class="progress"><div id="progressBar"></div></div>
-      <div class="timer" id="timer">105:00</div>
-    </div>
-  </div>
-
-  <div id="resultPanel" class="hidden"></div>
-
-  <div class="exam-layout" id="examLayout">
-    <section class="questions" id="questions"></section>
-    <aside class="sidebar">
-      <div class="card summary-box">
-        <b>題號導覽</b>
-        <div class="navgrid" id="navgrid" style="margin-top:10px"></div>
-        <small class="muted" style="display:block;margin-top:10px">綠色＝已作答。交卷後顯示對錯。</small>
-      </div>
-      <div class="card">
-        <b>考試規則</b>
-        <p class="muted" style="font-size:13px;margin-bottom:0">正式模式：總分 ≥80%，且五個單元各 ≥50% 才 PASS。按送出後才顯示答案與解析。</p>
-      </div>
-    </aside>
-  </div>
-
-  <div class="submitbar">
-    <div class="submitbar-inner">
-      <span class="muted" id="submitHint">尚有題目未作答</span>
-      <button class="btn" id="submitBtn" onclick="submitExam(false)">送出並查看解析</button>
-    </div>
-  </div>
-</div>
-
-<script src="questions.js"></script>
-<script>
-const OFFICIAL_COUNTS={1:6,2:6,3:6,4:14,5:8};
-let state={mode:"official", questions:[], answers:{}, submitted:false, timerSec:0, timerId:null, title:""};
-
-const $=s=>document.querySelector(s);
-const $$=s=>document.querySelectorAll(s);
-const shuffle=a=>{a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
-const esc=s=>String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[m]));
-const getWrong=()=>JSON.parse(localStorage.getItem("ismsWrongV1")||"[]");
-const setWrong=a=>localStorage.setItem("ismsWrongV1",JSON.stringify([...new Set(a)]));
-const sample=(arr,n)=>shuffle(arr).slice(0,Math.min(n,arr.length));
-
-function updateHome(){
-  $("#bankCount").textContent=QUESTION_BANK.length;
-  const wc=getWrong().length;
-  $("#wrongBtn").textContent=`錯題重練（${wc}）`;
-  $("#wrongBtn").disabled=wc===0;
-}
-function pickOfficial(){
-  let out=[];
-  Object.entries(OFFICIAL_COUNTS).forEach(([u,n])=>{
-    out.push(...sample(QUESTION_BANK.filter(q=>q.unit==u),n));
-  });
-  return shuffle(out);
-}
-function startOfficial(){
-  begin("official",pickOfficial(),"正式模擬考｜40 題",105*60);
-}
-function startPractice(n){
-  begin("practice",sample(QUESTION_BANK,n),`${n} 題強化練習`,0);
-}
-function startUnit(u){
-  const pool=QUESTION_BANK.filter(q=>q.unit===u);
-  begin("unit",sample(pool,40),`單元 ${u} 專攻｜40 題`,0);
-}
-function startWrong(){
-  const ids=new Set(getWrong());
-  const pool=QUESTION_BANK.filter(q=>ids.has(q.id));
-  if(!pool.length){alert("目前沒有錯題。");return;}
-  begin("wrong",shuffle(pool),`錯題重練｜${pool.length} 題`,0);
-}
-function begin(mode,qs,title,timerSec){
-  if(!qs.length){alert("沒有可用題目");return}
-  state={mode,questions:qs,answers:{},submitted:false,timerSec,timerId:null,title};
-  $("#homeView").classList.add("hidden");
-  $("#examView").classList.remove("hidden");
-  $("#resultPanel").classList.add("hidden");
-  $("#examLayout").classList.remove("hidden");
-  $("#modeTitle").textContent=title;
-  renderExam();
-  startTimer(timerSec);
-  window.scrollTo({top:0,behavior:"instant"});
-}
-function startTimer(sec){
-  clearInterval(state.timerId);
-  if(!sec){$("#timer").textContent="不限時";return}
-  const tick=()=>{
-    const m=Math.floor(state.timerSec/60),s=state.timerSec%60;
-    $("#timer").textContent=`${String(m).padStart(2,"0")}:${String(s).padStart(2,"0")}`;
-    if(state.timerSec<=300) $("#timer").style.color="var(--warn)";
-    if(state.timerSec<=0){clearInterval(state.timerId);submitExam(true);return}
-    state.timerSec--;
-  };
-  tick(); state.timerId=setInterval(tick,1000);
-}
-function renderedOptions(q){
-  if(!q._displayOptions) q._displayOptions=shuffle(q.options);
-  return q._displayOptions;
-}
-function renderExam(){
-  const box=$("#questions"); box.innerHTML="";
-  const nav=$("#navgrid"); nav.innerHTML="";
-  state.questions.forEach((q,idx)=>{
-    const card=document.createElement("article");
-    card.className="qcard"; card.id=`q-${idx}`;
-    const options=renderedOptions(q);
-    card.innerHTML=`
-      <div class="qhead">
-        <span class="qnum">第 ${idx+1} 題</span>
-        <span class="pill">單元 ${q.unit}</span>
-        <span class="topic">${esc(q.topic)}｜${esc(q.difficulty)}</span>
-        ${q.type==="multi"?'<span class="pill" style="border-color:#8a6b25;color:#ffe39a">複選</span>':''}
-      </div>
-      <div class="qstem">${esc(q.stem)}</div>
-      <div class="opts"></div>
-      <div class="explain hidden" id="exp-${idx}"></div>`;
-    const opts=card.querySelector(".opts");
-    options.forEach((op,oi)=>{
-      const label=document.createElement("label");
-      label.className="option";
-      const type=q.type==="multi"?"checkbox":"radio";
-      label.innerHTML=`<input type="${type}" name="q${idx}" value="${esc(op)}"> <b>${String.fromCharCode(65+oi)}.</b> ${esc(op)}`;
-      label.querySelector("input").addEventListener("change",()=>capture(idx,q));
-      opts.appendChild(label);
-    });
-    box.appendChild(card);
-
-    const b=document.createElement("button");
-    b.className="navbtn"; b.textContent=idx+1;
-    b.onclick=()=>document.getElementById(`q-${idx}`).scrollIntoView({behavior:"smooth",block:"start"});
-    nav.appendChild(b);
-  });
-  updateProgress();
-}
-function capture(idx,q){
-  if(state.submitted)return;
-  const card=document.getElementById(`q-${idx}`);
-  if(q.type==="multi"){
-    state.answers[q.id]=[...card.querySelectorAll("input:checked")].map(x=>x.value);
-  }else{
-    state.answers[q.id]=card.querySelector("input:checked")?.value ?? null;
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Microsoft JhengHei",sans-serif;background:#f7f8f9;color:#182026;font-size:16px}.hidden{display:none!important}button,select,input{font:inherit}.top{background:#28784c;color:#fff;position:sticky;top:0;z-index:50;box-shadow:0 1px 4px #0004}.topline{max-width:1440px;margin:auto;display:flex;align-items:center;gap:12px;padding:10px 14px}.title{font-weight:800;white-space:nowrap}.sections{display:flex;gap:0;overflow:auto;scrollbar-width:none}.sect{border:0;border-left:1px solid #ffffff44;background:#28784c;color:#fff;padding:10px 15px;white-space:nowrap;font-weight:700}.sect.active{background:#0d5630;position:relative}.sect.active:after{content:"";position:absolute;left:50%;bottom:-8px;transform:translateX(-50%);border:8px solid transparent;border-top-color:#0d5630}.timer{margin-left:auto;font-weight:800;white-space:nowrap}.wrap{max-width:1440px;margin:auto;padding:18px 20px 110px}.home{max-width:1050px;margin:auto;padding:28px 18px}.card{background:#fff;border:1px solid #ccd4da;border-radius:8px;padding:20px;margin-bottom:16px;box-shadow:0 2px 10px #00000010}.hero h1{margin:4px 0;font-size:34px}.muted{color:#61717d}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.stat{padding:18px;text-align:center;background:#fff;border:1px solid #d6dde2;border-radius:8px}.stat b{display:block;font-size:29px;color:#17643c}.btn{border:0;border-radius:5px;padding:11px 18px;font-weight:800;cursor:pointer}.green{background:#3c6812;color:#fff}.blue{background:#09779e;color:#fff}.orange{background:#a84d24;color:#fff}.gray{background:#e9edf0;color:#17303e}.controls{display:flex;gap:10px;flex-wrap:wrap}.qhead{display:flex;gap:12px;align-items:flex-start}.qnum{background:#273038;color:#fff;border-radius:2px;padding:8px 11px;font-weight:900;min-width:44px;text-align:center}.qbody{flex:1}.qstem{font-weight:700;line-height:1.7;white-space:pre-line;margin:4px 0 10px}.instruction{font-size:14px;color:#526571;margin:8px 0 12px;font-weight:700}
+.prehint{display:inline-flex;align-items:center;gap:7px;margin:7px 0 10px;padding:7px 11px;border-radius:6px;background:#fff4cf;border:1px solid #d9b84c;color:#664e00;font-weight:900;font-size:14px}
+.prehint.multi{background:#fff0d8;border-color:#e3a145;color:#7a3f00}
+.prehint.single{background:#edf6fb;border-color:#9cc9df;color:#245a73}
+.prehint.match{background:#eef7f2;border-color:#9bcab0;color:#246241}.option{display:flex;gap:9px;align-items:flex-start;padding:10px 8px;border-radius:6px}.option:hover{background:#eef5f1}.option input{margin-top:4px;transform:scale(1.2)}.multiCount{display:inline-block;background:#fff4cf;border:1px solid #d9b84c;border-radius:999px;padding:3px 9px;font-size:12px;font-weight:800;color:#735b08}.ddtable{width:100%;border-collapse:collapse;margin-top:12px}.ddtable th,.ddtable td{border:1px solid #9daab4;padding:9px;text-align:left}.ddtable select{width:100%;min-height:42px;border:1px solid #8798a5;border-radius:5px;background:#fff;padding:6px 34px 6px 8px}.bottom{position:fixed;left:0;right:0;bottom:0;background:#d7dadd;border-top:1px solid #aeb6bd;z-index:60}.bottomin{max-width:1440px;margin:auto;display:flex;align-items:center;gap:12px;padding:10px 20px}.prog{width:150px;height:12px;background:#c2d9e7;border:1px solid #89a5b4}.prog>div{height:100%;background:#03834c}.spacer{flex:1}.navbtn{min-width:78px}.clear{background:transparent;color:#0061a5;border:0;font-weight:800}.resultCard{background:#fff;border:1px solid #cdd5dc;border-radius:8px;padding:18px;margin-bottom:16px}.score{font-size:44px;font-weight:950;color:#087d45}.reviewItem{border:1px solid #cbd4da;background:#fff;border-radius:8px;padding:18px;margin:12px 0}.ok{border-left:6px solid #2ba95c}.bad{border-left:6px solid #d84a50}.explain{background:#eef7f2;border:1px solid #b7d9c5;border-radius:7px;padding:12px;margin-top:12px;line-height:1.7}.correctMark{background:#e1f5e8!important}.wrongMark{background:#fde8e8!important}.homeNote{background:#edf8f1;border-left:5px solid #2c8152;padding:12px 14px;margin-top:14px}.tabsMini{display:flex;gap:8px;flex-wrap:wrap}.unitBtn{border:1px solid #bfcbd4;background:#fff;border-radius:6px;padding:9px 12px}.typeTag{font-size:12px;color:#fff;background:#527487;border-radius:999px;padding:3px 8px}.source{font-size:12px;color:#687d89;margin-top:8px}.answerLine{font-weight:700;margin-top:5px}.warn{color:#a34d20}.pass{color:#087d45}.fail{color:#c22f3a}
+@media(max-width:760px){body{font-size:15px}.topline{padding:6px 8px;gap:6px}.title{display:none}.sect{padding:9px 10px;font-size:12px}.timer{font-size:13px}.wrap{padding:12px 10px 105px}.qhead{gap:8px}.qnum{min-width:38px;padding:7px 8px}.qstem{font-size:15px}.option{padding:9px 4px}.ddtable,.ddtable tbody,.ddtable tr,.ddtable td{display:block;width:100%}.ddtable thead{display:none}.ddtable tr{margin-bottom:10px;border:1px solid #bac5cd;border-radius:6px;overflow:hidden}.ddtable td{border:0;border-bottom:1px solid #d3dbe0}.ddtable td:last-child{border-bottom:0}.ddtable select{min-height:46px;font-size:16px}.bottomin{padding:8px 10px;gap:7px}.prog{width:74px}.navbtn{min-width:64px;padding:10px 8px}.grid{grid-template-columns:repeat(2,1fr)}.hero h1{font-size:26px}.controls .btn{flex:1 1 46%}}
+</style></head><body>
+<div id="home" class="home"><div class="card hero"><div style="color:#267549;font-weight:900">CQI/IRCA 題型風格｜V2.2 多選答案數提示｜手機優化版</div><h1>ISO/IEC 27001:2022<br>主導稽核員模擬考</h1><p class="muted">正式模式 40 題／105 分鐘／Section 1～5。題型包含單選、指定數量複選、情境題、配對、排序；新增第二方稽核、稽核範圍、遠端稽核、查檢表、文件審查、風險處理、SoA、Annex A、CAPA、跟催稽核等實考畫面型態。所有原本需要拖曳或填空的題型，均以 <b>下拉式選單</b> 作答，手機也能正常操作。</p><div class="homeNote">按「提交」後才顯示正確答案、你的答案、逐題白話解析、教材依據與記憶口訣。複選題會明確顯示「請選 N 項」。</div></div>
+<div class="grid"><div class="stat"><b id="bankCount">0</b>題庫</div><div class="stat"><b>40</b>正式題數</div><div class="stat"><b>105</b>分鐘</div><div class="stat"><b>80%</b>總分門檻</div></div>
+<div class="card"><h3>開始練習</h3><div class="controls"><button class="btn green" onclick="startOfficial()">正式模擬考</button><button class="btn blue" onclick="startPractice(80)">80 題強化</button><button class="btn orange" id="wrongBtn" onclick="startWrong()">錯題重練</button></div></div>
+<div class="card"><h3>Section 專攻</h3><div class="tabsMini"><button class="unitBtn" onclick="startUnit(1)">Section 1</button><button class="unitBtn" onclick="startUnit(2)">Section 2</button><button class="unitBtn" onclick="startUnit(3)">Section 3</button><button class="unitBtn" onclick="startUnit(4)">Section 4 🔥</button><button class="unitBtn" onclick="startUnit(5)">Section 5 🔥</button></div></div></div>
+<div id="exam" class="hidden"><div class="top"><div class="topline"><div class="title">測試名稱：ISMS ISO_IEC 27001 Lead Auditor practice</div><div class="sections" id="sections"></div><div class="timer" id="timer">01:45:00</div></div></div><div class="wrap"><div id="result" class="hidden"></div><div id="questionArea"></div></div><div class="bottom"><div class="bottomin"><div class="prog"><div id="progress"></div></div><b id="progressText">1/40</b><button class="clear" onclick="clearCurrent()">清除</button><div class="spacer"></div><button class="btn gray navbtn" onclick="prevQ()">上一題</button><button class="btn green navbtn" id="nextBtn" onclick="nextQ()">下一題 ›</button><button class="btn blue navbtn" onclick="submitExam(false)">提交</button></div></div></div>
+<script src="questions.js"></script><script>
+const OFFICIAL_COUNTS={1:6,2:6,3:6,4:14,5:8};let st={qs:[],idx:0,ans:{},submitted:false,mode:'',seconds:0,timer:null,title:''};
+const $=s=>document.querySelector(s);const shuffle=a=>{a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};const sample=(a,n)=>shuffle(a).slice(0,Math.min(n,a.length));const wrongIDs=()=>JSON.parse(localStorage.getItem('ismsWrongV2')||'[]');const setWrong=a=>localStorage.setItem('ismsWrongV2',JSON.stringify([...new Set(a)]));
+function updateHome(){$('#bankCount').textContent=QUESTION_BANK.length;const n=wrongIDs().length;$('#wrongBtn').textContent=`錯題重練（${n}）`;$('#wrongBtn').disabled=!n}updateHome();
+function poolForUnit(u){let p=QUESTION_BANK.filter(q=>q.unit===u);const fresh=p.filter(q=>q.priorityStyle);return fresh.length>=OFFICIAL_COUNTS[u]?fresh:p}
+function startOfficial(){let qs=[];for(let u=1;u<=5;u++)qs.push(...sample(poolForUnit(u),OFFICIAL_COUNTS[u]));begin(shuffle(qs),'official','正式模擬考',105*60)}
+function startPractice(n){let fresh=QUESTION_BANK.filter(q=>q.priorityStyle);let rest=QUESTION_BANK.filter(q=>!q.priorityStyle);begin(shuffle([...sample(fresh,Math.min(Math.ceil(n*.7),fresh.length)),...sample(rest,Math.max(0,n-Math.min(Math.ceil(n*.7),fresh.length)))]).slice(0,n),'practice',`${n} 題強化`,0)}
+function startUnit(u){let p=poolForUnit(u);begin(sample(p,Math.min(40,p.length)),'unit',`Section ${u} 專攻`,0)}
+function startWrong(){const ids=new Set(wrongIDs());const p=QUESTION_BANK.filter(q=>ids.has(q.id));if(!p.length)return alert('目前沒有錯題');begin(shuffle(p),'wrong','錯題重練',0)}
+function begin(qs,mode,title,seconds){clearInterval(st.timer);st={qs,idx:0,ans:{},submitted:false,mode,title,seconds,timer:null};$('#home').classList.add('hidden');$('#exam').classList.remove('hidden');$('#result').classList.add('hidden');$('#questionArea').classList.remove('hidden');renderSections();renderQ();startTimer();scrollTo(0,0)}
+function renderSections(){const box=$('#sections');box.innerHTML='';for(let u=1;u<=5;u++){const b=document.createElement('button');b.className='sect';b.textContent=`Section ${u}`;b.onclick=()=>{const i=st.qs.findIndex(q=>q.unit===u);if(i>=0){st.idx=i;renderQ()}};box.appendChild(b)}}
+function updateSection(){[...$('#sections').children].forEach((b,i)=>b.classList.toggle('active',i+1===st.qs[st.idx]?.unit))}
+function getAnswer(q){return st.ans[q.id]}
+function questionHint(q){
+  if(q.type==='multi'){
+    const n=q.selectCount||((Array.isArray(q.correct))?q.correct.length:0);
+    return `<div class="prehint multi">☑ 複選題｜本題有 ${n} 個正確答案，請選 ${n} 項</div>`;
   }
-  updateProgress();
+  if(q.type==='matching') return `<div class="prehint match">▼ 配對題｜請使用下拉式選單完成每一列</div>`;
+  if(q.type==='ordering') return `<div class="prehint match">▼ 排序題｜請用下拉式選單排出正確順序</div>`;
+  return `<div class="prehint single">○ 單選題｜請選 1 項最適當答案</div>`;
 }
-function updateProgress(){
-  const answered=state.questions.filter(q=>{
-    const a=state.answers[q.id];
-    return Array.isArray(a)?a.length>0:!!a;
-  }).length;
-  $("#answeredText").textContent=`${answered} / ${state.questions.length} 已作答`;
-  $("#progressBar").style.width=`${answered/state.questions.length*100}%`;
-  $("#submitHint").textContent=answered===state.questions.length?"已全部作答":"尚有題目未作答";
-  [...$("#navgrid").children].forEach((b,i)=>{
-    const a=state.answers[state.questions[i].id];
-    b.classList.toggle("answered",Array.isArray(a)?a.length>0:!!a);
-  });
-}
-function isCorrect(q,a){
-  if(q.type==="multi"){
-    const x=[...(a||[])].sort(), y=[...q.correct].sort();
-    return JSON.stringify(x)===JSON.stringify(y);
-  }
-  return a===q.correct;
-}
-function answerText(q){
-  return Array.isArray(q.correct)?q.correct.join("、"):q.correct;
-}
-function submitExam(auto){
-  if(state.submitted)return;
-  const unanswered=state.questions.filter(q=>{
-    const a=state.answers[q.id]; return !(Array.isArray(a)?a.length>0:!!a);
-  }).length;
-  if(unanswered && !auto && !confirm(`還有 ${unanswered} 題未作答，確定要送出嗎？`)) return;
-  if(!auto && !confirm("送出後會立即公布答案與解析，確定送出？"))return;
-  state.submitted=true; clearInterval(state.timerId);
-  const unitStats={};
-  let correct=0;
-  let wrongSet=new Set(getWrong());
-  state.questions.forEach((q,idx)=>{
-    unitStats[q.unit] ||= {total:0,correct:0};
-    unitStats[q.unit].total++;
-    const ok=isCorrect(q,state.answers[q.id]);
-    if(ok){correct++;unitStats[q.unit].correct++;wrongSet.delete(q.id)}
-    else wrongSet.add(q.id);
-    revealQuestion(q,idx,ok);
-  });
-  setWrong([...wrongSet]);
-  const pct=Math.round(correct/state.questions.length*1000)/10;
-  let pass=pct>=80;
-  if(state.mode==="official"){
-    for(let u=1;u<=5;u++){
-      const s=unitStats[u], p=s? s.correct/s.total*100 : 0;
-      if(p<50) pass=false;
-    }
-  }
-  showResult(correct,pct,pass,unitStats);
-  updateHome();
-  $("#submitBtn").disabled=true;
-  $("#submitHint").textContent="已完成批改";
-  window.scrollTo({top:0,behavior:"smooth"});
-}
-function revealQuestion(q,idx,ok){
-  const card=document.getElementById(`q-${idx}`);
-  card.querySelectorAll("input").forEach(x=>x.disabled=true);
-  card.querySelectorAll(".option").forEach(label=>{
-    const val=label.querySelector("input").value;
-    const selected=label.querySelector("input").checked;
-    const should=Array.isArray(q.correct)?q.correct.includes(val):q.correct===val;
-    if(should)label.classList.add("correct");
-    if(selected&&!should)label.classList.add("wrong");
-    if(should&&!selected)label.classList.add("missed");
-  });
-  const exp=document.getElementById(`exp-${idx}`);
-  const user=state.answers[q.id];
-  const userText=Array.isArray(user)?(user.length?user.join("、"):"未作答"):(user||"未作答");
-  exp.innerHTML=`
-    <strong>${ok?"✅ 答對":"❌ 答錯"}</strong>
-    <div><b>正確答案：</b>${esc(answerText(q))}</div>
-    <div><b>你的答案：</b>${esc(userText)}</div>
-    <div style="margin-top:7px"><b>解析：</b>${esc(q.explanation)}</div>
-    <div style="margin-top:7px"><b>記憶口訣：</b>${esc(q.mnemonic)}</div>
-    <div class="source">教材依據：${esc(q.source)}｜題庫編號 ${esc(q.id)}</div>`;
-  exp.classList.remove("hidden");
-  const nav=$("#navgrid").children[idx];
-  nav.classList.remove("answered"); nav.classList.add(ok?"correct":"wrong");
-}
-function showResult(correct,pct,pass,unitStats){
-  const rp=$("#resultPanel"); rp.classList.remove("hidden");
-  const status=state.mode==="official"?(pass?"PASS":"FAIL"):"練習完成";
-  let rows="";
-  for(let u=1;u<=5;u++){
-    const s=unitStats[u]; if(!s)continue;
-    const p=Math.round(s.correct/s.total*100);
-    rows+=`<div class="unit-score"><span>單元 ${u}｜${esc(unit_names_js[u])}</span><b>${s.correct}/${s.total}</b><b class="${p>=50?"pass":"fail"}">${p}%</b></div>`;
-  }
-  const wrongCount=state.questions.length-correct;
-  rp.innerHTML=`
-    <div class="card">
-      <div class="score-big ${state.mode==="official"?(pass?"pass":"fail"):""}">${pct}%</div>
-      <h2 style="margin:8px 0">${status}</h2>
-      <p class="muted">答對 ${correct} / ${state.questions.length}｜答錯或未答 ${wrongCount} 題｜目前累積錯題 ${getWrong().length} 題</p>
-      ${state.mode==="official"?`<p><b>正式模式判定：</b>總分需 ≥80%，且每個單元都 ≥50%。</p>`:""}
-      <div>${rows}</div>
-      <div class="review-toolbar">
-        <button class="btn" onclick="scrollToFirstWrong()">跳到第一題錯題</button>
-        <button class="btn warn" onclick="startWrong()">錯題重練</button>
-        <button class="btn secondary" onclick="restartSame()">再出一回</button>
-        <button class="btn secondary" onclick="goHome()">回首頁</button>
-      </div>
-      <p class="muted" style="font-size:13px;margin-bottom:0">下方每一題已展開正確答案、白話解析、教材依據與記憶口訣。</p>
-    </div>`;
-}
-const unit_names_js={1:"管理系統概念原則",2:"稽核概念與責任",3:"稽核規劃",4:"稽核執行",5:"報告與結束"};
-function scrollToFirstWrong(){
-  const idx=state.questions.findIndex(q=>!isCorrect(q,state.answers[q.id]));
-  if(idx>=0)document.getElementById(`q-${idx}`).scrollIntoView({behavior:"smooth",block:"start"});
-}
-function restartSame(){
-  if(state.mode==="official")startOfficial();
-  else if(state.mode==="unit"){ const u=state.questions[0]?.unit||4; startUnit(u); }
-  else if(state.mode==="wrong")startWrong();
-  else startPractice(state.questions.length);
-}
-function goHome(){
-  clearInterval(state.timerId);
-  $("#examView").classList.add("hidden");
-  $("#homeView").classList.remove("hidden");
-  $("#submitBtn").disabled=false;
-  $("#timer").style.color="";
-  updateHome(); window.scrollTo({top:0,behavior:"smooth"});
-}
-function confirmExit(){
-  if(state.submitted||confirm("尚未送出，確定離開本回合？"))goHome();
-}
-window.addEventListener("beforeunload",e=>{
-  if(!state.submitted && !$("#examView").classList.contains("hidden")){e.preventDefault();e.returnValue=""}
-});
-updateHome();
-</script>
-</body>
-</html>
+function renderQ(){if(!st.qs.length)return;const q=st.qs[st.idx];updateSection();$('#progress').style.width=`${(st.idx+1)/st.qs.length*100}%`;$('#progressText').textContent=`${st.idx+1}/${st.qs.length}`;$('#nextBtn').textContent=st.idx===st.qs.length-1?'完成 ›':'下一題 ›';const area=$('#questionArea');let html=`<div class="qhead"><div class="qnum">${st.idx+1}</div><div class="qbody"><div style="display:flex;gap:7px;flex-wrap:wrap"><span class="typeTag">${q.typeLabel||q.type}</span><span class="multiCount">Section ${q.unit}</span></div>${questionHint(q)}<div class="qstem">${esc(q.stem)}</div><div class="instruction">${esc(q.instruction||'')}</div>${renderInput(q)}</div></div>`;area.innerHTML=html;restore(q);window.scrollTo({top:0,behavior:'smooth'})}
+function esc(s){return String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]))}
+function renderInput(q){if(q.type==='single'||q.type==='multi'){let type=q.type==='single'?'radio':'checkbox';return q.options.map((o,i)=>`<label class="option"><input type="${type}" name="choice" value="${esc(o)}" onchange="captureChoice()"><span>${String.fromCharCode(65+i)}. ${esc(o)}</span></label>`).join('')}
+if(q.type==='matching'){return `<table class="ddtable"><thead><tr><th>描述</th><th>請選擇</th></tr></thead><tbody>${q.rows.map((r,i)=>`<tr><td>${esc(r.prompt)}</td><td><select data-row="${i}" onchange="captureDropdown()"><option value="">— 請選擇 —</option>${q.choices.map(c=>`<option value="${esc(c)}">${esc(c)}</option>`).join('')}</select></td></tr>`).join('')}</tbody></table>`}
+if(q.type==='ordering'){return `<table class="ddtable"><thead><tr><th>順序</th><th>請選擇步驟</th></tr></thead><tbody>${q.correctOrder.map((_,i)=>`<tr><td>第 ${i+1} 步</td><td><select data-row="${i}" onchange="captureDropdown()"><option value="">— 請選擇 —</option>${q.items.map(c=>`<option value="${esc(c)}">${esc(c)}</option>`).join('')}</select></td></tr>`).join('')}</tbody></table>`}return ''}
+function captureChoice(){const q=st.qs[st.idx];if(q.type==='single'){st.ans[q.id]=document.querySelector('input[name=choice]:checked')?.value||''}else{let vals=[...document.querySelectorAll('input[name=choice]:checked')].map(x=>x.value);if(vals.length>q.selectCount){event.target.checked=false;vals=[...document.querySelectorAll('input[name=choice]:checked')].map(x=>x.value);alert(`本題只能選 ${q.selectCount} 項。`)}st.ans[q.id]=vals}}
+function captureDropdown(){const q=st.qs[st.idx];st.ans[q.id]=[...document.querySelectorAll('select[data-row]')].map(s=>s.value)}
+function restore(q){const a=getAnswer(q);if(q.type==='single'&&a){document.querySelectorAll('input[name=choice]').forEach(x=>x.checked=x.value===a)}else if(q.type==='multi'&&Array.isArray(a)){document.querySelectorAll('input[name=choice]').forEach(x=>x.checked=a.includes(x.value))}else if((q.type==='matching'||q.type==='ordering')&&Array.isArray(a)){document.querySelectorAll('select[data-row]').forEach((s,i)=>s.value=a[i]||'')}}
+function clearCurrent(){const q=st.qs[st.idx];delete st.ans[q.id];renderQ()}function prevQ(){if(st.idx>0){st.idx--;renderQ()}}function nextQ(){if(st.idx<st.qs.length-1){st.idx++;renderQ()}else submitExam(false)}
+function complete(q,a){if(q.type==='single')return !!a;if(q.type==='multi')return Array.isArray(a)&&a.length===q.selectCount;if(q.type==='matching'||q.type==='ordering')return Array.isArray(a)&&a.length>0&&a.every(Boolean);return false}
+function correct(q,a){if(!complete(q,a))return false;if(q.type==='single')return a===q.correct;if(q.type==='multi'){let x=[...a].sort(),y=[...q.correct].sort();return JSON.stringify(x)===JSON.stringify(y)}if(q.type==='matching'){return q.rows.every((r,i)=>a[i]===r.answer)}if(q.type==='ordering'){return q.correctOrder.every((v,i)=>a[i]===v)}return false}
+function submitExam(auto){if(st.submitted)return;const un=st.qs.filter(q=>!complete(q,getAnswer(q))).length;if(un&&!auto&&!confirm(`還有 ${un} 題未完成，確定提交嗎？`))return;if(!auto&&!confirm('提交後會立即顯示答案與解析，確定提交？'))return;st.submitted=true;clearInterval(st.timer);let ws=new Set(wrongIDs()),right=0,stats={};st.qs.forEach(q=>{stats[q.unit]??={t:0,r:0};stats[q.unit].t++;if(correct(q,getAnswer(q))){right++;stats[q.unit].r++;ws.delete(q.id)}else ws.add(q.id)});setWrong([...ws]);showResults(right,stats);updateHome()}
+function answerText(q){if(q.type==='single')return q.correct;if(q.type==='multi')return q.correct.join('、');if(q.type==='matching')return q.rows.map(r=>`${r.prompt} → ${r.answer}`).join('；');if(q.type==='ordering')return q.correctOrder.map((x,i)=>`${i+1}.${x}`).join(' → ')}function userText(q,a){if(!a)return '未作答';if(Array.isArray(a))return a.filter(Boolean).length?a.map((x,i)=>q.type==='ordering'?`${i+1}.${x}`:x).filter(Boolean).join('；'):'未作答';return a}
+function showResults(right,stats){$('#questionArea').classList.add('hidden');const pct=Math.round(right/st.qs.length*1000)/10;let pass=pct>=80;if(st.mode==='official')for(let u=1;u<=5;u++)if(!stats[u]||stats[u].r/stats[u].t<.5)pass=false;let unitRows=Object.keys(stats).map(u=>`<div>Section ${u}：<b>${stats[u].r}/${stats[u].t}</b>（${Math.round(stats[u].r/stats[u].t*100)}%）</div>`).join('');let reviews=st.qs.map((q,i)=>{let a=getAnswer(q),ok=correct(q,a);return `<div class="reviewItem ${ok?'ok':'bad'}"><b>第 ${i+1} 題｜${esc(q.typeLabel||q.type)}｜${ok?'✅ 答對':'❌ 答錯'}</b><div class="qstem" style="margin-top:8px">${esc(q.stem)}</div><div class="answerLine">正確答案：${esc(answerText(q))}</div><div class="answerLine">你的答案：${esc(userText(q,a))}</div><div class="explain"><b>解析：</b>${esc(q.explanation)}<br><b>記憶口訣：</b>${esc(q.mnemonic)}<div class="source">教材依據：${esc(q.source)}｜${esc(q.id)}</div></div></div>`}).join('');const r=$('#result');r.classList.remove('hidden');r.innerHTML=`<div class="resultCard"><div class="score">${pct}%</div><h2 class="${pass?'pass':'fail'}">${st.mode==='official'?(pass?'PASS':'FAIL'):'練習完成'}</h2><p>答對 ${right}/${st.qs.length}｜目前累積錯題 ${wrongIDs().length} 題</p>${unitRows}<div class="controls" style="margin-top:14px"><button class="btn orange" onclick="startWrong()">錯題重練</button><button class="btn green" onclick="startOfficial()">再考一回</button><button class="btn gray" onclick="backHome()">回首頁</button></div></div>${reviews}`;scrollTo(0,0)}
+function startTimer(){clearInterval(st.timer);if(!st.seconds){$('#timer').textContent='不限時';return}const tick=()=>{let h=Math.floor(st.seconds/3600),m=Math.floor(st.seconds%3600/60),s=st.seconds%60;$('#timer').textContent=`${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;if(st.seconds<=0){clearInterval(st.timer);submitExam(true);return}st.seconds--};tick();st.timer=setInterval(tick,1000)}
+function backHome(){clearInterval(st.timer);$('#exam').classList.add('hidden');$('#home').classList.remove('hidden');$('#questionArea').classList.remove('hidden');updateHome();scrollTo(0,0)}
+window.addEventListener('beforeunload',e=>{if(!st.submitted&&!$('#exam').classList.contains('hidden')){e.preventDefault();e.returnValue=''}});
+</script></body></html>
