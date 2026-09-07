@@ -1,617 +1,920 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="zh-Hant">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>石頭少爺：隔日強弱分析工具</title>
-    <!-- 引入 Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <!-- 引入 FontAwesome 圖示 -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap');
-        body { font-family: 'Noto Sans TC', sans-serif; background-color: #f8fafc; }
-        .pattern-card:hover { transform: translateY(-2px); transition: all 0.2s; }
-        .fade-in { animation: fadeIn 0.4s ease-in-out; }
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(-10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ISO 27001 主導稽核員模擬考</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Microsoft JhengHei", Arial, sans-serif;
+      background: #0b1726;
+      color: #ffffff;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 24px;
+    }
+
+    .card {
+      background: #13283d;
+      border: 1px solid #294866;
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      font-size: 36px;
+      margin-bottom: 8px;
+    }
+
+    h2 {
+      margin-top: 0;
+    }
+
+    .sub {
+      color: #a9bfd2;
+    }
+
+    button {
+      border: none;
+      border-radius: 10px;
+      padding: 12px 18px;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      margin: 6px 6px 6px 0;
+    }
+
+    .primary {
+      background: #38d4b4;
+      color: #06231d;
+    }
+
+    .secondary {
+      background: #244664;
+      color: #ffffff;
+    }
+
+    .warning {
+      background: #ffd166;
+      color: #332500;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    .question {
+      background: #13283d;
+      border: 1px solid #294866;
+      border-radius: 14px;
+      padding: 18px;
+      margin-bottom: 14px;
+    }
+
+    .question-title {
+      font-size: 18px;
+      font-weight: bold;
+      margin-bottom: 12px;
+    }
+
+    .option {
+      display: block;
+      padding: 10px;
+      margin: 7px 0;
+      border: 1px solid #365876;
+      border-radius: 9px;
+      background: #0c1d2e;
+    }
+
+    .option:hover {
+      background: #17344f;
+    }
+
+    .correct {
+      background: #17452b !important;
+      border-color: #51d37f !important;
+    }
+
+    .wrong {
+      background: #4b222c !important;
+      border-color: #ff6b7a !important;
+    }
+
+    .explain {
+      margin-top: 12px;
+      padding: 12px;
+      background: #0d3134;
+      border-radius: 9px;
+    }
+
+    .score {
+      font-size: 48px;
+      font-weight: bold;
+      color: #5ee08b;
+    }
+
+    .unit-result {
+      padding: 8px 0;
+      border-bottom: 1px solid #294866;
+    }
+
+    .timer {
+      position: sticky;
+      top: 0;
+      background: #081523;
+      padding: 12px;
+      text-align: center;
+      font-size: 20px;
+      font-weight: bold;
+      z-index: 10;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+    }
+
+    .info-box {
+      background: #13283d;
+      border: 1px solid #294866;
+      border-radius: 12px;
+      padding: 14px;
+      text-align: center;
+    }
+
+    .info-box b {
+      font-size: 26px;
+      display: block;
+    }
+
+    @media (max-width: 700px) {
+      .info-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      h1 {
+        font-size: 28px;
+      }
+    }
+  </style>
 </head>
-<body class="p-4 md:p-8 text-slate-900">
-    <div class="max-w-5xl mx-auto">
-        <!-- 頂部標題 -->
-        <header class="bg-white rounded-3xl p-6 shadow-sm border border-slate-200 mb-6 flex flex-col md:flex-row justify-between items-center gap-4">
-            <div class="flex items-center gap-4">
-                <div class="bg-slate-800 text-white p-3 rounded-2xl shadow-lg">
-                    <i class="fa-solid fa-gem text-2xl"></i>
-                </div>
-                <div>
-                    <h1 class="text-2xl font-black text-slate-800 tracking-tight">石頭少爺：隔日強弱分析工具</h1>
-                    <p class="text-slate-500 text-sm font-medium mt-1">Stone Master Stock Analyzer Pro</p>
-                </div>
-            </div>
-            <div class="hidden md:block bg-blue-50 text-blue-700 px-4 py-2 rounded-full text-xs font-bold border border-blue-100 uppercase tracking-wider">
-                <i class="fa-solid fa-bolt text-amber-500 mr-1"></i> 盤後綜合分析系統
-            </div>
-        </header>
 
-        <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 pb-12">
-            <!-- 左側區域：輸入與結果 -->
-            <div class="lg:col-span-8 space-y-6">
-                <!-- 1. 價格輸入區 -->
-                <div class="bg-white rounded-3xl p-6 shadow-sm border border-slate-200">
-                    <div class="flex justify-between items-center mb-4">
-                        <h2 class="text-xs font-black text-slate-400 uppercase tracking-widest flex items-center gap-2">
-                            <i class="fa-solid fa-calculator"></i> 關鍵價位計算
-                        </h2>
-                        <!-- 清除參數按鈕 -->
-                        <button onclick="clearPriceData()" class="text-[10px] font-bold bg-slate-100 hover:bg-slate-200 text-slate-500 px-3 py-1.5 rounded-lg transition-colors flex items-center gap-1 shadow-sm border border-slate-200">
-                            <i class="fa-solid fa-eraser"></i> 清除參數
-                        </button>
-                    </div>
-                    
-                    <div class="grid grid-cols-2 gap-4 mb-4">
-                        <div>
-                            <label class="block text-xs font-bold text-slate-500 mb-1 flex items-center gap-1"><i class="fa-solid fa-tag"></i> 股票名稱</label>
-                            <input type="text" id="stockName" class="w-full bg-slate-50 border border-slate-200 rounded-xl p-3 font-bold focus:ring-2 focus:ring-blue-200 outline-none" placeholder="例如：台積電">
-                        </div>
-                        <div>
-                            <label class="block text-xs font-bold text-slate-500 mb-1 flex items-center gap-1"><i class="fa-solid fa-hashtag"></i> 股票代碼</label>
-                            <input type="text" id="stockCode" class="w-full bg-slate-50 border border-slate-200 rounded-xl p-3 font-mono font-bold focus:ring-2 focus:ring-blue-200 outline-none" placeholder="例如：2330">
-                        </div>
-                    </div>
+<body>
 
-                    <div class="grid grid-cols-3 gap-4">
-                        <div>
-                            <label class="block text-xs font-bold text-red-500 mb-1">今日最高</label>
-                            <input type="number" id="high" step="any" oninput="calculate()" class="w-full bg-slate-50 border border-slate-200 rounded-xl p-3 font-mono font-bold text-lg text-red-600 focus:ring-2 focus:ring-red-100 outline-none" placeholder="0.0">
-                        </div>
-                        <div>
-                            <label class="block text-xs font-bold text-green-500 mb-1">今日最低</label>
-                            <input type="number" id="low" step="any" oninput="calculate()" class="w-full bg-slate-50 border border-slate-200 rounded-xl p-3 font-mono font-bold text-lg text-green-600 focus:ring-2 focus:ring-green-100 outline-none" placeholder="0.0">
-                        </div>
-                        <div>
-                            <label class="block text-xs font-bold text-slate-600 mb-1">今日收盤</label>
-                            <input type="number" id="close" step="any" oninput="calculate()" class="w-full bg-slate-50 border border-slate-200 rounded-xl p-3 font-mono font-bold text-lg text-slate-800 focus:ring-2 focus:ring-slate-200 outline-none" placeholder="0.0">
-                        </div>
-                    </div>
-                </div>
+<div id="home" class="container">
 
-                <!-- 尚未輸入時的提示 -->
-                <div id="emptyState" class="bg-white rounded-3xl p-16 flex flex-col items-center justify-center text-slate-300 border-2 border-dashed border-slate-200 transition-all">
-                    <i class="fa-solid fa-chart-line text-5xl mb-4 opacity-50"></i>
-                    <p class="font-bold uppercase tracking-widest text-sm">請輸入數值開始分析</p>
-                </div>
+  <div class="card">
+    <h1>🛡️ ISO/IEC 27001:2022</h1>
+    <h2>主導稽核員模擬考試系統</h2>
 
-                <!-- 結果區 (預設隱藏) -->
-                <div id="resultPanel" class="hidden space-y-6 fade-in">
-                    <!-- 明日操作計畫 -->
-                    <div id="actionCard" class="bg-white rounded-3xl shadow-lg border-2 overflow-hidden transition-all">
-                        <div id="actionHeader" class="text-white p-4 flex items-center justify-between font-black uppercase tracking-tight">
-                            <div class="flex items-center gap-2">
-                                <i id="actionIcon" class="fa-solid fa-bullseye"></i>
-                                <span id="opTitle">明日操作計畫</span>
-                            </div>
-                            <button onclick="copyReport()" class="bg-white/20 hover:bg-white/30 px-3 py-1.5 rounded-lg transition-colors flex items-center gap-2 text-xs">
-                                <i id="copyIcon" class="fa-solid fa-copy"></i>
-                                <span id="copyText">複製戰報</span>
-                            </button>
-                        </div>
-                        <div class="p-6 grid grid-cols-1 md:grid-cols-3 gap-4 text-center">
-                            <div class="p-4 bg-blue-50 rounded-xl border border-blue-100">
-                                <span class="text-xs font-bold text-blue-400 mb-1 block">安全進場價 (Mid)</span>
-                                <span id="resEntry" class="text-3xl font-black text-blue-700">--</span>
-                            </div>
-                            <div class="p-4 bg-red-50 rounded-xl border border-red-100">
-                                <span class="text-xs font-bold text-red-400 mb-1 block">預計停利價</span>
-                                <span id="resTP" class="text-3xl font-black text-red-700">--</span>
-                            </div>
-                            <div class="p-4 bg-green-50 rounded-xl border border-green-100">
-                                <span class="text-xs font-bold text-green-400 mb-1 block">預計止損價</span>
-                                <span id="resSL" class="text-3xl font-black text-green-700">--</span>
-                            </div>
-                        </div>
-                        <div class="px-6 pb-4 pt-2">
-                            <div id="stoneAdvice" class="flex items-center gap-2 text-xs font-bold text-slate-500 italic border-t border-slate-100 pt-4">
-                                <i class="fa-solid fa-circle-info text-blue-400"></i>
-                                <span id="adviceText"></span>
-                            </div>
-                        </div>
-                    </div>
+    <p class="sub">
+      依正式考試大綱出題。
+      每回正式模擬考 40 題，考試時間 105 分鐘。
+    </p>
+  </div>
 
-                    <!-- 價位與趨勢細節 -->
-                    <div id="detailCard" class="bg-white rounded-3xl shadow-sm border overflow-hidden">
-                        <div class="bg-slate-800 text-white p-4 flex justify-between items-center">
-                            <div class="flex items-center gap-2">
-                                <i class="fa-solid fa-gauge-high text-blue-400"></i>
-                                <span class="font-bold text-sm">今日關鍵價位分析</span>
-                            </div>
-                        </div>
-                        <div class="p-6">
-                            <div class="grid grid-cols-3 gap-4 mb-6 text-center">
-                                <div>
-                                    <p class="text-[10px] font-bold text-slate-400 mb-1">強勢價 (SP)</p>
-                                    <p id="calcSP" class="text-xl font-black text-red-600">--</p>
-                                </div>
-                                <div class="border-x border-slate-100">
-                                    <p class="text-[10px] font-bold text-slate-400 mb-1">中間價 (Mid)</p>
-                                    <p id="calcMid" class="text-xl font-black text-blue-600">--</p>
-                                </div>
-                                <div>
-                                    <p class="text-[10px] font-bold text-slate-400 mb-1">弱勢價 (WP)</p>
-                                    <p id="calcWP" class="text-xl font-black text-green-600">--</p>
-                                </div>
-                            </div>
-                            <div id="trendAlert" class="p-4 rounded-xl flex items-center gap-3 border font-bold text-sm">
-                                <!-- 趨勢文字會在這裡 -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- 2. 封單成交比計算機 (整合區塊) -->
-                <div class="bg-white rounded-3xl shadow-sm border border-slate-200 overflow-hidden mt-6">
-                    <div class="bg-slate-800 text-white p-4 flex justify-between items-center">
-                        <div class="flex items-center gap-2">
-                            <i class="fa-solid fa-lock text-amber-400"></i>
-                            <span class="font-bold text-sm">漲停板專用：封單成交比計算機</span>
-                        </div>
-                        <!-- 清除參數按鈕 -->
-                        <button onclick="clearRatioData()" class="text-[10px] font-bold bg-slate-700 hover:bg-slate-600 text-slate-300 px-3 py-1.5 rounded-lg transition-colors flex items-center gap-1 border border-slate-600">
-                            <i class="fa-solid fa-eraser"></i> 清除參數
-                        </button>
-                    </div>
-                    
-                    <div class="p-6 border-b border-slate-100">
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
-                            <div>
-                                <label for="sealStockName" class="block text-xs font-bold text-slate-600 mb-1 flex items-center gap-1"><i class="fa-solid fa-tag"></i> 股票名稱</label>
-                                <input type="text" id="sealStockName" placeholder="例如：台積電" class="w-full p-3 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-200 outline-none transition font-bold">
-                            </div>
-                            <div>
-                                <label for="sealStockCode" class="block text-xs font-bold text-slate-600 mb-1 flex items-center gap-1"><i class="fa-solid fa-hashtag"></i> 股票代碼</label>
-                                <input type="text" id="sealStockCode" placeholder="例如：2330" class="w-full p-3 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-200 outline-none transition font-mono font-bold">
-                            </div>
-                        </div>
-
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
-                            <div>
-                                <label for="sealVolume" class="block text-xs font-bold text-slate-600 mb-1">收盤後漲停價格掛單委買量</label>
-                                <input type="number" id="sealVolume" placeholder="例如：5000" class="w-full p-3 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-200 outline-none transition font-mono" min="0">
-                            </div>
-                            <div>
-                                <label for="totalVolume" class="block text-xs font-bold text-slate-600 mb-1">當日總成交量</label>
-                                <input type="number" id="totalVolume" placeholder="例如：2000" class="w-full p-3 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-200 outline-none transition font-mono" min="0">
-                            </div>
-                        </div>
-                        <p class="text-[10px] text-slate-400 mb-4 font-medium"><i class="fa-solid fa-circle-info"></i> ※ 兩者的單位必須保持一致（同為張或同為手）</p>
-
-                        <!-- 錯誤訊息 -->
-                        <div id="ratioErrorMsg" class="hidden mb-4 p-3 bg-red-50 text-red-600 border border-red-100 rounded-xl text-xs font-bold flex items-center gap-2">
-                            <i class="fa-solid fa-triangle-exclamation"></i> 請輸入大於零的有效數字！
-                        </div>
-
-                        <button onclick="calculateRatio()" class="w-full bg-slate-800 hover:bg-slate-700 text-white font-bold py-3 px-4 rounded-xl transition duration-200 shadow-md text-sm flex items-center justify-center gap-2">
-                            <i class="fa-solid fa-bolt"></i> 計算隔日動能
-                        </button>
-                    </div>
-
-                    <!-- 封單比結果顯示區塊 -->
-                    <div id="ratioResultSection" class="hidden p-6 bg-slate-50 fade-in border-t border-slate-200">
-                        <div class="flex justify-between items-center mb-4">
-                            <span class="text-xs font-bold text-slate-500 uppercase tracking-widest"><i class="fa-solid fa-chart-pie"></i> 分析結果</span>
-                            <button onclick="copyRatioReport()" class="bg-white hover:bg-slate-100 border border-slate-200 px-3 py-1.5 rounded-lg transition-colors flex items-center gap-2 text-xs font-bold text-slate-600 shadow-sm">
-                                <i id="sealCopyIcon" class="fa-solid fa-copy"></i>
-                                <span id="sealCopyText">複製單獨戰報</span>
-                            </button>
-                        </div>
-                        <div class="flex flex-col md:flex-row items-center gap-6">
-                            <div class="text-center w-full md:w-1/3">
-                                <p class="text-xs text-slate-500 font-bold mb-1 uppercase tracking-widest">封單成交比</p>
-                                <div id="ratioValue" class="text-4xl font-black text-slate-800">--</div>
-                            </div>
-                            <div id="ratioResultCard" class="w-full md:w-2/3 p-4 rounded-xl border-2 bg-white">
-                                <h3 id="ratioLevelText" class="text-lg font-black mb-1">【狀態】</h3>
-                                <p id="ratioStrategyText" class="text-sm font-bold opacity-90"></p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- 判斷標準參考 -->
-                    <div class="bg-slate-50 p-5 text-[11px] text-slate-600 border-t border-slate-100">
-                        <p class="font-black mb-2 text-slate-700 uppercase tracking-widest"><i class="fa-solid fa-bookmark text-blue-500"></i> 封單比判斷標準：</p>
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-x-4 gap-y-1.5 font-medium">
-                            <div class="flex items-center gap-2"><span class="w-10 text-right text-red-600 font-black">> 10</span> 極強勢：大概率連板</div>
-                            <div class="flex items-center gap-2"><span class="w-10 text-right text-red-500 font-black">3 ~ 10</span> 強勢：衝高 5% 以上</div>
-                            <div class="flex items-center gap-2"><span class="w-10 text-right text-yellow-600 font-black">1 ~ 3</span> 動能轉弱：衝高 3-5%</div>
-                            <div class="flex items-center gap-2"><span class="w-10 text-right text-green-500 font-black">0.5 ~ 1</span> 謹慎看待：高開易回落</div>
-                            <div class="flex items-center gap-2"><span class="w-10 text-right text-green-600 font-black">< 0.5</span> 極弱勢：平開或低開</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- 右側區域：型態參考 -->
-            <div class="lg:col-span-4 space-y-6">
-                <!-- 15分鐘判定表 -->
-                <div class="bg-white rounded-3xl shadow-sm border border-slate-200 overflow-hidden">
-                    <div class="p-4 bg-slate-50 border-b border-slate-100 flex flex-col gap-2">
-                        <div class="flex items-center gap-2 font-black text-slate-700">
-                            <i class="fa-solid fa-list-ul"></i> 早盤 15 分鐘判定
-                        </div>
-                        <div class="flex justify-between items-center bg-blue-100 text-blue-700 px-3 py-1.5 rounded-lg text-[10px] font-bold">
-                            <span><i class="fa-regular fa-clock"></i> 09:05</span>
-                            <i class="fa-solid fa-caret-right opacity-50"></i>
-                            <span>09:10</span>
-                            <i class="fa-solid fa-caret-right opacity-50"></i>
-                            <span>09:15</span>
-                        </div>
-                        <!-- 5分K 判斷基準說明 -->
-                        <div class="bg-blue-50 p-3 rounded-lg border border-blue-100 mt-1">
-                            <p class="text-[10px] font-bold text-blue-800 mb-1.5 flex items-center gap-1">
-                                <i class="fa-solid fa-magnifying-glass-chart"></i> 5分K 比較基準 (價格較高為 🟥，反之 🟩)
-                            </p>
-                            <ul class="text-[10px] text-blue-700/90 space-y-1.5 ml-1 tracking-wide font-medium">
-                                <li>• <strong class="text-blue-800">09:05</strong>：比較昨日 <strong class="text-blue-800">13:30</strong> 收盤價</li>
-                                <li>• <strong class="text-blue-800">09:10</strong>：比較今日 <strong class="text-blue-800">09:05</strong> 當下價格</li>
-                                <li>• <strong class="text-blue-800">09:15</strong>：比較今日 <strong class="text-blue-800">09:10</strong> 當下價格</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="p-4 space-y-5">
-                        <!-- 強勢 -->
-                        <div class="rounded-xl border border-red-100 bg-red-50 p-4">
-                            <h3 class="text-[10px] font-black text-red-500 uppercase mb-3 tracking-widest">強勢型態</h3>
-                            <div class="space-y-2">
-                                <div class="flex justify-between items-center group pattern-card p-2 rounded-lg bg-white/50 border border-red-100 shadow-sm">
-                                    <span class="text-lg tracking-[0.2em]">🟥🟥🟥</span>
-                                    <span class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-red-100 text-red-600 shadow-sm">最強勢</span>
-                                </div>
-                                <div class="flex justify-between items-center group p-2 border-b border-red-100/50">
-                                    <span class="text-lg tracking-[0.2em]">🟩🟥🟥</span>
-                                    <span class="text-[10px] font-bold text-red-600">強勢</span>
-                                </div>
-                                <div class="flex justify-between items-center group p-2 border-b border-red-100/50">
-                                    <span class="text-lg tracking-[0.2em]">🟥🟥🟩</span>
-                                    <span class="text-[10px] font-bold text-red-600">偏強</span>
-                                </div>
-                                <div class="flex flex-col group p-2">
-                                    <div class="flex justify-between items-start mb-2">
-                                        <span class="text-lg tracking-[0.2em]">🟩🟩🟥</span>
-                                        <div class="text-right flex flex-col items-end gap-1">
-                                            <span class="text-[10px] font-bold text-amber-600">低檔可能出現反彈</span>
-                                            <span class="text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-700">（偏多）放空SOP</span>
-                                        </div>
-                                    </div>
-                                    <div class="text-[10px] text-slate-600 bg-white p-2.5 rounded-lg border border-amber-100/50 leading-relaxed shadow-sm">
-                                        <span class="font-black text-amber-700 block mb-1"><i class="fa-solid fa-arrow-right-arrow-left"></i> 高拋低吸（當沖偏空）</span>
-                                        <span class="block mb-1">→ 先賣再買（看跌）</span>
-                                        <span class="font-black text-red-500 block mt-2 mb-1"><i class="fa-solid fa-triangle-exclamation"></i> 如果判斷錯誤：</span>
-                                        👉 你在50賣出後<br>
-                                        👉 股價漲到52<br>
-                                        你就要用更高價格（52）買回<br>
-                                        <span class="font-bold text-red-600">→ 變成倒賠（被軋空）</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <!-- 弱勢 -->
-                        <div class="rounded-xl border border-slate-200 bg-slate-50 p-4">
-                            <h3 class="text-[10px] font-black text-slate-400 uppercase mb-3 tracking-widest">弱勢 / 觀望型態</h3>
-                            <div class="space-y-2">
-                                <div class="flex justify-between items-center group p-2 border-b border-slate-200">
-                                    <span class="text-lg tracking-[0.2em]">🟩🟩🟩</span>
-                                    <span class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-green-100 text-green-700">空</span>
-                                </div>
-                                <div class="flex justify-between items-center group p-2 border-b border-slate-200">
-                                    <span class="text-lg tracking-[0.2em]">🟥🟩🟩</span>
-                                    <span class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-green-100 text-green-700">空</span>
-                                </div>
-                                <div class="flex justify-between items-center group opacity-90 p-2 border-b border-slate-200">
-                                    <span class="text-lg tracking-[0.2em]">🟥🟩🟥</span>
-                                    <div class="text-[10px] font-bold px-2 py-1 rounded bg-slate-200 text-slate-600 text-right leading-tight">
-                                        不宜進場（盤整）<br>當沖可能賣不掉
-                                    </div>
-                                </div>
-                                <div class="flex justify-between items-center group opacity-90 p-2">
-                                    <span class="text-lg tracking-[0.2em]">🟩🟥🟩</span>
-                                    <div class="text-[10px] font-bold px-2 py-1 rounded bg-slate-200 text-slate-600 text-right leading-tight">
-                                        不宜進場（盤整）<br>當沖可能賣不掉
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- 提醒事項 -->
-                <div class="bg-slate-800 rounded-3xl p-6 text-white shadow-xl border border-slate-700">
-                    <h3 class="font-bold mb-3 flex items-center gap-2 text-sm text-blue-400">
-                        <i class="fa-solid fa-triangle-exclamation"></i> 石頭少爺：風險控管
-                    </h3>
-                    <ul class="text-[11px] space-y-3 opacity-90 leading-relaxed font-medium">
-                        <li class="flex gap-2"><i class="fa-solid fa-circle text-[6px] mt-1.5 text-blue-500"></i>安全進場點建議設於「中間價」，避免追高受傷。</li>
-                        <li class="flex gap-2"><i class="fa-solid fa-circle text-[6px] mt-1.5 text-blue-500"></i>觀察 09:15 前三根 K 棒型態，若出現弱勢組合應暫緩進場。</li>
-                        <li class="flex gap-2"><i class="fa-solid fa-circle text-[6px] mt-1.5 text-blue-500"></i>中長線請輔以周月線趨勢判斷，並嚴格執行止損。</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+  <div class="info-grid">
+    <div class="info-box">
+      <b id="bankCount">0</b>
+      題庫總數
     </div>
 
-    <!-- 腳本邏輯 -->
-    <script>
-        let currentData = null;
-        let ratioData = null; // 儲存封單比資料
+    <div class="info-box">
+      <b>40</b>
+      正式模擬題數
+    </div>
 
-        // 清除關鍵價位計算機參數
-        function clearPriceData() {
-            document.getElementById('stockName').value = '';
-            document.getElementById('stockCode').value = '';
-            document.getElementById('high').value = '';
-            document.getElementById('low').value = '';
-            document.getElementById('close').value = '';
-            
-            document.getElementById('resultPanel').classList.add('hidden');
-            document.getElementById('emptyState').classList.remove('hidden');
-            
-            currentData = null;
+    <div class="info-box">
+      <b>105</b>
+      分鐘
+    </div>
+
+    <div class="info-box">
+      <b>80%</b>
+      及格門檻
+    </div>
+  </div>
+
+  <div class="card" style="margin-top:20px">
+    <h2>正式考試比例</h2>
+
+    <p>第一單元｜管理系統概念與原則：6 題</p>
+    <p>第二單元｜稽核概念與稽核員責任：6 題</p>
+    <p>第三單元｜稽核規劃：6 題</p>
+    <p>第四單元｜稽核執行：14 題 🔥</p>
+    <p>第五單元｜稽核報告與結束：8 題 🔥</p>
+  </div>
+
+  <div class="card">
+
+    <button class="primary" onclick="startOfficial()">
+      開始正式模擬考
+    </button>
+
+    <button class="secondary" onclick="startPractice(80)">
+      80 題強化練習
+    </button>
+
+    <button class="warning" onclick="startWrong()">
+      錯題重練
+    </button>
+
+  </div>
+
+  <div class="card">
+    <h2>單元專攻</h2>
+
+    <button class="secondary" onclick="startUnit(1)">單元1</button>
+    <button class="secondary" onclick="startUnit(2)">單元2</button>
+    <button class="secondary" onclick="startUnit(3)">單元3</button>
+    <button class="secondary" onclick="startUnit(4)">單元4</button>
+    <button class="secondary" onclick="startUnit(5)">單元5</button>
+  </div>
+
+</div>
+
+
+<div id="exam" class="hidden">
+
+  <div class="timer" id="timer">
+    105:00
+  </div>
+
+  <div class="container">
+
+    <div class="card">
+
+      <h2 id="modeTitle">
+        模擬考
+      </h2>
+
+      <div id="questions"></div>
+
+      <button class="primary" onclick="submitExam()">
+        送出答案＋查看解析
+      </button>
+
+      <button class="secondary" onclick="backHome()">
+        返回首頁
+      </button>
+
+    </div>
+
+    <div id="result" class="card hidden"></div>
+
+  </div>
+
+</div>
+
+
+<script src="questions.js"></script>
+
+<script>
+
+const OFFICIAL_COUNTS = {
+  1: 6,
+  2: 6,
+  3: 6,
+  4: 14,
+  5: 8
+};
+
+let currentQuestions = [];
+let answers = {};
+let timeLeft = 0;
+let timerID = null;
+
+document.getElementById("bankCount").innerText =
+  window.QUESTION_BANK.length;
+
+
+function shuffle(arr) {
+
+  let copy = [...arr];
+
+  for (let i = copy.length - 1; i > 0; i--) {
+
+    const j =
+      Math.floor(Math.random() * (i + 1));
+
+    [copy[i], copy[j]] =
+      [copy[j], copy[i]];
+  }
+
+  return copy;
+}
+
+
+function sample(arr, count) {
+
+  return shuffle(arr).slice(
+    0,
+    Math.min(count, arr.length)
+  );
+}
+
+
+function startOfficial() {
+
+  let selected = [];
+
+  for (let unit = 1; unit <= 5; unit++) {
+
+    const pool =
+      QUESTION_BANK.filter(
+        q => q.unit === unit
+      );
+
+    selected.push(
+      ...sample(
+        pool,
+        OFFICIAL_COUNTS[unit]
+      )
+    );
+  }
+
+  currentQuestions =
+    shuffle(selected);
+
+  startExam(
+    "正式模擬考｜40題",
+    105
+  );
+}
+
+
+function startPractice(count) {
+
+  currentQuestions =
+    sample(
+      QUESTION_BANK,
+      count
+    );
+
+  startExam(
+    count + " 題強化練習",
+    0
+  );
+}
+
+
+function startUnit(unit) {
+
+  const pool =
+    QUESTION_BANK.filter(
+      q => q.unit === unit
+    );
+
+  currentQuestions =
+    sample(pool, 40);
+
+  startExam(
+    "單元 " +
+    unit +
+    " 專攻",
+    0
+  );
+}
+
+
+function startWrong() {
+
+  const wrongIDs =
+    JSON.parse(
+      localStorage.getItem(
+        "wrongQuestions"
+      ) || "[]"
+    );
+
+  if (!wrongIDs.length) {
+
+    alert(
+      "目前沒有錯題。"
+    );
+
+    return;
+  }
+
+  currentQuestions =
+    QUESTION_BANK.filter(
+      q =>
+        wrongIDs.includes(q.id)
+    );
+
+  startExam(
+    "錯題重練",
+    0
+  );
+}
+
+
+function startExam(title, minutes) {
+
+  answers = {};
+
+  document
+    .getElementById("home")
+    .classList.add("hidden");
+
+  document
+    .getElementById("exam")
+    .classList.remove("hidden");
+
+  document
+    .getElementById("result")
+    .classList.add("hidden");
+
+  document
+    .getElementById("modeTitle")
+    .innerText = title;
+
+  renderQuestions();
+
+  startTimer(minutes);
+
+  window.scrollTo(0,0);
+}
+
+
+function renderQuestions() {
+
+  const box =
+    document.getElementById(
+      "questions"
+    );
+
+  box.innerHTML = "";
+
+  currentQuestions.forEach(
+    (q, index) => {
+
+      const div =
+        document.createElement(
+          "div"
+        );
+
+      div.className =
+        "question";
+
+      const options =
+        shuffle(q.options);
+
+      let optionHTML = "";
+
+      options.forEach(
+        (option, i) => {
+
+          optionHTML += `
+          <label class="option">
+
+            <input
+            type="radio"
+            name="q${index}"
+            value="${option}"
+            onchange="saveAnswer('${q.id}',this.value)"
+            >
+
+            ${String.fromCharCode(65+i)}.
+            ${option}
+
+          </label>
+          `;
+        }
+      );
+
+      div.innerHTML = `
+
+      <div class="question-title">
+
+      第 ${index+1} 題
+
+      ｜單元 ${q.unit}
+
+      ｜${q.topic}
+
+      </div>
+
+      <div>
+
+      ${q.stem}
+
+      </div>
+
+      ${optionHTML}
+
+      <div
+      id="exp-${index}"
+      class="explain hidden">
+      </div>
+
+      `;
+
+      box.appendChild(div);
+
+    }
+  );
+}
+
+
+function saveAnswer(id, value) {
+
+  answers[id] = value;
+
+}
+
+
+function submitExam() {
+
+  clearInterval(timerID);
+
+  let correct = 0;
+
+  let unitStats = {};
+
+  let wrongIDs =
+    JSON.parse(
+      localStorage.getItem(
+        "wrongQuestions"
+      ) || "[]"
+    );
+
+  currentQuestions.forEach(
+    (q,index) => {
+
+      if (!unitStats[q.unit]) {
+
+        unitStats[q.unit] = {
+          total:0,
+          correct:0
+        };
+
+      }
+
+      unitStats[q.unit].total++;
+
+      const userAnswer =
+        answers[q.id];
+
+      const isCorrect =
+        userAnswer === q.correct;
+
+      if (isCorrect) {
+
+        correct++;
+
+        unitStats[q.unit]
+        .correct++;
+
+        wrongIDs =
+          wrongIDs.filter(
+            id =>
+              id !== q.id
+          );
+
+      } else {
+
+        if (
+          !wrongIDs.includes(q.id)
+        ) {
+
+          wrongIDs.push(q.id);
+
         }
 
-        // 清除封單成交比計算機參數
-        function clearRatioData() {
-            document.getElementById('sealStockName').value = '';
-            document.getElementById('sealStockCode').value = '';
-            document.getElementById('sealVolume').value = '';
-            document.getElementById('totalVolume').value = '';
-            
-            document.getElementById('ratioResultSection').classList.add('hidden');
-            document.getElementById('ratioErrorMsg').classList.add('hidden');
-            
-            ratioData = null;
+      }
+
+      showExplanation(
+        q,
+        index,
+        userAnswer,
+        isCorrect
+      );
+
+    }
+  );
+
+  localStorage.setItem(
+    "wrongQuestions",
+    JSON.stringify(wrongIDs)
+  );
+
+  const percent =
+    Math.round(
+      correct /
+      currentQuestions.length *
+      100
+    );
+
+  showResult(
+    correct,
+    percent,
+    unitStats
+  );
+
+}
+
+
+function showExplanation(
+  q,
+  index,
+  userAnswer,
+  correct
+) {
+
+  const box =
+    document.getElementById(
+      "exp-" + index
+    );
+
+  box.classList.remove(
+    "hidden"
+  );
+
+  box.innerHTML = `
+
+  <b>
+  ${correct
+  ? "✅ 答對"
+  : "❌ 答錯"}
+  </b>
+
+  <br>
+
+  正確答案：
+  <b>${q.correct}</b>
+
+  <br>
+
+  你的答案：
+  <b>${userAnswer || "未作答"}</b>
+
+  <br><br>
+
+  <b>解析：</b>
+
+  ${q.explanation}
+
+  <br><br>
+
+  <b>記憶口訣：</b>
+
+  ${q.mnemonic}
+
+  <br><br>
+
+  <small>
+
+  教材依據：
+  ${q.source}
+
+  </small>
+
+  `;
+
+}
+
+
+function showResult(
+  correct,
+  percent,
+  unitStats
+) {
+
+  const result =
+    document.getElementById(
+      "result"
+    );
+
+  result.classList.remove(
+    "hidden"
+  );
+
+  let unitHTML = "";
+
+  for (
+    let unit = 1;
+    unit <= 5;
+    unit++
+  ) {
+
+    if (
+      !unitStats[unit]
+    ) continue;
+
+    const data =
+      unitStats[unit];
+
+    const p =
+      Math.round(
+        data.correct /
+        data.total *
+        100
+      );
+
+    unitHTML += `
+
+    <div
+    class="unit-result">
+
+    單元 ${unit}
+
+    ｜${data.correct}
+    /
+    ${data.total}
+
+    ｜${p}%
+
+    </div>
+
+    `;
+  }
+
+  let pass =
+    percent >= 80;
+
+  if (
+    currentQuestions.length === 40
+  ) {
+
+    for (
+      let unit=1;
+      unit<=5;
+      unit++
+    ) {
+
+      const d =
+        unitStats[unit];
+
+      if (
+        d &&
+        d.correct /
+        d.total <
+        0.5
+      ) {
+
+        pass = false;
+
+      }
+
+    }
+
+  }
+
+  result.innerHTML = `
+
+  <div class="score">
+
+  ${percent}%
+
+  </div>
+
+  <h2>
+
+  ${pass
+  ? "✅ PASS"
+  : "❌ FAIL"}
+
+  </h2>
+
+  <p>
+
+  答對：
+
+  ${correct}
+
+  /
+
+  ${currentQuestions.length}
+
+  </p>
+
+  ${unitHTML}
+
+  <br>
+
+  <button
+  class="warning"
+  onclick="startWrong()">
+
+  錯題重練
+
+  </button>
+
+  <button
+  class="secondary"
+  onclick="backHome()">
+
+  回首頁
+
+  </button>
+
+  `;
+
+  result.scrollIntoView({
+    behavior:"smooth"
+  });
+
+}
+
+
+function startTimer(minutes) {
+
+  clearInterval(timerID);
+
+  if (!minutes) {
+
+    document.getElementById(
+      "timer"
+    ).innerText =
+      "不限時";
+
+    return;
+  }
+
+  timeLeft =
+    minutes * 60;
+
+  timerID =
+    setInterval(
+      () => {
+
+        const m =
+          Math.floor(
+            timeLeft /
+            60
+          );
+
+        const s =
+          timeLeft %
+          60;
+
+        document
+        .getElementById(
+          "timer"
+        )
+        .innerText =
+          String(m)
+          .padStart(2,"0")
+          +
+          ":"
+          +
+          String(s)
+          .padStart(2,"0");
+
+        timeLeft--;
+
+        if (
+          timeLeft <
+          0
+        ) {
+
+          clearInterval(
+            timerID
+          );
+
+          alert(
+            "時間到，自動交卷。"
+          );
+
+          submitExam();
+
         }
 
-        // 1. 價格計算邏輯
-        function calculate() {
-            const h = parseFloat(document.getElementById('high').value);
-            const l = parseFloat(document.getElementById('low').value);
-            const c = parseFloat(document.getElementById('close').value);
+      },
+      1000
+    );
 
-            if (isNaN(h) || isNaN(l) || isNaN(c)) {
-                document.getElementById('resultPanel').classList.add('hidden');
-                document.getElementById('emptyState').classList.remove('hidden');
-                return;
-            }
+}
 
-            document.getElementById('resultPanel').classList.remove('hidden');
-            document.getElementById('emptyState').classList.add('hidden');
 
-            const isLocked = (h === l && h > 0);
-            const mid = (h + l) / 2;
-            const diff = h - l;
-            const midLessThanClose = mid < c;
+function backHome() {
 
-            let sp, wp, trend, isBullishMode, opMode, opEntry, opTP, opSL;
+  clearInterval(timerID);
 
-            if (isLocked) {
-                isBullishMode = true;
-                trend = "一字鎖定盤：極端盤態，請參考下方封單成交比。";
-                sp = h; wp = l;
-                opMode = "一字鎖定"; opEntry = h; opTP = "看委買量"; opSL = "前日高點";
-            } else {
-                const spRatio = midLessThanClose ? 1.618 : 1.382;
-                const wpRatio = midLessThanClose ? 1.382 : 1.618;
-                sp = l + (diff * spRatio);
-                wp = h - (diff * wpRatio);
+  document
+    .getElementById("exam")
+    .classList.add("hidden");
 
-                if (c > mid * 1.003) {
-                    trend = "行情偏多，隔天可能有高點可期";
-                    isBullishMode = true;
-                } else if (c < mid * 0.997) {
-                    trend = "行情偏弱，隔天可能會往下";
-                    isBullishMode = false;
-                } else {
-                    trend = "區間震盪行情 (收盤接近中間價)";
-                    isBullishMode = c >= mid;
-                }
+  document
+    .getElementById("home")
+    .classList.remove("hidden");
 
-                opMode = isBullishMode ? '做多' : '做空';
-                opEntry = mid;
-                opTP = isBullishMode ? sp : wp;
-                opSL = isBullishMode ? wp : sp;
-            }
+  window.scrollTo(0,0);
 
-            // 更新數字 UI
-            document.getElementById('resEntry').innerText = typeof opEntry === 'number' ? opEntry.toFixed(2) : opEntry;
-            document.getElementById('resTP').innerText = typeof opTP === 'number' ? opTP.toFixed(2) : opTP;
-            document.getElementById('resSL').innerText = typeof opSL === 'number' ? opSL.toFixed(2) : opSL;
-            document.getElementById('calcSP').innerText = sp.toFixed(2);
-            document.getElementById('calcMid').innerText = mid.toFixed(2);
-            document.getElementById('calcWP').innerText = wp.toFixed(2);
-            document.getElementById('opTitle').innerText = `明日操作計畫 (${opMode})`;
+}
 
-            // 更新顏色與文字 UI
-            const actionCard = document.getElementById('actionCard');
-            const actionHeader = document.getElementById('actionHeader');
-            const actionIcon = document.getElementById('actionIcon');
-            const trendAlert = document.getElementById('trendAlert');
-            const detailCard = document.getElementById('detailCard');
-            const adviceText = document.getElementById('adviceText');
+</script>
 
-            if (isLocked) {
-                actionCard.className = "bg-white rounded-3xl shadow-lg border-2 border-amber-500 overflow-hidden transition-all";
-                actionHeader.className = "bg-amber-500 text-white p-4 flex items-center justify-between font-black uppercase tracking-tight";
-                actionIcon.className = "fa-solid fa-lock";
-                adviceText.innerText = "一字鎖定時公式失效，請利用下方「封單成交比」來預測明日開盤動能。";
-                detailCard.classList.add('hidden');
-            } else {
-                detailCard.classList.remove('hidden');
-                if (isBullishMode) {
-                    actionCard.className = "bg-white rounded-3xl shadow-lg border-2 border-red-500 overflow-hidden transition-all";
-                    actionHeader.className = "bg-red-500 text-white p-4 flex items-center justify-between font-black uppercase tracking-tight";
-                    actionIcon.className = "fa-solid fa-arrow-trend-up";
-                    trendAlert.innerHTML = `<i class="fa-solid fa-fire text-red-500"></i> 隔日預判：${trend}`;
-                    trendAlert.className = "p-4 rounded-xl flex items-center gap-3 border bg-red-50 border-red-100 text-red-600 font-bold text-sm";
-                    adviceText.innerText = "石頭少爺提醒：做多單，停利看強勢價，停損看弱勢價。";
-                } else {
-                    actionCard.className = "bg-white rounded-3xl shadow-lg border-2 border-green-600 overflow-hidden transition-all";
-                    actionHeader.className = "bg-green-600 text-white p-4 flex items-center justify-between font-black uppercase tracking-tight";
-                    actionIcon.className = "fa-solid fa-arrow-trend-down";
-                    trendAlert.innerHTML = `<i class="fa-solid fa-water text-green-600"></i> 隔日預判：${trend}`;
-                    trendAlert.className = "p-4 rounded-xl flex items-center gap-3 border bg-green-50 border-green-100 text-green-700 font-bold text-sm";
-                    adviceText.innerText = "石頭少爺提醒：做空單，停利看弱勢價，停損看強勢價。";
-                }
-            }
-
-            currentData = { h, l, c, trend, opMode, opEntry, opTP, opSL };
-        }
-
-        // 2. 封單成交比計算邏輯
-        function calculateRatio() {
-            const sealInput = document.getElementById('sealVolume').value;
-            const totalInput = document.getElementById('totalVolume').value;
-            const errorMsg = document.getElementById('ratioErrorMsg');
-            const resultSection = document.getElementById('ratioResultSection');
-            
-            const seal = parseFloat(sealInput);
-            const total = parseFloat(totalInput);
-
-            if (isNaN(seal) || isNaN(total) || seal < 0 || total <= 0) {
-                errorMsg.classList.remove('hidden');
-                resultSection.classList.add('hidden');
-                ratioData = null;
-                return;
-            }
-
-            errorMsg.classList.add('hidden');
-
-            const ratio = (seal / total);
-            const ratioFormatted = ratio.toFixed(2);
-
-            const ratioValueDom = document.getElementById('ratioValue');
-            const resultCardDom = document.getElementById('ratioResultCard');
-            const levelTextDom = document.getElementById('ratioLevelText');
-            const strategyTextDom = document.getElementById('ratioStrategyText');
-
-            ratioValueDom.innerText = ratioFormatted;
-            resultCardDom.className = 'w-full md:w-2/3 p-4 rounded-xl border-2 transition-colors duration-300 ';
-            
-            let level, strategy;
-            if (ratio > 10) {
-                level = "【極強勢】大概率連板";
-                strategy = "策略：堅定持倉，等待主力進一步拉升。";
-                resultCardDom.classList.add('border-red-500', 'bg-red-50', 'text-red-700');
-            } else if (ratio >= 3) {
-                level = "【強勢】衝高 5% 以上";
-                strategy = "策略：高位可先賣，等回落至支撐位時再接回。";
-                resultCardDom.classList.add('border-red-400', 'bg-red-50', 'text-red-600');
-            } else if (ratio >= 1) {
-                level = "【動能轉弱】開盤衝高 3~5%";
-                strategy = "策略：若市場情緒平淡，建議及時離場。";
-                resultCardDom.classList.add('border-yellow-400', 'bg-yellow-50', 'text-yellow-700');
-            } else if (ratio >= 0.5) {
-                level = "【謹慎看待】高開極易回落";
-                strategy = "策略：若開盤衝高，應果斷離場。";
-                resultCardDom.classList.add('border-green-400', 'bg-green-50', 'text-green-600');
-            } else {
-                level = "【極弱勢】平開或低開";
-                strategy = "策略：應果斷賣出，切勿抱有幻想。";
-                resultCardDom.classList.add('border-green-500', 'bg-green-50', 'text-green-700');
-            }
-
-            levelTextDom.innerText = level;
-            strategyTextDom.innerText = strategy;
-            resultSection.classList.remove('hidden');
-
-            ratioData = { ratio: ratioFormatted, level, strategy };
-        }
-
-        // 3. 複製主戰報邏輯
-        function copyReport() {
-            if (!currentData) return;
-            
-            const name = document.getElementById('stockName').value || '未命名';
-            const code = document.getElementById('stockCode').value || 'N/A';
-            const now = new Date();
-            const timeStr = `${now.getFullYear()}/${String(now.getMonth() + 1).padStart(2, '0')}/${String(now.getDate()).padStart(2, '0')} ${String(now.getHours()).padStart(2, '0')}:${String(now.getMinutes()).padStart(2, '0')}`;
-            
-            const en = typeof currentData.opEntry === 'number' ? currentData.opEntry.toFixed(2) : currentData.opEntry;
-            const tp = typeof currentData.opTP === 'number' ? currentData.opTP.toFixed(2) : currentData.opTP;
-            const sl = typeof currentData.opSL === 'number' ? currentData.opSL.toFixed(2) : currentData.opSL;
-
-            let text = `【石頭少爺 隔日戰報】\n日期：${timeStr}\n個股：${name} (${code})\n----------------------------\n今日數據：高 ${currentData.h} / 低 ${currentData.l} / 收 ${currentData.c}\n----------------------------\n明日預判：${currentData.trend}\n操作方向：【${currentData.opMode}】\n安全進場價：${en}\n預計停利價：${tp}\n預計止損價：${sl}\n`;
-
-            // 如果有計算封單比，一併附在戰報上
-            if (ratioData) {
-                text += `----------------------------\n明日漲停板機率分析：封單成交比 ${ratioData.ratio}%\n走勢預估：${ratioData.level}\n${ratioData.strategy}\n`;
-            }
-
-            text += `----------------------------\n早盤提醒 (09:05/09:10/09:15)：\n觀察前三根 5分K 組合，若出現弱勢應謹慎操作。\n*本報告僅供參考，請嚴格執行止損*`;
-
-            const textarea = document.createElement("textarea");
-            textarea.value = text;
-            document.body.appendChild(textarea);
-            textarea.select();
-            
-            try {
-                document.execCommand('copy');
-                const btnText = document.getElementById('copyText');
-                const btnIcon = document.getElementById('copyIcon');
-                btnText.innerText = "已複製！";
-                btnIcon.className = "fa-solid fa-check text-green-300";
-                
-                setTimeout(() => {
-                    btnText.innerText = "複製戰報";
-                    btnIcon.className = "fa-solid fa-copy";
-                }, 2000);
-            } catch (err) {
-                alert('複製失敗，請手動選取複製');
-            }
-            
-            document.body.removeChild(textarea);
-        }
-
-        // 4. 複製單獨封單成交比戰報邏輯
-        function copyRatioReport() {
-            if (!ratioData) return;
-
-            const name = document.getElementById('sealStockName').value || '未命名';
-            const code = document.getElementById('sealStockCode').value || 'N/A';
-            const sealInput = document.getElementById('sealVolume').value;
-            const totalInput = document.getElementById('totalVolume').value;
-            const now = new Date();
-            const timeStr = `${now.getFullYear()}/${String(now.getMonth() + 1).padStart(2, '0')}/${String(now.getDate()).padStart(2, '0')} ${String(now.getHours()).padStart(2, '0')}:${String(now.getMinutes()).padStart(2, '0')}`;
-
-            let text = `【石頭少爺 封單比分析戰報】\n日期：${timeStr}\n個股：${name} (${code})\n----------------------------\n當日收盤數據：封單量 ${sealInput} / 總成交 ${totalInput}\n----------------------------\n明日漲停板機率分析：封單成交比 ${ratioData.ratio}%\n走勢預估：${ratioData.level}\n${ratioData.strategy}\n----------------------------\n📌 明日漲停機率（封單比）判斷標準：\n> 10\n極強勢：大概率連板\n3 ~ 10\n強勢：衝高 5% 以上\n1 ~ 3\n動能轉弱：衝高 3-5%\n0.5 ~ 1\n謹慎看待：高開易回落\n< 0.5\n極弱勢：平開或低開`;
-
-            const textarea = document.createElement("textarea");
-            textarea.value = text;
-            document.body.appendChild(textarea);
-            textarea.select();
-
-            try {
-                document.execCommand('copy');
-                const btnText = document.getElementById('sealCopyText');
-                const btnIcon = document.getElementById('sealCopyIcon');
-                btnText.innerText = "已複製！";
-                btnIcon.className = "fa-solid fa-check text-green-500";
-
-                setTimeout(() => {
-                    btnText.innerText = "複製單獨戰報";
-                    btnIcon.className = "fa-solid fa-copy";
-                }, 2000);
-            } catch (err) {
-                alert('複製失敗，請手動選取複製');
-            }
-
-            document.body.removeChild(textarea);
-        }
-    </script>
 </body>
 </html>
-
-
-
